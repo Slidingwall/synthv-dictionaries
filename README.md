@@ -7,5 +7,3 @@ This project runned Slidingwall. To contact me, you can PM me on [Bilibili](http
 ## Link 链接
 [Dreamtonics](https://dreamtonics.com/)  
 [Synthesizer V Forum](https://forum.synthesizerv.com/)  
-  
-[Back to home](/index)
