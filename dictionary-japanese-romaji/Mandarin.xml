@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PROPERTIES>
+	<VALUE name="zhi" val="j u"/>
+	<VALUE name="chi" val="ch u"/>
+	<VALUE name="shi" val="sh u"/>
+	<VALUE name="ri" val="j u"/>
+	<VALUE name="zi" val="z i"/>
+	<VALUE name="ci" val="ts i"/>
+	<VALUE name="si" val="s i"/>
+	<VALUE name="ba" val="b a"/>
+	<VALUE name="pa" val="p a"/>
+	<VALUE name="ma" val="m a"/>
+	<VALUE name="fa" val="f a"/>
+	<VALUE name="da" val="d a"/>
+	<VALUE name="ta" val="t a"/>
+	<VALUE name="na" val="n a"/>
+	<VALUE name="la" val="r a"/>
+	<VALUE name="ga" val="g a"/>
+	<VALUE name="ka" val="k a"/>
+	<VALUE name="ha" val="h a"/>
+	<VALUE name="zha" val="j a"/>
+	<VALUE name="cha" val="ch a"/>
+	<VALUE name="sha" val="sh a"/>
+	<VALUE name="ra" val="j a"/>
+	<VALUE name="za" val="z a"/>
+	<VALUE name="ca" val="ts a"/>
+	<VALUE name="sa" val="s a"/>
+	<VALUE name="bo" val="b w o"/>
+	<VALUE name="po" val="p w o"/>
+	<VALUE name="mo" val="m w o"/>
+	<VALUE name="fo" val="f w o"/>
+	<VALUE name="do" val="d o"/>
+	<VALUE name="to" val="t o"/>
+	<VALUE name="no" val="n o"/>
+	<VALUE name="lo" val="r o"/>
+	<VALUE name="go" val="g o"/>
+	<VALUE name="ko" val="k o"/>
+	<VALUE name="ho" val="h o"/>
+	<VALUE name="zho" val="j o"/>
+	<VALUE name="cho" val="ch o"/>
+	<VALUE name="sho" val="sh o"/>
+	<VALUE name="ro" val="j o"/>
+	<VALUE name="zo" val="z o"/>
+	<VALUE name="co" val="ts o"/>
+	<VALUE name="so" val="s o"/>
+	<VALUE name="be" val="b o"/>
+	<VALUE name="pe" val="p o"/>
+	<VALUE name="me" val="m o"/>
+	<VALUE name="fe" val="f o"/>
+	<VALUE name="de" val="d o"/>
+	<VALUE name="te" val="t o"/>
+	<VALUE name="ne" val="n o"/>
+	<VALUE name="le" val="r o"/>
+	<VALUE name="ge" val="g o"/>
+	<VALUE name="ke" val="k o"/>
+	<VALUE name="he" val="h o"/>
+	<VALUE name="zhe" val="j o"/>
+	<VALUE name="che" val="ch o"/>
+	<VALUE name="she" val="sh o"/>
+	<VALUE name="re" val="j o"/>
+	<VALUE name="ze" val="z o"/>
+	<VALUE name="ce" val="ts o"/>
+	<VALUE name="se" val="s o"/>
+	<VALUE name="bai" val="b a e i"/>
+	<VALUE name="pai" val="p a e i"/>
+	<VALUE name="mai" val="m a e i"/>
+	<VALUE name="fai" val="f a e i"/>
+	<VALUE name="dai" val="d a e i"/>
+	<VALUE name="tai" val="t a e i"/>
+	<VALUE name="nai" val="n a e i"/>
+	<VALUE name="lai" val="r a e i"/>
+	<VALUE name="gai" val="g a e i"/>
+	<VALUE name="kai" val="k a e i"/>
+	<VALUE name="hai" val="h a e i"/>
+	<VALUE name="zhai" val="j a e i"/>
+	<VALUE name="chai" val="ch a e i"/>
+	<VALUE name="shai" val="sh a e i"/>
+	<VALUE name="rai" val="j a e i"/>
+	<VALUE name="zai" val="z a e i"/>
+	<VALUE name="cai" val="ts a e i"/>
+	<VALUE name="sai" val="s a e i"/>
+	<VALUE name="bei" val="b e i"/>
+	<VALUE name="pei" val="p e i"/>
+	<VALUE name="mei" val="m e i"/>
+	<VALUE name="fei" val="f e i"/>
+	<VALUE name="dei" val="d e i"/>
+	<VALUE name="tei" val="t e i"/>
+	<VALUE name="nei" val="n e i"/>
+	<VALUE name="lei" val="r e i"/>
+	<VALUE name="gei" val="g e i"/>
+	<VALUE name="kei" val="k e i"/>
+	<VALUE name="hei" val="h e i"/>
+	<VALUE name="zhei" val="j e i"/>
+	<VALUE name="chei" val="ch e i"/>
+	<VALUE name="shei" val="sh e i"/>
+	<VALUE name="rei" val="j e i"/>
+	<VALUE name="zei" val="z e i"/>
+	<VALUE name="cei" val="ts e i"/>
+	<VALUE name="sei" val="s e i"/>
+	<VALUE name="bao" val="b a w"/>
+	<VALUE name="pao" val="p a w"/>
+	<VALUE name="mao" val="m a w"/>
+	<VALUE name="fao" val="f a w"/>
+	<VALUE name="dao" val="d a w"/>
+	<VALUE name="tao" val="t a w"/>
+	<VALUE name="nao" val="n a w"/>
+	<VALUE name="lao" val="r a w"/>
+	<VALUE name="gao" val="g a w"/>
+	<VALUE name="kao" val="k a w"/>
+	<VALUE name="hao" val="h a w"/>
+	<VALUE name="zhao" val="j a w"/>
+	<VALUE name="chao" val="ch a w"/>
+	<VALUE name="shao" val="sh a w"/>
+	<VALUE name="rao" val="j a w"/>
+	<VALUE name="zao" val="z a w"/>
+	<VALUE name="cao" val="ts a w"/>
+	<VALUE name="sao" val="s a w"/>
+	<VALUE name="bou" val="b o w"/>
+	<VALUE name="pou" val="p o w"/>
+	<VALUE name="mou" val="m o w"/>
+	<VALUE name="fou" val="f o w"/>
+	<VALUE name="dou" val="d o w"/>
+	<VALUE name="tou" val="t o w"/>
+	<VALUE name="nou" val="n o w"/>
+	<VALUE name="lou" val="r o w"/>
+	<VALUE name="gou" val="g o w"/>
+	<VALUE name="kou" val="k o w"/>
+	<VALUE name="hou" val="h o w"/>
+	<VALUE name="zhou" val="j o w"/>
+	<VALUE name="chou" val="ch o w"/>
+	<VALUE name="shou" val="sh o w"/>
+	<VALUE name="rou" val="j o w"/>
+	<VALUE name="zou" val="z o w"/>
+	<VALUE name="cou" val="ts o w"/>
+	<VALUE name="sou" val="s o w"/>
+	<VALUE name="ban" val="b a n"/>
+	<VALUE name="pan" val="p a n"/>
+	<VALUE name="man" val="m a n"/>
+	<VALUE name="fan" val="f a n"/>
+	<VALUE name="dan" val="d a n"/>
+	<VALUE name="tan" val="t a n"/>
+	<VALUE name="nan" val="n a n"/>
+	<VALUE name="lan" val="r a n"/>
+	<VALUE name="gan" val="g a n"/>
+	<VALUE name="kan" val="k a n"/>
+	<VALUE name="han" val="h a n"/>
+	<VALUE name="zhan" val="j a n"/>
+	<VALUE name="chan" val="ch a n"/>
+	<VALUE name="shan" val="sh a n"/>
+	<VALUE name="ran" val="j a n"/>
+	<VALUE name="zan" val="z a n"/>
+	<VALUE name="can" val="ts a n"/>
+	<VALUE name="san" val="s a n"/>
+	<VALUE name="ben" val="b e n"/>
+	<VALUE name="pen" val="p e n"/>
+	<VALUE name="men" val="m e n"/>
+	<VALUE name="fen" val="f e n"/>
+	<VALUE name="den" val="d e n"/>
+	<VALUE name="ten" val="t e n"/>
+	<VALUE name="nen" val="n e n"/>
+	<VALUE name="len" val="r e n"/>
+	<VALUE name="gen" val="g e n"/>
+	<VALUE name="ken" val="k e n"/>
+	<VALUE name="hen" val="h e n"/>
+	<VALUE name="zhen" val="j e n"/>
+	<VALUE name="chen" val="ch e n"/>
+	<VALUE name="shen" val="sh e n"/>
+	<VALUE name="ren" val="j e n"/>
+	<VALUE name="zen" val="z e n"/>
+	<VALUE name="cen" val="ts e n"/>
+	<VALUE name="sen" val="s e n"/>
+	<VALUE name="bang" val="b a N"/>
+	<VALUE name="pang" val="p a N"/>
+	<VALUE name="mang" val="m a N"/>
+	<VALUE name="fang" val="f a N"/>
+	<VALUE name="dang" val="d a N"/>
+	<VALUE name="tang" val="t a N"/>
+	<VALUE name="nang" val="n a N"/>
+	<VALUE name="lang" val="r a N"/>
+	<VALUE name="gang" val="g a N"/>
+	<VALUE name="kang" val="k a N"/>
+	<VALUE name="hang" val="h a N"/>
+	<VALUE name="zhang" val="j a N"/>
+	<VALUE name="chang" val="ch a N"/>
+	<VALUE name="shang" val="sh a N"/>
+	<VALUE name="rang" val="j a N"/>
+	<VALUE name="zang" val="z a N"/>
+	<VALUE name="cang" val="ts a N"/>
+	<VALUE name="sang" val="s a N"/>
+	<VALUE name="beng" val="b e N"/>
+	<VALUE name="peng" val="p e N"/>
+	<VALUE name="meng" val="m e N"/>
+	<VALUE name="feng" val="f e N"/>
+	<VALUE name="deng" val="d e N"/>
+	<VALUE name="teng" val="t e N"/>
+	<VALUE name="neng" val="n e N"/>
+	<VALUE name="leng" val="r e N"/>
+	<VALUE name="geng" val="g e N"/>
+	<VALUE name="keng" val="k e N"/>
+	<VALUE name="heng" val="h e N"/>
+	<VALUE name="zheng" val="j e N"/>
+	<VALUE name="cheng" val="ch e N"/>
+	<VALUE name="sheng" val="sh e N"/>
+	<VALUE name="reng" val="j e N"/>
+	<VALUE name="zeng" val="z e N"/>
+	<VALUE name="ceng" val="ts e N"/>
+	<VALUE name="seng" val="s e N"/>
+	<VALUE name="bi" val="b i"/>
+	<VALUE name="pi" val="p i"/>
+	<VALUE name="mi" val="m i"/>
+	<VALUE name="fi" val="f i"/>
+	<VALUE name="di" val="d i"/>
+	<VALUE name="ti" val="t i"/>
+	<VALUE name="ni" val="n i"/>
+	<VALUE name="li" val="r i"/>
+	<VALUE name="gi" val="g i"/>
+	<VALUE name="ki" val="k i"/>
+	<VALUE name="hi" val="h i"/>
+	<VALUE name="ji" val="ch i"/>
+	<VALUE name="qi" val="ch i"/>
+	<VALUE name="xi" val="sh i"/>
+	<VALUE name="bia" val="b y a"/>
+	<VALUE name="pia" val="p y a"/>
+	<VALUE name="mia" val="m y a"/>
+	<VALUE name="fia" val="f y a"/>
+	<VALUE name="dia" val="d y a"/>
+	<VALUE name="tia" val="t y a"/>
+	<VALUE name="nia" val="n y a"/>
+	<VALUE name="lia" val="r y a"/>
+	<VALUE name="gia" val="g y a"/>
+	<VALUE name="kia" val="k y a"/>
+	<VALUE name="hia" val="h y a"/>
+	<VALUE name="jia" val="ch y a"/>
+	<VALUE name="qia" val="ch y a"/>
+	<VALUE name="xia" val="sh y a"/>
+	<VALUE name="bio" val="b y a w"/>
+	<VALUE name="pio" val="p y a w"/>
+	<VALUE name="mio" val="m y a w"/>
+	<VALUE name="fio" val="f y a w"/>
+	<VALUE name="dio" val="d y a w"/>
+	<VALUE name="tio" val="t y a w"/>
+	<VALUE name="nio" val="n y a w"/>
+	<VALUE name="lio" val="r y a w"/>
+	<VALUE name="gio" val="g y a w"/>
+	<VALUE name="kio" val="k y a w"/>
+	<VALUE name="hio" val="h y a w"/>
+	<VALUE name="jio" val="ch y a w"/>
+	<VALUE name="qio" val="ch y a w"/>
+	<VALUE name="xio" val="sh y a w"/>
+	<VALUE name="bie" val="b y e"/>
+	<VALUE name="pie" val="p y e"/>
+	<VALUE name="mie" val="m y e"/>
+	<VALUE name="fie" val="f y e"/>
+	<VALUE name="die" val="d y e"/>
+	<VALUE name="tie" val="t y e"/>
+	<VALUE name="nie" val="n y e"/>
+	<VALUE name="lie" val="r y e"/>
+	<VALUE name="gie" val="g y e"/>
+	<VALUE name="kie" val="k y e"/>
+	<VALUE name="hie" val="h y e"/>
+	<VALUE name="jie" val="ch y e"/>
+	<VALUE name="qie" val="ch y e"/>
+	<VALUE name="xie" val="sh y e"/>
+	<VALUE name="biai" val="b y a e i"/>
+	<VALUE name="piai" val="p y a e i"/>
+	<VALUE name="miai" val="m y a e i"/>
+	<VALUE name="fiai" val="f y a e i"/>
+	<VALUE name="diai" val="d y a e i"/>
+	<VALUE name="tiai" val="t y a e i"/>
+	<VALUE name="niai" val="n y a e i"/>
+	<VALUE name="liai" val="r y a e i"/>
+	<VALUE name="giai" val="g y a e i"/>
+	<VALUE name="kiai" val="k y a e i"/>
+	<VALUE name="hiai" val="h y a e i"/>
+	<VALUE name="jiai" val="ch y a e i"/>
+	<VALUE name="qiai" val="ch y a e i"/>
+	<VALUE name="xiai" val="sh y a e i"/>
+	<VALUE name="biao" val="b y a w"/>
+	<VALUE name="piao" val="p y a w"/>
+	<VALUE name="miao" val="m y a w"/>
+	<VALUE name="fiao" val="f y a w"/>
+	<VALUE name="diao" val="d y a w"/>
+	<VALUE name="tiao" val="t y a w"/>
+	<VALUE name="niao" val="n y a w"/>
+	<VALUE name="liao" val="r y a w"/>
+	<VALUE name="giao" val="g y a w"/>
+	<VALUE name="kiao" val="k y a w"/>
+	<VALUE name="hiao" val="h y a w"/>
+	<VALUE name="jiao" val="ch y a w"/>
+	<VALUE name="qiao" val="ch y a w"/>
+	<VALUE name="xiao" val="sh y a w"/>
+	<VALUE name="biu" val="b y o w"/>
+	<VALUE name="piu" val="p y o w"/>
+	<VALUE name="miu" val="m y o w"/>
+	<VALUE name="fiu" val="f y o w"/>
+	<VALUE name="diu" val="d y o w"/>
+	<VALUE name="tiu" val="t y o w"/>
+	<VALUE name="niu" val="n y o w"/>
+	<VALUE name="liu" val="r y o w"/>
+	<VALUE name="giu" val="g y o w"/>
+	<VALUE name="kiu" val="k y o w"/>
+	<VALUE name="hiu" val="h y o w"/>
+	<VALUE name="jiu" val="ch y o w"/>
+	<VALUE name="qiu" val="ch y o w"/>
+	<VALUE name="xiu" val="sh y o w"/>
+	<VALUE name="bian" val="b y a n"/>
+	<VALUE name="pian" val="p y a n"/>
+	<VALUE name="mian" val="m y a n"/>
+	<VALUE name="fian" val="f y a n"/>
+	<VALUE name="dian" val="d y a n"/>
+	<VALUE name="tian" val="t y a n"/>
+	<VALUE name="nian" val="n y a n"/>
+	<VALUE name="lian" val="r y a n"/>
+	<VALUE name="gian" val="g y a n"/>
+	<VALUE name="kian" val="k y a n"/>
+	<VALUE name="hian" val="h y a n"/>
+	<VALUE name="jian" val="ch y a n"/>
+	<VALUE name="qian" val="ch y a n"/>
+	<VALUE name="xian" val="sh y a n"/>
+	<VALUE name="bin" val="b i n"/>
+	<VALUE name="pin" val="p i n"/>
+	<VALUE name="min" val="m i n"/>
+	<VALUE name="fin" val="f i n"/>
+	<VALUE name="din" val="d i n"/>
+	<VALUE name="tin" val="t i n"/>
+	<VALUE name="nin" val="n i n"/>
+	<VALUE name="lin" val="r i n"/>
+	<VALUE name="gin" val="g i n"/>
+	<VALUE name="kin" val="k i n"/>
+	<VALUE name="hin" val="h i n"/>
+	<VALUE name="jin" val="ch i n"/>
+	<VALUE name="qin" val="ch i n"/>
+	<VALUE name="xin" val="sh i n"/>
+	<VALUE name="biang" val="b y a N"/>
+	<VALUE name="piang" val="p y a N"/>
+	<VALUE name="miang" val="m y a N"/>
+	<VALUE name="fiang" val="f y a N"/>
+	<VALUE name="diang" val="d y a N"/>
+	<VALUE name="tiang" val="t y a N"/>
+	<VALUE name="niang" val="n y a N"/>
+	<VALUE name="liang" val="r y a N"/>
+	<VALUE name="giang" val="g y a N"/>
+	<VALUE name="kiang" val="k y a N"/>
+	<VALUE name="hiang" val="h y a N"/>
+	<VALUE name="jiang" val="ch y a N"/>
+	<VALUE name="qiang" val="ch y a N"/>
+	<VALUE name="xiang" val="sh y a N"/>
+	<VALUE name="bing" val="b i N"/>
+	<VALUE name="ping" val="p i N"/>
+	<VALUE name="ming" val="m i N"/>
+	<VALUE name="fing" val="f i N"/>
+	<VALUE name="ding" val="d i N"/>
+	<VALUE name="ting" val="t i N"/>
+	<VALUE name="ning" val="n i N"/>
+	<VALUE name="ling" val="r i N"/>
+	<VALUE name="ging" val="g i N"/>
+	<VALUE name="king" val="k i N"/>
+	<VALUE name="hing" val="h i N"/>
+	<VALUE name="jing" val="ch i N"/>
+	<VALUE name="qing" val="ch i N"/>
+	<VALUE name="xing" val="sh i N"/>
+	<VALUE name="bu" val="b u"/>
+	<VALUE name="pu" val="p u"/>
+	<VALUE name="mu" val="m u"/>
+	<VALUE name="fu" val="f u"/>
+	<VALUE name="du" val="d u"/>
+	<VALUE name="tu" val="t u"/>
+	<VALUE name="nu" val="n u"/>
+	<VALUE name="lu" val="r u"/>
+	<VALUE name="gu" val="g u"/>
+	<VALUE name="ku" val="k u"/>
+	<VALUE name="hu" val="h u"/>
+	<VALUE name="ju" val="ch i"/>
+	<VALUE name="qu" val="ch i"/>
+	<VALUE name="xu" val="sh i"/>
+	<VALUE name="zhu" val="j u"/>
+	<VALUE name="chu" val="ch u"/>
+	<VALUE name="shu" val="sh u"/>
+	<VALUE name="ru" val="j u"/>
+	<VALUE name="zu" val="z u"/>
+	<VALUE name="cu" val="ts u"/>
+	<VALUE name="su" val="s u"/>
+	<VALUE name="bua" val="b w a"/>
+	<VALUE name="pua" val="p w a"/>
+	<VALUE name="mua" val="m w a"/>
+	<VALUE name="fua" val="f w a"/>
+	<VALUE name="dua" val="d w a"/>
+	<VALUE name="tua" val="t w a"/>
+	<VALUE name="nua" val="n w a"/>
+	<VALUE name="lua" val="r w a"/>
+	<VALUE name="gua" val="g w a"/>
+	<VALUE name="kua" val="k w a"/>
+	<VALUE name="hua" val="h w a"/>
+	<VALUE name="jua" val="ch w a"/>
+	<VALUE name="qua" val="ch w a"/>
+	<VALUE name="xua" val="sh w a"/>
+	<VALUE name="zhua" val="j w a"/>
+	<VALUE name="chua" val="ch w a"/>
+	<VALUE name="shua" val="sh w a"/>
+	<VALUE name="rua" val="j w a"/>
+	<VALUE name="zua" val="z w a"/>
+	<VALUE name="cua" val="ts w a"/>
+	<VALUE name="sua" val="s w a"/>
+	<VALUE name="buo" val="b w o"/>
+	<VALUE name="puo" val="p w o"/>
+	<VALUE name="muo" val="m w o"/>
+	<VALUE name="fuo" val="f w o"/>
+	<VALUE name="duo" val="d w o"/>
+	<VALUE name="tuo" val="t w o"/>
+	<VALUE name="nuo" val="n w o"/>
+	<VALUE name="luo" val="r w o"/>
+	<VALUE name="guo" val="g w o"/>
+	<VALUE name="kuo" val="k w o"/>
+	<VALUE name="huo" val="h w o"/>
+	<VALUE name="juo" val="ch w o"/>
+	<VALUE name="quo" val="ch w o"/>
+	<VALUE name="xuo" val="sh w o"/>
+	<VALUE name="zhuo" val="j w o"/>
+	<VALUE name="chuo" val="ch w o"/>
+	<VALUE name="shuo" val="sh w o"/>
+	<VALUE name="ruo" val="j w o"/>
+	<VALUE name="zuo" val="z w o"/>
+	<VALUE name="cuo" val="ts w o"/>
+	<VALUE name="suo" val="s w o"/>
+	<VALUE name="buai" val="b w a e i"/>
+	<VALUE name="puai" val="p w a e i"/>
+	<VALUE name="muai" val="m w a e i"/>
+	<VALUE name="fuai" val="f w a e i"/>
+	<VALUE name="duai" val="d w a e i"/>
+	<VALUE name="tuai" val="t w a e i"/>
+	<VALUE name="nuai" val="n w a e i"/>
+	<VALUE name="luai" val="r w a e i"/>
+	<VALUE name="guai" val="g w a e i"/>
+	<VALUE name="kuai" val="k w a e i"/>
+	<VALUE name="huai" val="h w a e i"/>
+	<VALUE name="juai" val="ch w a e i"/>
+	<VALUE name="quai" val="ch w a e i"/>
+	<VALUE name="xuai" val="sh w a e i"/>
+	<VALUE name="zhuai" val="j w a e i"/>
+	<VALUE name="chuai" val="ch w a e i"/>
+	<VALUE name="shuai" val="sh w a e i"/>
+	<VALUE name="ruai" val="j w a e i"/>
+	<VALUE name="zuai" val="z w a e i"/>
+	<VALUE name="cuai" val="ts w a e i"/>
+	<VALUE name="suai" val="s w a e i"/>
+	<VALUE name="bui" val="b w e i"/>
+	<VALUE name="pui" val="p w e i"/>
+	<VALUE name="mui" val="m w e i"/>
+	<VALUE name="fui" val="f w e i"/>
+	<VALUE name="dui" val="d w e i"/>
+	<VALUE name="tui" val="t w e i"/>
+	<VALUE name="nui" val="n w e i"/>
+	<VALUE name="lui" val="r w e i"/>
+	<VALUE name="gui" val="g w e i"/>
+	<VALUE name="kui" val="k w e i"/>
+	<VALUE name="hui" val="h w e i"/>
+	<VALUE name="jui" val="ch w e i"/>
+	<VALUE name="qui" val="ch w e i"/>
+	<VALUE name="xui" val="sh w e i"/>
+	<VALUE name="zhui" val="j w e i"/>
+	<VALUE name="chui" val="ch w e i"/>
+	<VALUE name="shui" val="sh w e i"/>
+	<VALUE name="rui" val="j w e i"/>
+	<VALUE name="zui" val="z w e i"/>
+	<VALUE name="cui" val="ts w e i"/>
+	<VALUE name="sui" val="s w e i"/>
+	<VALUE name="buan" val="b w a n"/>
+	<VALUE name="puan" val="p w a n"/>
+	<VALUE name="muan" val="m w a n"/>
+	<VALUE name="fuan" val="f w a n"/>
+	<VALUE name="duan" val="d w a n"/>
+	<VALUE name="tuan" val="t w a n"/>
+	<VALUE name="nuan" val="n w a n"/>
+	<VALUE name="luan" val="r w a n"/>
+	<VALUE name="guan" val="g w a n"/>
+	<VALUE name="kuan" val="k w a n"/>
+	<VALUE name="huan" val="h w a n"/>
+	<VALUE name="juan" val="ch i a n"/>
+	<VALUE name="quan" val="ch i a n"/>
+	<VALUE name="xuan" val="sh i a n"/>
+	<VALUE name="zhuan" val="j w a n"/>
+	<VALUE name="chuan" val="ch w a n"/>
+	<VALUE name="shuan" val="sh w a n"/>
+	<VALUE name="ruan" val="j w a n"/>
+	<VALUE name="zuan" val="z w a n"/>
+	<VALUE name="cuan" val="ts w a n"/>
+	<VALUE name="suan" val="s w a n"/>
+	<VALUE name="bun" val="b w e n"/>
+	<VALUE name="pun" val="p w e n"/>
+	<VALUE name="mun" val="m w e n"/>
+	<VALUE name="fun" val="f w e n"/>
+	<VALUE name="dun" val="d w e n"/>
+	<VALUE name="tun" val="t w e n"/>
+	<VALUE name="nun" val="n w e n"/>
+	<VALUE name="lun" val="r w e n"/>
+	<VALUE name="gun" val="g w e n"/>
+	<VALUE name="kun" val="k w e n"/>
+	<VALUE name="hun" val="h w e n"/>
+	<VALUE name="jun" val="ch i e n"/>
+	<VALUE name="qun" val="ch i e n"/>
+	<VALUE name="xun" val="sh i e n"/>
+	<VALUE name="zhun" val="j w e n"/>
+	<VALUE name="chun" val="ch w e n"/>
+	<VALUE name="shun" val="sh w e n"/>
+	<VALUE name="run" val="j w e n"/>
+	<VALUE name="zun" val="z w e n"/>
+	<VALUE name="cun" val="ts w e n"/>
+	<VALUE name="sun" val="s w e n"/>
+	<VALUE name="buang" val="b w a N"/>
+	<VALUE name="puang" val="p w a N"/>
+	<VALUE name="muang" val="m w a N"/>
+	<VALUE name="fuang" val="f w a N"/>
+	<VALUE name="duang" val="d w a N"/>
+	<VALUE name="tuang" val="t w a N"/>
+	<VALUE name="nuang" val="n w a N"/>
+	<VALUE name="luang" val="r w a N"/>
+	<VALUE name="guang" val="g w a N"/>
+	<VALUE name="kuang" val="k w a N"/>
+	<VALUE name="huang" val="h w a N"/>
+	<VALUE name="juang" val="ch w a N"/>
+	<VALUE name="quang" val="ch w a N"/>
+	<VALUE name="xuang" val="sh w a N"/>
+	<VALUE name="zhuang" val="j w a N"/>
+	<VALUE name="chuang" val="ch w a N"/>
+	<VALUE name="shuang" val="sh w a N"/>
+	<VALUE name="ruang" val="j w a N"/>
+	<VALUE name="zuang" val="z w a N"/>
+	<VALUE name="cuang" val="ts w a N"/>
+	<VALUE name="suang" val="s w a N"/>
+	<VALUE name="bong" val="b u N"/>
+	<VALUE name="pong" val="p u N"/>
+	<VALUE name="mong" val="m u N"/>
+	<VALUE name="fong" val="f u N"/>
+	<VALUE name="dong" val="d u N"/>
+	<VALUE name="tong" val="t u N"/>
+	<VALUE name="nong" val="n u N"/>
+	<VALUE name="long" val="r u N"/>
+	<VALUE name="gong" val="g u N"/>
+	<VALUE name="kong" val="k u N"/>
+	<VALUE name="hong" val="h u N"/>
+	<VALUE name="zhong" val="j u N"/>
+	<VALUE name="chong" val="ch u N"/>
+	<VALUE name="shong" val="sh u N"/>
+	<VALUE name="rong" val="j u N"/>
+	<VALUE name="zong" val="z u N"/>
+	<VALUE name="cong" val="ts u N"/>
+	<VALUE name="song" val="s u N"/>
+	<VALUE name="bv" val="b i"/>
+	<VALUE name="byu" val="b i"/>
+	<VALUE name="pv" val="p i"/>
+	<VALUE name="pyu" val="p i"/>
+	<VALUE name="mv" val="m i"/>
+	<VALUE name="myu" val="m i"/>
+	<VALUE name="fv" val="f i"/>
+	<VALUE name="fyu" val="f i"/>
+	<VALUE name="dv" val="d i"/>
+	<VALUE name="dyu" val="d i"/>
+	<VALUE name="tv" val="t i"/>
+	<VALUE name="tyu" val="t i"/>
+	<VALUE name="nv" val="n i"/>
+	<VALUE name="nyu" val="n i"/>
+	<VALUE name="lv" val="r i"/>
+	<VALUE name="lyu" val="r i"/>
+	<VALUE name="gv" val="g i"/>
+	<VALUE name="gyu" val="g i"/>
+	<VALUE name="kv" val="k i"/>
+	<VALUE name="kyu" val="k i"/>
+	<VALUE name="hv" val="h i"/>
+	<VALUE name="hyu" val="h i"/>
+	<VALUE name="jv" val="ch i"/>
+	<VALUE name="jyu" val="ch i"/>
+	<VALUE name="qv" val="ch i"/>
+	<VALUE name="qyu" val="ch i"/>
+	<VALUE name="xv" val="sh i"/>
+	<VALUE name="xyu" val="sh i"/>
+	<VALUE name="zhv" val="j i"/>
+	<VALUE name="zhyu" val="j i"/>
+	<VALUE name="chv" val="ch i"/>
+	<VALUE name="chyu" val="ch i"/>
+	<VALUE name="shv" val="sh i"/>
+	<VALUE name="shyu" val="sh i"/>
+	<VALUE name="rv" val="j i"/>
+	<VALUE name="ryu" val="j i"/>
+	<VALUE name="zv" val="z i"/>
+	<VALUE name="zyu" val="z i"/>
+	<VALUE name="cv" val="ts i"/>
+	<VALUE name="cyu" val="ts i"/>
+	<VALUE name="sv" val="s i"/>
+	<VALUE name="syu" val="s i"/>
+	<VALUE name="bve" val="b i e"/>
+	<VALUE name="bue" val="b i e"/>
+	<VALUE name="pve" val="p i e"/>
+	<VALUE name="pue" val="p i e"/>
+	<VALUE name="mve" val="m i e"/>
+	<VALUE name="mue" val="m i e"/>
+	<VALUE name="fve" val="f i e"/>
+	<VALUE name="fue" val="f i e"/>
+	<VALUE name="dve" val="d i e"/>
+	<VALUE name="due" val="d i e"/>
+	<VALUE name="tve" val="t i e"/>
+	<VALUE name="tue" val="t i e"/>
+	<VALUE name="nve" val="n i e"/>
+	<VALUE name="nue" val="n i e"/>
+	<VALUE name="lve" val="r i e"/>
+	<VALUE name="lue" val="r i e"/>
+	<VALUE name="gve" val="g i e"/>
+	<VALUE name="gue" val="g i e"/>
+	<VALUE name="kve" val="k i e"/>
+	<VALUE name="kue" val="k i e"/>
+	<VALUE name="hve" val="h i e"/>
+	<VALUE name="hue" val="h i e"/>
+	<VALUE name="jve" val="ch i e"/>
+	<VALUE name="jue" val="ch i e"/>
+	<VALUE name="qve" val="ch i e"/>
+	<VALUE name="que" val="ch i e"/>
+	<VALUE name="xve" val="sh i e"/>
+	<VALUE name="xue" val="sh i e"/>
+	<VALUE name="zhve" val="j i e"/>
+	<VALUE name="zhue" val="j i e"/>
+	<VALUE name="chve" val="ch i e"/>
+	<VALUE name="chue" val="ch i e"/>
+	<VALUE name="shve" val="sh i e"/>
+	<VALUE name="shue" val="sh i e"/>
+	<VALUE name="rve" val="j i e"/>
+	<VALUE name="rue" val="j i e"/>
+	<VALUE name="zve" val="z i e"/>
+	<VALUE name="zue" val="z i e"/>
+	<VALUE name="cve" val="ts i e"/>
+	<VALUE name="cue" val="ts i e"/>
+	<VALUE name="sve" val="s i e"/>
+	<VALUE name="sue" val="s i e"/>
+	<VALUE name="biong" val="b y u N"/>
+	<VALUE name="piong" val="p y u N"/>
+	<VALUE name="miong" val="m y u N"/>
+	<VALUE name="fiong" val="f y u N"/>
+	<VALUE name="diong" val="d y u N"/>
+	<VALUE name="tiong" val="t y u N"/>
+	<VALUE name="niong" val="n y u N"/>
+	<VALUE name="liong" val="r y u N"/>
+	<VALUE name="giong" val="g y u N"/>
+	<VALUE name="kiong" val="k y u N"/>
+	<VALUE name="hiong" val="h y u N"/>
+	<VALUE name="jiong" val="ch y u N"/>
+	<VALUE name="qiong" val="ch y u N"/>
+	<VALUE name="xiong" val="sh y u N"/>
+	<VALUE name="zhiong" val="j y u N"/>
+	<VALUE name="chiong" val="ch y u N"/>
+	<VALUE name="shiong" val="sh y u N"/>
+	<VALUE name="riong" val="j y u N"/>
+	<VALUE name="ziong" val="z y u N"/>
+	<VALUE name="ciong" val="ts y u N"/>
+	<VALUE name="siong" val="s y u N"/>
+	<VALUE name="a" val="a"/>
+	<VALUE name="o" val="o"/>
+	<VALUE name="e" val="o"/>
+	<VALUE name="ai" val="a e i"/>
+	<VALUE name="ei" val="e i"/>
+	<VALUE name="ao" val="a w"/>
+	<VALUE name="ou" val="o w"/>
+	<VALUE name="an" val="a n"/>
+	<VALUE name="en" val="e n"/>
+	<VALUE name="ang" val="a N"/>
+	<VALUE name="ong" val="u N"/>
+	<VALUE name="eng" val="e N"/>
+	<VALUE name="er" val="a r"/>
+	<VALUE name="i" val="i"/>
+	<VALUE name="u" val="u"/>
+	<VALUE name="v" val="i"/>
+	<VALUE name="yi" val="i"/>
+	<VALUE name="wu" val="u"/>
+	<VALUE name="yu" val="i"/>
+	<VALUE name="ya" val="y a"/>
+	<VALUE name="ia" val="y a"/>
+	<VALUE name="yo" val="y a w"/>
+	<VALUE name="io" val="y a w"/>
+	<VALUE name="ye" val="y e"/>
+	<VALUE name="ie" val="y e"/>
+	<VALUE name="yai" val="y a e i"/>
+	<VALUE name="iai" val="y a e i"/>
+	<VALUE name="yao" val="y a w"/>
+	<VALUE name="iao" val="y a w"/>
+	<VALUE name="you" val="y o w"/>
+	<VALUE name="iou" val="y o w"/>
+	<VALUE name="yan" val="y a n"/>
+	<VALUE name="ian" val="y a n"/>
+	<VALUE name="yin" val="y i n"/>
+	<VALUE name="in" val="y i n"/>
+	<VALUE name="yang" val="y a N"/>
+	<VALUE name="iang" val="y a N"/>
+	<VALUE name="ying" val="y i N"/>
+	<VALUE name="ing" val="y i N"/>
+	<VALUE name="wa" val="w a"/>
+	<VALUE name="ua" val="w a"/>
+	<VALUE name="wo" val="w o"/>
+	<VALUE name="uo" val="w o"/>
+	<VALUE name="wai" val="w a e i"/>
+	<VALUE name="uai" val="w a e i"/>
+	<VALUE name="wei" val="w e i"/>
+	<VALUE name="wui" val="w e i"/>
+	<VALUE name="ui" val="w e i"/>
+	<VALUE name="wan" val="w a n"/>
+	<VALUE name="uan" val="w a n"/>
+	<VALUE name="wen" val="w e n"/>
+	<VALUE name="uen" val="w e n"/>
+	<VALUE name="wang" val="w a N"/>
+	<VALUE name="uang" val="w a N"/>
+	<VALUE name="weng" val="w e N"/>
+	<VALUE name="wong" val="w u N"/>
+	<VALUE name="yue" val="y i e"/>
+	<VALUE name="ue" val="y i e"/>
+	<VALUE name="yve" val="y i e"/>
+	<VALUE name="ve" val="y i e"/>
+	<VALUE name="yuan" val="y i a n"/>
+	<VALUE name="van" val="y i a n"/>
+	<VALUE name="yun" val="y i e n"/>
+	<VALUE name="vn" val="y i e n"/>
+	<VALUE name="yong" val="y u N"/>
+	<VALUE name="iong" val="y u N"/>
+</PROPERTIES>
