@@ -8,4 +8,4 @@ This project runned Slidingwall. To contact me, you can PM me on [Bilibili](http
 [Dreamtonics](https://dreamtonics.com/)  
 [Synthesizer V Forum](https://forum.synthesizerv.com/)  
   
-[Back to home](/index)
+[Back to home](/synthv-dictionaries/index)
