@@ -17,9 +17,12 @@ Author: Slidingwall ([Bilibili](https://space.bilibili.com/141232009))
 #### English to Chinese Dictionary / 英跨中字典 
 *(Originally released on Nov 22, 2020)*  
 > Demo Video: [Wu Fa Yuan Liang](https://www.bilibili.com/video/BV1Ta4y1x7P7) *(from Yoko Li, Cover by Eleanor Forte / 李佳璐-无法原谅 爱莲娜·芙缇翻唱)*
+#### English to Japanese Dictionary / 英跨日字典
+This dictionary's demo will be uploaded to GitHub Pages soon. / 这个字典的示例将会很快上传到 GitHub Pages 中。 
 ### Synthesizer V Editor
 #### Japanese to Chinese Dictionary / 日跨中字典 
 #### English to Chinese Dictionary / 英跨中字典 
+#### English to Japanese Dictionary / 英跨日字典
 These dictionaries' demo will be uploaded to GitHub Pages soon. / 这些字典的示例将会很快上传到 GitHub Pages 中。  
 ## Developing dictionaries / 开发中字典 : 
 > Japanese to English Dictionaries / 日跨英字典  
