@@ -2,6 +2,8 @@
 User dictionary of Synthesizer V, for crossing lingual.   
 Synthesizer V的跨语言用户词典。
 ***
+Visit our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries)! 
+访问我们的[GitHub 页面](https://slidingwall.github.io/synthv-dictionaries)！  
 Author: Slidingwall ([Bilibili](https://space.bilibili.com/141232009))  
 作者：Slidingwall（[哔哩哔哩](https://space.bilibili.com/141232009)）  
 ***
