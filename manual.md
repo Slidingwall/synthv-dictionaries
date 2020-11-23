@@ -18,4 +18,4 @@ Choose the dictionary in the Dictionary Editor
 **WARNING: Dictionaries are not universal between Synthesizer V Editor and Synthesizer V Studio.**  
 **警告：用户词典在Synthesizer V Editor 和 Synthesizer V Studio 之间并不通用。**   
   
-  [Back to home](/index)
+  [Back to home](/synthv-dictionaries/index)
