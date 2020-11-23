@@ -28,11 +28,10 @@ These dictionaries' demo will be uploaded to GitHub Pages soon. / 这些字典�
 > Japanese to English Dictionaries / 日跨英字典  
 > Chinese to English Dictionaries / 中跨英字典  
 ## How to use / 如何使用
-### Synthesizer V Studio
-Put the folder in Documents\Dreamtonics\Synthesizer V Studio\dicts\[language]-[phoneme format], then you'll see the dictionary in Dictionary Panel.  
-将文件夹放入 文档\Dreamtonics\Synthesizer V Studio\dicts\[语言]-[音素制式]中，即可在词典面板中看见用户词典。  
-### Synthesizer V Editor
-Put the folder in Synthesizer V Editor\presets\dictionary-[language]-[phoneme format], then you'll see the dictionary in "Settings"-->"User Dictionary".  
-将文件夹放入 Synthesizer V Editor\presets\dictionary-[语言]-[音素制式]中，即可在"设置"-->"用户词典"中看见用户词典。  
-**WARNING: Dictionaries are not universal between Synthesizer V Editor and Synthesizer V Studio.**  
-**警告：用户词典在Synthesizer V Editor 和 Synthesizer V Studio 之间并不通用。**   
+Please see the [manual](https://slidingwall.github.io/synthv-dictionaries/manual) on our GitHub Pages.  
+请查看Github Pages上的[教程](https://slidingwall.github.io/synthv-dictionaries/manual)
+## Find the dictionary you want / 找到你需要的那个字典
+Floder's name means the generation of Synthesizer V and the language of your voicebank. For example, `dictionary-japanese-romaji` means Japanese voicebanks for Synthesizer V Editor, `english-arpabet` means English voicebank for Synthesier V Studio.  
+文件夹的名称代表 Synthesizer V 编辑器的版本和语音库的语言。例如，`dictionary-japanese-romaji` 是指 Synthesizer V Editor的日语语音库， `english-arpabet` 是指Synthesier V Studio的英语语音库。  
+The file name means the language you want to sing from the voicebank. For example, `Mandarin.json` or `Mandarin.xml` means this dictionary will let the voicebank singing Mandarin.  
+文件的名称代表你想让语音库唱出的语言，例如，`Mandarin.json` 或者 `Mandarin.xml`意味着这个字典将会让您的语音库唱出普通话。
