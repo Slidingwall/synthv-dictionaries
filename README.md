@@ -13,7 +13,7 @@ Author: Slidingwall ([Bilibili](https://space.bilibili.com/141232009))
 *(Originally released on Aug 17, 2020)*  
 *(v1.1 released on Nov 21, 2020)*  
 > Demo video: [Twilight](https://www.bilibili.com/video/BV1y54y1U7Re) *(from JJ Lin, Cover by GENBU / 林俊杰-不为谁而作的歌 玄武翻唱)*  
-> Demo video: [Yi jian mei](https://www.bilibili.com/video/BV1rp4y1v7Hj) (a.k.a Xue Hua Piao Piao Bei Feng Xiao Xiao) *(from Yu-Ching Fei, Cover by Saki / 费玉清-一剪梅 Saki翻唱)*  
+> Demo video: [Yi Jian Mei](https://www.bilibili.com/video/BV1rp4y1v7Hj) (a.k.a Xue Hua Piao Piao Bei Feng Xiao Xiao) *(from Yu-Ching Fei, Cover by Saki / 费玉清-一剪梅 Saki翻唱)*  
 #### English to Chinese Dictionary / 英跨中字典 
 *(Originally released on Nov 22, 2020)*  
 > Demo Video: [Wu Fa Yuan Liang](https://www.bilibili.com/video/BV1Ta4y1x7P7) *(from Yoko Li, Cover by Eleanor Forte / 李佳璐-无法原谅 爱莲娜·芙缇翻唱)*
