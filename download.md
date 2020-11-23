@@ -1,5 +1,5 @@
 # Downloads / 下载
-##Synthesizer V Studio
+## Synthesizer V Studio  
 | Original Language / 原始语言 | Target Language / 目标语言 | Link |
 | :----: | :----: | :----: |
 | Chinese / 中文 | English / 英语 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/mandarin-xsampa/English.json) |
@@ -8,7 +8,7 @@
 | Japanese / 日语 | Chinese / 中文 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/japanese-romaji/Mandarin.json) |
 | Japanese / 日语 | English / 英语 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/japanese-romaji/English.json) |
   
-##Synthesizer V Editor
+## Synthesizer V Editor  
 | Original Language / 原始语言 | Target Language / 目标语言 | Link |
 | :----: | :----: | :----: |
 | Chinese / 中文 | English / 英语 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/dictionary-mandarin-xsampa/English.xml) |
