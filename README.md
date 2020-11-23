@@ -1,5 +1,5 @@
 # synthv-dictionaries
-User dictionary of Synthesizer V, for crossing lingual.   
+Interlingual user dictionary of Synthesizer V.   
 Synthesizer V的跨语言用户词典。
 ***
 Visit our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries)!  
