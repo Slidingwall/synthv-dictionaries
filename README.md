@@ -29,7 +29,7 @@ These dictionaries' demo will be uploaded to GitHub Pages soon. / 这些字典�
 Put the folder in Documents\Dreamtonics\Synthesizer V Studio\dicts\[language]-[phoneme format], then you'll see the dictionary in Dictionary Panel.  
 将文件夹放入 文档\Dreamtonics\Synthesizer V Studio\dicts\[语言]-[音素制式]中，即可在词典面板中看见用户词典。  
 ### Synthesizer V Editor
-Put the folder in Synthesizer V Editor\presets\dictionary-[language]-[phoneme format], then you'll see the dictionary in Dictionary Panel.  
-将文件夹放入 Synthesizer V Editor\presets\dictionary-[语言]-[音素制式]中，即可在词典面板中看见用户词典。  
+Put the folder in Synthesizer V Editor\presets\dictionary-[language]-[phoneme format], then you'll see the dictionary in "Settings"-->"User Dictionary".  
+将文件夹放入 Synthesizer V Editor\presets\dictionary-[语言]-[音素制式]中，即可在"设置"-->"用户词典"中看见用户词典。  
 **WARNING: Dictionaries are not universal between Synthesizer V Editor and Synthesizer V Studio.**  
 **警告：用户词典在Synthesizer V Editor 和 Synthesizer V Studio 之间并不通用。**   
