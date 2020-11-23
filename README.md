@@ -1,5 +1,5 @@
 # README 自述文件
-User dictionary of Synthesizer V, for crossing lingual.   
+Interlingual user dictionary of Synthesizer V.  
 Synthesizer V的跨语言用户词典。
 ***
 This project runned Slidingwall. To contact me, you can PM me on [Bilibili](https://space.bilibili.com/141232009) or [E-mail me](mailto:slidingwall@outlook.com).   
