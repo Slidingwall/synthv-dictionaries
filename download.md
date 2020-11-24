@@ -1,20 +1,130 @@
-# Downloads / 下载
-## Synthesizer V Studio  
-| Original Language / 原始语言 | Target Language / 目标语言 | Link |
-| :----: | :----: | :----: |
-| Chinese / 中文 | English / 英语 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/mandarin-xsampa/English.json) |
-| English / 英语 | Chinese / 中文 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/english-arpabet/Mandarin.json) |
-| English / 英语 | Japanese / 日语 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/english-arpabet/Japanese.json) |
-| Japanese / 日语 | Chinese / 中文 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/japanese-romaji/Mandarin.json) |
-| Japanese / 日语 | English / 英语 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/japanese-romaji/English.json) |
+<!DOCTYPE html>
+<html lang="en-US">
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="/synthv-dictionaries/assets/css/style.css?v=29421af8bea116007d5b4a2c26220b147088a51f">
+
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>How to use / 如何使用 | synthv-dictionaries</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Downloads / 下载" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Interlingual user dictionary of Synthesizer V. Synthesizer V的跨语言用户词典。" />
+<meta property="og:description" content="Interlingual user dictionary of Synthesizer V. Synthesizer V的跨语言用户词典。" />
+<link rel="canonical" href="https://slidingwall.github.io/synthv-dictionaries/download.html" />
+<meta property="og:url" content="https://slidingwall.github.io/synthv-dictionaries/download.html" />
+<meta property="og:site_name" content="synthv-dictionaries" />
+<script type="application/ld+json">
+{"@type":"WebPage","headline":"Downloads / 下载","url":"https://slidingwall.github.io/synthv-dictionaries/download.html","description":"Interlingual user dictionary of Synthesizer V. Synthesizer V的跨语言用户词典。","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/Slidingwall/synthv-dictionaries">View on GitHub</a>
+
+          <h1 id="project_title">synthv-dictionaries</h1>
+          <h2 id="project_tagline">Interlingual user dictionary of Synthesizer V.  Synthesizer V的跨语言用户词典。</h2>
+
+          
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+      
+<h1>Downloads / 下载</h1>
+<h2>Synthesizer V Studio</h2>  
+<table border="1">
+<tr>
+  <th>Original Language / 原始语言</th>
+  <th>Target Language / 目标语言</th>
+  <th>Link<th>
+  </tr>
+  <tr>
+  <td>Chinese / 中文</td>
+  <td>English / 英语</td>
+  <td><a href="https://github.com/Slidingwall/synthv-dictionaries/blob/main/mandarin-xsampa/English.json">Download</a>
+  </tr>
+  <tr>
+  <td>English / 英语</td>
+  <td>Chinese / 中文</td>
+  <td><a href="https://github.com/Slidingwall/synthv-dictionaries/blob/main/english-arpabet/Mandarin.json">Download</a>
+  </tr>
+  <tr>
+  <td>English / 英语</td>
+  <td>Japanese / 日语</td>
+  <td><a href="https://github.com/Slidingwall/synthv-dictionaries/blob/main/english-arpabet/Japanese.json">Download</a>
+  </tr>
+  <tr>
+  <td>Japanese / 日语</td>
+  <td>Chinese / 中文</td>
+  <td><a href="https://github.com/Slidingwall/synthv-dictionaries/blob/main/japanese-romaji/Mandarin.json">Download</a>
+  </tr>
+   <tr>
+  <td>Japanese / 日语</td>
+  <td>English / 英语</td>
+  <td><a href="https://github.com/Slidingwall/synthv-dictionaries/blob/main/japanese-romaji/English.json">Download</a>
+  </tr>
+</table>
+<br />
+<h2>Synthesizer V Editor </h2> 
+<table border="1">
+<tr>
+  <th>Original Language / 原始语言</th>
+  <th>Target Language / 目标语言</th>
+  <th>Link<th>
+  </tr>
+  <tr>
+  <td>Chinese / 中文</td>
+  <td>English / 英语</td>
+  <td><a href="https://github.com/Slidingwall/synthv-dictionaries/blob/main/dictionary-mandarin-xsampa/English.xml">Download</a>
+  </tr>
+  <tr>
+  <td>English / 英语</td>
+  <td>Chinese / 中文</td>
+  <td><a href="https://github.com/Slidingwall/synthv-dictionaries/blob/main/dictionary-english-arpabet/Mandarin.xml">Download</a>
+  </tr>
+  <tr>
+  <td>English / 英语</td>
+  <td>Japanese / 日语</td>
+  <td><a href="https://github.com/Slidingwall/synthv-dictionaries/blob/main/dictionary-english-arpabet/Japanese.xml">Download</a>
+  </tr>
+  <tr>
+  <td>Japanese / 日语</td>
+  <td>Chinese / 中文</td>
+  <td><a href="https://github.com/Slidingwall/synthv-dictionaries/blob/main/dictionary-japanese-romaji/Mandarin.xml">Download</a>
+  </tr>
+   <tr>
+  <td>Japanese / 日语</td>
+  <td>English / 英语</td>
+  <td><a href="https://github.com/Slidingwall/synthv-dictionaries/blob/main/dictionary-japanese-romaji/English.xml">Download</a>
+  </tr>
+</table>
+<br />
+<a href="/synthv-dictionaries/index">Back to home</a>
+  </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        
+        <p class="copyright">synthv-dictionaries maintained by <a href="https://github.com/Slidingwall">Slidingwall</a></p>
+        
+        <p>Published with <a href="https://pages.github.com/">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
   
-## Synthesizer V Editor  
-| Original Language / 原始语言 | Target Language / 目标语言 | Link |
-| :----: | :----: | :----: |
-| Chinese / 中文 | English / 英语 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/dictionary-mandarin-xsampa/English.xml) |
-| English / 英语 | Chinese / 中文 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/dictionary-english-arpabet/Mandarin.xml) |
-| English / 英语 | Japanese / 日语 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/dictionary-english-arpabet/Japanese.xml) |
-| Japanese / 日语 | Chinese / 中文 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/dictionary-japanese-romaji/Mandarin.xml) |
-| Japanese / 日语 | English / 英语 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/dictionary-japanese-romaji/English.xml) |
-  
-[Back to home](/synthv-dictionaries/index)
+
+</body></html>
