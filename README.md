@@ -1,12 +1,7 @@
 # synthv-dictionaries
 Interlingual user dictionary of Synthesizer V.   
 Synthesizer V的跨语言用户词典。
-***
-Visit our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries)!  
-访问我们的[GitHub 页面](https://slidingwall.github.io/synthv-dictionaries)！  
-Author: Slidingwall ([Bilibili](https://space.bilibili.com/141232009))  
-作者：Slidingwall（[哔哩哔哩](https://space.bilibili.com/141232009)）  
-***
+
 ## How to use / 如何使用
 Please see the [manual](https://slidingwall.github.io/synthv-dictionaries/manual) on our GitHub Pages.  
 请查看Github Pages上的[教程](https://slidingwall.github.io/synthv-dictionaries/manual)
@@ -37,3 +32,9 @@ These dictionaries' demo are on [GitHub Pages](https://slidingwall.github.io/syn
 #### Japanese to English Dictionary / 日跨英字典  
 #### Chinese to English Dictionary / 中跨英字典 
 These dictionaries' demo are on [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo.html). / 这些字典的示例在 [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo.html) 中。 
+***
+Visit our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries)!  
+访问我们的[GitHub 页面](https://slidingwall.github.io/synthv-dictionaries)！  
+Author: Slidingwall ([Bilibili](https://space.bilibili.com/141232009))  
+作者：Slidingwall（[哔哩哔哩](https://space.bilibili.com/141232009)）  
+***
