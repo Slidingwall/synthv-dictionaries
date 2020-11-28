@@ -5,4 +5,5 @@
 ## [How to use 如何使用](/synthv-dictionaries/manual)  
 ## [Downloads 下载](/synthv-dictionaries/download)  
 ## [Demo 示例](/synthv-dictionaries/demo)  
+## [Phoneme 音素表](/synthv-dictionaries/phoneme) 
 ## [About 关于](/synthv-dictionaries/about)  
