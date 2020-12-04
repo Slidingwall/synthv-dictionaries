@@ -27,6 +27,7 @@ The file name means the language you want to sing from the voicebank. For exampl
 These dictionaries' demo are on [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo.html). / 这些字典的示例在 [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo.html) 中。  
 ### Synthesizer V Editor
 #### Japanese to Chinese Dictionary / 日跨中字典 
+> Demo video: [Ti Mian]( https://www.bilibili.com/video/BV1k54y1675S/) *(from Kelly Yu, Cover by Yamine Renri / 于文文-体面 闇音Renri翻唱)* 
 #### English to Chinese Dictionary / 英跨中字典 
 #### English to Japanese Dictionary / 英跨日字典
 #### Japanese to English Dictionary / 日跨英字典  
