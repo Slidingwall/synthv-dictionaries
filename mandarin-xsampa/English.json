@@ -86,11 +86,11 @@
     },
     {
       "w": "above",
-      "p": "@ p A v"
+      "p": "@ p A w"
     },
     {
       "w": "above's",
-      "p": "@ p A v ts"
+      "p": "@ p A w ts"
     },
     {
       "w": "abroad",
@@ -386,31 +386,31 @@
     },
     {
       "w": "achieve",
-      "p": "@ ts`h i v"
+      "p": "@ ts`h i w"
     },
     {
       "w": "achieved",
-      "p": "@ ts`h i v t"
+      "p": "@ ts`h i w t"
     },
     {
       "w": "achievement",
-      "p": "@ ts`h i v m @ n th"
+      "p": "@ ts`h i w m @ n th"
     },
     {
       "w": "achievements",
-      "p": "@ ts`h i v m @ n th s"
+      "p": "@ ts`h i w m @ n th s"
     },
     {
       "w": "achiever",
-      "p": "@ ts`h i v a r\\`"
+      "p": "@ ts`h i w a r\\`"
     },
     {
       "w": "achievers",
-      "p": "@ ts`h i v a r\\` ts"
+      "p": "@ ts`h i w a r\\` ts"
     },
     {
       "w": "achieves",
-      "p": "@ ts`h i v ts"
+      "p": "@ ts`h i w ts"
     },
     {
       "w": "acid",
@@ -510,35 +510,35 @@
     },
     {
       "w": "active",
-      "p": "a kh th i\\ v"
+      "p": "a kh th i\\ w"
     },
     {
       "w": "actively",
-      "p": "a kh th i\\ v l i"
+      "p": "a kh th i\\ w l i"
     },
     {
       "w": "active's",
-      "p": "a kh th i\\ v ts"
+      "p": "a kh th i\\ w ts"
     },
     {
       "w": "actives",
-      "p": "a kh th i\\ v ts"
+      "p": "a kh th i\\ w ts"
     },
     {
       "w": "activist",
-      "p": "a kh th i\\ v i\\ s th"
+      "p": "a kh th i\\ w i\\ s th"
     },
     {
       "w": "activists'",
-      "p": "a kh th i\\ v i\\ s th s"
+      "p": "a kh th i\\ w i\\ s th s"
     },
     {
       "w": "activists",
-      "p": "a kh th i\\ v i\\ s th s"
+      "p": "a kh th i\\ w i\\ s th s"
     },
     {
       "w": "activity",
-      "p": "a kh th i\\ v i\\ th i"
+      "p": "a kh th i\\ w i\\ th i"
     },
     {
       "w": "acton",
@@ -822,11 +822,11 @@
     },
     {
       "w": "administrative",
-      "p": "@ t m i\\ n i\\ s t r\\` e :\\i l i\\ v"
+      "p": "@ t m i\\ n i\\ s t r\\` e :\\i l i\\ w"
     },
     {
       "w": "administratively",
-      "p": "a t m i\\ n i\\ s t r\\` e :\\i l i\\ v l i"
+      "p": "a t m i\\ n i\\ s t r\\` e :\\i l i\\ w l i"
     },
     {
       "w": "administrator",
@@ -962,115 +962,115 @@
     },
     {
       "w": "advance",
-      "p": "@ t v a n s"
+      "p": "@ t w a n s"
     },
     {
       "w": "advanced",
-      "p": "@ t v a n s th"
+      "p": "@ t w a n s th"
     },
     {
       "w": "advancer",
-      "p": "@ t v a n s a r\\`"
+      "p": "@ t w a n s a r\\`"
     },
     {
       "w": "advancers",
-      "p": "@ t v a n s a r\\` ts"
+      "p": "@ t w a n s a r\\` ts"
     },
     {
       "w": "advance's",
-      "p": "@ t v a n s i\\ ts"
+      "p": "@ t w a n s i\\ ts"
     },
     {
       "w": "advances",
-      "p": "@ t v a n s i\\ ts"
+      "p": "@ t w a n s i\\ ts"
     },
     {
       "w": "advantage",
-      "p": "a t v a n th i\\ ts`"
+      "p": "a t w a n th i\\ ts`"
     },
     {
       "w": "advantaged",
-      "p": "a t v a n th i\\ ts` t"
+      "p": "a t w a n th i\\ ts` t"
     },
     {
       "w": "advantages",
-      "p": "a t v a n th i\\ ts` i\\ ts"
+      "p": "a t w a n th i\\ ts` i\\ ts"
     },
     {
       "w": "adventure",
-      "p": "a t v e n ts`h a r\\`"
+      "p": "a t w e n ts`h a r\\`"
     },
     {
       "w": "adventurer",
-      "p": "a t v e n ts`h a r\\` a r\\`"
+      "p": "a t w e n ts`h a r\\` a r\\`"
     },
     {
       "w": "adventurers",
-      "p": "a t v e n ts`h a r\\` a r\\` ts"
+      "p": "a t w e n ts`h a r\\` a r\\` ts"
     },
     {
       "w": "adventures",
-      "p": "a t v e n ts`h a r\\` ts"
+      "p": "a t w e n ts`h a r\\` ts"
     },
     {
       "w": "advertising",
-      "p": "a t v a r\\` th a :\\i ts i\\ N"
+      "p": "a t w a r\\` th a :\\i ts i\\ N"
     },
     {
       "w": "advertising's",
-      "p": "a t v a r\\` th a :\\i ts i\\ N ts"
+      "p": "a t w a r\\` th a :\\i ts i\\ N ts"
     },
     {
       "w": "advice",
-      "p": "a t v a :\\i s"
+      "p": "a t w a :\\i s"
     },
     {
       "w": "advise",
-      "p": "a t v a :\\i ts"
+      "p": "a t w a :\\i ts"
     },
     {
       "w": "advised",
-      "p": "a t v a :\\i ts t"
+      "p": "a t w a :\\i ts t"
     },
     {
       "w": "adviser",
-      "p": "a t v a :\\i ts a r\\`"
+      "p": "a t w a :\\i ts a r\\`"
     },
     {
       "w": "advisers'",
-      "p": "a t v a :\\i ts a r\\` ts"
+      "p": "a t w a :\\i ts a r\\` ts"
     },
     {
       "w": "advisers",
-      "p": "a t v a :\\i ts a r\\` ts"
+      "p": "a t w a :\\i ts a r\\` ts"
     },
     {
       "w": "adviser's",
-      "p": "@ t v a :\\i ts a r\\` ts"
+      "p": "@ t w a :\\i ts a r\\` ts"
     },
     {
       "w": "advises",
-      "p": "a t v a :\\i ts i\\ ts"
+      "p": "a t w a :\\i ts i\\ ts"
     },
     {
       "w": "advo",
-      "p": "a t v @U"
+      "p": "a t w @U"
     },
     {
       "w": "advocate",
-      "p": "a t v @ kh @ th"
+      "p": "a t w @ kh @ th"
     },
     {
       "w": "advocated",
-      "p": "a t v @ kh e :\\i l i\\ t"
+      "p": "a t w @ kh e :\\i l i\\ t"
     },
     {
       "w": "advocate's",
-      "p": "a t v @ kh @ th s"
+      "p": "a t w @ kh @ th s"
     },
     {
       "w": "advocates",
-      "p": "a t v @ kh @ th s"
+      "p": "a t w @ kh @ th s"
     },
     {
       "w": "ady",
@@ -1254,11 +1254,11 @@
     },
     {
       "w": "aggressive",
-      "p": "@ k r\\` e s i\\ v"
+      "p": "@ k r\\` e s i\\ w"
     },
     {
       "w": "aggressively",
-      "p": "@ k r\\` e s i\\ v l i"
+      "p": "@ k r\\` e s i\\ w l i"
     },
     {
       "w": "ago",
@@ -1678,7 +1678,7 @@
     },
     {
       "w": "alive",
-      "p": "@ l a :\\i v"
+      "p": "@ l a :\\i w"
     },
     {
       "w": "alla",
@@ -1902,15 +1902,15 @@
     },
     {
       "w": "alternative",
-      "p": "o l th a r\\` n @ th i\\ v"
+      "p": "o l th a r\\` n @ th i\\ w"
     },
     {
       "w": "alternatively",
-      "p": "o l th a r\\` n @ th i\\ v l i"
+      "p": "o l th a r\\` n @ th i\\ w l i"
     },
     {
       "w": "alternatives",
-      "p": "o l th a r\\` n @ th i\\ v ts"
+      "p": "o l th a r\\` n @ th i\\ w ts"
     },
     {
       "w": "alters",
@@ -2346,7 +2346,7 @@
     },
     {
       "w": "anniversary",
-      "p": "a n @ v a r\\` s a r\\` i"
+      "p": "a n @ w a r\\` s a r\\` i"
     },
     {
       "w": "announce",
@@ -2698,23 +2698,23 @@
     },
     {
       "w": "approval",
-      "p": "@ ph r\\` u v @ l"
+      "p": "@ ph r\\` u w @ l"
     },
     {
       "w": "approvals",
-      "p": "@ ph r\\` u v @ l ts"
+      "p": "@ ph r\\` u w @ l ts"
     },
     {
       "w": "approve",
-      "p": "@ ph r\\` u v"
+      "p": "@ ph r\\` u w"
     },
     {
       "w": "approved",
-      "p": "@ ph r\\` u v t"
+      "p": "@ ph r\\` u w t"
     },
     {
       "w": "approves",
-      "p": "@ ph r\\` u v ts"
+      "p": "@ ph r\\` u w ts"
     },
     {
       "w": "approximately",
@@ -2978,23 +2978,23 @@
     },
     {
       "w": "arrival",
-      "p": "a r\\` a :\\i v @ l"
+      "p": "a r\\` a :\\i w @ l"
     },
     {
       "w": "arrivals",
-      "p": "a r\\` a :\\i v @ l ts"
+      "p": "a r\\` a :\\i w @ l ts"
     },
     {
       "w": "arrived",
-      "p": "a r\\` a :\\i v t"
+      "p": "a r\\` a :\\i w t"
     },
     {
       "w": "arrive",
-      "p": "a r\\` a :\\i v"
+      "p": "a r\\` a :\\i w"
     },
     {
       "w": "arrives",
-      "p": "a r\\` a :\\i v ts"
+      "p": "a r\\` a :\\i w ts"
     },
     {
       "w": "arrow",
@@ -3766,11 +3766,11 @@
     },
     {
       "w": "attractive",
-      "p": "@ t r\\` a kh th i\\ v"
+      "p": "@ t r\\` a kh th i\\ w"
     },
     {
       "w": "attractively",
-      "p": "@ t r\\` a kh th i\\ v l i"
+      "p": "@ t r\\` a kh th i\\ w l i"
     },
     {
       "w": "attracts",
@@ -3790,7 +3790,7 @@
     },
     {
       "w": "atv",
-      "p": "e :\\i th i v i"
+      "p": "e :\\i th i w i"
     },
     {
       "w": "atx",
@@ -3958,55 +3958,55 @@
     },
     {
       "w": "ava",
-      "p": "e :\\i v @"
+      "p": "e :\\i w @"
     },
     {
       "w": "availability",
-      "p": "@ v e :\\i l @ p i\\ l @ th i"
+      "p": "@ w e :\\i l @ p i\\ l @ th i"
     },
     {
       "w": "available",
-      "p": "@ v e :\\i l @ p @ l"
+      "p": "@ w e :\\i l @ p @ l"
     },
     {
       "w": "ave",
-      "p": "A v e :\\i"
+      "p": "A w e :\\i"
     },
     {
       "w": "average",
-      "p": "a v a r\\` i\\ ts`"
+      "p": "a w a r\\` i\\ ts`"
     },
     {
       "w": "averaged",
-      "p": "a v r\\` i\\ ts` t"
+      "p": "a w r\\` i\\ ts` t"
     },
     {
       "w": "average's",
-      "p": "a v r\\` i\\ ts` i\\ ts"
+      "p": "a w r\\` i\\ ts` i\\ ts"
     },
     {
       "w": "averages",
-      "p": "a v r\\` i\\ ts` i\\ ts"
+      "p": "a w r\\` i\\ ts` i\\ ts"
     },
     {
       "w": "av",
-      "p": "e :\\i v i"
+      "p": "e :\\i w i"
     },
     {
       "w": "avi",
-      "p": "A v i"
+      "p": "A w i"
     },
     {
       "w": "avoid",
-      "p": "@ v o :\\i t"
+      "p": "@ w o :\\i t"
     },
     {
       "w": "avoided",
-      "p": "@ v o :\\i l i\\ t"
+      "p": "@ w o :\\i l i\\ t"
     },
     {
       "w": "avoids",
-      "p": "@ v o :\\i t ts"
+      "p": "@ w o :\\i t ts"
     },
     {
       "w": "await",
@@ -5822,31 +5822,31 @@
     },
     {
       "w": "behave",
-      "p": "p i\\ x e :\\i v"
+      "p": "p i\\ x e :\\i w"
     },
     {
       "w": "behaved",
-      "p": "p i\\ x e :\\i v t"
+      "p": "p i\\ x e :\\i w t"
     },
     {
       "w": "behaves",
-      "p": "p i\\ x e :\\i v ts"
+      "p": "p i\\ x e :\\i w ts"
     },
     {
       "w": "behavioral",
-      "p": "p i\\ x e :\\i v j a r\\` @ l"
+      "p": "p i\\ x e :\\i w j a r\\` @ l"
     },
     {
       "w": "behaviorally",
-      "p": "p i x e :\\i v j a r\\` @ l i"
+      "p": "p i x e :\\i w j a r\\` @ l i"
     },
     {
       "w": "behavior",
-      "p": "p i\\ x e :\\i v j a r\\`"
+      "p": "p i\\ x e :\\i w j a r\\`"
     },
     {
       "w": "behaviors",
-      "p": "p i\\ x e :\\i v j a r\\` ts"
+      "p": "p i\\ x e :\\i w j a r\\` ts"
     },
     {
       "w": "behind",
@@ -5922,23 +5922,23 @@
     },
     {
       "w": "believe",
-      "p": "p i\\ l i v"
+      "p": "p i\\ l i w"
     },
     {
       "w": "believed",
-      "p": "p i\\ l i v t"
+      "p": "p i\\ l i w t"
     },
     {
       "w": "believer",
-      "p": "p i\\ l i v a r\\`"
+      "p": "p i\\ l i w a r\\`"
     },
     {
       "w": "believers",
-      "p": "p i\\ l i v a r\\` ts"
+      "p": "p i\\ l i w a r\\` ts"
     },
     {
       "w": "believes",
-      "p": "p i\\ l i v ts"
+      "p": "p i\\ l i w ts"
     },
     {
       "w": "belk",
@@ -6374,11 +6374,11 @@
     },
     {
       "w": "bev",
-      "p": "p e v"
+      "p": "p e w"
     },
     {
       "w": "bevy",
-      "p": "p e v i"
+      "p": "p e w i"
     },
     {
       "w": "bey",
@@ -8010,35 +8010,35 @@
     },
     {
       "w": "brave",
-      "p": "p r\\` e :\\i v"
+      "p": "p r\\` e :\\i w"
     },
     {
       "w": "braved",
-      "p": "p r\\` e :\\i v t"
+      "p": "p r\\` e :\\i w t"
     },
     {
       "w": "bravely",
-      "p": "p r\\` e :\\i v l i"
+      "p": "p r\\` e :\\i w l i"
     },
     {
       "w": "braver",
-      "p": "p r\\` e :\\i v a r\\`"
+      "p": "p r\\` e :\\i w a r\\`"
     },
     {
       "w": "bravery",
-      "p": "p r\\` e :\\i v a r\\` i"
+      "p": "p r\\` e :\\i w a r\\` i"
     },
     {
       "w": "braves'",
-      "p": "p r\\` e :\\i v ts"
+      "p": "p r\\` e :\\i w ts"
     },
     {
       "w": "braves",
-      "p": "p r\\` e :\\i v ts"
+      "p": "p r\\` e :\\i w ts"
     },
     {
       "w": "bravest",
-      "p": "p r\\` e :\\i v @ s th"
+      "p": "p r\\` e :\\i w @ s th"
     },
     {
       "w": "bread",
@@ -9162,7 +9162,7 @@
     },
     {
       "w": "c5",
-      "p": "s i f a :\\i v"
+      "p": "s i f a :\\i w"
     },
     {
       "w": "caba",
@@ -9694,7 +9694,7 @@
     },
     {
       "w": "cantv",
-      "p": "kh a n th i v i"
+      "p": "kh a n th i w i"
     },
     {
       "w": "canty",
@@ -9706,15 +9706,15 @@
     },
     {
       "w": "canvases",
-      "p": "kh a n v @ s i\\ ts"
+      "p": "kh a n w @ s i\\ ts"
     },
     {
       "w": "canvas",
-      "p": "kh a n v @ s"
+      "p": "kh a n w @ s"
     },
     {
       "w": "canvass",
-      "p": "kh a n v @ s"
+      "p": "kh a n w @ s"
     },
     {
       "w": "capability",
@@ -10254,35 +10254,35 @@
     },
     {
       "w": "carved",
-      "p": "kh A r\\` v t"
+      "p": "kh A r\\` w t"
     },
     {
       "w": "carve",
-      "p": "kh A r\\` v"
+      "p": "kh A r\\` w"
     },
     {
       "w": "carvel",
-      "p": "kh A r\\` v e l"
+      "p": "kh A r\\` w e l"
     },
     {
       "w": "carvell",
-      "p": "kh A r\\` v e :\\i l"
+      "p": "kh A r\\` w e :\\i l"
     },
     {
       "w": "carver",
-      "p": "kh A r\\` v a r\\`"
+      "p": "kh A r\\` w a r\\`"
     },
     {
       "w": "carvers",
-      "p": "kh A r\\` v a r\\` ts"
+      "p": "kh A r\\` w a r\\` ts"
     },
     {
       "w": "carves",
-      "p": "kh A r\\` v ts"
+      "p": "kh A r\\` w ts"
     },
     {
       "w": "carvey",
-      "p": "kh A r\\` v i"
+      "p": "kh A r\\` w i"
     },
     {
       "w": "cary",
@@ -10586,51 +10586,51 @@
     },
     {
       "w": "caveat",
-      "p": "kh e :\\i v ia th"
+      "p": "kh e :\\i w ia th"
     },
     {
       "w": "caved",
-      "p": "kh e :\\i v t"
+      "p": "kh e :\\i w t"
     },
     {
       "w": "cave",
-      "p": "kh e :\\i v"
+      "p": "kh e :\\i w"
     },
     {
       "w": "cavell",
-      "p": "kh @ v e l"
+      "p": "kh @ w e l"
     },
     {
       "w": "caven",
-      "p": "kh e :\\i v @ n"
+      "p": "kh e :\\i w @ n"
     },
     {
       "w": "caver",
-      "p": "kh e :\\i v a r\\`"
+      "p": "kh e :\\i w a r\\`"
     },
     {
       "w": "cavern",
-      "p": "kh a v a r\\` n"
+      "p": "kh a w a r\\` n"
     },
     {
       "w": "cavers",
-      "p": "kh e :\\i v a r\\` ts"
+      "p": "kh e :\\i w a r\\` ts"
     },
     {
       "w": "cave's",
-      "p": "kh e :\\i v ts"
+      "p": "kh e :\\i w ts"
     },
     {
       "w": "caves",
-      "p": "kh e :\\i v ts"
+      "p": "kh e :\\i w ts"
     },
     {
       "w": "cavett",
-      "p": "kh a v e th"
+      "p": "kh a w e th"
     },
     {
       "w": "cavey",
-      "p": "kh e :\\i v i"
+      "p": "kh e :\\i w i"
     },
     {
       "w": "cc",
@@ -11662,35 +11662,35 @@
     },
     {
       "w": "civic",
-      "p": "s i\\ v i\\ kh"
+      "p": "s i\\ w i\\ kh"
     },
     {
       "w": "civics",
-      "p": "s i\\ v i\\ kh s"
+      "p": "s i\\ w i\\ kh s"
     },
     {
       "w": "civilian",
-      "p": "s @ v i\\ l j @ n"
+      "p": "s @ w i\\ l j @ n"
     },
     {
       "w": "civilians",
-      "p": "s @ v i\\ l j @ n ts"
+      "p": "s @ w i\\ l j @ n ts"
     },
     {
       "w": "civilization",
-      "p": "s i\\ v @ l i\\ ts e :\\i s` @ n"
+      "p": "s i\\ w @ l i\\ ts e :\\i s` @ n"
     },
     {
       "w": "civilizations",
-      "p": "s i\\ v @ l i\\ ts e :\\i s` @ n ts"
+      "p": "s i\\ w @ l i\\ ts e :\\i s` @ n ts"
     },
     {
       "w": "civilly",
-      "p": "s i\\ v i\\ l i"
+      "p": "s i\\ w i\\ l i"
     },
     {
       "w": "civil",
-      "p": "s i\\ v @ l"
+      "p": "s i\\ w @ l"
     },
     {
       "w": "claimed",
@@ -12258,7 +12258,7 @@
     },
     {
       "w": "cognitive",
-      "p": "kh A k n i\\ th i\\ v"
+      "p": "kh A k n i\\ th i\\ w"
     },
     {
       "w": "coined",
@@ -12374,15 +12374,15 @@
     },
     {
       "w": "collective",
-      "p": "kh @ l e kh th i\\ v"
+      "p": "kh @ l e kh th i\\ w"
     },
     {
       "w": "collectively",
-      "p": "kh @ l e kh th i\\ v l i"
+      "p": "kh @ l e kh th i\\ w l i"
     },
     {
       "w": "collectives",
-      "p": "kh @ l e kh th i\\ v ts"
+      "p": "kh @ l e kh th i\\ w ts"
     },
     {
       "w": "collect",
@@ -12878,11 +12878,11 @@
     },
     {
       "w": "competitive",
-      "p": "kh @ m ph e l @ th i\\ v"
+      "p": "kh @ m ph e l @ th i\\ w"
     },
     {
       "w": "competitively",
-      "p": "kh @ m ph e l i\\ th i\\ v l i"
+      "p": "kh @ m ph e l i\\ th i\\ w l i"
     },
     {
       "w": "competitor",
@@ -13018,11 +13018,11 @@
     },
     {
       "w": "comprehensive",
-      "p": "kh A m ph r\\` i x e n s i\\ v"
+      "p": "kh A m ph r\\` i x e n s i\\ w"
     },
     {
       "w": "comprehensively",
-      "p": "kh A m ph r\\` i\\ x e n s i\\ v l i"
+      "p": "kh A m ph r\\` i\\ x e n s i\\ w l i"
     },
     {
       "w": "comprised",
@@ -13082,11 +13082,11 @@
     },
     {
       "w": "conceived",
-      "p": "kh @ n s i v t"
+      "p": "kh @ n s i w t"
     },
     {
       "w": "conceive",
-      "p": "kh @ n s i v"
+      "p": "kh @ n s i w"
     },
     {
       "w": "concentrated",
@@ -13430,11 +13430,11 @@
     },
     {
       "w": "consecutive",
-      "p": "kh @ n s e kh j @ th i\\ v"
+      "p": "kh @ n s e kh j @ th i\\ w"
     },
     {
       "w": "consecutively",
-      "p": "kh @ n s e kh j @ th i\\ v l i"
+      "p": "kh @ n s e kh j @ th i\\ w l i"
     },
     {
       "w": "consensus",
@@ -13466,23 +13466,23 @@
     },
     {
       "w": "conservation",
-      "p": "kh A n s a r\\` v e :\\i s` @ n"
+      "p": "kh A n s a r\\` w e :\\i s` @ n"
     },
     {
       "w": "conservative",
-      "p": "kh @ n s a r\\` v @ th i\\ v"
+      "p": "kh @ n s a r\\` w @ th i\\ w"
     },
     {
       "w": "conservatively",
-      "p": "kh @ n s a r\\` v @ th i\\ v l i"
+      "p": "kh @ n s a r\\` w @ th i\\ w l i"
     },
     {
       "w": "conservatives'",
-      "p": "kh @ n s a r\\` v @ th i\\ v ts"
+      "p": "kh @ n s a r\\` w @ th i\\ w ts"
     },
     {
       "w": "conservatives",
-      "p": "kh @ n s a r\\` v @ th i\\ v ts"
+      "p": "kh @ n s a r\\` w @ th i\\ w ts"
     },
     {
       "w": "considerable",
@@ -13930,135 +13930,135 @@
     },
     {
       "w": "controversial",
-      "p": "kh A n t r\\` @ v a r\\` s` @ l"
+      "p": "kh A n t r\\` @ w a r\\` s` @ l"
     },
     {
       "w": "controversy",
-      "p": "kh A n t r\\` @ v a r\\` s i"
+      "p": "kh A n t r\\` @ w a r\\` s i"
     },
     {
       "w": "convenience",
-      "p": "kh @ n v i n j @ n s"
+      "p": "kh @ n w i n j @ n s"
     },
     {
       "w": "conveniences",
-      "p": "kh @ n v i n j @ n s i\\ ts"
+      "p": "kh @ n w i n j @ n s i\\ ts"
     },
     {
       "w": "conventional",
-      "p": "kh @ n v e n s` @ n @ l"
+      "p": "kh @ n w e n s` @ n @ l"
     },
     {
       "w": "conventionally",
-      "p": "kh @ n v e n s` @ n @ l i"
+      "p": "kh @ n w e n s` @ n @ l i"
     },
     {
       "w": "convention",
-      "p": "kh @ n v e n s` @ n"
+      "p": "kh @ n w e n s` @ n"
     },
     {
       "w": "convention's",
-      "p": "kh @ n v e n s` @ n ts"
+      "p": "kh @ n w e n s` @ n ts"
     },
     {
       "w": "conventions",
-      "p": "kh @ n v e n s` @ n ts"
+      "p": "kh @ n w e n s` @ n ts"
     },
     {
       "w": "conversational",
-      "p": "kh A n v a r\\` s e :\\i s` @ n @ l"
+      "p": "kh A n w a r\\` s e :\\i s` @ n @ l"
     },
     {
       "w": "conversation",
-      "p": "kh A n v a r\\` s e :\\i s` @ n"
+      "p": "kh A n w a r\\` s e :\\i s` @ n"
     },
     {
       "w": "conversations",
-      "p": "kh A n v a r\\` s e :\\i s` @ n ts"
+      "p": "kh A n w a r\\` s e :\\i s` @ n ts"
     },
     {
       "w": "conversion",
-      "p": "kh @ n v a r\\` z` @ n"
+      "p": "kh @ n w a r\\` z` @ n"
     },
     {
       "w": "conversion's",
-      "p": "kh @ n v a r\\` z` @ n ts"
+      "p": "kh @ n w a r\\` z` @ n ts"
     },
     {
       "w": "conversions",
-      "p": "kh @ n v a r\\` z` @ n ts"
+      "p": "kh @ n w a r\\` z` @ n ts"
     },
     {
       "w": "converted",
-      "p": "kh @ n v a r\\` l i\\ t"
+      "p": "kh @ n w a r\\` l i\\ t"
     },
     {
       "w": "converter",
-      "p": "kh @ n v a r\\` l a r\\`"
+      "p": "kh @ n w a r\\` l a r\\`"
     },
     {
       "w": "convert",
-      "p": "kh A n v a r\\` th"
+      "p": "kh A n w a r\\` th"
     },
     {
       "w": "converts",
-      "p": "kh A n v a r\\` th s"
+      "p": "kh A n w a r\\` th s"
     },
     {
       "w": "conveyed",
-      "p": "kh @ n v e :\\i t"
+      "p": "kh @ n w e :\\i t"
     },
     {
       "w": "conveyer",
-      "p": "kh @ n v e :\\i a r\\`"
+      "p": "kh @ n w e :\\i a r\\`"
     },
     {
       "w": "convey",
-      "p": "kh @ n v e :\\i"
+      "p": "kh @ n w e :\\i"
     },
     {
       "w": "conveyor",
-      "p": "kh @ n v e :\\i a r\\`"
+      "p": "kh @ n w e :\\i a r\\`"
     },
     {
       "w": "conveys",
-      "p": "kh @ n v e :\\i ts"
+      "p": "kh @ n w e :\\i ts"
     },
     {
       "w": "convicted",
-      "p": "kh @ n v i\\ kh th @ t"
+      "p": "kh @ n w i\\ kh th @ t"
     },
     {
       "w": "conviction",
-      "p": "kh @ n v i\\ kh s` @ n"
+      "p": "kh @ n w i\\ kh s` @ n"
     },
     {
       "w": "convictions",
-      "p": "kh @ n v i\\ kh s` @ n ts"
+      "p": "kh @ n w i\\ kh s` @ n ts"
     },
     {
       "w": "convict",
-      "p": "kh A n v i\\ kh th"
+      "p": "kh A n w i\\ kh th"
     },
     {
       "w": "convict's",
-      "p": "kh A n v i\\ kh th s"
+      "p": "kh A n w i\\ kh th s"
     },
     {
       "w": "convicts",
-      "p": "kh A n v i\\ kh th s"
+      "p": "kh A n w i\\ kh th s"
     },
     {
       "w": "convinced",
-      "p": "kh @ n v i\\ n s th"
+      "p": "kh @ n w i\\ n s th"
     },
     {
       "w": "convince",
-      "p": "kh @ n v i\\ n s"
+      "p": "kh @ n w i\\ n s"
     },
     {
       "w": "convinces",
-      "p": "kh @ n v i\\ n s i\\ ts"
+      "p": "kh @ n w i\\ n s i\\ ts"
     },
     {
       "w": "cooked",
@@ -14150,15 +14150,15 @@
     },
     {
       "w": "cooperative",
-      "p": "kh @U A ph a r\\` e :\\i l i\\ v"
+      "p": "kh @U A ph a r\\` e :\\i l i\\ w"
     },
     {
       "w": "cooperatively",
-      "p": "kh @U A ph r\\` @ th i\\ v l i"
+      "p": "kh @U A ph r\\` @ th i\\ w l i"
     },
     {
       "w": "cooperatives",
-      "p": "kh @U A ph r\\` @ th i\\ v ts"
+      "p": "kh @U A ph r\\` @ th i\\ w ts"
     },
     {
       "w": "coordinated",
@@ -14814,31 +14814,31 @@
     },
     {
       "w": "coverage",
-      "p": "kh A v a r\\` @ ts`"
+      "p": "kh A w a r\\` @ ts`"
     },
     {
       "w": "coverages",
-      "p": "kh A v a r\\` @ ts` i\\ ts"
+      "p": "kh A w a r\\` @ ts` i\\ ts"
     },
     {
       "w": "covered",
-      "p": "kh A v a r\\` t"
+      "p": "kh A w a r\\` t"
     },
     {
       "w": "cover",
-      "p": "kh A v a r\\`"
+      "p": "kh A w a r\\`"
     },
     {
       "w": "covers",
-      "p": "kh A v a r\\` ts"
+      "p": "kh A w a r\\` ts"
     },
     {
       "w": "covert",
-      "p": "kh @U v a r\\` th"
+      "p": "kh @U w a r\\` th"
     },
     {
       "w": "coverup",
-      "p": "kh A v a r\\` A ph"
+      "p": "kh A w a r\\` A ph"
     },
     {
       "w": "cowan",
@@ -15010,15 +15010,15 @@
     },
     {
       "w": "creative",
-      "p": "kh r\\` ie :\\i l i\\ v"
+      "p": "kh r\\` ie :\\i l i\\ w"
     },
     {
       "w": "creatively",
-      "p": "kh r\\` ie :\\i l i\\ v l i"
+      "p": "kh r\\` ie :\\i l i\\ w l i"
     },
     {
       "w": "creativity",
-      "p": "kh r\\` ie :\\i th i\\ v @ th i"
+      "p": "kh r\\` ie :\\i th i\\ w @ th i"
     },
     {
       "w": "creature",
@@ -15378,7 +15378,7 @@
     },
     {
       "w": "cueva",
-      "p": "kh w e v @"
+      "p": "kh w e w @"
     },
     {
       "w": "cultural",
@@ -15506,15 +15506,15 @@
     },
     {
       "w": "curved",
-      "p": "kh a r\\` v t"
+      "p": "kh a r\\` w t"
     },
     {
       "w": "curve",
-      "p": "kh a r\\` v"
+      "p": "kh a r\\` w"
     },
     {
       "w": "curves",
-      "p": "kh a r\\` v ts"
+      "p": "kh a r\\` w ts"
     },
     {
       "w": "custody",
@@ -16362,11 +16362,11 @@
     },
     {
       "w": "defensive",
-      "p": "t i\\ f e n s i\\ v"
+      "p": "t i\\ f e n s i\\ w"
     },
     {
       "w": "defensively",
-      "p": "t i\\ f e n s i\\ v l i"
+      "p": "t i\\ f e n s i\\ w l i"
     },
     {
       "w": "deficit",
@@ -16454,23 +16454,23 @@
     },
     {
       "w": "deliver",
-      "p": "t i\\ l i\\ v a r\\`"
+      "p": "t i\\ l i\\ w a r\\`"
     },
     {
       "w": "delivered",
-      "p": "t i\\ l i\\ v a r\\` t"
+      "p": "t i\\ l i\\ w a r\\` t"
     },
     {
       "w": "deliverer",
-      "p": "t i\\ l i\\ v a r\\` a r\\`"
+      "p": "t i\\ l i\\ w a r\\` a r\\`"
     },
     {
       "w": "delivers",
-      "p": "t i\\ l i\\ v a r\\` ts"
+      "p": "t i\\ l i\\ w a r\\` ts"
     },
     {
       "w": "delivery",
-      "p": "t i\\ l i\\ v a r\\` i"
+      "p": "t i\\ l i\\ w a r\\` i"
     },
     {
       "w": "demand",
@@ -16702,15 +16702,15 @@
     },
     {
       "w": "derived",
-      "p": "t a r\\` a :\\i v t"
+      "p": "t a r\\` a :\\i w t"
     },
     {
       "w": "derive",
-      "p": "t a r\\` a :\\i v"
+      "p": "t a r\\` a :\\i w"
     },
     {
       "w": "derives",
-      "p": "t a r\\` a :\\i v ts"
+      "p": "t a r\\` a :\\i w ts"
     },
     {
       "w": "descend",
@@ -16762,15 +16762,15 @@
     },
     {
       "w": "deserved",
-      "p": "t i\\ ts a r\\` v t"
+      "p": "t i\\ ts a r\\` w t"
     },
     {
       "w": "deserve",
-      "p": "t i\\ ts a r\\` v"
+      "p": "t i\\ ts a r\\` w"
     },
     {
       "w": "deserves",
-      "p": "t i\\ ts a r\\` v ts"
+      "p": "t i\\ ts a r\\` w ts"
     },
     {
       "w": "design",
@@ -16914,15 +16914,15 @@
     },
     {
       "w": "detective",
-      "p": "t i\\ th e kh th i\\ v"
+      "p": "t i\\ th e kh th i\\ w"
     },
     {
       "w": "detective's",
-      "p": "t i\\ th e kh th i\\ v ts"
+      "p": "t i\\ th e kh th i\\ w ts"
     },
     {
       "w": "detectives",
-      "p": "t i\\ th e kh th i\\ v ts"
+      "p": "t i\\ th e kh th i\\ w ts"
     },
     {
       "w": "detector",
@@ -16958,115 +16958,115 @@
     },
     {
       "w": "devastating",
-      "p": "t e v @ s th e :\\i l i\\ N"
+      "p": "t e w @ s th e :\\i l i\\ N"
     },
     {
       "w": "devastatingly",
-      "p": "t e v @ s th e :\\i l i\\ N l i"
+      "p": "t e w @ s th e :\\i l i\\ N l i"
     },
     {
       "w": "develop",
-      "p": "t i\\ v e l @ ph"
+      "p": "t i\\ w e l @ ph"
     },
     {
       "w": "developed",
-      "p": "t i\\ v e l @ ph th"
+      "p": "t i\\ w e l @ ph th"
     },
     {
       "w": "developer",
-      "p": "t i\\ v e l @ ph a r\\`"
+      "p": "t i\\ w e l @ ph a r\\`"
     },
     {
       "w": "developer's",
-      "p": "t i\\ v e l @ ph a r\\` ts"
+      "p": "t i\\ w e l @ ph a r\\` ts"
     },
     {
       "w": "developers'",
-      "p": "t i\\ v e l @ ph a r\\` ts"
+      "p": "t i\\ w e l @ ph a r\\` ts"
     },
     {
       "w": "developers",
-      "p": "t i\\ v e l @ ph a r\\` ts"
+      "p": "t i\\ w e l @ ph a r\\` ts"
     },
     {
       "w": "developing",
-      "p": "t i\\ v e l @ ph i\\ N"
+      "p": "t i\\ w e l @ ph i\\ N"
     },
     {
       "w": "developmental",
-      "p": "t i\\ v e l @ ph m e n th @ l"
+      "p": "t i\\ w e l @ ph m e n th @ l"
     },
     {
       "w": "developmentally",
-      "p": "t i\\ v e l @ ph m e n @ l i"
+      "p": "t i\\ w e l @ ph m e n @ l i"
     },
     {
       "w": "development",
-      "p": "t i\\ v e l @ ph m @ n th"
+      "p": "t i\\ w e l @ ph m @ n th"
     },
     {
       "w": "development's",
-      "p": "t i\\ v e l @ ph m @ n th s"
+      "p": "t i\\ w e l @ ph m @ n th s"
     },
     {
       "w": "developments",
-      "p": "t i\\ v e l @ ph m @ n th s"
+      "p": "t i\\ w e l @ ph m @ n th s"
     },
     {
       "w": "develops",
-      "p": "t i\\ v e l @ ph s"
+      "p": "t i\\ w e l @ ph s"
     },
     {
       "w": "device",
-      "p": "t i\\ v a :\\i s"
+      "p": "t i\\ w a :\\i s"
     },
     {
       "w": "devices",
-      "p": "t i\\ v a :\\i s @ ts"
+      "p": "t i\\ w a :\\i s @ ts"
     },
     {
       "w": "device's",
-      "p": "t i\\ v a :\\i s i\\ ts"
+      "p": "t i\\ w a :\\i s i\\ ts"
     },
     {
       "w": "devil",
-      "p": "t e v @ l"
+      "p": "t e w @ l"
     },
     {
       "w": "deville",
-      "p": "t @ v i\\ l"
+      "p": "t @ w i\\ l"
     },
     {
       "w": "devil's",
-      "p": "t e v @ l ts"
+      "p": "t e w @ l ts"
     },
     {
       "w": "devils'",
-      "p": "t e v @ l ts"
+      "p": "t e w @ l ts"
     },
     {
       "w": "devils",
-      "p": "t e v @ l ts"
+      "p": "t e w @ l ts"
     },
     {
       "w": "devoted",
-      "p": "t i\\ v @U l @ t"
+      "p": "t i\\ w @U l @ t"
     },
     {
       "w": "devote",
-      "p": "t i\\ v @U th"
+      "p": "t i\\ w @U th"
     },
     {
       "w": "devotee",
-      "p": "t e v @ th i"
+      "p": "t e w @ th i"
     },
     {
       "w": "devotees",
-      "p": "t e v @ th i ts"
+      "p": "t e w @ th i ts"
     },
     {
       "w": "devotes",
-      "p": "t i\\ v @U th s"
+      "p": "t i\\ w @U th s"
     },
     {
       "w": "diabetes",
@@ -17442,7 +17442,7 @@
     },
     {
       "w": "directv",
-      "p": "t a r\\` e kh th i v i"
+      "p": "t a r\\` e kh th i w i"
     },
     {
       "w": "dirt",
@@ -17586,27 +17586,27 @@
     },
     {
       "w": "discover",
-      "p": "t i\\ s kh A v a r\\`"
+      "p": "t i\\ s kh A w a r\\`"
     },
     {
       "w": "discovered",
-      "p": "t i\\ s kh A v a r\\` t"
+      "p": "t i\\ s kh A w a r\\` t"
     },
     {
       "w": "discoverer",
-      "p": "t i\\ s kh A v @ r\\` a r\\`"
+      "p": "t i\\ s kh A w @ r\\` a r\\`"
     },
     {
       "w": "discovers",
-      "p": "t i\\ s kh A v a r\\` ts"
+      "p": "t i\\ s kh A w a r\\` ts"
     },
     {
       "w": "discovery",
-      "p": "t i\\ s kh A v a r\\` i"
+      "p": "t i\\ s kh A w a r\\` i"
     },
     {
       "w": "discovery's",
-      "p": "t i\\ s kh A v a r\\` i ts"
+      "p": "t i\\ s kh A w a r\\` i ts"
     },
     {
       "w": "discrimination",
@@ -17750,23 +17750,23 @@
     },
     {
       "w": "dissolved",
-      "p": "t i\\ ts A l v t"
+      "p": "t i\\ ts A l w t"
     },
     {
       "w": "dissolve",
-      "p": "t i\\ ts A l v"
+      "p": "t i\\ ts A l w"
     },
     {
       "w": "dissolver",
-      "p": "t i\\ ts A l v a r\\`"
+      "p": "t i\\ ts A l w a r\\`"
     },
     {
       "w": "dissolvers",
-      "p": "t i\\ ts A l v a r\\` ts"
+      "p": "t i\\ ts A l w a r\\` ts"
     },
     {
       "w": "dissolves",
-      "p": "t i\\ ts A l v ts"
+      "p": "t i\\ ts A l w ts"
     },
     {
       "w": "distanced",
@@ -17798,11 +17798,11 @@
     },
     {
       "w": "distinctive",
-      "p": "t i\\ s th i\\ N kh th i\\ v"
+      "p": "t i\\ s th i\\ N kh th i\\ w"
     },
     {
       "w": "distinctively",
-      "p": "t i\\ s th i\\ N kh th i\\ v l i"
+      "p": "t i\\ s th i\\ N kh th i\\ w l i"
     },
     {
       "w": "distinctly",
@@ -17886,79 +17886,79 @@
     },
     {
       "w": "diverse",
-      "p": "t a :\\i v a r\\` s"
+      "p": "t a :\\i w a r\\` s"
     },
     {
       "w": "diversity",
-      "p": "t i\\ v a r\\` s i\\ th i"
+      "p": "t i\\ w a r\\` s i\\ th i"
     },
     {
       "w": "divided",
-      "p": "t i\\ v a :\\i l i\\ t"
+      "p": "t i\\ w a :\\i l i\\ t"
     },
     {
       "w": "divide",
-      "p": "t i\\ v a :\\i t"
+      "p": "t i\\ w a :\\i t"
     },
     {
       "w": "dividend",
-      "p": "t i\\ v i\\ t e n t"
+      "p": "t i\\ w i\\ t e n t"
     },
     {
       "w": "divider",
-      "p": "t i\\ v a :\\i l a r\\`"
+      "p": "t i\\ w a :\\i l a r\\`"
     },
     {
       "w": "divides",
-      "p": "t i\\ v a :\\i t ts"
+      "p": "t i\\ w a :\\i t ts"
     },
     {
       "w": "divine",
-      "p": "t i\\ v a :\\i n"
+      "p": "t i\\ w a :\\i n"
     },
     {
       "w": "divinely",
-      "p": "t i\\ v a :\\i n l i"
+      "p": "t i\\ w a :\\i n l i"
     },
     {
       "w": "diviney",
-      "p": "t i\\ v i\\ n i"
+      "p": "t i\\ w i\\ n i"
     },
     {
       "w": "divisional",
-      "p": "t i\\ v i\\ z` @ n @ l"
+      "p": "t i\\ w i\\ z` @ n @ l"
     },
     {
       "w": "division",
-      "p": "t i\\ v i\\ z` @ n"
+      "p": "t i\\ w i\\ z` @ n"
     },
     {
       "w": "division's",
-      "p": "t i\\ v i\\ z` @ n ts"
+      "p": "t i\\ w i\\ z` @ n ts"
     },
     {
       "w": "divisions'",
-      "p": "t i\\ v i\\ z` @ n ts"
+      "p": "t i\\ w i\\ z` @ n ts"
     },
     {
       "w": "divisions",
-      "p": "t i\\ v i\\ z` @ n ts"
+      "p": "t i\\ w i\\ z` @ n ts"
     },
     {
       "w": "divorced",
-      "p": "t i\\ v o r\\` s th"
+      "p": "t i\\ w o r\\` s th"
     },
     {
       "w": "divorce",
-      "p": "t i\\ v o r\\` s"
+      "p": "t i\\ w o r\\` s"
     },
     {
       "w": "divorcee",
-      "p": "t @ v o r\\` s i"
+      "p": "t @ w o r\\` s i"
     },
     {
       "w": "divorces",
-      "p": "t i\\ v o r\\` s i\\ ts"
+      "p": "t i\\ w o r\\` s i\\ ts"
     },
     {
       "w": "dk",
@@ -18570,11 +18570,11 @@
     },
     {
       "w": "dov",
-      "p": "t A v"
+      "p": "t A w"
     },
     {
       "w": "dove",
-      "p": "t A v"
+      "p": "t A w"
     },
     {
       "w": "dow",
@@ -18810,7 +18810,7 @@
     },
     {
       "w": "dr",
-      "p": "d r\\` a :\\i v"
+      "p": "d r\\` a :\\i w"
     },
     {
       "w": "dream",
@@ -18922,51 +18922,51 @@
     },
     {
       "w": "drive",
-      "p": "d r\\` a :\\i v"
+      "p": "d r\\` a :\\i w"
     },
     {
       "w": "drivel",
-      "p": "d r\\` i\\ v @ l"
+      "p": "d r\\` i\\ w @ l"
     },
     {
       "w": "driven",
-      "p": "d r\\` i\\ v @ n"
+      "p": "d r\\` i\\ w @ n"
     },
     {
       "w": "driver",
-      "p": "d r\\` a :\\i v a r\\`"
+      "p": "d r\\` a :\\i w a r\\`"
     },
     {
       "w": "driver's",
-      "p": "d r\\` a :\\i v a r\\` ts"
+      "p": "d r\\` a :\\i w a r\\` ts"
     },
     {
       "w": "drivers'",
-      "p": "d r\\` a :\\i v a r\\` ts"
+      "p": "d r\\` a :\\i w a r\\` ts"
     },
     {
       "w": "drivers",
-      "p": "d r\\` a :\\i v a r\\` ts"
+      "p": "d r\\` a :\\i w a r\\` ts"
     },
     {
       "w": "drive's",
-      "p": "d r\\` a :\\i v ts"
+      "p": "d r\\` a :\\i w ts"
     },
     {
       "w": "drives",
-      "p": "d r\\` a :\\i v ts"
+      "p": "d r\\` a :\\i w ts"
     },
     {
       "w": "driveway",
-      "p": "d r\\` a :\\i v w e :\\i"
+      "p": "d r\\` a :\\i w w e :\\i"
     },
     {
       "w": "driveways",
-      "p": "d r\\` a :\\i v w e :\\i ts"
+      "p": "d r\\` a :\\i w w e :\\i ts"
     },
     {
       "w": "driving",
-      "p": "d r\\` a :\\i v i\\ N"
+      "p": "d r\\` a :\\i w i\\ N"
     },
     {
       "w": "drop",
@@ -19662,15 +19662,15 @@
     },
     {
       "w": "effective",
-      "p": "i\\ f e kh th i\\ v"
+      "p": "i\\ f e kh th i\\ w"
     },
     {
       "w": "effectively",
-      "p": "i\\ f e kh th i\\ v l i"
+      "p": "i\\ f e kh th i\\ w l i"
     },
     {
       "w": "effectiveness",
-      "p": "i\\ f e kh th i\\ v n @ s"
+      "p": "i\\ f e kh th i\\ w n @ s"
     },
     {
       "w": "effects",
@@ -19958,27 +19958,27 @@
     },
     {
       "w": "elevator",
-      "p": "e l @ v e :\\i l a r\\`"
+      "p": "e l @ w e :\\i l a r\\`"
     },
     {
       "w": "elevators",
-      "p": "e l @ v e :\\i l a r\\` ts"
+      "p": "e l @ w e :\\i l a r\\` ts"
     },
     {
       "w": "eleven",
-      "p": "i\\ l e v @ n"
+      "p": "i\\ l e w @ n"
     },
     {
       "w": "eleven's",
-      "p": "i\\ l e v @ n ts"
+      "p": "i\\ l e w @ n ts"
     },
     {
       "w": "elevens",
-      "p": "i\\ l e v @ n ts"
+      "p": "i\\ l e w @ n ts"
     },
     {
       "w": "eleventh",
-      "p": "i\\ l e v @ n s"
+      "p": "i\\ l e w @ n s"
     },
     {
       "w": "eligible",
@@ -20634,47 +20634,47 @@
     },
     {
       "w": "enveloped",
-      "p": "e n v e l @ ph th"
+      "p": "e n w e l @ ph th"
     },
     {
       "w": "envelope",
-      "p": "e n v @ l @U ph"
+      "p": "e n w @ l @U ph"
     },
     {
       "w": "envelopes",
-      "p": "e n v @ l @U ph s"
+      "p": "e n w @ l @U ph s"
     },
     {
       "w": "environmental",
-      "p": "i\\ n v a :\\i r\\` @ n m e n th @ l"
+      "p": "i\\ n w a :\\i r\\` @ n m e n th @ l"
     },
     {
       "w": "environmentally",
-      "p": "i\\ n v a :\\i r\\` @ n m e n th @ l i"
+      "p": "i\\ n w a :\\i r\\` @ n m e n th @ l i"
     },
     {
       "w": "environment",
-      "p": "i\\ n v a :\\i r\\` @ n m @ n th"
+      "p": "i\\ n w a :\\i r\\` @ n m @ n th"
     },
     {
       "w": "environment's",
-      "p": "i\\ n v a :\\i r\\` @ n m @ n th s"
+      "p": "i\\ n w a :\\i r\\` @ n m @ n th s"
     },
     {
       "w": "environments",
-      "p": "i\\ n v a :\\i r\\` @ n m @ n th s"
+      "p": "i\\ n w a :\\i r\\` @ n m @ n th s"
     },
     {
       "w": "envisioned",
-      "p": "e n v i\\ z` @ n t"
+      "p": "e n w i\\ z` @ n t"
     },
     {
       "w": "envision",
-      "p": "e n v i\\ z` @ n"
+      "p": "e n w i\\ z` @ n"
     },
     {
       "w": "envisions",
-      "p": "e n v i\\ z` @ n ts"
+      "p": "e n w i\\ z` @ n ts"
     },
     {
       "w": "epidemic",
@@ -20750,11 +20750,11 @@
     },
     {
       "w": "equivalent",
-      "p": "i\\ kh w i\\ v @ l @ n th"
+      "p": "i\\ kh w i\\ w @ l @ n th"
     },
     {
       "w": "equivalents",
-      "p": "i\\ kh w i\\ v @ l @ n th s"
+      "p": "i\\ kh w i\\ w @ l @ n th s"
     },
     {
       "w": "era",
@@ -20938,191 +20938,191 @@
     },
     {
       "w": "evaluated",
-      "p": "i\\ v a l j ue :\\i l @ t"
+      "p": "i\\ w a l j ue :\\i l @ t"
     },
     {
       "w": "evaluate",
-      "p": "i\\ v a l j ue :\\i th"
+      "p": "i\\ w a l j ue :\\i th"
     },
     {
       "w": "evaluates",
-      "p": "i\\ v a l j ue :\\i th s"
+      "p": "i\\ w a l j ue :\\i th s"
     },
     {
       "w": "evaluation",
-      "p": "i\\ v a l j ue :\\i s` @ n"
+      "p": "i\\ w a l j ue :\\i s` @ n"
     },
     {
       "w": "evaluations",
-      "p": "i\\ v a l j ue :\\i s` @ n ts"
+      "p": "i\\ w a l j ue :\\i s` @ n ts"
     },
     {
       "w": "ev",
-      "p": "e v"
+      "p": "e w"
     },
     {
       "w": "evened",
-      "p": "i v @ n t"
+      "p": "i w @ n t"
     },
     {
       "w": "evening",
-      "p": "i v n i\\ N"
+      "p": "i w n i\\ N"
     },
     {
       "w": "evening's",
-      "p": "i v n i\\ N ts"
+      "p": "i w n i\\ N ts"
     },
     {
       "w": "evenings",
-      "p": "i v n i\\ N ts"
+      "p": "i w n i\\ N ts"
     },
     {
       "w": "even",
-      "p": "i v i\\ n"
+      "p": "i w i\\ n"
     },
     {
       "w": "evenly",
-      "p": "i v @ n l i"
+      "p": "i w @ n l i"
     },
     {
       "w": "evens",
-      "p": "i v @ n ts"
+      "p": "i w @ n ts"
     },
     {
       "w": "event",
-      "p": "i\\ v e n th"
+      "p": "i\\ w e n th"
     },
     {
       "w": "event's",
-      "p": "i\\ v e n th s"
+      "p": "i\\ w e n th s"
     },
     {
       "w": "events",
-      "p": "i\\ v e n th s"
+      "p": "i\\ w e n th s"
     },
     {
       "w": "eventually",
-      "p": "i\\ v e n ts`h @ w @ l i"
+      "p": "i\\ w e n ts`h @ w @ l i"
     },
     {
       "w": "evered",
-      "p": "e v a r\\` t"
+      "p": "e w a r\\` t"
     },
     {
       "w": "ever",
-      "p": "e v a r\\`"
+      "p": "e w a r\\`"
     },
     {
       "w": "everex",
-      "p": "e v a r\\` @ kh s"
+      "p": "e w a r\\` @ kh s"
     },
     {
       "w": "everly",
-      "p": "e v a r\\` l i"
+      "p": "e w a r\\` l i"
     },
     {
       "w": "evers'",
-      "p": "e v a r\\` ts"
+      "p": "e w a r\\` ts"
     },
     {
       "w": "evers",
-      "p": "e v a r\\` ts"
+      "p": "e w a r\\` ts"
     },
     {
       "w": "evert",
-      "p": "i\\ v a r\\` th"
+      "p": "i\\ w a r\\` th"
     },
     {
       "w": "everts",
-      "p": "e v a r\\` th s"
+      "p": "e w a r\\` th s"
     },
     {
       "w": "everybody'd",
-      "p": "e v r\\` i p A t i t"
+      "p": "e w r\\` i p A t i t"
     },
     {
       "w": "everybody",
-      "p": "e v r\\` i p A t i"
+      "p": "e w r\\` i p A t i"
     },
     {
       "w": "everybody's",
-      "p": "e v r\\` i p A t i ts"
+      "p": "e w r\\` i p A t i ts"
     },
     {
       "w": "everyday",
-      "p": "e v r\\` i t e :\\i"
+      "p": "e w r\\` i t e :\\i"
     },
     {
       "w": "every",
-      "p": "e v a r\\` i"
+      "p": "e w a r\\` i"
     },
     {
       "w": "everyone",
-      "p": "e v r\\` i w A n"
+      "p": "e w r\\` i w A n"
     },
     {
       "w": "everyone's",
-      "p": "e v r\\` i w A n ts"
+      "p": "e w r\\` i w A n ts"
     },
     {
       "w": "everything",
-      "p": "e v r\\` i s i\\ N"
+      "p": "e w r\\` i s i\\ N"
     },
     {
       "w": "everything's",
-      "p": "e v r\\` i s i\\ N ts"
+      "p": "e w r\\` i s i\\ N ts"
     },
     {
       "w": "everythings",
-      "p": "e v r\\` i s i\\ N ts"
+      "p": "e w r\\` i s i\\ N ts"
     },
     {
       "w": "everywhere",
-      "p": "e v r\\` i w e r\\`"
+      "p": "e w r\\` i w e r\\`"
     },
     {
       "w": "evidenced",
-      "p": "e v i\\ t @ n s th"
+      "p": "e w i\\ t @ n s th"
     },
     {
       "w": "evidence",
-      "p": "e v @ t @ n s"
+      "p": "e w @ t @ n s"
     },
     {
       "w": "evidences",
-      "p": "e v @ t @ n s @ ts"
+      "p": "e w @ t @ n s @ ts"
     },
     {
       "w": "evident",
-      "p": "e v @ t @ n th"
+      "p": "e w @ t @ n th"
     },
     {
       "w": "evidently",
-      "p": "e v @ t @ n th l i"
+      "p": "e w @ t @ n th l i"
     },
     {
       "w": "evil",
-      "p": "i v @ l"
+      "p": "i w @ l"
     },
     {
       "w": "evils",
-      "p": "i v @ l ts"
+      "p": "i w @ l ts"
     },
     {
       "w": "evolution",
-      "p": "e v @ l u s` @ n"
+      "p": "e w @ l u s` @ n"
     },
     {
       "w": "evolved",
-      "p": "i\\ v A l v t"
+      "p": "i\\ w A l w t"
     },
     {
       "w": "evolve",
-      "p": "i\\ v A l v"
+      "p": "i\\ w A l w"
     },
     {
       "w": "evolves",
-      "p": "i\\ v A l v ts"
+      "p": "i\\ w A l w ts"
     },
     {
       "w": "exacted",
@@ -21230,11 +21230,11 @@
     },
     {
       "w": "excessive",
-      "p": "i\\ kh s e s i\\ v"
+      "p": "i\\ kh s e s i\\ w"
     },
     {
       "w": "excessively",
-      "p": "i\\ kh s e s i\\ v l i"
+      "p": "i\\ kh s e s i\\ w l i"
     },
     {
       "w": "exchanged",
@@ -21294,15 +21294,15 @@
     },
     {
       "w": "exclusive",
-      "p": "i\\ kh s kh l u s i\\ v"
+      "p": "i\\ kh s kh l u s i\\ w"
     },
     {
       "w": "exclusively",
-      "p": "i\\ kh s kh l u s i\\ v l i"
+      "p": "i\\ kh s kh l u s i\\ w l i"
     },
     {
       "w": "exclusives",
-      "p": "i\\ kh s kh l u s i\\ v ts"
+      "p": "i\\ kh s kh l u s i\\ w ts"
     },
     {
       "w": "excused",
@@ -21342,19 +21342,19 @@
     },
     {
       "w": "executive",
-      "p": "i\\ k ts e kh j @ th i\\ v"
+      "p": "i\\ k ts e kh j @ th i\\ w"
     },
     {
       "w": "executive's",
-      "p": "e k ts e kh j @ th i\\ v ts"
+      "p": "e k ts e kh j @ th i\\ w ts"
     },
     {
       "w": "executives'",
-      "p": "e k ts e kh j @ th i\\ v ts"
+      "p": "e k ts e kh j @ th i\\ w ts"
     },
     {
       "w": "executives",
-      "p": "i\\ k ts e kh j @ th i\\ v ts"
+      "p": "i\\ k ts e kh j @ th i\\ w ts"
     },
     {
       "w": "ex",
@@ -21522,11 +21522,11 @@
     },
     {
       "w": "expensive",
-      "p": "i\\ kh s ph e n s i\\ v"
+      "p": "i\\ kh s ph e n s i\\ w"
     },
     {
       "w": "expensively",
-      "p": "e kh s ph e n s i\\ v l i"
+      "p": "e kh s ph e n s i\\ w l i"
     },
     {
       "w": "experienced",
@@ -21786,11 +21786,11 @@
     },
     {
       "w": "extensive",
-      "p": "i\\ kh s th e n s i\\ v"
+      "p": "i\\ kh s th e n s i\\ w"
     },
     {
       "w": "extensively",
-      "p": "i\\ kh s th e n s i\\ v l i"
+      "p": "i\\ kh s th e n s i\\ w l i"
     },
     {
       "w": "extent",
@@ -22370,7 +22370,7 @@
     },
     {
       "w": "farve",
-      "p": "f A r\\` v e :\\i"
+      "p": "f A r\\` w e :\\i"
     },
     {
       "w": "fascinating",
@@ -22526,27 +22526,27 @@
     },
     {
       "w": "favorable",
-      "p": "f e :\\i v a r\\` @ p @ l"
+      "p": "f e :\\i w a r\\` @ p @ l"
     },
     {
       "w": "favored",
-      "p": "f e :\\i v a r\\` t"
+      "p": "f e :\\i w a r\\` t"
     },
     {
       "w": "favor",
-      "p": "f e :\\i v a r\\`"
+      "p": "f e :\\i w a r\\`"
     },
     {
       "w": "favorite",
-      "p": "f e :\\i v a r\\` i\\ th"
+      "p": "f e :\\i w a r\\` i\\ th"
     },
     {
       "w": "favorites",
-      "p": "f e :\\i v a r\\` i\\ th s"
+      "p": "f e :\\i w a r\\` i\\ th s"
     },
     {
       "w": "favors",
-      "p": "f e :\\i v a r\\` ts"
+      "p": "f e :\\i w a r\\` ts"
     },
     {
       "w": "feared",
@@ -22742,27 +22742,27 @@
     },
     {
       "w": "festival",
-      "p": "f e s th @ v @ l"
+      "p": "f e s th @ w @ l"
     },
     {
       "w": "festivals",
-      "p": "f e s th @ v @ l ts"
+      "p": "f e s th @ w @ l ts"
     },
     {
       "w": "festival's",
-      "p": "f e s th i\\ v @ l ts"
+      "p": "f e s th i\\ w @ l ts"
     },
     {
       "w": "fevered",
-      "p": "f i v a r\\` t"
+      "p": "f i w a r\\` t"
     },
     {
       "w": "fever",
-      "p": "f i v a r\\`"
+      "p": "f i w a r\\`"
     },
     {
       "w": "fevers",
-      "p": "f i v a r\\` ts"
+      "p": "f i w a r\\` ts"
     },
     {
       "w": "fewer",
@@ -23350,15 +23350,15 @@
     },
     {
       "w": "five",
-      "p": "f a :\\i v"
+      "p": "f a :\\i w"
     },
     {
       "w": "five's",
-      "p": "f a :\\i v ts"
+      "p": "f a :\\i w ts"
     },
     {
       "w": "fives",
-      "p": "f a :\\i v ts"
+      "p": "f a :\\i w ts"
     },
     {
       "w": "fixed",
@@ -23986,7 +23986,7 @@
     },
     {
       "w": "forever",
-      "p": "f a r\\` e v a r\\`"
+      "p": "f a r\\` e w a r\\`"
     },
     {
       "w": "forex",
@@ -24014,15 +24014,15 @@
     },
     {
       "w": "forgive",
-      "p": "f a r\\` k i\\ v"
+      "p": "f a r\\` k i\\ w"
     },
     {
       "w": "forgiven",
-      "p": "f a r\\` k i\\ v @ n"
+      "p": "f a r\\` k i\\ w @ n"
     },
     {
       "w": "forgives",
-      "p": "f a r\\` k i\\ v ts"
+      "p": "f a r\\` k i\\ w ts"
     },
     {
       "w": "forgo",
@@ -25466,11 +25466,11 @@
     },
     {
       "w": "geneva",
-      "p": "ts` @ n i v @"
+      "p": "ts` @ n i w @"
     },
     {
       "w": "geneve",
-      "p": "ts` @ n i v"
+      "p": "ts` @ n i w"
     },
     {
       "w": "genex",
@@ -25642,31 +25642,31 @@
     },
     {
       "w": "give",
-      "p": "k i\\ v"
+      "p": "k i\\ w"
     },
     {
       "w": "given",
-      "p": "k i\\ v @ n"
+      "p": "k i\\ w @ n"
     },
     {
       "w": "givens",
-      "p": "k i\\ v @ n ts"
+      "p": "k i\\ w @ n ts"
     },
     {
       "w": "giver",
-      "p": "k i\\ v a r\\`"
+      "p": "k i\\ w a r\\`"
     },
     {
       "w": "givers",
-      "p": "k i\\ v a r\\` ts"
+      "p": "k i\\ w a r\\` ts"
     },
     {
       "w": "gives",
-      "p": "k i\\ v ts"
+      "p": "k i\\ w ts"
     },
     {
       "w": "giveth",
-      "p": "k i\\ v e s"
+      "p": "k i\\ w e s"
     },
     {
       "w": "g.",
@@ -25806,19 +25806,19 @@
     },
     {
       "w": "gloved",
-      "p": "k l A v t"
+      "p": "k l A w t"
     },
     {
       "w": "glove",
-      "p": "k l A v"
+      "p": "k l A w"
     },
     {
       "w": "glover",
-      "p": "k l A v a r\\`"
+      "p": "k l A w a r\\`"
     },
     {
       "w": "gloves",
-      "p": "k l A v ts"
+      "p": "k l A w ts"
     },
     {
       "w": "goad",
@@ -26190,63 +26190,63 @@
     },
     {
       "w": "gove",
-      "p": "k @U v"
+      "p": "k @U w"
     },
     {
       "w": "governed",
-      "p": "k A v a r\\` n t"
+      "p": "k A w a r\\` n t"
     },
     {
       "w": "govern",
-      "p": "k A v a r\\` n"
+      "p": "k A w a r\\` n"
     },
     {
       "w": "governmental",
-      "p": "k A v a r\\` m e n th @ l"
+      "p": "k A w a r\\` m e n th @ l"
     },
     {
       "w": "government",
-      "p": "k A v a r\\` n m @ n th"
+      "p": "k A w a r\\` n m @ n th"
     },
     {
       "w": "government's",
-      "p": "k A v a r\\` n m @ n th s"
+      "p": "k A w a r\\` n m @ n th s"
     },
     {
       "w": "governments'",
-      "p": "k A v a r\\` n m @ n th s"
+      "p": "k A w a r\\` n m @ n th s"
     },
     {
       "w": "governments",
-      "p": "k A v a r\\` n m @ n th s"
+      "p": "k A w a r\\` n m @ n th s"
     },
     {
       "w": "governor",
-      "p": "k A v a r\\` n a r\\`"
+      "p": "k A w a r\\` n a r\\`"
     },
     {
       "w": "governor's",
-      "p": "k A v a r\\` n a r\\` ts"
+      "p": "k A w a r\\` n a r\\` ts"
     },
     {
       "w": "governors'",
-      "p": "k A v a r\\` n a r\\` ts"
+      "p": "k A w a r\\` n a r\\` ts"
     },
     {
       "w": "governors",
-      "p": "k A v a r\\` n a r\\` ts"
+      "p": "k A w a r\\` n a r\\` ts"
     },
     {
       "w": "governs",
-      "p": "k A v a r\\` n ts"
+      "p": "k A w a r\\` n ts"
     },
     {
       "w": "gov",
-      "p": "k A v"
+      "p": "k A w"
     },
     {
       "w": "govs",
-      "p": "k A v ts"
+      "p": "k A w ts"
     },
     {
       "w": "gow",
@@ -26622,43 +26622,43 @@
     },
     {
       "w": "grave",
-      "p": "k r\\` e :\\i v"
+      "p": "k r\\` e :\\i w"
     },
     {
       "w": "gravel",
-      "p": "k r\\` a v @ l"
+      "p": "k r\\` a w @ l"
     },
     {
       "w": "gravell",
-      "p": "k r\\` a v @ l"
+      "p": "k r\\` a w @ l"
     },
     {
       "w": "gravely",
-      "p": "k r\\` e :\\i v l i"
+      "p": "k r\\` e :\\i w l i"
     },
     {
       "w": "graven",
-      "p": "k r\\` e :\\i v @ n"
+      "p": "k r\\` e :\\i w @ n"
     },
     {
       "w": "graver",
-      "p": "k r\\` e :\\i v a r\\`"
+      "p": "k r\\` e :\\i w a r\\`"
     },
     {
       "w": "graves",
-      "p": "k r\\` e :\\i v ts"
+      "p": "k r\\` e :\\i w ts"
     },
     {
       "w": "gravest",
-      "p": "k r\\` a v @ s th"
+      "p": "k r\\` a w @ s th"
     },
     {
       "w": "gravett",
-      "p": "k r\\` a v i\\ th"
+      "p": "k r\\` a w i\\ th"
     },
     {
       "w": "gravity",
-      "p": "k r\\` a v @ th i"
+      "p": "k r\\` a w @ th i"
     },
     {
       "w": "graye",
@@ -27910,23 +27910,23 @@
     },
     {
       "w": "harvested",
-      "p": "x A r\\` v @ s th i\\ t"
+      "p": "x A r\\` w @ s th i\\ t"
     },
     {
       "w": "harvester",
-      "p": "x A r\\` v @ s th a r\\`"
+      "p": "x A r\\` w @ s th a r\\`"
     },
     {
       "w": "harvest",
-      "p": "x A r\\` v @ s th"
+      "p": "x A r\\` w @ s th"
     },
     {
       "w": "harvests",
-      "p": "x A r\\` v @ s th s"
+      "p": "x A r\\` w @ s th s"
     },
     {
       "w": "harv",
-      "p": "x A r\\` v"
+      "p": "x A r\\` w"
     },
     {
       "w": "hase",
@@ -28070,31 +28070,31 @@
     },
     {
       "w": "have",
-      "p": "x a v"
+      "p": "x a w"
     },
     {
       "w": "havel",
-      "p": "x a v @ l"
+      "p": "x a w @ l"
     },
     {
       "w": "haven",
-      "p": "x e :\\i v @ n"
+      "p": "x e :\\i w @ n"
     },
     {
       "w": "havens",
-      "p": "x e :\\i v @ n ts"
+      "p": "x e :\\i w @ n ts"
     },
     {
       "w": "haver",
-      "p": "x e v a r\\`"
+      "p": "x e w a r\\`"
     },
     {
       "w": "haves",
-      "p": "x a v ts"
+      "p": "x a w ts"
     },
     {
       "w": "havey",
-      "p": "x e :\\i v i"
+      "p": "x e :\\i w i"
     },
     {
       "w": "hawe",
@@ -28406,31 +28406,31 @@
     },
     {
       "w": "heavener",
-      "p": "x e v @ n a r\\`"
+      "p": "x e w @ n a r\\`"
     },
     {
       "w": "heaven",
-      "p": "x e v @ n"
+      "p": "x e w @ n"
     },
     {
       "w": "heavenly",
-      "p": "x e v @ n l i"
+      "p": "x e w @ n l i"
     },
     {
       "w": "heaven's",
-      "p": "x e v @ n ts"
+      "p": "x e w @ n ts"
     },
     {
       "w": "heavens",
-      "p": "x e v @ n ts"
+      "p": "x e w @ n ts"
     },
     {
       "w": "heavily",
-      "p": "x e v @ l i"
+      "p": "x e w @ l i"
     },
     {
       "w": "heavy",
-      "p": "x e v i"
+      "p": "x e w i"
     },
     {
       "w": "hebb",
@@ -28958,7 +28958,7 @@
     },
     {
       "w": "herve",
-      "p": "x a r\\` v"
+      "p": "x a r\\` w"
     },
     {
       "w": "herz",
@@ -29514,7 +29514,7 @@
     },
     {
       "w": "hive",
-      "p": "x a :\\i v"
+      "p": "x a :\\i w"
     },
     {
       "w": "hix",
@@ -30098,7 +30098,7 @@
     },
     {
       "w": "however",
-      "p": "x AU e v a r\\`"
+      "p": "x AU e w a r\\`"
     },
     {
       "w": "howey",
@@ -30802,31 +30802,31 @@
     },
     {
       "w": "impressive",
-      "p": "i\\ m ph r\\` e s i\\ v"
+      "p": "i\\ m ph r\\` e s i\\ w"
     },
     {
       "w": "impressively",
-      "p": "i\\ m ph r\\` e s i\\ v l i"
+      "p": "i\\ m ph r\\` e s i\\ w l i"
     },
     {
       "w": "improved",
-      "p": "i\\ m ph r\\` u v t"
+      "p": "i\\ m ph r\\` u w t"
     },
     {
       "w": "improve",
-      "p": "i\\ m ph r\\` u v"
+      "p": "i\\ m ph r\\` u w"
     },
     {
       "w": "improvement",
-      "p": "i\\ m ph r\\` u v m @ n th"
+      "p": "i\\ m ph r\\` u w m @ n th"
     },
     {
       "w": "improvements",
-      "p": "i\\ m ph r\\` u v m @ n th s"
+      "p": "i\\ m ph r\\` u w m @ n th s"
     },
     {
       "w": "improves",
-      "p": "i\\ m ph r\\` u v ts"
+      "p": "i\\ m ph r\\` u w ts"
     },
     {
       "w": "impulse",
@@ -30850,11 +30850,11 @@
     },
     {
       "w": "incentive",
-      "p": "i\\ n s e n th i\\ v"
+      "p": "i\\ n s e n th i\\ w"
     },
     {
       "w": "incentives",
-      "p": "i\\ n s e n th i\\ v ts"
+      "p": "i\\ n s e n th i\\ w ts"
     },
     {
       "w": "inch",
@@ -31034,23 +31034,23 @@
     },
     {
       "w": "individual",
-      "p": "i\\ n t @ v i\\ ts` @ w @ l"
+      "p": "i\\ n t @ w i\\ ts` @ w @ l"
     },
     {
       "w": "individually",
-      "p": "i\\ n t i\\ v i\\ ts` u@ l i"
+      "p": "i\\ n t i\\ w i\\ ts` u@ l i"
     },
     {
       "w": "individual's",
-      "p": "i\\ n t @ v i\\ ts` @ w @ l ts"
+      "p": "i\\ n t @ w i\\ ts` @ w @ l ts"
     },
     {
       "w": "individuals",
-      "p": "i\\ n t @ v i\\ ts` @ w @ l ts"
+      "p": "i\\ n t @ w i\\ ts` @ w @ l ts"
     },
     {
       "w": "individuals'",
-      "p": "i\\ n t i\\ v i\\ ts` @ w @ l ts"
+      "p": "i\\ n t i\\ w i\\ ts` @ w @ l ts"
     },
     {
       "w": "indo",
@@ -31102,11 +31102,11 @@
     },
     {
       "w": "inevitable",
-      "p": "i\\ n e v @ th @ p @ l"
+      "p": "i\\ n e w @ th @ p @ l"
     },
     {
       "w": "inevitably",
-      "p": "i\\ n e v @ th @ p l i"
+      "p": "i\\ n e w @ th @ p l i"
     },
     {
       "w": "inez",
@@ -31314,11 +31314,11 @@
     },
     {
       "w": "initiative",
-      "p": "i\\ n i\\ s` @ th i\\ v"
+      "p": "i\\ n i\\ s` @ th i\\ w"
     },
     {
       "w": "initiatives",
-      "p": "i\\ n i\\ s` @ th i\\ v ts"
+      "p": "i\\ n i\\ s` @ th i\\ w ts"
     },
     {
       "w": "injured",
@@ -31390,15 +31390,15 @@
     },
     {
       "w": "innovation",
-      "p": "i\\ n @ v e :\\i s` @ n"
+      "p": "i\\ n @ w e :\\i s` @ n"
     },
     {
       "w": "innovations",
-      "p": "i\\ n @ v e :\\i s` @ n ts"
+      "p": "i\\ n @ w e :\\i s` @ n ts"
     },
     {
       "w": "innovative",
-      "p": "i\\ n @ v e :\\i l i\\ v"
+      "p": "i\\ n @ w e :\\i l i\\ w"
     },
     {
       "w": "inns",
@@ -31906,39 +31906,39 @@
     },
     {
       "w": "interval",
-      "p": "i\\ n th a r\\` v @ l"
+      "p": "i\\ n th a r\\` w @ l"
     },
     {
       "w": "intervals",
-      "p": "i\\ n th a r\\` v @ l ts"
+      "p": "i\\ n th a r\\` w @ l ts"
     },
     {
       "w": "intervention",
-      "p": "i\\ n th a r\\` v e n s` @ n"
+      "p": "i\\ n th a r\\` w e n s` @ n"
     },
     {
       "w": "interventions",
-      "p": "i\\ n th a r\\` v e n s` @ n ts"
+      "p": "i\\ n th a r\\` w e n s` @ n ts"
     },
     {
       "w": "interviewed",
-      "p": "i\\ n th a r\\` v j u t"
+      "p": "i\\ n th a r\\` w j u t"
     },
     {
       "w": "interviewee",
-      "p": "i\\ n th a r\\` v j u i"
+      "p": "i\\ n th a r\\` w j u i"
     },
     {
       "w": "interviewer",
-      "p": "i\\ n th a r\\` v j ua r\\`"
+      "p": "i\\ n th a r\\` w j ua r\\`"
     },
     {
       "w": "interview",
-      "p": "i\\ n th a r\\` v j u"
+      "p": "i\\ n th a r\\` w j u"
     },
     {
       "w": "interviews",
-      "p": "i\\ n th a r\\` v j u ts"
+      "p": "i\\ n th a r\\` w j u ts"
     },
     {
       "w": "inti",
@@ -31990,211 +31990,211 @@
     },
     {
       "w": "invaded",
-      "p": "i\\ n v e :\\i l @ t"
+      "p": "i\\ n w e :\\i l @ t"
     },
     {
       "w": "invade",
-      "p": "i\\ n v e :\\i t"
+      "p": "i\\ n w e :\\i t"
     },
     {
       "w": "invader",
-      "p": "i\\ n v e :\\i l a r\\`"
+      "p": "i\\ n w e :\\i l a r\\`"
     },
     {
       "w": "invaders",
-      "p": "i\\ n v e :\\i l a r\\` ts"
+      "p": "i\\ n w e :\\i l a r\\` ts"
     },
     {
       "w": "invades",
-      "p": "i\\ n v e :\\i t ts"
+      "p": "i\\ n w e :\\i t ts"
     },
     {
       "w": "invasion",
-      "p": "i\\ n v e :\\i z` @ n"
+      "p": "i\\ n w e :\\i z` @ n"
     },
     {
       "w": "invasions",
-      "p": "i\\ n v e :\\i z` @ n ts"
+      "p": "i\\ n w e :\\i z` @ n ts"
     },
     {
       "w": "invented",
-      "p": "i\\ n v e n th @ t"
+      "p": "i\\ n w e n th @ t"
     },
     {
       "w": "invent",
-      "p": "i\\ n v e n th"
+      "p": "i\\ n w e n th"
     },
     {
       "w": "invention",
-      "p": "i\\ n v e n s` @ n"
+      "p": "i\\ n w e n s` @ n"
     },
     {
       "w": "inventions",
-      "p": "i\\ n v e n s` @ n ts"
+      "p": "i\\ n w e n s` @ n ts"
     },
     {
       "w": "inventor",
-      "p": "i\\ n v e n th a r\\`"
+      "p": "i\\ n w e n th a r\\`"
     },
     {
       "w": "inventory",
-      "p": "i\\ n v @ n th o r\\` i"
+      "p": "i\\ n w @ n th o r\\` i"
     },
     {
       "w": "inventory's",
-      "p": "i\\ n v @ n th o r\\` i ts"
+      "p": "i\\ n w @ n th o r\\` i ts"
     },
     {
       "w": "invents",
-      "p": "i\\ n v e n th s"
+      "p": "i\\ n w e n th s"
     },
     {
       "w": "invested",
-      "p": "i\\ n v e s th @ t"
+      "p": "i\\ n w e s th @ t"
     },
     {
       "w": "investigated",
-      "p": "i\\ n v e s th @ k e :\\i l @ t"
+      "p": "i\\ n w e s th @ k e :\\i l @ t"
     },
     {
       "w": "investigate",
-      "p": "i\\ n v e s th @ k e :\\i th"
+      "p": "i\\ n w e s th @ k e :\\i th"
     },
     {
       "w": "investigates",
-      "p": "i\\ n v e s th @ k e :\\i th s"
+      "p": "i\\ n w e s th @ k e :\\i th s"
     },
     {
       "w": "investigational",
-      "p": "i\\ n v e s th i\\ k e :\\i s` @ n @ l"
+      "p": "i\\ n w e s th i\\ k e :\\i s` @ n @ l"
     },
     {
       "w": "investigation",
-      "p": "i\\ n v e s th @ k e :\\i s` @ n"
+      "p": "i\\ n w e s th @ k e :\\i s` @ n"
     },
     {
       "w": "investigations",
-      "p": "i\\ n v e s th @ k e :\\i s` @ n ts"
+      "p": "i\\ n w e s th @ k e :\\i s` @ n ts"
     },
     {
       "w": "investigator",
-      "p": "i\\ n v e s th @ k e :\\i l a r\\`"
+      "p": "i\\ n w e s th @ k e :\\i l a r\\`"
     },
     {
       "w": "investigator's",
-      "p": "i\\ n v e s th @ k e :\\i l a r\\` ts"
+      "p": "i\\ n w e s th @ k e :\\i l a r\\` ts"
     },
     {
       "w": "investigators'",
-      "p": "i\\ n v e s th @ k e :\\i l a r\\` ts"
+      "p": "i\\ n w e s th @ k e :\\i l a r\\` ts"
     },
     {
       "w": "investigators",
-      "p": "i\\ n v e s th @ k e :\\i l a r\\` ts"
+      "p": "i\\ n w e s th @ k e :\\i l a r\\` ts"
     },
     {
       "w": "investigatory",
-      "p": "i\\ n v e s th @ k @ th o r\\` i"
+      "p": "i\\ n w e s th @ k @ th o r\\` i"
     },
     {
       "w": "invest",
-      "p": "i\\ n v e s th"
+      "p": "i\\ n w e s th"
     },
     {
       "w": "investment",
-      "p": "i\\ n v e s th m @ n th"
+      "p": "i\\ n w e s th m @ n th"
     },
     {
       "w": "investment's",
-      "p": "i\\ n v e s th m @ n th s"
+      "p": "i\\ n w e s th m @ n th s"
     },
     {
       "w": "investments'",
-      "p": "i\\ n v e s th m @ n th s"
+      "p": "i\\ n w e s th m @ n th s"
     },
     {
       "w": "investments",
-      "p": "i\\ n v e s th m @ n th s"
+      "p": "i\\ n w e s th m @ n th s"
     },
     {
       "w": "investor",
-      "p": "i\\ n v e s th a r\\`"
+      "p": "i\\ n w e s th a r\\`"
     },
     {
       "w": "investor's",
-      "p": "i\\ n v e s th a r\\` ts"
+      "p": "i\\ n w e s th a r\\` ts"
     },
     {
       "w": "investors'",
-      "p": "i\\ n v e s th a r\\` ts"
+      "p": "i\\ n w e s th a r\\` ts"
     },
     {
       "w": "investors",
-      "p": "i\\ n v e s th a r\\` ts"
+      "p": "i\\ n w e s th a r\\` ts"
     },
     {
       "w": "invests",
-      "p": "i\\ n v e s th s"
+      "p": "i\\ n w e s th s"
     },
     {
       "w": "invisible",
-      "p": "i\\ n v i\\ ts @ p @ l"
+      "p": "i\\ n w i\\ ts @ p @ l"
     },
     {
       "w": "invisibles",
-      "p": "i\\ n v i\\ ts @ p @ l ts"
+      "p": "i\\ n w i\\ ts @ p @ l ts"
     },
     {
       "w": "invitational",
-      "p": "i\\ n v @ th e :\\i s` @ n @ l"
+      "p": "i\\ n w @ th e :\\i s` @ n @ l"
     },
     {
       "w": "invitation",
-      "p": "i\\ n v i\\ th e :\\i s` @ n"
+      "p": "i\\ n w i\\ th e :\\i s` @ n"
     },
     {
       "w": "invitations",
-      "p": "i\\ n v i\\ th e :\\i s` @ n ts"
+      "p": "i\\ n w i\\ th e :\\i s` @ n ts"
     },
     {
       "w": "invited",
-      "p": "i\\ n v a :\\i l @ t"
+      "p": "i\\ n w a :\\i l @ t"
     },
     {
       "w": "invitee",
-      "p": "i\\ n v a :\\i th i"
+      "p": "i\\ n w a :\\i th i"
     },
     {
       "w": "invitees",
-      "p": "i\\ n v a :\\i th i ts"
+      "p": "i\\ n w a :\\i th i ts"
     },
     {
       "w": "invite",
-      "p": "i\\ n v a :\\i th"
+      "p": "i\\ n w a :\\i th"
     },
     {
       "w": "invites",
-      "p": "i\\ n v a :\\i th s"
+      "p": "i\\ n w a :\\i th s"
     },
     {
       "w": "involved",
-      "p": "i\\ n v A l v t"
+      "p": "i\\ n w A l w t"
     },
     {
       "w": "involve",
-      "p": "i\\ n v A l v"
+      "p": "i\\ n w A l w"
     },
     {
       "w": "involvement",
-      "p": "i\\ n v A l v m @ n th"
+      "p": "i\\ n w A l w m @ n th"
     },
     {
       "w": "involvements",
-      "p": "i\\ n v A l v m @ n th s"
+      "p": "i\\ n w A l w m @ n th s"
     },
     {
       "w": "involves",
-      "p": "i\\ n v A l v ts"
+      "p": "i\\ n w A l w ts"
     },
     {
       "w": "iny",
@@ -32438,7 +32438,7 @@
     },
     {
       "w": "jarvi",
-      "p": "ts` A r\\` v i"
+      "p": "ts` A r\\` w i"
     },
     {
       "w": "jaryl",
@@ -33430,7 +33430,7 @@
     },
     {
       "w": "labov",
-      "p": "l @ p A v"
+      "p": "l @ p A w"
     },
     {
       "w": "labow",
@@ -33710,7 +33710,7 @@
     },
     {
       "w": "laneve",
-      "p": "l @ n i v"
+      "p": "l @ n i w"
     },
     {
       "w": "laney",
@@ -34234,31 +34234,31 @@
     },
     {
       "w": "leave",
-      "p": "l i v"
+      "p": "l i w"
     },
     {
       "w": "leavell",
-      "p": "l i v @ l"
+      "p": "l i w @ l"
     },
     {
       "w": "leaven",
-      "p": "l e v @ n"
+      "p": "l e w @ n"
     },
     {
       "w": "leavens",
-      "p": "l e v @ n ts"
+      "p": "l e w @ n ts"
     },
     {
       "w": "leaver",
-      "p": "l i v a r\\`"
+      "p": "l i w a r\\`"
     },
     {
       "w": "leaves",
-      "p": "l i v ts"
+      "p": "l i w ts"
     },
     {
       "w": "leavey",
-      "p": "l i v i"
+      "p": "l i w i"
     },
     {
       "w": "lectured",
@@ -34362,11 +34362,11 @@
     },
     {
       "w": "legislative",
-      "p": "l e ts` @ s l e :\\i l i\\ v"
+      "p": "l e ts` @ s l e :\\i l i\\ w"
     },
     {
       "w": "legislatively",
-      "p": "l e ts` i\\ s l e :\\i l i\\ v l i"
+      "p": "l e ts` i\\ s l e :\\i l i\\ w l i"
     },
     {
       "w": "legislator",
@@ -34590,23 +34590,23 @@
     },
     {
       "w": "leveled",
-      "p": "l e v @ l t"
+      "p": "l e w @ l t"
     },
     {
       "w": "level",
-      "p": "l e v @ l"
+      "p": "l e w @ l"
     },
     {
       "w": "levell",
-      "p": "l e :\\i v e :\\i l"
+      "p": "l e :\\i w e :\\i l"
     },
     {
       "w": "level's",
-      "p": "l e v @ l ts"
+      "p": "l e w @ l ts"
     },
     {
       "w": "levels",
-      "p": "l e v @ l ts"
+      "p": "l e w @ l ts"
     },
     {
       "w": "liability",
@@ -35198,47 +35198,47 @@
     },
     {
       "w": "lived",
-      "p": "l i\\ v t"
+      "p": "l i\\ w t"
     },
     {
       "w": "live",
-      "p": "l a :\\i v"
+      "p": "l a :\\i w"
     },
     {
       "w": "lively",
-      "p": "l a :\\i v l i"
+      "p": "l a :\\i w l i"
     },
     {
       "w": "liven",
-      "p": "l a :\\i v @ n"
+      "p": "l a :\\i w @ n"
     },
     {
       "w": "liver",
-      "p": "l i\\ v a r\\`"
+      "p": "l i\\ w a r\\`"
     },
     {
       "w": "livers",
-      "p": "l i\\ v a r\\` ts"
+      "p": "l i\\ w a r\\` ts"
     },
     {
       "w": "livery",
-      "p": "l i\\ v a r\\` i"
+      "p": "l i\\ w a r\\` i"
     },
     {
       "w": "lives'",
-      "p": "l a :\\i v ts"
+      "p": "l a :\\i w ts"
     },
     {
       "w": "lives",
-      "p": "l i\\ v ts"
+      "p": "l i\\ w ts"
     },
     {
       "w": "living",
-      "p": "l i\\ v i\\ N"
+      "p": "l i\\ w i\\ N"
     },
     {
       "w": "livings",
-      "p": "l i\\ v i\\ N ts"
+      "p": "l i\\ w i\\ N ts"
     },
     {
       "w": "ln",
@@ -35686,59 +35686,59 @@
     },
     {
       "w": "loved",
-      "p": "l A v t"
+      "p": "l A w t"
     },
     {
       "w": "love",
-      "p": "l A v"
+      "p": "l A w"
     },
     {
       "w": "lovell",
-      "p": "l A v @ l"
+      "p": "l A w @ l"
     },
     {
       "w": "lovely",
-      "p": "l A v l i"
+      "p": "l A w l i"
     },
     {
       "w": "loven",
-      "p": "l A v @ n"
+      "p": "l A w @ n"
     },
     {
       "w": "loverde",
-      "p": "l @U v e r\\` t i"
+      "p": "l @U w e r\\` t i"
     },
     {
       "w": "lover",
-      "p": "l A v a r\\`"
+      "p": "l A w a r\\`"
     },
     {
       "w": "lovern",
-      "p": "l A v a r\\` n"
+      "p": "l A w a r\\` n"
     },
     {
       "w": "lover's",
-      "p": "l A v a r\\` ts"
+      "p": "l A w a r\\` ts"
     },
     {
       "w": "lovers'",
-      "p": "l A v a r\\` ts"
+      "p": "l A w a r\\` ts"
     },
     {
       "w": "lovers",
-      "p": "l A v a r\\` ts"
+      "p": "l A w a r\\` ts"
     },
     {
       "w": "love's",
-      "p": "l A v ts"
+      "p": "l A w ts"
     },
     {
       "w": "loves",
-      "p": "l A v ts"
+      "p": "l A w ts"
     },
     {
       "w": "lovett",
-      "p": "l A v i\\ th"
+      "p": "l A w i\\ th"
     },
     {
       "w": "lowe",
@@ -35930,7 +35930,7 @@
     },
     {
       "w": "m5",
-      "p": "e m f a :\\i v"
+      "p": "e m f a :\\i w"
     },
     {
       "w": "machinea",
@@ -37106,11 +37106,11 @@
     },
     {
       "w": "massively",
-      "p": "m a s i\\ v l i"
+      "p": "m a s i\\ w l i"
     },
     {
       "w": "massive",
-      "p": "m a s i\\ v"
+      "p": "m a s i\\ w"
     },
     {
       "w": "mass.",
@@ -38042,7 +38042,7 @@
     },
     {
       "w": "merv",
-      "p": "m a r\\` v"
+      "p": "m a r\\` w"
     },
     {
       "w": "merz",
@@ -39162,7 +39162,7 @@
     },
     {
       "w": "moreover",
-      "p": "m o r\\` @U v a r\\`"
+      "p": "m o r\\` @U w a r\\`"
     },
     {
       "w": "morera",
@@ -39282,35 +39282,35 @@
     },
     {
       "w": "motivated",
-      "p": "m @U l @ v e :\\i l @ t"
+      "p": "m @U l @ w e :\\i l @ t"
     },
     {
       "w": "motivate",
-      "p": "m @U l @ v e :\\i th"
+      "p": "m @U l @ w e :\\i th"
     },
     {
       "w": "motivates",
-      "p": "m @U l @ v e :\\i th s"
+      "p": "m @U l @ w e :\\i th s"
     },
     {
       "w": "motivational",
-      "p": "m @U l @ v e :\\i s` @ n @ l"
+      "p": "m @U l @ w e :\\i s` @ n @ l"
     },
     {
       "w": "motivation",
-      "p": "m @U l @ v e :\\i s` @ n"
+      "p": "m @U l @ w e :\\i s` @ n"
     },
     {
       "w": "motivations",
-      "p": "m @U l @ v e :\\i s` @ n ts"
+      "p": "m @U l @ w e :\\i s` @ n ts"
     },
     {
       "w": "motive",
-      "p": "m @U l i\\ v"
+      "p": "m @U l i\\ w"
     },
     {
       "w": "motives",
-      "p": "m @U l i\\ v ts"
+      "p": "m @U l i\\ w ts"
     },
     {
       "w": "motoren",
@@ -39394,47 +39394,47 @@
     },
     {
       "w": "moved",
-      "p": "m u v t"
+      "p": "m u w t"
     },
     {
       "w": "movement",
-      "p": "m u v m @ n th"
+      "p": "m u w m @ n th"
     },
     {
       "w": "movement's",
-      "p": "m u v m @ n th s"
+      "p": "m u w m @ n th s"
     },
     {
       "w": "movements",
-      "p": "m u v m @ n th s"
+      "p": "m u w m @ n th s"
     },
     {
       "w": "move",
-      "p": "m u v"
+      "p": "m u w"
     },
     {
       "w": "mover",
-      "p": "m u v a r\\`"
+      "p": "m u w a r\\`"
     },
     {
       "w": "movers",
-      "p": "m u v a r\\` ts"
+      "p": "m u w a r\\` ts"
     },
     {
       "w": "moves",
-      "p": "m u v ts"
+      "p": "m u w ts"
     },
     {
       "w": "movie",
-      "p": "m u v i"
+      "p": "m u w i"
     },
     {
       "w": "movie's",
-      "p": "m u v i ts"
+      "p": "m u w i ts"
     },
     {
       "w": "movies",
-      "p": "m u v i ts"
+      "p": "m u w i ts"
     },
     {
       "w": "mr",
@@ -39782,11 +39782,11 @@
     },
     {
       "w": "narrative",
-      "p": "n a r\\` @ th i\\ v"
+      "p": "n a r\\` @ th i\\ w"
     },
     {
       "w": "narratives",
-      "p": "n a r\\` @ th i\\ v ts"
+      "p": "n a r\\` @ th i\\ w ts"
     },
     {
       "w": "narrowed",
@@ -39862,11 +39862,11 @@
     },
     {
       "w": "native",
-      "p": "n e :\\i l i\\ v"
+      "p": "n e :\\i l i\\ w"
     },
     {
       "w": "natives",
-      "p": "n e :\\i l i\\ v ts"
+      "p": "n e :\\i l i\\ w ts"
     },
     {
       "w": "naturally",
@@ -39898,7 +39898,7 @@
     },
     {
       "w": "naval",
-      "p": "n e :\\i v @ l"
+      "p": "n e :\\i w @ l"
     },
     {
       "w": "'n",
@@ -40010,15 +40010,15 @@
     },
     {
       "w": "negatively",
-      "p": "n e k @ th i\\ v l i"
+      "p": "n e k @ th i\\ w l i"
     },
     {
       "w": "negative",
-      "p": "n e k @ th i\\ v"
+      "p": "n e k @ th i\\ w"
     },
     {
       "w": "negatives",
-      "p": "n e k @ th i\\ v ts"
+      "p": "n e k @ th i\\ w ts"
     },
     {
       "w": "negotiated",
@@ -40094,19 +40094,19 @@
     },
     {
       "w": "nerve",
-      "p": "n a r\\` v"
+      "p": "n a r\\` w"
     },
     {
       "w": "nerves",
-      "p": "n a r\\` v ts"
+      "p": "n a r\\` w ts"
     },
     {
       "w": "nervously",
-      "p": "n a r\\` v @ s l i"
+      "p": "n a r\\` w @ s l i"
     },
     {
       "w": "nervous",
-      "p": "n a r\\` v @ s"
+      "p": "n a r\\` w @ s"
     },
     {
       "w": "nesta",
@@ -40218,15 +40218,15 @@
     },
     {
       "w": "never",
-      "p": "n e v a r\\`"
+      "p": "n e w a r\\`"
     },
     {
       "w": "nevers",
-      "p": "n e v a r\\` ts"
+      "p": "n e w a r\\` ts"
     },
     {
       "w": "nevertheless",
-      "p": "n e v a r\\` t @ l e s"
+      "p": "n e w a r\\` t @ l e s"
     },
     {
       "w": "newby",
@@ -40918,63 +40918,63 @@
     },
     {
       "w": "nova",
-      "p": "n @U v @"
+      "p": "n @U w @"
     },
     {
       "w": "novella",
-      "p": "n @U v e l @"
+      "p": "n @U w e l @"
     },
     {
       "w": "novelli",
-      "p": "n @U v e l i"
+      "p": "n @U w e l i"
     },
     {
       "w": "novell",
-      "p": "n @U v e l"
+      "p": "n @U w e l"
     },
     {
       "w": "novello",
-      "p": "n @U v e l @U"
+      "p": "n @U w e l @U"
     },
     {
       "w": "novelly",
-      "p": "n @U v @ l i"
+      "p": "n @U w @ l i"
     },
     {
       "w": "novel",
-      "p": "n A v @ l"
+      "p": "n A w @ l"
     },
     {
       "w": "novel's",
-      "p": "n A v @ l ts"
+      "p": "n A w @ l ts"
     },
     {
       "w": "novels",
-      "p": "n A v @ l ts"
+      "p": "n A w @ l ts"
     },
     {
       "w": "novelty",
-      "p": "n A v @ l th i"
+      "p": "n A w @ l th i"
     },
     {
       "w": "novi",
-      "p": "n @U v i"
+      "p": "n @U w i"
     },
     {
       "w": "nov",
-      "p": "n @U v"
+      "p": "n @U w"
     },
     {
       "w": "novo",
-      "p": "n @U v @U"
+      "p": "n @U w @U"
     },
     {
       "w": "novy",
-      "p": "n @U v i"
+      "p": "n @U w i"
     },
     {
       "w": "nowak",
-      "p": "n @U v a kh"
+      "p": "n @U w a kh"
     },
     {
       "w": "nowa",
@@ -41138,15 +41138,15 @@
     },
     {
       "w": "objective",
-      "p": "@ p ts` e kh th i\\ v"
+      "p": "@ p ts` e kh th i\\ w"
     },
     {
       "w": "objectively",
-      "p": "A p ts` e kh th i\\ v l i"
+      "p": "A p ts` e kh th i\\ w l i"
     },
     {
       "w": "objectives",
-      "p": "@ p ts` e kh th i\\ v ts"
+      "p": "@ p ts` e kh th i\\ w ts"
     },
     {
       "w": "objector",
@@ -41166,31 +41166,31 @@
     },
     {
       "w": "observation",
-      "p": "A p ts a r\\` v e :\\i s` @ n"
+      "p": "A p ts a r\\` w e :\\i s` @ n"
     },
     {
       "w": "observations",
-      "p": "A p ts a r\\` v e :\\i s` @ n ts"
+      "p": "A p ts a r\\` w e :\\i s` @ n ts"
     },
     {
       "w": "observe",
-      "p": "@ p ts a r\\` v"
+      "p": "@ p ts a r\\` w"
     },
     {
       "w": "observed",
-      "p": "@ p ts a r\\` v t"
+      "p": "@ p ts a r\\` w t"
     },
     {
       "w": "observer",
-      "p": "@ p ts a r\\` v a r\\`"
+      "p": "@ p ts a r\\` w a r\\`"
     },
     {
       "w": "observers",
-      "p": "@ p ts a r\\` v a r\\` ts"
+      "p": "@ p ts a r\\` w a r\\` ts"
     },
     {
       "w": "observes",
-      "p": "@ p ts a r\\` v ts"
+      "p": "@ p ts a r\\` w ts"
     },
     {
       "w": "obstacle",
@@ -41214,11 +41214,11 @@
     },
     {
       "w": "obvious",
-      "p": "A p v i @ s"
+      "p": "A p w i @ s"
     },
     {
       "w": "obviously",
-      "p": "A p v i @ s l i"
+      "p": "A p w i @ s l i"
     },
     {
       "w": "occasional",
@@ -41322,7 +41322,7 @@
     },
     {
       "w": "of",
-      "p": "A v"
+      "p": "A w"
     },
     {
       "w": "ofc",
@@ -41358,15 +41358,15 @@
     },
     {
       "w": "offensive",
-      "p": "@ f e n s i\\ v"
+      "p": "@ f e n s i\\ w"
     },
     {
       "w": "offensively",
-      "p": "@ f e n s i\\ v l i"
+      "p": "@ f e n s i\\ w l i"
     },
     {
       "w": "offensives",
-      "p": "@ f e n s i\\ v ts"
+      "p": "@ f e n s i\\ w ts"
     },
     {
       "w": "offer",
@@ -42326,7 +42326,7 @@
     },
     {
       "w": "orva",
-      "p": "o r\\` v @"
+      "p": "o r\\` w @"
     },
     {
       "w": "ory",
@@ -42382,7 +42382,7 @@
     },
     {
       "w": "ourselves",
-      "p": "AU a r\\` s e l v ts"
+      "p": "AU a r\\` s e l w ts"
     },
     {
       "w": "ourso",
@@ -42518,115 +42518,115 @@
     },
     {
       "w": "oven",
-      "p": "A v @ n"
+      "p": "A w @ n"
     },
     {
       "w": "ovens",
-      "p": "A v @ n ts"
+      "p": "A w @ n ts"
     },
     {
       "w": "overall",
-      "p": "@U v a r\\` o l"
+      "p": "@U w a r\\` o l"
     },
     {
       "w": "overalls",
-      "p": "@U v a r\\` o l ts"
+      "p": "@U w a r\\` o l ts"
     },
     {
       "w": "overby",
-      "p": "@U v a r\\` p i"
+      "p": "@U w a r\\` p i"
     },
     {
       "w": "overcome",
-      "p": "@U v a r\\` kh A m"
+      "p": "@U w a r\\` kh A m"
     },
     {
       "w": "overcomes",
-      "p": "@U v a r\\` kh A m ts"
+      "p": "@U w a r\\` kh A m ts"
     },
     {
       "w": "overdo",
-      "p": "@U v a r\\` t u"
+      "p": "@U w a r\\` t u"
     },
     {
       "w": "overlooked",
-      "p": "@U v a r\\` l U kh th"
+      "p": "@U w a r\\` l U kh th"
     },
     {
       "w": "overlook",
-      "p": "@U v a r\\` l U kh"
+      "p": "@U w a r\\` l U kh"
     },
     {
       "w": "overlooks",
-      "p": "@U v a r\\` l U kh s"
+      "p": "@U w a r\\` l U kh s"
     },
     {
       "w": "overly",
-      "p": "@U v a r\\` l i"
+      "p": "@U w a r\\` l i"
     },
     {
       "w": "overnighter",
-      "p": "@U v a r\\` n a :\\i l a r\\`"
+      "p": "@U w a r\\` n a :\\i l a r\\`"
     },
     {
       "w": "overnight",
-      "p": "@U v a r\\` n a :\\i th"
+      "p": "@U w a r\\` n a :\\i th"
     },
     {
       "w": "over",
-      "p": "@U v a r\\`"
+      "p": "@U w a r\\`"
     },
     {
       "w": "overseen",
-      "p": "@U v a r\\` s i n"
+      "p": "@U w a r\\` s i n"
     },
     {
       "w": "oversee",
-      "p": "@U v a r\\` s i"
+      "p": "@U w a r\\` s i"
     },
     {
       "w": "overseer",
-      "p": "@U v a r\\` s ia r\\`"
+      "p": "@U w a r\\` s ia r\\`"
     },
     {
       "w": "overseers",
-      "p": "@U v a r\\` s ia r\\` ts"
+      "p": "@U w a r\\` s ia r\\` ts"
     },
     {
       "w": "oversees",
-      "p": "@U v a r\\` s i ts"
+      "p": "@U w a r\\` s i ts"
     },
     {
       "w": "overs",
-      "p": "@U v a r\\` ts"
+      "p": "@U w a r\\` ts"
     },
     {
       "w": "overt",
-      "p": "@U v a r\\` th"
+      "p": "@U w a r\\` th"
     },
     {
       "w": "overwhelmed",
-      "p": "@U v a r\\` w e l m t"
+      "p": "@U w a r\\` w e l m t"
     },
     {
       "w": "overwhelmingly",
-      "p": "@U v a r\\` w e l m i\\ N l i"
+      "p": "@U w a r\\` w e l m i\\ N l i"
     },
     {
       "w": "overwhelming",
-      "p": "@U v a r\\` w e l m i\\ N"
+      "p": "@U w a r\\` w e l m i\\ N"
     },
     {
       "w": "overwhelm",
-      "p": "@U v a r\\` w e l m"
+      "p": "@U w a r\\` w e l m"
     },
     {
       "w": "overwhelms",
-      "p": "@U v a r\\` w e l m ts"
+      "p": "@U w a r\\` w e l m ts"
     },
     {
       "w": "overy",
-      "p": "@U v a r\\` i"
+      "p": "@U w a r\\` i"
     },
     {
       "w": "owed",
@@ -44142,15 +44142,15 @@
     },
     {
       "w": "perceived",
-      "p": "ph a r\\` s i v t"
+      "p": "ph a r\\` s i w t"
     },
     {
       "w": "perceive",
-      "p": "ph a r\\` s i v"
+      "p": "ph a r\\` s i w"
     },
     {
       "w": "perceives",
-      "p": "ph a r\\` s i v ts"
+      "p": "ph a r\\` s i w ts"
     },
     {
       "w": "percentage",
@@ -44454,11 +44454,11 @@
     },
     {
       "w": "perspective",
-      "p": "ph a r\\` s ph e kh th i\\ v"
+      "p": "ph a r\\` s ph e kh th i\\ w"
     },
     {
       "w": "perspectives",
-      "p": "ph a r\\` s ph e kh th i\\ v ts"
+      "p": "ph a r\\` s ph e kh th i\\ w ts"
     },
     {
       "w": "pers",
@@ -46058,7 +46058,7 @@
     },
     {
       "w": "popov",
-      "p": "ph @U ph @ v"
+      "p": "ph @U ph @ w"
     },
     {
       "w": "po",
@@ -46290,15 +46290,15 @@
     },
     {
       "w": "positively",
-      "p": "ph A ts @ th i\\ v l i"
+      "p": "ph A ts @ th i\\ w l i"
     },
     {
       "w": "positive",
-      "p": "ph A ts @ th i\\ v"
+      "p": "ph A ts @ th i\\ w"
     },
     {
       "w": "positives",
-      "p": "ph A ts @ th i\\ v ts"
+      "p": "ph A ts @ th i\\ w ts"
     },
     {
       "w": "possessed",
@@ -46486,7 +46486,7 @@
     },
     {
       "w": "poverty",
-      "p": "ph A v a r\\` th i"
+      "p": "ph A w a r\\` th i"
     },
     {
       "w": "powdered",
@@ -46806,23 +46806,23 @@
     },
     {
       "w": "preserved",
-      "p": "ph r\\` @ ts a r\\` v t"
+      "p": "ph r\\` @ ts a r\\` w t"
     },
     {
       "w": "preserve",
-      "p": "ph r\\` @ ts a r\\` v"
+      "p": "ph r\\` @ ts a r\\` w"
     },
     {
       "w": "preserver",
-      "p": "ph r\\` i ts a r\\` v a r\\`"
+      "p": "ph r\\` i ts a r\\` w a r\\`"
     },
     {
       "w": "preservers",
-      "p": "ph r\\` i ts a r\\` v a r\\` ts"
+      "p": "ph r\\` i ts a r\\` w a r\\` ts"
     },
     {
       "w": "preserves",
-      "p": "ph r\\` @ ts a r\\` v ts"
+      "p": "ph r\\` @ ts a r\\` w ts"
     },
     {
       "w": "presidency",
@@ -46946,39 +46946,39 @@
     },
     {
       "w": "prevailed",
-      "p": "ph r\\` i\\ v e :\\i l t"
+      "p": "ph r\\` i\\ w e :\\i l t"
     },
     {
       "w": "prevail",
-      "p": "ph r\\` i\\ v e :\\i l"
+      "p": "ph r\\` i\\ w e :\\i l"
     },
     {
       "w": "prevails",
-      "p": "ph r\\` i\\ v e :\\i l ts"
+      "p": "ph r\\` i\\ w e :\\i l ts"
     },
     {
       "w": "prevented",
-      "p": "ph r\\` i\\ v e n th i\\ t"
+      "p": "ph r\\` i\\ w e n th i\\ t"
     },
     {
       "w": "prevention",
-      "p": "ph r\\` i v e n s` @ n"
+      "p": "ph r\\` i w e n s` @ n"
     },
     {
       "w": "prevent",
-      "p": "ph r\\` i\\ v e n th"
+      "p": "ph r\\` i\\ w e n th"
     },
     {
       "w": "prevents",
-      "p": "ph r\\` i\\ v e n th s"
+      "p": "ph r\\` i\\ w e n th s"
     },
     {
       "w": "previously",
-      "p": "ph r\\` i v i @ s l i"
+      "p": "ph r\\` i w i @ s l i"
     },
     {
       "w": "previous",
-      "p": "ph r\\` i v i @ s"
+      "p": "ph r\\` i w i @ s"
     },
     {
       "w": "priced",
@@ -47190,31 +47190,31 @@
     },
     {
       "w": "privacy",
-      "p": "ph r\\` a :\\i v @ s i"
+      "p": "ph r\\` a :\\i w @ s i"
     },
     {
       "w": "privately",
-      "p": "ph r\\` a :\\i v @ th l i"
+      "p": "ph r\\` a :\\i w @ th l i"
     },
     {
       "w": "private",
-      "p": "ph r\\` a :\\i v @ th"
+      "p": "ph r\\` a :\\i w @ th"
     },
     {
       "w": "privates",
-      "p": "ph r\\` a :\\i v @ th s"
+      "p": "ph r\\` a :\\i w @ th s"
     },
     {
       "w": "privileged",
-      "p": "ph r\\` i\\ v i\\ l i\\ ts` t"
+      "p": "ph r\\` i\\ w i\\ l i\\ ts` t"
     },
     {
       "w": "privilege",
-      "p": "ph r\\` i\\ v i\\ l i\\ ts`"
+      "p": "ph r\\` i\\ w i\\ l i\\ ts`"
     },
     {
       "w": "privileges",
-      "p": "ph r\\` i\\ v i\\ l i\\ ts` i\\ ts"
+      "p": "ph r\\` i\\ w i\\ l i\\ ts` i\\ ts"
     },
     {
       "w": "prized",
@@ -47382,15 +47382,15 @@
     },
     {
       "w": "productively",
-      "p": "ph r\\` @ t A kh th i\\ v l i"
+      "p": "ph r\\` @ t A kh th i\\ w l i"
     },
     {
       "w": "productive",
-      "p": "ph r\\` @ t A kh th i\\ v"
+      "p": "ph r\\` @ t A kh th i\\ w"
     },
     {
       "w": "productivity",
-      "p": "ph r\\` @U l @ kh th i\\ v @ th i"
+      "p": "ph r\\` @U l @ kh th i\\ w @ th i"
     },
     {
       "w": "product",
@@ -47534,15 +47534,15 @@
     },
     {
       "w": "progressively",
-      "p": "ph r\\` A k r\\` e s i\\ v l i"
+      "p": "ph r\\` A k r\\` e s i\\ w l i"
     },
     {
       "w": "progressive",
-      "p": "ph r\\` @ k r\\` e s i\\ v"
+      "p": "ph r\\` @ k r\\` e s i\\ w"
     },
     {
       "w": "progressives",
-      "p": "ph r\\` A k r\\` e s i\\ v ts"
+      "p": "ph r\\` A k r\\` e s i\\ w ts"
     },
     {
       "w": "progress",
@@ -47858,11 +47858,11 @@
     },
     {
       "w": "protectively",
-      "p": "ph r\\` @ th e kh th i\\ v l i"
+      "p": "ph r\\` @ th e kh th i\\ w l i"
     },
     {
       "w": "protective",
-      "p": "ph r\\` @ th e kh th i\\ v"
+      "p": "ph r\\` @ th e kh th i\\ w"
     },
     {
       "w": "protector",
@@ -47938,91 +47938,91 @@
     },
     {
       "w": "proved",
-      "p": "ph r\\` u v t"
+      "p": "ph r\\` u w t"
     },
     {
       "w": "proven",
-      "p": "ph r\\` u v @ n"
+      "p": "ph r\\` u w @ n"
     },
     {
       "w": "prove",
-      "p": "ph r\\` u v"
+      "p": "ph r\\` u w"
     },
     {
       "w": "provera",
-      "p": "ph r\\` @U v e r\\` @"
+      "p": "ph r\\` @U w e r\\` @"
     },
     {
       "w": "proverb",
-      "p": "ph r\\` A v a r\\` p"
+      "p": "ph r\\` A w a r\\` p"
     },
     {
       "w": "proves",
-      "p": "ph r\\` u v ts"
+      "p": "ph r\\` u w ts"
     },
     {
       "w": "provided",
-      "p": "ph r\\` @ v a :\\i l @ t"
+      "p": "ph r\\` @ w a :\\i l @ t"
     },
     {
       "w": "provident",
-      "p": "ph r\\` A v i\\ t @ n th"
+      "p": "ph r\\` A w i\\ t @ n th"
     },
     {
       "w": "provide",
-      "p": "ph r\\` @ v a :\\i t"
+      "p": "ph r\\` @ w a :\\i t"
     },
     {
       "w": "provider",
-      "p": "ph r\\` @ v a :\\i l a r\\`"
+      "p": "ph r\\` @ w a :\\i l a r\\`"
     },
     {
       "w": "providers",
-      "p": "ph r\\` @ v a :\\i l a r\\` ts"
+      "p": "ph r\\` @ w a :\\i l a r\\` ts"
     },
     {
       "w": "provides",
-      "p": "ph r\\` @ v a :\\i t ts"
+      "p": "ph r\\` @ w a :\\i t ts"
     },
     {
       "w": "province",
-      "p": "ph r\\` A v @ n s"
+      "p": "ph r\\` A w @ n s"
     },
     {
       "w": "provinces",
-      "p": "ph r\\` A v @ n s @ ts"
+      "p": "ph r\\` A w @ n s @ ts"
     },
     {
       "w": "province's",
-      "p": "ph r\\` A v @ n s i\\ ts"
+      "p": "ph r\\` A w @ n s i\\ ts"
     },
     {
       "w": "provisional",
-      "p": "ph r\\` @ v i\\ z` @ n @ l"
+      "p": "ph r\\` @ w i\\ z` @ n @ l"
     },
     {
       "w": "provision",
-      "p": "ph r\\` @ v i\\ z` @ n"
+      "p": "ph r\\` @ w i\\ z` @ n"
     },
     {
       "w": "provisions",
-      "p": "ph r\\` @ v i\\ z` @ n ts"
+      "p": "ph r\\` @ w i\\ z` @ n ts"
     },
     {
       "w": "provoked",
-      "p": "ph r\\` @ v @U kh th"
+      "p": "ph r\\` @ w @U kh th"
     },
     {
       "w": "provoke",
-      "p": "ph r\\` @ v @U kh"
+      "p": "ph r\\` @ w @U kh"
     },
     {
       "w": "provokes",
-      "p": "ph r\\` @ v @U kh s"
+      "p": "ph r\\` @ w @U kh s"
     },
     {
       "w": "provo",
-      "p": "ph r\\` @U v @U"
+      "p": "ph r\\` @U w @U"
     },
     {
       "w": "prowl",
@@ -49442,23 +49442,23 @@
     },
     {
       "w": "received",
-      "p": "r\\` @ s i v t"
+      "p": "r\\` @ s i w t"
     },
     {
       "w": "receive",
-      "p": "r\\` i s i v"
+      "p": "r\\` i s i w"
     },
     {
       "w": "receiver",
-      "p": "r\\` @ s i v a r\\`"
+      "p": "r\\` @ s i w a r\\`"
     },
     {
       "w": "receivers",
-      "p": "r\\` @ s i v a r\\` ts"
+      "p": "r\\` @ s i w a r\\` ts"
     },
     {
       "w": "receives",
-      "p": "r\\` @ s i v ts"
+      "p": "r\\` @ s i w ts"
     },
     {
       "w": "recently",
@@ -49602,23 +49602,23 @@
     },
     {
       "w": "recovered",
-      "p": "r\\` @ kh A v a r\\` t"
+      "p": "r\\` @ kh A w a r\\` t"
     },
     {
       "w": "recover",
-      "p": "r\\` i\\ kh A v a r\\`"
+      "p": "r\\` i\\ kh A w a r\\`"
     },
     {
       "w": "recovers",
-      "p": "r\\` i\\ kh A v a r\\` ts"
+      "p": "r\\` i\\ kh A w a r\\` ts"
     },
     {
       "w": "recovery",
-      "p": "r\\` i\\ kh A v r\\` i"
+      "p": "r\\` i\\ kh A w r\\` i"
     },
     {
       "w": "recovery's",
-      "p": "r\\` i\\ kh A v a r\\` i ts"
+      "p": "r\\` i\\ kh A w a r\\` i ts"
     },
     {
       "w": "rec",
@@ -50174,19 +50174,19 @@
     },
     {
       "w": "relatively",
-      "p": "r\\` e l @ th i\\ v l i"
+      "p": "r\\` e l @ th i\\ w l i"
     },
     {
       "w": "relative",
-      "p": "r\\` e l @ th i\\ v"
+      "p": "r\\` e l @ th i\\ w"
     },
     {
       "w": "relative's",
-      "p": "r\\` e l @ th i\\ v ts"
+      "p": "r\\` e l @ th i\\ w ts"
     },
     {
       "w": "relatives",
-      "p": "r\\` e l @ th i\\ v ts"
+      "p": "r\\` e l @ th i\\ w ts"
     },
     {
       "w": "relaxed",
@@ -50214,7 +50214,7 @@
     },
     {
       "w": "relevant",
-      "p": "r\\` e l @ v @ n th"
+      "p": "r\\` e l @ w @ n th"
     },
     {
       "w": "relf",
@@ -50238,23 +50238,23 @@
     },
     {
       "w": "relieved",
-      "p": "r\\` i\\ l i v t"
+      "p": "r\\` i\\ l i w t"
     },
     {
       "w": "relieve",
-      "p": "r\\` i\\ l i v"
+      "p": "r\\` i\\ l i w"
     },
     {
       "w": "reliever",
-      "p": "r\\` i l i v a r\\`"
+      "p": "r\\` i l i w a r\\`"
     },
     {
       "w": "relievers",
-      "p": "r\\` i l i v a r\\` ts"
+      "p": "r\\` i l i w a r\\` ts"
     },
     {
       "w": "relieves",
-      "p": "r\\` i l i v ts"
+      "p": "r\\` i l i w ts"
     },
     {
       "w": "religione",
@@ -50390,27 +50390,27 @@
     },
     {
       "w": "removal",
-      "p": "r\\` i\\ m u v @ l"
+      "p": "r\\` i\\ m u w @ l"
     },
     {
       "w": "removals",
-      "p": "r\\` i\\ m u v @ l ts"
+      "p": "r\\` i\\ m u w @ l ts"
     },
     {
       "w": "removed",
-      "p": "r\\` i m u v t"
+      "p": "r\\` i m u w t"
     },
     {
       "w": "remove",
-      "p": "r\\` i m u v"
+      "p": "r\\` i m u w"
     },
     {
       "w": "remover",
-      "p": "r\\` i\\ m u v a r\\`"
+      "p": "r\\` i\\ m u w a r\\`"
     },
     {
       "w": "removes",
-      "p": "r\\` i m u v ts"
+      "p": "r\\` i m u w ts"
     },
     {
       "w": "rem",
@@ -50630,7 +50630,7 @@
     },
     {
       "w": "rep.",
-      "p": "r\\` e ph r\\` i ts e l @ th i\\ v"
+      "p": "r\\` e ph r\\` i ts e l @ th i\\ w"
     },
     {
       "w": "representational",
@@ -50646,19 +50646,19 @@
     },
     {
       "w": "representative",
-      "p": "r\\` e ph r\\` @ ts e n th @ th i\\ v"
+      "p": "r\\` e ph r\\` @ ts e n th @ th i\\ w"
     },
     {
       "w": "representatives'",
-      "p": "r\\` e ph r\\` @ s e n th @ th i\\ v ts"
+      "p": "r\\` e ph r\\` @ s e n th @ th i\\ w ts"
     },
     {
       "w": "representatives",
-      "p": "r\\` e ph r\\` @ ts e n th @ th i\\ v ts"
+      "p": "r\\` e ph r\\` @ ts e n th @ th i\\ w ts"
     },
     {
       "w": "representative's",
-      "p": "r\\` e ph r\\` i\\ ts e n th @ th i\\ v ts"
+      "p": "r\\` e ph r\\` i\\ ts e n th @ th i\\ w ts"
     },
     {
       "w": "represented",
@@ -50822,27 +50822,27 @@
     },
     {
       "w": "reservation",
-      "p": "r\\` e ts a r\\` v e :\\i s` @ n"
+      "p": "r\\` e ts a r\\` w e :\\i s` @ n"
     },
     {
       "w": "reservations",
-      "p": "r\\` e ts a r\\` v e :\\i s` @ n ts"
+      "p": "r\\` e ts a r\\` w e :\\i s` @ n ts"
     },
     {
       "w": "reserved",
-      "p": "r\\` i\\ ts a r\\` v t"
+      "p": "r\\` i\\ ts a r\\` w t"
     },
     {
       "w": "reserve",
-      "p": "r\\` i\\ ts a r\\` v"
+      "p": "r\\` i\\ ts a r\\` w"
     },
     {
       "w": "reserve's",
-      "p": "r\\` i\\ ts a r\\` v ts"
+      "p": "r\\` i\\ ts a r\\` w ts"
     },
     {
       "w": "reserves",
-      "p": "r\\` i\\ ts a r\\` v ts"
+      "p": "r\\` i\\ ts a r\\` w ts"
     },
     {
       "w": "resh",
@@ -50922,15 +50922,15 @@
     },
     {
       "w": "resolved",
-      "p": "r\\` i ts A l v t"
+      "p": "r\\` i ts A l w t"
     },
     {
       "w": "resolve",
-      "p": "r\\` i ts A l v"
+      "p": "r\\` i ts A l w"
     },
     {
       "w": "resolves",
-      "p": "r\\` i ts A l v ts"
+      "p": "r\\` i ts A l w ts"
     },
     {
       "w": "reso",
@@ -50974,7 +50974,7 @@
     },
     {
       "w": "respectively",
-      "p": "r\\` i\\ s ph e kh th i\\ v l i"
+      "p": "r\\` i\\ s ph e kh th i\\ w l i"
     },
     {
       "w": "respect",
@@ -51278,107 +51278,107 @@
     },
     {
       "w": "reva",
-      "p": "r\\` e :\\i v @"
+      "p": "r\\` e :\\i w @"
     },
     {
       "w": "revealed",
-      "p": "r\\` i\\ v i l t"
+      "p": "r\\` i\\ w i l t"
     },
     {
       "w": "reveal",
-      "p": "r\\` i\\ v i l"
+      "p": "r\\` i\\ w i l"
     },
     {
       "w": "reveals",
-      "p": "r\\` i\\ v i l ts"
+      "p": "r\\` i\\ w i l ts"
     },
     {
       "w": "revelation",
-      "p": "r\\` e v @ l e :\\i s` @ n"
+      "p": "r\\` e w @ l e :\\i s` @ n"
     },
     {
       "w": "revelations",
-      "p": "r\\` e v @ l e :\\i s` @ n ts"
+      "p": "r\\` e w @ l e :\\i s` @ n ts"
     },
     {
       "w": "revenue",
-      "p": "r\\` e v @ n u"
+      "p": "r\\` e w @ n u"
     },
     {
       "w": "revenuer",
-      "p": "r\\` e v @ n ua r\\`"
+      "p": "r\\` e w @ n ua r\\`"
     },
     {
       "w": "revenuers",
-      "p": "r\\` e v @ n ua r\\` ts"
+      "p": "r\\` e w @ n ua r\\` ts"
     },
     {
       "w": "revenues",
-      "p": "r\\` e v @ n u ts"
+      "p": "r\\` e w @ n u ts"
     },
     {
       "w": "reversed",
-      "p": "r\\` i\\ v a r\\` s th"
+      "p": "r\\` i\\ w a r\\` s th"
     },
     {
       "w": "reverse",
-      "p": "r\\` i\\ v a r\\` s"
+      "p": "r\\` i\\ w a r\\` s"
     },
     {
       "w": "reverser",
-      "p": "r\\` i\\ v a r\\` s a r\\`"
+      "p": "r\\` i\\ w a r\\` s a r\\`"
     },
     {
       "w": "reversers",
-      "p": "r\\` i\\ v a r\\` s a r\\` ts"
+      "p": "r\\` i\\ w a r\\` s a r\\` ts"
     },
     {
       "w": "reverses",
-      "p": "r\\` i\\ v a r\\` s i\\ ts"
+      "p": "r\\` i\\ w a r\\` s i\\ ts"
     },
     {
       "w": "reviewed",
-      "p": "r\\` i v j u t"
+      "p": "r\\` i w j u t"
     },
     {
       "w": "reviewer",
-      "p": "r\\` i v j ua r\\`"
+      "p": "r\\` i w j ua r\\`"
     },
     {
       "w": "review",
-      "p": "r\\` i v j u"
+      "p": "r\\` i w j u"
     },
     {
       "w": "review's",
-      "p": "r\\` i v j u ts"
+      "p": "r\\` i w j u ts"
     },
     {
       "w": "reviews",
-      "p": "r\\` i v j u ts"
+      "p": "r\\` i w j u ts"
     },
     {
       "w": "revolutionary",
-      "p": "r\\` e v @ l u s` @ n e r\\` i"
+      "p": "r\\` e w @ l u s` @ n e r\\` i"
     },
     {
       "w": "revolution",
-      "p": "r\\` e v @ l u s` @ n"
+      "p": "r\\` e w @ l u s` @ n"
     },
     {
       "w": "revolution's",
-      "p": "r\\` e v @ l u s` @ n ts"
+      "p": "r\\` e w @ l u s` @ n ts"
     },
     {
       "w": "revolutions",
-      "p": "r\\` e v @ l u s` @ n ts"
+      "p": "r\\` e w @ l u s` @ n ts"
     },
     {
       "w": "rev",
-      "p": "r\\` e v"
+      "p": "r\\` e w"
     },
     {
       "w": "revs",
-      "p": "r\\` e v ts"
+      "p": "r\\` e w ts"
     },
     {
       "w": "rewarded",
@@ -51818,51 +51818,51 @@
     },
     {
       "w": "rivaled",
-      "p": "r\\` a :\\i v @ l t"
+      "p": "r\\` a :\\i w @ l t"
     },
     {
       "w": "rival",
-      "p": "r\\` a :\\i v @ l"
+      "p": "r\\` a :\\i w @ l"
     },
     {
       "w": "rivalry",
-      "p": "r\\` a :\\i v @ l r\\` i"
+      "p": "r\\` a :\\i w @ l r\\` i"
     },
     {
       "w": "rival's",
-      "p": "r\\` a :\\i v @ l ts"
+      "p": "r\\` a :\\i w @ l ts"
     },
     {
       "w": "rivals'",
-      "p": "r\\` a :\\i v @ l ts"
+      "p": "r\\` a :\\i w @ l ts"
     },
     {
       "w": "rivals",
-      "p": "r\\` a :\\i v @ l ts"
+      "p": "r\\` a :\\i w @ l ts"
     },
     {
       "w": "rivera",
-      "p": "r\\` i\\ v e r\\` @"
+      "p": "r\\` i\\ w e r\\` @"
     },
     {
       "w": "rivero",
-      "p": "r\\` i v e r\\` @U"
+      "p": "r\\` i w e r\\` @U"
     },
     {
       "w": "river",
-      "p": "r\\` i\\ v a r\\`"
+      "p": "r\\` i\\ w a r\\`"
     },
     {
       "w": "riverso",
-      "p": "r\\` i\\ v a r\\` s @U"
+      "p": "r\\` i\\ w a r\\` s @U"
     },
     {
       "w": "river's",
-      "p": "r\\` i\\ v a r\\` ts"
+      "p": "r\\` i\\ w a r\\` ts"
     },
     {
       "w": "rivers",
-      "p": "r\\` i\\ v a r\\` ts"
+      "p": "r\\` i\\ w a r\\` ts"
     },
     {
       "w": "roades",
@@ -53198,55 +53198,55 @@
     },
     {
       "w": "saved",
-      "p": "s e :\\i v t"
+      "p": "s e :\\i w t"
     },
     {
       "w": "savell",
-      "p": "s A v e :\\i l"
+      "p": "s A w e :\\i l"
     },
     {
       "w": "savel",
-      "p": "s A v e l"
+      "p": "s A w e l"
     },
     {
       "w": "savely",
-      "p": "s e :\\i v l i"
+      "p": "s e :\\i w l i"
     },
     {
       "w": "saver",
-      "p": "s e :\\i v a r\\`"
+      "p": "s e :\\i w a r\\`"
     },
     {
       "w": "savers",
-      "p": "s e :\\i v a r\\` ts"
+      "p": "s e :\\i w a r\\` ts"
     },
     {
       "w": "savery",
-      "p": "s e :\\i v a r\\` i"
+      "p": "s e :\\i w a r\\` i"
     },
     {
       "w": "save",
-      "p": "s e :\\i v"
+      "p": "s e :\\i w"
     },
     {
       "w": "save's",
-      "p": "s e :\\i v ts"
+      "p": "s e :\\i w ts"
     },
     {
       "w": "saves",
-      "p": "s e :\\i v ts"
+      "p": "s e :\\i w ts"
     },
     {
       "w": "saving",
-      "p": "s e :\\i v i\\ N"
+      "p": "s e :\\i w i\\ N"
     },
     {
       "w": "savings'",
-      "p": "s e :\\i v i\\ N ts"
+      "p": "s e :\\i w i\\ N ts"
     },
     {
       "w": "savings",
-      "p": "s e :\\i v i\\ N ts"
+      "p": "s e :\\i w i\\ N ts"
     },
     {
       "w": "sayad",
@@ -54270,15 +54270,15 @@
     },
     {
       "w": "sensitively",
-      "p": "s e n s i\\ th i\\ v l i"
+      "p": "s e n s i\\ th i\\ w l i"
     },
     {
       "w": "sensitive",
-      "p": "s e n s @ th i\\ v"
+      "p": "s e n s @ th i\\ w"
     },
     {
       "w": "sensitivity",
-      "p": "s e n s i\\ th i\\ v i\\ th i"
+      "p": "s e n s i\\ th i\\ w i\\ th i"
     },
     {
       "w": "sensor",
@@ -54370,67 +54370,67 @@
     },
     {
       "w": "servant",
-      "p": "s a r\\` v @ n th"
+      "p": "s a r\\` w @ n th"
     },
     {
       "w": "servants'",
-      "p": "s a r\\` v @ n th s"
+      "p": "s a r\\` w @ n th s"
     },
     {
       "w": "servants",
-      "p": "s a r\\` v @ n th s"
+      "p": "s a r\\` w @ n th s"
     },
     {
       "w": "served",
-      "p": "s a r\\` v t"
+      "p": "s a r\\` w t"
     },
     {
       "w": "server",
-      "p": "s a r\\` v a r\\`"
+      "p": "s a r\\` w a r\\`"
     },
     {
       "w": "servers",
-      "p": "s a r\\` v a r\\` ts"
+      "p": "s a r\\` w a r\\` ts"
     },
     {
       "w": "serve",
-      "p": "s a r\\` v"
+      "p": "s a r\\` w"
     },
     {
       "w": "serves",
-      "p": "s a r\\` v ts"
+      "p": "s a r\\` w ts"
     },
     {
       "w": "serviced",
-      "p": "s a r\\` v i\\ s th"
+      "p": "s a r\\` w i\\ s th"
     },
     {
       "w": "servicer",
-      "p": "s a r\\` v i\\ s a r\\`"
+      "p": "s a r\\` w i\\ s a r\\`"
     },
     {
       "w": "service",
-      "p": "s a r\\` v i\\ s"
+      "p": "s a r\\` w i\\ s"
     },
     {
       "w": "services",
-      "p": "s a r\\` v @ s @ ts"
+      "p": "s a r\\` w @ s @ ts"
     },
     {
       "w": "service's",
-      "p": "s a r\\` v i\\ s i\\ ts"
+      "p": "s a r\\` w i\\ s i\\ ts"
     },
     {
       "w": "services'",
-      "p": "s a r\\` v i\\ s i\\ ts"
+      "p": "s a r\\` w i\\ s i\\ ts"
     },
     {
       "w": "serving",
-      "p": "s a r\\` v i\\ N"
+      "p": "s a r\\` w i\\ N"
     },
     {
       "w": "servings",
-      "p": "s a r\\` v i\\ N ts"
+      "p": "s a r\\` w i\\ N ts"
     },
     {
       "w": "se",
@@ -54534,55 +54534,55 @@
     },
     {
       "w": "seven",
-      "p": "s e v @ n"
+      "p": "s e w @ n"
     },
     {
       "w": "seven's",
-      "p": "s e v @ n ts"
+      "p": "s e w @ n ts"
     },
     {
       "w": "sevens",
-      "p": "s e v @ n ts"
+      "p": "s e w @ n ts"
     },
     {
       "w": "seventh",
-      "p": "s e v @ n s"
+      "p": "s e w @ n s"
     },
     {
       "w": "sevenths",
-      "p": "s e v @ n s s"
+      "p": "s e w @ n s s"
     },
     {
       "w": "seventy",
-      "p": "s e v @ n th i"
+      "p": "s e w @ n th i"
     },
     {
       "w": "severally",
-      "p": "s e v r\\` @ l i"
+      "p": "s e w r\\` @ l i"
     },
     {
       "w": "several",
-      "p": "s e v a r\\` @ l"
+      "p": "s e w a r\\` @ l"
     },
     {
       "w": "severed",
-      "p": "s e v a r\\` t"
+      "p": "s e w a r\\` t"
     },
     {
       "w": "severely",
-      "p": "s @ v i\\ r\\` l i"
+      "p": "s @ w i\\ r\\` l i"
     },
     {
       "w": "severer",
-      "p": "s e v i\\ r\\` a r\\`"
+      "p": "s e w i\\ r\\` a r\\`"
     },
     {
       "w": "severe",
-      "p": "s @ v i\\ r\\`"
+      "p": "s @ w i\\ r\\`"
     },
     {
       "w": "severest",
-      "p": "s @ v i\\ r\\` @ s th"
+      "p": "s @ w i\\ r\\` @ s th"
     },
     {
       "w": "sexed",
@@ -55354,27 +55354,27 @@
     },
     {
       "w": "shoved",
-      "p": "s` A v t"
+      "p": "s` A w t"
     },
     {
       "w": "shovel",
-      "p": "s` A v @ l"
+      "p": "s` A w @ l"
     },
     {
       "w": "shovels",
-      "p": "s` A v @ l ts"
+      "p": "s` A w @ l ts"
     },
     {
       "w": "shover",
-      "p": "s` A v a r\\`"
+      "p": "s` A w a r\\`"
     },
     {
       "w": "shove",
-      "p": "s` A v"
+      "p": "s` A w"
     },
     {
       "w": "shoves",
-      "p": "s` A v ts"
+      "p": "s` A w ts"
     },
     {
       "w": "showa",
@@ -55718,35 +55718,35 @@
     },
     {
       "w": "silvera",
-      "p": "s i l v e r\\` @"
+      "p": "s i l w e r\\` @"
     },
     {
       "w": "silveria",
-      "p": "s i l v e r\\` i @"
+      "p": "s i l w e r\\` i @"
     },
     {
       "w": "silverio",
-      "p": "s i l v e r\\` i@U"
+      "p": "s i l w e r\\` i@U"
     },
     {
       "w": "silveri",
-      "p": "s i l v e r\\` i"
+      "p": "s i l w e r\\` i"
     },
     {
       "w": "silver",
-      "p": "s i\\ l v a r\\`"
+      "p": "s i\\ l w a r\\`"
     },
     {
       "w": "silver's",
-      "p": "s i\\ l v a r\\` ts"
+      "p": "s i\\ l w a r\\` ts"
     },
     {
       "w": "silvers",
-      "p": "s i\\ l v a r\\` ts"
+      "p": "s i\\ l w a r\\` ts"
     },
     {
       "w": "silvery",
-      "p": "s i\\ l v a r\\` i"
+      "p": "s i\\ l w a r\\` i"
     },
     {
       "w": "similarity",
@@ -56318,23 +56318,23 @@
     },
     {
       "w": "slaven",
-      "p": "s l e :\\i v @ n"
+      "p": "s l e :\\i w @ n"
     },
     {
       "w": "slavens",
-      "p": "s l e :\\i v @ n ts"
+      "p": "s l e :\\i w @ n ts"
     },
     {
       "w": "slavery",
-      "p": "s l e :\\i v a r\\` i"
+      "p": "s l e :\\i w a r\\` i"
     },
     {
       "w": "slave",
-      "p": "s l e :\\i v"
+      "p": "s l e :\\i w"
     },
     {
       "w": "slaves",
-      "p": "s l e :\\i v ts"
+      "p": "s l e :\\i w ts"
     },
     {
       "w": "sleeper",
@@ -56354,15 +56354,15 @@
     },
     {
       "w": "sleeved",
-      "p": "s l i v t"
+      "p": "s l i w t"
     },
     {
       "w": "sleeve",
-      "p": "s l i v"
+      "p": "s l i w"
     },
     {
       "w": "sleeves",
-      "p": "s l i v ts"
+      "p": "s l i w ts"
     },
     {
       "w": "sliced",
@@ -57026,27 +57026,27 @@
     },
     {
       "w": "solved",
-      "p": "s A l v t"
+      "p": "s A l w t"
     },
     {
       "w": "solvent",
-      "p": "s A l v @ n th"
+      "p": "s A l w @ n th"
     },
     {
       "w": "solver",
-      "p": "s A l v a r\\`"
+      "p": "s A l w a r\\`"
     },
     {
       "w": "solvers",
-      "p": "s A l v a r\\` ts"
+      "p": "s A l w a r\\` ts"
     },
     {
       "w": "solve",
-      "p": "s A l v"
+      "p": "s A l w"
     },
     {
       "w": "solves",
-      "p": "s A l v ts"
+      "p": "s A l w ts"
     },
     {
       "w": "soma",
@@ -57498,11 +57498,11 @@
     },
     {
       "w": "sova",
-      "p": "s @U v @"
+      "p": "s @U w @"
     },
     {
       "w": "sovereignty",
-      "p": "s A v r\\` @ n th i"
+      "p": "s A w r\\` @ n th i"
     },
     {
       "w": "sowa",
@@ -58446,7 +58446,7 @@
     },
     {
       "w": "starve",
-      "p": "s th A r\\` v"
+      "p": "s th A r\\` w"
     },
     {
       "w": "stary",
@@ -59034,15 +59034,15 @@
     },
     {
       "w": "stover",
-      "p": "s th @U v a r\\`"
+      "p": "s th @U w a r\\`"
     },
     {
       "w": "stoves",
-      "p": "s th @U v ts"
+      "p": "s th @U w ts"
     },
     {
       "w": "stove",
-      "p": "s th @U v"
+      "p": "s th @U w"
     },
     {
       "w": "straightened",
@@ -60010,23 +60010,23 @@
     },
     {
       "w": "supervisor's",
-      "p": "s u ph a r\\` v a :\\i ts a r\\` ts"
+      "p": "s u ph a r\\` w a :\\i ts a r\\` ts"
     },
     {
       "w": "supervisors'",
-      "p": "s u ph a r\\` v a :\\i ts a r\\` ts"
+      "p": "s u ph a r\\` w a :\\i ts a r\\` ts"
     },
     {
       "w": "supervisors",
-      "p": "s u ph a r\\` v a :\\i ts a r\\` ts"
+      "p": "s u ph a r\\` w a :\\i ts a r\\` ts"
     },
     {
       "w": "supervisor",
-      "p": "s u ph a r\\` v a :\\i ts a r\\`"
+      "p": "s u ph a r\\` w a :\\i ts a r\\`"
     },
     {
       "w": "supervisory",
-      "p": "s u ph a r\\` v a :\\i ts a r\\` i"
+      "p": "s u ph a r\\` w a :\\i ts a r\\` i"
     },
     {
       "w": "superx",
@@ -60070,7 +60070,7 @@
     },
     {
       "w": "supportive",
-      "p": "s @ ph o r\\` th i\\ v"
+      "p": "s @ ph o r\\` th i\\ w"
     },
     {
       "w": "support",
@@ -60202,55 +60202,55 @@
     },
     {
       "w": "surveillance",
-      "p": "s a r\\` v e :\\i l @ n s"
+      "p": "s a r\\` w e :\\i l @ n s"
     },
     {
       "w": "surveyed",
-      "p": "s a r\\` v e :\\i t"
+      "p": "s a r\\` w e :\\i t"
     },
     {
       "w": "surveyor",
-      "p": "s a r\\` v e :\\i a r\\`"
+      "p": "s a r\\` w e :\\i a r\\`"
     },
     {
       "w": "survey",
-      "p": "s a r\\` v e :\\i"
+      "p": "s a r\\` w e :\\i"
     },
     {
       "w": "survey's",
-      "p": "s a r\\` v e :\\i ts"
+      "p": "s a r\\` w e :\\i ts"
     },
     {
       "w": "surveys",
-      "p": "s a r\\` v e :\\i ts"
+      "p": "s a r\\` w e :\\i ts"
     },
     {
       "w": "survival",
-      "p": "s a r\\` v a :\\i v @ l"
+      "p": "s a r\\` w a :\\i w @ l"
     },
     {
       "w": "survived",
-      "p": "s a r\\` v a :\\i v t"
+      "p": "s a r\\` w a :\\i w t"
     },
     {
       "w": "survive",
-      "p": "s a r\\` v a :\\i v"
+      "p": "s a r\\` w a :\\i w"
     },
     {
       "w": "survives",
-      "p": "s a r\\` v a :\\i v ts"
+      "p": "s a r\\` w a :\\i w ts"
     },
     {
       "w": "survivor",
-      "p": "s a r\\` v a :\\i v a r\\`"
+      "p": "s a r\\` w a :\\i w a r\\`"
     },
     {
       "w": "survivor's",
-      "p": "s a r\\` v a :\\i v a r\\` ts"
+      "p": "s a r\\` w a :\\i w a r\\` ts"
     },
     {
       "w": "survivors",
-      "p": "s a r\\` v a :\\i v a r\\` ts"
+      "p": "s a r\\` w a :\\i w a r\\` ts"
     },
     {
       "w": "suspected",
@@ -61250,15 +61250,15 @@
     },
     {
       "w": "television's",
-      "p": "th e l @ v i\\ z` @ n ts"
+      "p": "th e l @ w i\\ z` @ n ts"
     },
     {
       "w": "televisions",
-      "p": "th e l @ v i\\ z` @ n ts"
+      "p": "th e l @ w i\\ z` @ n ts"
     },
     {
       "w": "television",
-      "p": "th e l @ v i\\ z` @ n"
+      "p": "th e l @ w i\\ z` @ n"
     },
     {
       "w": "tellep",
@@ -61766,7 +61766,7 @@
     },
     {
       "w": "themselves",
-      "p": "t e m s e l v ts"
+      "p": "t e m s e l w ts"
     },
     {
       "w": "thence",
@@ -61858,7 +61858,7 @@
     },
     {
       "w": "thereof",
-      "p": "t e r\\` A v"
+      "p": "t e r\\` A w"
     },
     {
       "w": "thereon",
@@ -62126,15 +62126,15 @@
     },
     {
       "w": "thrived",
-      "p": "s r\\` a :\\i v t"
+      "p": "s r\\` a :\\i w t"
     },
     {
       "w": "thrives",
-      "p": "s r\\` a :\\i v ts"
+      "p": "s r\\` a :\\i w ts"
     },
     {
       "w": "thrive",
-      "p": "s r\\` a :\\i v"
+      "p": "s r\\` a :\\i w"
     },
     {
       "w": "throated",
@@ -63146,7 +63146,7 @@
     },
     {
       "w": "tov",
-      "p": "th @U v"
+      "p": "th @U w"
     },
     {
       "w": "towards",
@@ -63646,31 +63646,31 @@
     },
     {
       "w": "traveled",
-      "p": "t r\\` a v @ l t"
+      "p": "t r\\` a w @ l t"
     },
     {
       "w": "traveler's",
-      "p": "t r\\` a v @ l a r\\` ts"
+      "p": "t r\\` a w @ l a r\\` ts"
     },
     {
       "w": "travelers'",
-      "p": "t r\\` a v @ l a r\\` ts"
+      "p": "t r\\` a w @ l a r\\` ts"
     },
     {
       "w": "travelers",
-      "p": "t r\\` a v @ l a r\\` ts"
+      "p": "t r\\` a w @ l a r\\` ts"
     },
     {
       "w": "traveler",
-      "p": "t r\\` a v @ l a r\\`"
+      "p": "t r\\` a w @ l a r\\`"
     },
     {
       "w": "travels",
-      "p": "t r\\` a v @ l ts"
+      "p": "t r\\` a w @ l ts"
     },
     {
       "w": "travel",
-      "p": "t r\\` a v @ l"
+      "p": "t r\\` a w @ l"
     },
     {
       "w": "trayer",
@@ -64226,11 +64226,11 @@
     },
     {
       "w": "tv",
-      "p": "th i v i"
+      "p": "th i w i"
     },
     {
       "w": "twelve",
-      "p": "th w e l v"
+      "p": "th w e l w"
     },
     {
       "w": "twentieth",
@@ -64430,15 +64430,15 @@
     },
     {
       "w": "uncover",
-      "p": "@ n kh A v a r\\`"
+      "p": "@ n kh A w a r\\`"
     },
     {
       "w": "uncovered",
-      "p": "@ n kh A v a r\\` t"
+      "p": "@ n kh A w a r\\` t"
     },
     {
       "w": "uncovers",
-      "p": "A n kh A v a r\\` ts"
+      "p": "A n kh A w a r\\` ts"
     },
     {
       "w": "under",
@@ -64650,31 +64650,31 @@
     },
     {
       "w": "universally",
-      "p": "j u n @ v a r\\` s @ l i"
+      "p": "j u n @ w a r\\` s @ l i"
     },
     {
       "w": "universal's",
-      "p": "j u n @ v a r\\` s @ l ts"
+      "p": "j u n @ w a r\\` s @ l ts"
     },
     {
       "w": "universal",
-      "p": "j u n @ v a r\\` s @ l"
+      "p": "j u n @ w a r\\` s @ l"
     },
     {
       "w": "universes",
-      "p": "j u n @ v a r\\` s i\\ ts"
+      "p": "j u n @ w a r\\` s i\\ ts"
     },
     {
       "w": "universe",
-      "p": "j u n @ v a r\\` s"
+      "p": "j u n @ w a r\\` s"
     },
     {
       "w": "university's",
-      "p": "j u n @ v a r\\` s @ th i ts"
+      "p": "j u n @ w a r\\` s @ th i ts"
     },
     {
       "w": "university",
-      "p": "j u n @ v a r\\` s @ th i"
+      "p": "j u n @ w a r\\` s @ th i"
     },
     {
       "w": "unknown",
@@ -64930,771 +64930,771 @@
     },
     {
       "w": "vacationed",
-      "p": "v e :\\i kh e :\\i s` @ n t"
+      "p": "w e :\\i kh e :\\i s` @ n t"
     },
     {
       "w": "vacationer",
-      "p": "v e :\\i kh e :\\i s` @ n a r\\`"
+      "p": "w e :\\i kh e :\\i s` @ n a r\\`"
     },
     {
       "w": "vacations",
-      "p": "v e :\\i kh e :\\i s` @ n ts"
+      "p": "w e :\\i kh e :\\i s` @ n ts"
     },
     {
       "w": "vacation",
-      "p": "v e :\\i kh e :\\i s` @ n"
+      "p": "w e :\\i kh e :\\i s` @ n"
     },
     {
       "w": "vaccine's",
-      "p": "v a kh s i n ts"
+      "p": "w a kh s i n ts"
     },
     {
       "w": "vaccines",
-      "p": "v a kh s i n ts"
+      "p": "w a kh s i n ts"
     },
     {
       "w": "vaccine",
-      "p": "v a kh s i n"
+      "p": "w a kh s i n"
     },
     {
       "w": "vacuumed",
-      "p": "v a kh j u m t"
+      "p": "w a kh j u m t"
     },
     {
       "w": "vacuums",
-      "p": "v a kh j u m ts"
+      "p": "w a kh j u m ts"
     },
     {
       "w": "vacuum",
-      "p": "v a kh j u m"
+      "p": "w a kh j u m"
     },
     {
       "w": "valida",
-      "p": "v A l i l @"
+      "p": "w A l i l @"
     },
     {
       "w": "valided",
-      "p": "v a l @ t i\\ t"
+      "p": "w a l @ t i\\ t"
     },
     {
       "w": "validity",
-      "p": "v @ l i\\ l i\\ th i"
+      "p": "w @ l i\\ l i\\ th i"
     },
     {
       "w": "validly",
-      "p": "v a l i\\ t l i"
+      "p": "w a l i\\ t l i"
     },
     {
       "w": "valid",
-      "p": "v a l i\\ t"
+      "p": "w a l i\\ t"
     },
     {
       "w": "valley's",
-      "p": "v a l i ts"
+      "p": "w a l i ts"
     },
     {
       "w": "valleys",
-      "p": "v a l i ts"
+      "p": "w a l i ts"
     },
     {
       "w": "valley",
-      "p": "v a l i"
+      "p": "w a l i"
     },
     {
       "w": "valuables",
-      "p": "v a l j @ p @ l ts"
+      "p": "w a l j @ p @ l ts"
     },
     {
       "w": "valuable",
-      "p": "v a l j @ p @ l"
+      "p": "w a l j @ p @ l"
     },
     {
       "w": "valued",
-      "p": "v a l j u t"
+      "p": "w a l j u t"
     },
     {
       "w": "values'",
-      "p": "v a l j u ts"
+      "p": "w a l j u ts"
     },
     {
       "w": "values",
-      "p": "v a l j u ts"
+      "p": "w a l j u ts"
     },
     {
       "w": "value",
-      "p": "v a l j u"
+      "p": "w a l j u"
     },
     {
       "w": "vana",
-      "p": "v a n @"
+      "p": "w a n @"
     },
     {
       "w": "vance",
-      "p": "v a n s"
+      "p": "w a n s"
     },
     {
       "w": "vande",
-      "p": "v a n t"
+      "p": "w a n t"
     },
     {
       "w": "vanek",
-      "p": "v a n e kh"
+      "p": "w a n e kh"
     },
     {
       "w": "vanes",
-      "p": "v e :\\i n ts"
+      "p": "w e :\\i n ts"
     },
     {
       "w": "vane",
-      "p": "v e :\\i n"
+      "p": "w e :\\i n"
     },
     {
       "w": "vang",
-      "p": "v a N"
+      "p": "w a N"
     },
     {
       "w": "vangy",
-      "p": "v a n ts` i"
+      "p": "w a n ts` i"
     },
     {
       "w": "vania",
-      "p": "v A n i @"
+      "p": "w A n i @"
     },
     {
       "w": "vanik",
-      "p": "v A n i\\ kh"
+      "p": "w A n i\\ kh"
     },
     {
       "w": "vanished",
-      "p": "v a n i\\ s` th"
+      "p": "w a n i\\ s` th"
     },
     {
       "w": "vanishes",
-      "p": "v a n i\\ s` i\\ ts"
+      "p": "w a n i\\ s` i\\ ts"
     },
     {
       "w": "vanish",
-      "p": "v a n i\\ s`"
+      "p": "w a n i\\ s`"
     },
     {
       "w": "vanna",
-      "p": "v a n @"
+      "p": "w a n @"
     },
     {
       "w": "vanni",
-      "p": "v a n i"
+      "p": "w a n i"
     },
     {
       "w": "vann",
-      "p": "v a n"
+      "p": "w a n"
     },
     {
       "w": "vanny",
-      "p": "v a n i"
+      "p": "w a n i"
     },
     {
       "w": "vano",
-      "p": "v A n @U"
+      "p": "w A n @U"
     },
     {
       "w": "vans",
-      "p": "v a n ts"
+      "p": "w a n ts"
     },
     {
       "w": "van",
-      "p": "v a n"
+      "p": "w a n"
     },
     {
       "w": "vanya",
-      "p": "v A n j @"
+      "p": "w A n j @"
     },
     {
       "w": "vanyo",
-      "p": "v A n j @U"
+      "p": "w A n j @U"
     },
     {
       "w": "variables",
-      "p": "v e r\\` i @ p @ l ts"
+      "p": "w e r\\` i @ p @ l ts"
     },
     {
       "w": "variable",
-      "p": "v e r\\` i @ p @ l"
+      "p": "w e r\\` i @ p @ l"
     },
     {
       "w": "variations",
-      "p": "v e r\\` ie :\\i s` @ n ts"
+      "p": "w e r\\` ie :\\i s` @ n ts"
     },
     {
       "w": "variation",
-      "p": "v e r\\` ie :\\i s` @ n"
+      "p": "w e r\\` ie :\\i s` @ n"
     },
     {
       "w": "variety",
-      "p": "v a r\\` a :\\i @ th i"
+      "p": "w a r\\` a :\\i @ th i"
     },
     {
       "w": "variously",
-      "p": "v e r\\` i @ s l i"
+      "p": "w e r\\` i @ s l i"
     },
     {
       "w": "various",
-      "p": "v e r\\` i @ s"
+      "p": "w e r\\` i @ s"
     },
     {
       "w": "vary",
-      "p": "v e r\\` i"
+      "p": "w e r\\` i"
     },
     {
       "w": "vasta",
-      "p": "v a s th @"
+      "p": "w a s th @"
     },
     {
       "w": "vastly",
-      "p": "v a s th l i"
+      "p": "w a s th l i"
     },
     {
       "w": "vast",
-      "p": "v a s th"
+      "p": "w a s th"
     },
     {
       "w": "vegetables",
-      "p": "v e ts` th @ p @ l ts"
+      "p": "w e ts` th @ p @ l ts"
     },
     {
       "w": "vegetable",
-      "p": "v e ts` th @ p @ l"
+      "p": "w e ts` th @ p @ l"
     },
     {
       "w": "vehicles'",
-      "p": "v e x i\\ kh @ l ts"
+      "p": "w e x i\\ kh @ l ts"
     },
     {
       "w": "vehicle's",
-      "p": "v i x i\\ kh @ l ts"
+      "p": "w i x i\\ kh @ l ts"
     },
     {
       "w": "vehicles",
-      "p": "v i x i\\ kh @ l ts"
+      "p": "w i x i\\ kh @ l ts"
     },
     {
       "w": "vehicle",
-      "p": "v i x i\\ kh @ l"
+      "p": "w i x i\\ kh @ l"
     },
     {
       "w": "vendor's",
-      "p": "v e n t a r\\` ts"
+      "p": "w e n t a r\\` ts"
     },
     {
       "w": "vendors'",
-      "p": "v e n t a r\\` ts"
+      "p": "w e n t a r\\` ts"
     },
     {
       "w": "vendors",
-      "p": "v e n t a r\\` ts"
+      "p": "w e n t a r\\` ts"
     },
     {
       "w": "vendor",
-      "p": "v e n t a r\\`"
+      "p": "w e n t a r\\`"
     },
     {
       "w": "ventured",
-      "p": "v e n ts`h a r\\` t"
+      "p": "w e n ts`h a r\\` t"
     },
     {
       "w": "venture's",
-      "p": "v e n ts`h a r\\` ts"
+      "p": "w e n ts`h a r\\` ts"
     },
     {
       "w": "ventures'",
-      "p": "v e n ts`h a r\\` ts"
+      "p": "w e n ts`h a r\\` ts"
     },
     {
       "w": "ventures",
-      "p": "v e n ts`h a r\\` ts"
+      "p": "w e n ts`h a r\\` ts"
     },
     {
       "w": "venture",
-      "p": "v e n ts`h a r\\`"
+      "p": "w e n ts`h a r\\`"
     },
     {
       "w": "verbally",
-      "p": "v a r\\` p a l i"
+      "p": "w a r\\` p a l i"
     },
     {
       "w": "verbal",
-      "p": "v a r\\` p @ l"
+      "p": "w a r\\` p @ l"
     },
     {
       "w": "verdicts",
-      "p": "v a r\\` l i\\ kh th s"
+      "p": "w a r\\` l i\\ kh th s"
     },
     {
       "w": "verdict",
-      "p": "v a r\\` l i\\ kh th"
+      "p": "w a r\\` l i\\ kh th"
     },
     {
       "w": "versions",
-      "p": "v a r\\` z` @ n ts"
+      "p": "w a r\\` z` @ n ts"
     },
     {
       "w": "version",
-      "p": "v a r\\` z` @ n"
+      "p": "w a r\\` z` @ n"
     },
     {
       "w": "versus",
-      "p": "v a r\\` s @ s"
+      "p": "w a r\\` s @ s"
     },
     {
       "w": "vertically",
-      "p": "v a r\\` l i\\ kh l i"
+      "p": "w a r\\` l i\\ kh l i"
     },
     {
       "w": "vertical",
-      "p": "v a r\\` l i\\ kh @ l"
+      "p": "w a r\\` l i\\ kh @ l"
     },
     {
       "w": "very",
-      "p": "v e r\\` i"
+      "p": "w e r\\` i"
     },
     {
       "w": "vessell",
-      "p": "v e s @ l"
+      "p": "w e s @ l"
     },
     {
       "w": "vessel's",
-      "p": "v e s @ l ts"
+      "p": "w e s @ l ts"
     },
     {
       "w": "vessels",
-      "p": "v e s @ l ts"
+      "p": "w e s @ l ts"
     },
     {
       "w": "vessel",
-      "p": "v e s @ l"
+      "p": "w e s @ l"
     },
     {
       "w": "veteran's",
-      "p": "v e l a r\\` @ n ts"
+      "p": "w e l a r\\` @ n ts"
     },
     {
       "w": "veterans'",
-      "p": "v e l a r\\` @ n ts"
+      "p": "w e l a r\\` @ n ts"
     },
     {
       "w": "veterans",
-      "p": "v e l a r\\` @ n ts"
+      "p": "w e l a r\\` @ n ts"
     },
     {
       "w": "veteran",
-      "p": "v e l a r\\` @ n"
+      "p": "w e l a r\\` @ n"
     },
     {
       "w": "ve",
-      "p": "v i"
+      "p": "w i"
     },
     {
       "w": "viag",
-      "p": "v a :\\i a k"
+      "p": "w a :\\i a k"
     },
     {
       "w": "viall",
-      "p": "v a :\\i @ l"
+      "p": "w a :\\i @ l"
     },
     {
       "w": "vials",
-      "p": "v a :\\i @ l ts"
+      "p": "w a :\\i @ l ts"
     },
     {
       "w": "vial",
-      "p": "v a :\\i @ l"
+      "p": "w a :\\i @ l"
     },
     {
       "w": "viana",
-      "p": "v ia n @"
+      "p": "w ia n @"
     },
     {
       "w": "viani",
-      "p": "v iA n i"
+      "p": "w iA n i"
     },
     {
       "w": "viano",
-      "p": "v iA n @U"
+      "p": "w iA n @U"
     },
     {
       "w": "vian",
-      "p": "v i @ n"
+      "p": "w i @ n"
     },
     {
       "w": "viars",
-      "p": "v a :\\i a r\\` ts"
+      "p": "w a :\\i a r\\` ts"
     },
     {
       "w": "viar",
-      "p": "v a :\\i a r\\`"
+      "p": "w a :\\i a r\\`"
     },
     {
       "w": "viau",
-      "p": "v i@U"
+      "p": "w i@U"
     },
     {
       "w": "via",
-      "p": "v a :\\i @"
+      "p": "w a :\\i @"
     },
     {
       "w": "victim's",
-      "p": "v i\\ kh th i\\ m ts"
+      "p": "w i\\ kh th i\\ m ts"
     },
     {
       "w": "victims'",
-      "p": "v i\\ kh th i\\ m ts"
+      "p": "w i\\ kh th i\\ m ts"
     },
     {
       "w": "victims",
-      "p": "v i\\ kh th i\\ m ts"
+      "p": "w i\\ kh th i\\ m ts"
     },
     {
       "w": "victim",
-      "p": "v i\\ kh th i\\ m"
+      "p": "w i\\ kh th i\\ m"
     },
     {
       "w": "victory",
-      "p": "v i\\ kh th @ r\\` i"
+      "p": "w i\\ kh th @ r\\` i"
     },
     {
       "w": "video's",
-      "p": "v i\\ t i@U ts"
+      "p": "w i\\ t i@U ts"
     },
     {
       "w": "videos",
-      "p": "v i\\ t i@U ts"
+      "p": "w i\\ t i@U ts"
     },
     {
       "w": "video",
-      "p": "v i\\ t i@U"
+      "p": "w i\\ t i@U"
     },
     {
       "w": "viewed",
-      "p": "v j u t"
+      "p": "w j u t"
     },
     {
       "w": "viewer's",
-      "p": "v j ua r\\` ts"
+      "p": "w j ua r\\` ts"
     },
     {
       "w": "viewers'",
-      "p": "v j ua r\\` ts"
+      "p": "w j ua r\\` ts"
     },
     {
       "w": "viewers",
-      "p": "v j ua r\\` ts"
+      "p": "w j ua r\\` ts"
     },
     {
       "w": "viewer",
-      "p": "v j ua r\\`"
+      "p": "w j ua r\\`"
     },
     {
       "w": "views",
-      "p": "v j u ts"
+      "p": "w j u ts"
     },
     {
       "w": "view",
-      "p": "v j u"
+      "p": "w j u"
     },
     {
       "w": "villagers",
-      "p": "v i\\ l i\\ ts` a r\\` ts"
+      "p": "w i\\ l i\\ ts` a r\\` ts"
     },
     {
       "w": "villager",
-      "p": "v i\\ l i\\ ts` a r\\`"
+      "p": "w i\\ l i\\ ts` a r\\`"
     },
     {
       "w": "villages",
-      "p": "v i\\ l @ ts` i\\ ts"
+      "p": "w i\\ l @ ts` i\\ ts"
     },
     {
       "w": "village's",
-      "p": "v i\\ l i\\ ts` i\\ ts"
+      "p": "w i\\ l i\\ ts` i\\ ts"
     },
     {
       "w": "village",
-      "p": "v i\\ l @ ts`"
+      "p": "w i\\ l @ ts`"
     },
     {
       "w": "violated",
-      "p": "v a :\\i @ l e :\\i th i\\ t"
+      "p": "w a :\\i @ l e :\\i th i\\ t"
     },
     {
       "w": "violates",
-      "p": "v a :\\i @ l e :\\i th s"
+      "p": "w a :\\i @ l e :\\i th s"
     },
     {
       "w": "violate",
-      "p": "v a :\\i @ l e :\\i th"
+      "p": "w a :\\i @ l e :\\i th"
     },
     {
       "w": "violations",
-      "p": "v a :\\i @ l e :\\i s` @ n ts"
+      "p": "w a :\\i @ l e :\\i s` @ n ts"
     },
     {
       "w": "violation",
-      "p": "v a :\\i @ l e :\\i s` @ n"
+      "p": "w a :\\i @ l e :\\i s` @ n"
     },
     {
       "w": "violence",
-      "p": "v a :\\i @ l @ n s"
+      "p": "w a :\\i @ l @ n s"
     },
     {
       "w": "violently",
-      "p": "v a :\\i @ l @ n th l i"
+      "p": "w a :\\i @ l @ n th l i"
     },
     {
       "w": "violent",
-      "p": "v a :\\i @ l @ n th"
+      "p": "w a :\\i @ l @ n th"
     },
     {
       "w": "virtually",
-      "p": "v a r\\` ts`h u@ l i"
+      "p": "w a r\\` ts`h u@ l i"
     },
     {
       "w": "virtual",
-      "p": "v a r\\` ts`h u@ l"
+      "p": "w a r\\` ts`h u@ l"
     },
     {
       "w": "virtues",
-      "p": "v a r\\` ts`h u ts"
+      "p": "w a r\\` ts`h u ts"
     },
     {
       "w": "virtue",
-      "p": "v a r\\` ts`h u"
+      "p": "w a r\\` ts`h u"
     },
     {
       "w": "viruses",
-      "p": "v a :\\i r\\` @ s @ ts"
+      "p": "w a :\\i r\\` @ s @ ts"
     },
     {
       "w": "virus's",
-      "p": "v a :\\i r\\` @ s i\\ ts"
+      "p": "w a :\\i r\\` @ s i\\ ts"
     },
     {
       "w": "virus",
-      "p": "v a :\\i r\\` @ s"
+      "p": "w a :\\i r\\` @ s"
     },
     {
       "w": "visible",
-      "p": "v i\\ ts @ p @ l"
+      "p": "w i\\ ts @ p @ l"
     },
     {
       "w": "vision's",
-      "p": "v i\\ z` @ n ts"
+      "p": "w i\\ z` @ n ts"
     },
     {
       "w": "visions",
-      "p": "v i\\ z` @ n ts"
+      "p": "w i\\ z` @ n ts"
     },
     {
       "w": "vision",
-      "p": "v i\\ z` @ n"
+      "p": "w i\\ z` @ n"
     },
     {
       "w": "visited",
-      "p": "v i\\ ts i\\ th i\\ t"
+      "p": "w i\\ ts i\\ th i\\ t"
     },
     {
       "w": "visitor's",
-      "p": "v i\\ ts i\\ th a r\\` ts"
+      "p": "w i\\ ts i\\ th a r\\` ts"
     },
     {
       "w": "visitors'",
-      "p": "v i\\ ts i\\ th a r\\` ts"
+      "p": "w i\\ ts i\\ th a r\\` ts"
     },
     {
       "w": "visitors",
-      "p": "v i\\ ts i\\ th a r\\` ts"
+      "p": "w i\\ ts i\\ th a r\\` ts"
     },
     {
       "w": "visitor",
-      "p": "v i\\ ts i\\ th a r\\`"
+      "p": "w i\\ ts i\\ th a r\\`"
     },
     {
       "w": "visits",
-      "p": "v i\\ ts i\\ th s"
+      "p": "w i\\ ts i\\ th s"
     },
     {
       "w": "visit",
-      "p": "v i\\ ts i\\ th"
+      "p": "w i\\ ts i\\ th"
     },
     {
       "w": "visually",
-      "p": "v i\\ z` w @ l i"
+      "p": "w i\\ z` w @ l i"
     },
     {
       "w": "visuals",
-      "p": "v i\\ z` w @ l ts"
+      "p": "w i\\ z` w @ l ts"
     },
     {
       "w": "visual",
-      "p": "v i\\ z` @ w @ l"
+      "p": "w i\\ z` @ w @ l"
     },
     {
       "w": "vitale",
-      "p": "v i\\ th a l i"
+      "p": "w i\\ th a l i"
     },
     {
       "w": "vitali",
-      "p": "v i th A l i"
+      "p": "w i th A l i"
     },
     {
       "w": "vitally",
-      "p": "v a :\\i l @ l i"
+      "p": "w a :\\i l @ l i"
     },
     {
       "w": "vital",
-      "p": "v a :\\i l @ l"
+      "p": "w a :\\i l @ l"
     },
     {
       "w": "vitaly",
-      "p": "v @ th a l i"
+      "p": "w @ th a l i"
     },
     {
       "w": "vitamins",
-      "p": "v a :\\i l @ m @ n ts"
+      "p": "w a :\\i l @ m @ n ts"
     },
     {
       "w": "vitamin",
-      "p": "v a :\\i l @ m @ n"
+      "p": "w a :\\i l @ m @ n"
     },
     {
       "w": "vi",
-      "p": "v a :\\i"
+      "p": "w a :\\i"
     },
     {
       "w": "vocally",
-      "p": "v @U kh @ l i"
+      "p": "w @U kh @ l i"
     },
     {
       "w": "vocals",
-      "p": "v @U kh @ l ts"
+      "p": "w @U kh @ l ts"
     },
     {
       "w": "vocal",
-      "p": "v @U kh @ l"
+      "p": "w @U kh @ l"
     },
     {
       "w": "voiced",
-      "p": "v o :\\i s th"
+      "p": "w o :\\i s th"
     },
     {
       "w": "voices",
-      "p": "v o :\\i s @ ts"
+      "p": "w o :\\i s @ ts"
     },
     {
       "w": "voice's",
-      "p": "v o :\\i s i\\ ts"
+      "p": "w o :\\i s i\\ ts"
     },
     {
       "w": "voice",
-      "p": "v o :\\i s"
+      "p": "w o :\\i s"
     },
     {
       "w": "volume's",
-      "p": "v A l j @ m ts"
+      "p": "w A l j @ m ts"
     },
     {
       "w": "volumes",
-      "p": "v A l j u m ts"
+      "p": "w A l j u m ts"
     },
     {
       "w": "volume",
-      "p": "v A l j u m"
+      "p": "w A l j u m"
     },
     {
       "w": "voluntary",
-      "p": "v A l @ n th e r\\` i"
+      "p": "w A l @ n th e r\\` i"
     },
     {
       "w": "volunteered",
-      "p": "v A l @ n th i\\ r\\` t"
+      "p": "w A l @ n th i\\ r\\` t"
     },
     {
       "w": "volunteers",
-      "p": "v A l @ n th i\\ r\\` ts"
+      "p": "w A l @ n th i\\ r\\` ts"
     },
     {
       "w": "volunteer",
-      "p": "v A l @ n th i\\ r\\`"
+      "p": "w A l @ n th i\\ r\\`"
     },
     {
       "w": "voted",
-      "p": "v @U l @ t"
+      "p": "w @U l @ t"
     },
     {
       "w": "voter's",
-      "p": "v @U l a r\\` ts"
+      "p": "w @U l a r\\` ts"
     },
     {
       "w": "voters'",
-      "p": "v @U l a r\\` ts"
+      "p": "w @U l a r\\` ts"
     },
     {
       "w": "voters",
-      "p": "v @U l a r\\` ts"
+      "p": "w @U l a r\\` ts"
     },
     {
       "w": "voter",
-      "p": "v @U l a r\\`"
+      "p": "w @U l a r\\`"
     },
     {
       "w": "vote's",
-      "p": "v @U th s"
+      "p": "w @U th s"
     },
     {
       "w": "votes",
-      "p": "v @U th s"
+      "p": "w @U th s"
     },
     {
       "w": "vote",
-      "p": "v @U th"
+      "p": "w @U th"
     },
     {
       "w": "voting",
-      "p": "v @U l i\\ N"
+      "p": "w @U l i\\ N"
     },
     {
       "w": "vo",
-      "p": "v @U"
+      "p": "w @U"
     },
     {
       "w": "vp",
-      "p": "v i ph i"
+      "p": "w i ph i"
     },
     {
       "w": "vsel",
-      "p": "v i s e l"
+      "p": "w i s e l"
     },
     {
       "w": "vs",
-      "p": "v a r\\` s @ ts"
+      "p": "w a r\\` s @ ts"
     },
     {
       "w": "vulnerable",
-      "p": "v A l n a r\\` @ p @ l"
+      "p": "w A l n a r\\` @ p @ l"
     },
     {
       "w": "vu",
-      "p": "v u"
+      "p": "w u"
     },
     {
       "w": "v.",
-      "p": "v i"
+      "p": "w i"
     },
     {
       "w": "v",
-      "p": "v i"
+      "p": "w i"
     },
     {
       "w": "vy",
-      "p": "v a :\\i"
+      "p": "w a :\\i"
     },
     {
       "w": "waged",
@@ -66150,7 +66150,7 @@
     },
     {
       "w": "washko",
-      "p": "v A s` kh @U"
+      "p": "w A s` kh @U"
     },
     {
       "w": "washoe",
@@ -66230,19 +66230,19 @@
     },
     {
       "w": "waved",
-      "p": "w e :\\i v t"
+      "p": "w e :\\i w t"
     },
     {
       "w": "waver",
-      "p": "w e :\\i v a r\\`"
+      "p": "w e :\\i w a r\\`"
     },
     {
       "w": "waves",
-      "p": "w e :\\i v ts"
+      "p": "w e :\\i w ts"
     },
     {
       "w": "wave",
-      "p": "w e :\\i v"
+      "p": "w e :\\i w"
     },
     {
       "w": "wa",
@@ -66394,23 +66394,23 @@
     },
     {
       "w": "weaved",
-      "p": "w i v t"
+      "p": "w i w t"
     },
     {
       "w": "weavers",
-      "p": "w i v a r\\` ts"
+      "p": "w i w a r\\` ts"
     },
     {
       "w": "weaver",
-      "p": "w i v a r\\`"
+      "p": "w i w a r\\`"
     },
     {
       "w": "weaves",
-      "p": "w i v ts"
+      "p": "w i w ts"
     },
     {
       "w": "weave",
-      "p": "w i v"
+      "p": "w i w"
     },
     {
       "w": "webbs",
@@ -66862,11 +66862,11 @@
     },
     {
       "w": "whatever's",
-      "p": "w A th e v a r\\` ts"
+      "p": "w A th e w a r\\` ts"
     },
     {
       "w": "whatever",
-      "p": "w A th e v a r\\`"
+      "p": "w A th e w a r\\`"
     },
     {
       "w": "whate",
@@ -66950,7 +66950,7 @@
     },
     {
       "w": "whenever",
-      "p": "w e n e v a r\\`"
+      "p": "w e n e w a r\\`"
     },
     {
       "w": "when's",
@@ -66982,7 +66982,7 @@
     },
     {
       "w": "wherever",
-      "p": "w e r\\` e v a r\\`"
+      "p": "w e r\\` e w a r\\`"
     },
     {
       "w": "where",
@@ -67086,11 +67086,11 @@
     },
     {
       "w": "whoever",
-      "p": "x ue v a r\\`"
+      "p": "x ue w a r\\`"
     },
     {
       "w": "whoever's",
-      "p": "x ue v a r\\` ts"
+      "p": "x ue w a r\\` ts"
     },
     {
       "w": "who",
