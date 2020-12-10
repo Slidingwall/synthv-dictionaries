@@ -22,8 +22,8 @@
 <VALUE name="abortions" val="@ p o r\` s` @ n ts"/>
 <VALUE name="about" val="@ p AU th"/>
 <VALUE name="about's" val="@ p AU th s"/>
-<VALUE name="above" val="@ p A v"/>
-<VALUE name="above's" val="@ p A v ts"/>
+<VALUE name="above" val="@ p A w"/>
+<VALUE name="above's" val="@ p A w ts"/>
 <VALUE name="abroad" val="@ p r\` o t"/>
 <VALUE name="absence" val="a p s @ n s"/>
 <VALUE name="absences" val="a p s @ n s i\ ts"/>
@@ -97,13 +97,13 @@
 <VALUE name="accuses" val="@ kh j u ts i\ ts"/>
 <VALUE name="ace" val="e :\i s"/>
 <VALUE name="ac" val="e :\i s i"/>
-<VALUE name="achieve" val="@ ts`h i v"/>
-<VALUE name="achieved" val="@ ts`h i v t"/>
-<VALUE name="achievement" val="@ ts`h i v m @ n th"/>
-<VALUE name="achievements" val="@ ts`h i v m @ n th s"/>
-<VALUE name="achiever" val="@ ts`h i v a r\`"/>
-<VALUE name="achievers" val="@ ts`h i v a r\` ts"/>
-<VALUE name="achieves" val="@ ts`h i v ts"/>
+<VALUE name="achieve" val="@ ts`h i w"/>
+<VALUE name="achieved" val="@ ts`h i w t"/>
+<VALUE name="achievement" val="@ ts`h i w m @ n th"/>
+<VALUE name="achievements" val="@ ts`h i w m @ n th s"/>
+<VALUE name="achiever" val="@ ts`h i w a r\`"/>
+<VALUE name="achievers" val="@ ts`h i w a r\` ts"/>
+<VALUE name="achieves" val="@ ts`h i w ts"/>
 <VALUE name="acid" val="a s @ t"/>
 <VALUE name="acidic" val="@ s i\ l i\ kh"/>
 <VALUE name="acidly" val="a s @ t l i"/>
@@ -128,14 +128,14 @@
 <VALUE name="action" val="a kh s` @ n"/>
 <VALUE name="action's" val="a kh s` @ n ts"/>
 <VALUE name="actions" val="a kh s` @ n ts"/>
-<VALUE name="active" val="a kh th i\ v"/>
-<VALUE name="actively" val="a kh th i\ v l i"/>
-<VALUE name="active's" val="a kh th i\ v ts"/>
-<VALUE name="actives" val="a kh th i\ v ts"/>
-<VALUE name="activist" val="a kh th i\ v i\ s th"/>
-<VALUE name="activists'" val="a kh th i\ v i\ s th s"/>
-<VALUE name="activists" val="a kh th i\ v i\ s th s"/>
-<VALUE name="activity" val="a kh th i\ v i\ th i"/>
+<VALUE name="active" val="a kh th i\ w"/>
+<VALUE name="actively" val="a kh th i\ w l i"/>
+<VALUE name="active's" val="a kh th i\ w ts"/>
+<VALUE name="actives" val="a kh th i\ w ts"/>
+<VALUE name="activist" val="a kh th i\ w i\ s th"/>
+<VALUE name="activists'" val="a kh th i\ w i\ s th s"/>
+<VALUE name="activists" val="a kh th i\ w i\ s th s"/>
+<VALUE name="activity" val="a kh th i\ w i\ th i"/>
 <VALUE name="acton" val="a kh th @ n"/>
 <VALUE name="actor" val="a kh th a r\`"/>
 <VALUE name="actor's" val="a kh th a r\` ts"/>
@@ -206,8 +206,8 @@
 <VALUE name="administration's" val="a t m i\ n i\ s t r\` e :\i s` @ n ts"/>
 <VALUE name="administrations'" val="a t m i\ n i\ s t r\` e :\i s` @ n ts"/>
 <VALUE name="administrations" val="a t m i\ n i\ s t r\` e :\i s` @ n ts"/>
-<VALUE name="administrative" val="@ t m i\ n i\ s t r\` e :\i l i\ v"/>
-<VALUE name="administratively" val="a t m i\ n i\ s t r\` e :\i l i\ v l i"/>
+<VALUE name="administrative" val="@ t m i\ n i\ s t r\` e :\i l i\ w"/>
+<VALUE name="administratively" val="a t m i\ n i\ s t r\` e :\i l i\ w l i"/>
 <VALUE name="administrator" val="@ t m i\ n i\ s t r\` e :\i l a r\`"/>
 <VALUE name="administrator's" val="a t m i\ n i\ s t r\` e :\i l a r\` ts"/>
 <VALUE name="administrators'" val="a t m i\ n i\ s t r\` e :\i l a r\` ts"/>
@@ -241,34 +241,34 @@
 <VALUE name="adult" val="@ t A l th"/>
 <VALUE name="adults'" val="@ t A l th s"/>
 <VALUE name="adults" val="@ t A l th s"/>
-<VALUE name="advance" val="@ t v a n s"/>
-<VALUE name="advanced" val="@ t v a n s th"/>
-<VALUE name="advancer" val="@ t v a n s a r\`"/>
-<VALUE name="advancers" val="@ t v a n s a r\` ts"/>
-<VALUE name="advance's" val="@ t v a n s i\ ts"/>
-<VALUE name="advances" val="@ t v a n s i\ ts"/>
-<VALUE name="advantage" val="a t v a n th i\ ts`"/>
-<VALUE name="advantaged" val="a t v a n th i\ ts` t"/>
-<VALUE name="advantages" val="a t v a n th i\ ts` i\ ts"/>
-<VALUE name="adventure" val="a t v e n ts`h a r\`"/>
-<VALUE name="adventurer" val="a t v e n ts`h a r\` a r\`"/>
-<VALUE name="adventurers" val="a t v e n ts`h a r\` a r\` ts"/>
-<VALUE name="adventures" val="a t v e n ts`h a r\` ts"/>
-<VALUE name="advertising" val="a t v a r\` th a :\i ts i\ N"/>
-<VALUE name="advertising's" val="a t v a r\` th a :\i ts i\ N ts"/>
-<VALUE name="advice" val="a t v a :\i s"/>
-<VALUE name="advise" val="a t v a :\i ts"/>
-<VALUE name="advised" val="a t v a :\i ts t"/>
-<VALUE name="adviser" val="a t v a :\i ts a r\`"/>
-<VALUE name="advisers'" val="a t v a :\i ts a r\` ts"/>
-<VALUE name="advisers" val="a t v a :\i ts a r\` ts"/>
-<VALUE name="adviser's" val="@ t v a :\i ts a r\` ts"/>
-<VALUE name="advises" val="a t v a :\i ts i\ ts"/>
-<VALUE name="advo" val="a t v @U"/>
-<VALUE name="advocate" val="a t v @ kh @ th"/>
-<VALUE name="advocated" val="a t v @ kh e :\i l i\ t"/>
-<VALUE name="advocate's" val="a t v @ kh @ th s"/>
-<VALUE name="advocates" val="a t v @ kh @ th s"/>
+<VALUE name="advance" val="@ t w a n s"/>
+<VALUE name="advanced" val="@ t w a n s th"/>
+<VALUE name="advancer" val="@ t w a n s a r\`"/>
+<VALUE name="advancers" val="@ t w a n s a r\` ts"/>
+<VALUE name="advance's" val="@ t w a n s i\ ts"/>
+<VALUE name="advances" val="@ t w a n s i\ ts"/>
+<VALUE name="advantage" val="a t w a n th i\ ts`"/>
+<VALUE name="advantaged" val="a t w a n th i\ ts` t"/>
+<VALUE name="advantages" val="a t w a n th i\ ts` i\ ts"/>
+<VALUE name="adventure" val="a t w e n ts`h a r\`"/>
+<VALUE name="adventurer" val="a t w e n ts`h a r\` a r\`"/>
+<VALUE name="adventurers" val="a t w e n ts`h a r\` a r\` ts"/>
+<VALUE name="adventures" val="a t w e n ts`h a r\` ts"/>
+<VALUE name="advertising" val="a t w a r\` th a :\i ts i\ N"/>
+<VALUE name="advertising's" val="a t w a r\` th a :\i ts i\ N ts"/>
+<VALUE name="advice" val="a t w a :\i s"/>
+<VALUE name="advise" val="a t w a :\i ts"/>
+<VALUE name="advised" val="a t w a :\i ts t"/>
+<VALUE name="adviser" val="a t w a :\i ts a r\`"/>
+<VALUE name="advisers'" val="a t w a :\i ts a r\` ts"/>
+<VALUE name="advisers" val="a t w a :\i ts a r\` ts"/>
+<VALUE name="adviser's" val="@ t w a :\i ts a r\` ts"/>
+<VALUE name="advises" val="a t w a :\i ts i\ ts"/>
+<VALUE name="advo" val="a t w @U"/>
+<VALUE name="advocate" val="a t w @ kh @ th"/>
+<VALUE name="advocated" val="a t w @ kh e :\i l i\ t"/>
+<VALUE name="advocate's" val="a t w @ kh @ th s"/>
+<VALUE name="advocates" val="a t w @ kh @ th s"/>
 <VALUE name="ady" val="e :\i t i"/>
 <VALUE name="adz" val="a t ts"/>
 <VALUE name="ae" val="e :\i"/>
@@ -314,8 +314,8 @@
 <VALUE name="ages" val="e :\i ts` i\ ts"/>
 <VALUE name="aggression" val="@ k r\` e s` @ n"/>
 <VALUE name="aggressions" val="@ k r\` e s` @ n ts"/>
-<VALUE name="aggressive" val="@ k r\` e s i\ v"/>
-<VALUE name="aggressively" val="@ k r\` e s i\ v l i"/>
+<VALUE name="aggressive" val="@ k r\` e s i\ w"/>
+<VALUE name="aggressively" val="@ k r\` e s i\ w l i"/>
 <VALUE name="ago" val="@ k @U"/>
 <VALUE name="agog" val="@ k A k"/>
 <VALUE name="agony" val="a k @ n i"/>
@@ -420,7 +420,7 @@
 <VALUE name="aliens" val="e :\i l i @ n ts"/>
 <VALUE name="alike" val="@ l a :\i kh"/>
 <VALUE name="alikes" val="@ l a :\i kh s"/>
-<VALUE name="alive" val="@ l a :\i v"/>
+<VALUE name="alive" val="@ l a :\i w"/>
 <VALUE name="alla" val="A l @"/>
 <VALUE name="allah" val="A l @"/>
 <VALUE name="allan" val="a l @ n"/>
@@ -476,9 +476,9 @@
 <VALUE name="altera" val="o l th e r\` @"/>
 <VALUE name="alter" val="o l th a r\`"/>
 <VALUE name="altered" val="o l th a r\` t"/>
-<VALUE name="alternative" val="o l th a r\` n @ th i\ v"/>
-<VALUE name="alternatively" val="o l th a r\` n @ th i\ v l i"/>
-<VALUE name="alternatives" val="o l th a r\` n @ th i\ v ts"/>
+<VALUE name="alternative" val="o l th a r\` n @ th i\ w"/>
+<VALUE name="alternatively" val="o l th a r\` n @ th i\ w l i"/>
+<VALUE name="alternatives" val="o l th a r\` n @ th i\ w ts"/>
 <VALUE name="alters" val="o l th a r\` ts"/>
 <VALUE name="although" val="o l t @U"/>
 <VALUE name="altogether" val="o l th @ k e t a r\`"/>
@@ -587,7 +587,7 @@
 <VALUE name="anklet" val="a N kh l i\ th"/>
 <VALUE name="anklets" val="a N kh l @ th s"/>
 <VALUE name="ann" val="a n"/>
-<VALUE name="anniversary" val="a n @ v a r\` s a r\` i"/>
+<VALUE name="anniversary" val="a n @ w a r\` s a r\` i"/>
 <VALUE name="announce" val="@ n AU n s"/>
 <VALUE name="announced" val="@ n AU n s th"/>
 <VALUE name="announcement" val="@ n AU n s m e n th"/>
@@ -675,11 +675,11 @@
 <VALUE name="appropriated" val="@ ph r\` @U ph r\` ie :\i l i\ t"/>
 <VALUE name="appropriately" val="@ ph r\` @U ph r\` i i\ th l i"/>
 <VALUE name="appropriates" val="@ ph r\` @U ph r\` ie :\i th s"/>
-<VALUE name="approval" val="@ ph r\` u v @ l"/>
-<VALUE name="approvals" val="@ ph r\` u v @ l ts"/>
-<VALUE name="approve" val="@ ph r\` u v"/>
-<VALUE name="approved" val="@ ph r\` u v t"/>
-<VALUE name="approves" val="@ ph r\` u v ts"/>
+<VALUE name="approval" val="@ ph r\` u w @ l"/>
+<VALUE name="approvals" val="@ ph r\` u w @ l ts"/>
+<VALUE name="approve" val="@ ph r\` u w"/>
+<VALUE name="approved" val="@ ph r\` u w t"/>
+<VALUE name="approves" val="@ ph r\` u w ts"/>
 <VALUE name="approximately" val="@ ph r\` A kh s @ m @ th l i"/>
 <VALUE name="apt" val="a ph th"/>
 <VALUE name="ara" val="a r\` @"/>
@@ -745,11 +745,11 @@
 <VALUE name="arrested" val="a r\` e s th @ t"/>
 <VALUE name="arrest" val="a r\` e s th"/>
 <VALUE name="arrests" val="a r\` e s th s"/>
-<VALUE name="arrival" val="a r\` a :\i v @ l"/>
-<VALUE name="arrivals" val="a r\` a :\i v @ l ts"/>
-<VALUE name="arrived" val="a r\` a :\i v t"/>
-<VALUE name="arrive" val="a r\` a :\i v"/>
-<VALUE name="arrives" val="a r\` a :\i v ts"/>
+<VALUE name="arrival" val="a r\` a :\i w @ l"/>
+<VALUE name="arrivals" val="a r\` a :\i w @ l ts"/>
+<VALUE name="arrived" val="a r\` a :\i w t"/>
+<VALUE name="arrive" val="a r\` a :\i w"/>
+<VALUE name="arrives" val="a r\` a :\i w ts"/>
 <VALUE name="arrow" val="a r\` @U"/>
 <VALUE name="arrow's" val="a r\` @U ts"/>
 <VALUE name="arrows" val="a r\` @U ts"/>
@@ -942,13 +942,13 @@
 <VALUE name="attracted" val="@ t r\` a kh th @ t"/>
 <VALUE name="attraction" val="@ t r\` a kh s` @ n"/>
 <VALUE name="attractions" val="@ t r\` a kh s` @ n ts"/>
-<VALUE name="attractive" val="@ t r\` a kh th i\ v"/>
-<VALUE name="attractively" val="@ t r\` a kh th i\ v l i"/>
+<VALUE name="attractive" val="@ t r\` a kh th i\ w"/>
+<VALUE name="attractively" val="@ t r\` a kh th i\ w l i"/>
 <VALUE name="attracts" val="@ t r\` a kh th s"/>
 <VALUE name="attribute" val="@ t r\` i\ p j u th"/>
 <VALUE name="attributed" val="@ t r\` i\ p j @ th @ t"/>
 <VALUE name="attributes" val="@ t r\` i\ p j u th s"/>
-<VALUE name="atv" val="e :\i th i v i"/>
+<VALUE name="atv" val="e :\i th i w i"/>
 <VALUE name="atx" val="e :\i th ie kh s"/>
 <VALUE name="atz" val="a th s"/>
 <VALUE name="auction" val="A kh s` @ n"/>
@@ -990,19 +990,19 @@
 <VALUE name="auto's" val="o l @U ts"/>
 <VALUE name="autos" val="o l @U ts"/>
 <VALUE name="aux" val="@U"/>
-<VALUE name="ava" val="e :\i v @"/>
-<VALUE name="availability" val="@ v e :\i l @ p i\ l @ th i"/>
-<VALUE name="available" val="@ v e :\i l @ p @ l"/>
-<VALUE name="ave" val="A v e :\i"/>
-<VALUE name="average" val="a v a r\` i\ ts`"/>
-<VALUE name="averaged" val="a v r\` i\ ts` t"/>
-<VALUE name="average's" val="a v r\` i\ ts` i\ ts"/>
-<VALUE name="averages" val="a v r\` i\ ts` i\ ts"/>
-<VALUE name="av" val="e :\i v i"/>
-<VALUE name="avi" val="A v i"/>
-<VALUE name="avoid" val="@ v o :\i t"/>
-<VALUE name="avoided" val="@ v o :\i l i\ t"/>
-<VALUE name="avoids" val="@ v o :\i t ts"/>
+<VALUE name="ava" val="e :\i w @"/>
+<VALUE name="availability" val="@ w e :\i l @ p i\ l @ th i"/>
+<VALUE name="available" val="@ w e :\i l @ p @ l"/>
+<VALUE name="ave" val="A w e :\i"/>
+<VALUE name="average" val="a w a r\` i\ ts`"/>
+<VALUE name="averaged" val="a w r\` i\ ts` t"/>
+<VALUE name="average's" val="a w r\` i\ ts` i\ ts"/>
+<VALUE name="averages" val="a w r\` i\ ts` i\ ts"/>
+<VALUE name="av" val="e :\i w i"/>
+<VALUE name="avi" val="A w i"/>
+<VALUE name="avoid" val="@ w o :\i t"/>
+<VALUE name="avoided" val="@ w o :\i l i\ t"/>
+<VALUE name="avoids" val="@ w o :\i t ts"/>
 <VALUE name="await" val="@ w e :\i th"/>
 <VALUE name="awaited" val="@ w e :\i l i\ t"/>
 <VALUE name="awaits" val="@ w e :\i th s"/>
@@ -1456,13 +1456,13 @@
 <VALUE name="begue" val="p e :\i k"/>
 <VALUE name="begun" val="p i\ k A n"/>
 <VALUE name="behalf" val="p i\ x a f"/>
-<VALUE name="behave" val="p i\ x e :\i v"/>
-<VALUE name="behaved" val="p i\ x e :\i v t"/>
-<VALUE name="behaves" val="p i\ x e :\i v ts"/>
-<VALUE name="behavioral" val="p i\ x e :\i v j a r\` @ l"/>
-<VALUE name="behaviorally" val="p i x e :\i v j a r\` @ l i"/>
-<VALUE name="behavior" val="p i\ x e :\i v j a r\`"/>
-<VALUE name="behaviors" val="p i\ x e :\i v j a r\` ts"/>
+<VALUE name="behave" val="p i\ x e :\i w"/>
+<VALUE name="behaved" val="p i\ x e :\i w t"/>
+<VALUE name="behaves" val="p i\ x e :\i w ts"/>
+<VALUE name="behavioral" val="p i\ x e :\i w j a r\` @ l"/>
+<VALUE name="behaviorally" val="p i x e :\i w j a r\` @ l i"/>
+<VALUE name="behavior" val="p i\ x e :\i w j a r\`"/>
+<VALUE name="behaviors" val="p i\ x e :\i w j a r\` ts"/>
 <VALUE name="behind" val="p i\ x a :\i n t"/>
 <VALUE name="behinds" val="p i\ x a :\i n t ts"/>
 <VALUE name="behl" val="p e l"/>
@@ -1481,11 +1481,11 @@
 <VALUE name="beli" val="p e l i"/>
 <VALUE name="belief" val="p i\ l i f"/>
 <VALUE name="beliefs" val="p i\ l i f s"/>
-<VALUE name="believe" val="p i\ l i v"/>
-<VALUE name="believed" val="p i\ l i v t"/>
-<VALUE name="believer" val="p i\ l i v a r\`"/>
-<VALUE name="believers" val="p i\ l i v a r\` ts"/>
-<VALUE name="believes" val="p i\ l i v ts"/>
+<VALUE name="believe" val="p i\ l i w"/>
+<VALUE name="believed" val="p i\ l i w t"/>
+<VALUE name="believer" val="p i\ l i w a r\`"/>
+<VALUE name="believers" val="p i\ l i w a r\` ts"/>
+<VALUE name="believes" val="p i\ l i w ts"/>
 <VALUE name="belk" val="p e l kh"/>
 <VALUE name="bella" val="p e l @"/>
 <VALUE name="bellah" val="p e l @"/>
@@ -1594,8 +1594,8 @@
 <VALUE name="betweens" val="p i\ th w i n ts"/>
 <VALUE name="betz" val="p e th s"/>
 <VALUE name="beu" val="p u"/>
-<VALUE name="bev" val="p e v"/>
-<VALUE name="bevy" val="p e v i"/>
+<VALUE name="bev" val="p e w"/>
+<VALUE name="bevy" val="p e w i"/>
 <VALUE name="bey" val="p e :\i"/>
 <VALUE name="beyl" val="p e :\i l"/>
 <VALUE name="beyond" val="p i\ A n t"/>
@@ -2003,14 +2003,14 @@
 <VALUE name="brands" val="p r\` a n t ts"/>
 <VALUE name="brandt" val="p r\` a n th"/>
 <VALUE name="brandy" val="p r\` a n t i"/>
-<VALUE name="brave" val="p r\` e :\i v"/>
-<VALUE name="braved" val="p r\` e :\i v t"/>
-<VALUE name="bravely" val="p r\` e :\i v l i"/>
-<VALUE name="braver" val="p r\` e :\i v a r\`"/>
-<VALUE name="bravery" val="p r\` e :\i v a r\` i"/>
-<VALUE name="braves'" val="p r\` e :\i v ts"/>
-<VALUE name="braves" val="p r\` e :\i v ts"/>
-<VALUE name="bravest" val="p r\` e :\i v @ s th"/>
+<VALUE name="brave" val="p r\` e :\i w"/>
+<VALUE name="braved" val="p r\` e :\i w t"/>
+<VALUE name="bravely" val="p r\` e :\i w l i"/>
+<VALUE name="braver" val="p r\` e :\i w a r\`"/>
+<VALUE name="bravery" val="p r\` e :\i w a r\` i"/>
+<VALUE name="braves'" val="p r\` e :\i w ts"/>
+<VALUE name="braves" val="p r\` e :\i w ts"/>
+<VALUE name="bravest" val="p r\` e :\i w @ s th"/>
 <VALUE name="bread" val="p r\` e t"/>
 <VALUE name="breaded" val="p r\` e l i\ t"/>
 <VALUE name="breads" val="p r\` e t ts"/>
@@ -2291,7 +2291,7 @@
 <VALUE name="c2" val="s i th u"/>
 <VALUE name="c3" val="s i s r\` i"/>
 <VALUE name="c4" val="s i f o r\`"/>
-<VALUE name="c5" val="s i f a :\i v"/>
+<VALUE name="c5" val="s i f a :\i w"/>
 <VALUE name="caba" val="kh A p @"/>
 <VALUE name="cabal" val="kh @ p A l"/>
 <VALUE name="caban" val="kh e :\i p @ n"/>
@@ -2424,12 +2424,12 @@
 <VALUE name="cant" val="kh a n th"/>
 <VALUE name="canto" val="kh a n th @U"/>
 <VALUE name="cantu" val="kh a n th u"/>
-<VALUE name="cantv" val="kh a n th i v i"/>
+<VALUE name="cantv" val="kh a n th i w i"/>
 <VALUE name="canty" val="kh a n th i"/>
 <VALUE name="canup" val="kh a n A ph"/>
-<VALUE name="canvases" val="kh a n v @ s i\ ts"/>
-<VALUE name="canvas" val="kh a n v @ s"/>
-<VALUE name="canvass" val="kh a n v @ s"/>
+<VALUE name="canvases" val="kh a n w @ s i\ ts"/>
+<VALUE name="canvas" val="kh a n w @ s"/>
+<VALUE name="canvass" val="kh a n w @ s"/>
 <VALUE name="capability" val="kh e :\i ph @ p i\ l @ th i"/>
 <VALUE name="capable" val="kh e :\i ph @ p @ l"/>
 <VALUE name="capacity" val="kh @ ph a s @ th i"/>
@@ -2564,14 +2564,14 @@
 <VALUE name="cartoons" val="kh A r\` th u n ts"/>
 <VALUE name="carts" val="kh A r\` th s"/>
 <VALUE name="carty" val="kh A r\` th i"/>
-<VALUE name="carved" val="kh A r\` v t"/>
-<VALUE name="carve" val="kh A r\` v"/>
-<VALUE name="carvel" val="kh A r\` v e l"/>
-<VALUE name="carvell" val="kh A r\` v e :\i l"/>
-<VALUE name="carver" val="kh A r\` v a r\`"/>
-<VALUE name="carvers" val="kh A r\` v a r\` ts"/>
-<VALUE name="carves" val="kh A r\` v ts"/>
-<VALUE name="carvey" val="kh A r\` v i"/>
+<VALUE name="carved" val="kh A r\` w t"/>
+<VALUE name="carve" val="kh A r\` w"/>
+<VALUE name="carvel" val="kh A r\` w e l"/>
+<VALUE name="carvell" val="kh A r\` w e :\i l"/>
+<VALUE name="carver" val="kh A r\` w a r\`"/>
+<VALUE name="carvers" val="kh A r\` w a r\` ts"/>
+<VALUE name="carves" val="kh A r\` w ts"/>
+<VALUE name="carvey" val="kh A r\` w i"/>
 <VALUE name="cary" val="kh e r\` i"/>
 <VALUE name="caryl" val="kh e r\` @ l"/>
 <VALUE name="caryn" val="kh A r\` i\ n"/>
@@ -2647,18 +2647,18 @@
 <VALUE name="causer" val="kh o ts a r\`"/>
 <VALUE name="causes" val="kh A ts @ ts"/>
 <VALUE name="causey" val="kh o ts i"/>
-<VALUE name="caveat" val="kh e :\i v ia th"/>
-<VALUE name="caved" val="kh e :\i v t"/>
-<VALUE name="cave" val="kh e :\i v"/>
-<VALUE name="cavell" val="kh @ v e l"/>
-<VALUE name="caven" val="kh e :\i v @ n"/>
-<VALUE name="caver" val="kh e :\i v a r\`"/>
-<VALUE name="cavern" val="kh a v a r\` n"/>
-<VALUE name="cavers" val="kh e :\i v a r\` ts"/>
-<VALUE name="cave's" val="kh e :\i v ts"/>
-<VALUE name="caves" val="kh e :\i v ts"/>
-<VALUE name="cavett" val="kh a v e th"/>
-<VALUE name="cavey" val="kh e :\i v i"/>
+<VALUE name="caveat" val="kh e :\i w ia th"/>
+<VALUE name="caved" val="kh e :\i w t"/>
+<VALUE name="cave" val="kh e :\i w"/>
+<VALUE name="cavell" val="kh @ w e l"/>
+<VALUE name="caven" val="kh e :\i w @ n"/>
+<VALUE name="caver" val="kh e :\i w a r\`"/>
+<VALUE name="cavern" val="kh a w a r\` n"/>
+<VALUE name="cavers" val="kh e :\i w a r\` ts"/>
+<VALUE name="cave's" val="kh e :\i w ts"/>
+<VALUE name="caves" val="kh e :\i w ts"/>
+<VALUE name="cavett" val="kh a w e th"/>
+<VALUE name="cavey" val="kh e :\i w i"/>
 <VALUE name="cc" val="s i s i"/>
 <VALUE name="cd" val="s i t i"/>
 <VALUE name="ceased" val="s i s th"/>
@@ -2916,14 +2916,14 @@
 <VALUE name="citizens'" val="s i\ l i\ ts @ n ts"/>
 <VALUE name="city" val="s i\ l i"/>
 <VALUE name="city's" val="s i\ l i ts"/>
-<VALUE name="civic" val="s i\ v i\ kh"/>
-<VALUE name="civics" val="s i\ v i\ kh s"/>
-<VALUE name="civilian" val="s @ v i\ l j @ n"/>
-<VALUE name="civilians" val="s @ v i\ l j @ n ts"/>
-<VALUE name="civilization" val="s i\ v @ l i\ ts e :\i s` @ n"/>
-<VALUE name="civilizations" val="s i\ v @ l i\ ts e :\i s` @ n ts"/>
-<VALUE name="civilly" val="s i\ v i\ l i"/>
-<VALUE name="civil" val="s i\ v @ l"/>
+<VALUE name="civic" val="s i\ w i\ kh"/>
+<VALUE name="civics" val="s i\ w i\ kh s"/>
+<VALUE name="civilian" val="s @ w i\ l j @ n"/>
+<VALUE name="civilians" val="s @ w i\ l j @ n ts"/>
+<VALUE name="civilization" val="s i\ w @ l i\ ts e :\i s` @ n"/>
+<VALUE name="civilizations" val="s i\ w @ l i\ ts e :\i s` @ n ts"/>
+<VALUE name="civilly" val="s i\ w i\ l i"/>
+<VALUE name="civil" val="s i\ w @ l"/>
 <VALUE name="claimed" val="kh l e :\i m t"/>
 <VALUE name="claim" val="kh l e :\i m"/>
 <VALUE name="claims" val="kh l e :\i m ts"/>
@@ -3065,7 +3065,7 @@
 <VALUE name="coffeen" val="kh @ f i n"/>
 <VALUE name="coffee's" val="kh A f i ts"/>
 <VALUE name="coffees" val="kh o f i ts"/>
-<VALUE name="cognitive" val="kh A k n i\ th i\ v"/>
+<VALUE name="cognitive" val="kh A k n i\ th i\ w"/>
 <VALUE name="coined" val="kh o :\i n t"/>
 <VALUE name="coiner" val="kh o :\i n a r\`"/>
 <VALUE name="coin" val="kh o :\i n"/>
@@ -3094,9 +3094,9 @@
 <VALUE name="collected" val="kh @ l e kh th @ t"/>
 <VALUE name="collection" val="kh @ l e kh s` @ n"/>
 <VALUE name="collections" val="kh @ l e kh s` @ n ts"/>
-<VALUE name="collective" val="kh @ l e kh th i\ v"/>
-<VALUE name="collectively" val="kh @ l e kh th i\ v l i"/>
-<VALUE name="collectives" val="kh @ l e kh th i\ v ts"/>
+<VALUE name="collective" val="kh @ l e kh th i\ w"/>
+<VALUE name="collectively" val="kh @ l e kh th i\ w l i"/>
+<VALUE name="collectives" val="kh @ l e kh th i\ w ts"/>
 <VALUE name="collect" val="kh @ l e kh th"/>
 <VALUE name="collector" val="kh @ l e kh th a r\`"/>
 <VALUE name="collector's" val="kh @ l e kh th a r\` ts"/>
@@ -3220,8 +3220,8 @@
 <VALUE name="competition" val="kh A m ph @ th i\ s` @ n"/>
 <VALUE name="competition's" val="kh A m ph @ th i\ s` @ n ts"/>
 <VALUE name="competitions" val="kh A m ph @ th i\ s` @ n ts"/>
-<VALUE name="competitive" val="kh @ m ph e l @ th i\ v"/>
-<VALUE name="competitively" val="kh @ m ph e l i\ th i\ v l i"/>
+<VALUE name="competitive" val="kh @ m ph e l @ th i\ w"/>
+<VALUE name="competitively" val="kh @ m ph e l i\ th i\ w l i"/>
 <VALUE name="competitor" val="kh @ m ph e l @ th a r\`"/>
 <VALUE name="competitor's" val="kh @ m ph e l @ th a r\` ts"/>
 <VALUE name="competitors" val="kh @ m ph e l @ th a r\` ts"/>
@@ -3255,8 +3255,8 @@
 <VALUE name="compounded" val="kh @ m ph AU n t @ t"/>
 <VALUE name="compound" val="kh A m ph AU n t"/>
 <VALUE name="compounds" val="kh A m ph AU n t ts"/>
-<VALUE name="comprehensive" val="kh A m ph r\` i x e n s i\ v"/>
-<VALUE name="comprehensively" val="kh A m ph r\` i\ x e n s i\ v l i"/>
+<VALUE name="comprehensive" val="kh A m ph r\` i x e n s i\ w"/>
+<VALUE name="comprehensively" val="kh A m ph r\` i\ x e n s i\ w l i"/>
 <VALUE name="comprised" val="kh @ m ph r\` a :\i ts t"/>
 <VALUE name="comprise" val="kh @ m ph r\` a :\i ts"/>
 <VALUE name="comprises" val="kh @ m ph r\` a :\i ts @ ts"/>
@@ -3271,8 +3271,8 @@
 <VALUE name="conceded" val="kh @ n s i l i\ t"/>
 <VALUE name="concede" val="kh @ n s i t"/>
 <VALUE name="concedes" val="kh @ n s i t ts"/>
-<VALUE name="conceived" val="kh @ n s i v t"/>
-<VALUE name="conceive" val="kh @ n s i v"/>
+<VALUE name="conceived" val="kh @ n s i w t"/>
+<VALUE name="conceive" val="kh @ n s i w"/>
 <VALUE name="concentrated" val="kh A n s @ n t r\` e :\i l @ t"/>
 <VALUE name="concentrate" val="kh A n s @ n t r\` e :\i th"/>
 <VALUE name="concentrates" val="kh A n s @ n t r\` e :\i th s"/>
@@ -3358,8 +3358,8 @@
 <VALUE name="conscious" val="kh A n s` @ s"/>
 <VALUE name="consciously" val="kh A n s` @ s l i"/>
 <VALUE name="consciousness" val="kh A n s` @ s n @ s"/>
-<VALUE name="consecutive" val="kh @ n s e kh j @ th i\ v"/>
-<VALUE name="consecutively" val="kh @ n s e kh j @ th i\ v l i"/>
+<VALUE name="consecutive" val="kh @ n s e kh j @ th i\ w"/>
+<VALUE name="consecutively" val="kh @ n s e kh j @ th i\ w l i"/>
 <VALUE name="consensus" val="kh @ n s e n s @ s"/>
 <VALUE name="consented" val="kh @ n s e n th i\ t"/>
 <VALUE name="consent" val="kh @ n s e n th"/>
@@ -3367,11 +3367,11 @@
 <VALUE name="consequence" val="kh A n s @ kh w @ n s"/>
 <VALUE name="consequences" val="kh A n s @ kh w e n s @ ts"/>
 <VALUE name="consequently" val="kh A n s @ kh w @ n th l i"/>
-<VALUE name="conservation" val="kh A n s a r\` v e :\i s` @ n"/>
-<VALUE name="conservative" val="kh @ n s a r\` v @ th i\ v"/>
-<VALUE name="conservatively" val="kh @ n s a r\` v @ th i\ v l i"/>
-<VALUE name="conservatives'" val="kh @ n s a r\` v @ th i\ v ts"/>
-<VALUE name="conservatives" val="kh @ n s a r\` v @ th i\ v ts"/>
+<VALUE name="conservation" val="kh A n s a r\` w e :\i s` @ n"/>
+<VALUE name="conservative" val="kh @ n s a r\` w @ th i\ w"/>
+<VALUE name="conservatively" val="kh @ n s a r\` w @ th i\ w l i"/>
+<VALUE name="conservatives'" val="kh @ n s a r\` w @ th i\ w ts"/>
+<VALUE name="conservatives" val="kh @ n s a r\` w @ th i\ w ts"/>
 <VALUE name="considerable" val="kh @ n s i\ l a r\` @ p @ l"/>
 <VALUE name="considerably" val="kh @ n s i\ l a r\` @ p l i"/>
 <VALUE name="consideration" val="kh @ n s i\ l a r\` e :\i s` @ n"/>
@@ -3483,39 +3483,39 @@
 <VALUE name="controls'" val="kh A n t r\` A l ts"/>
 <VALUE name="control's" val="kh @ n t r\` @U l ts"/>
 <VALUE name="controls" val="kh @ n t r\` @U l ts"/>
-<VALUE name="controversial" val="kh A n t r\` @ v a r\` s` @ l"/>
-<VALUE name="controversy" val="kh A n t r\` @ v a r\` s i"/>
-<VALUE name="convenience" val="kh @ n v i n j @ n s"/>
-<VALUE name="conveniences" val="kh @ n v i n j @ n s i\ ts"/>
-<VALUE name="conventional" val="kh @ n v e n s` @ n @ l"/>
-<VALUE name="conventionally" val="kh @ n v e n s` @ n @ l i"/>
-<VALUE name="convention" val="kh @ n v e n s` @ n"/>
-<VALUE name="convention's" val="kh @ n v e n s` @ n ts"/>
-<VALUE name="conventions" val="kh @ n v e n s` @ n ts"/>
-<VALUE name="conversational" val="kh A n v a r\` s e :\i s` @ n @ l"/>
-<VALUE name="conversation" val="kh A n v a r\` s e :\i s` @ n"/>
-<VALUE name="conversations" val="kh A n v a r\` s e :\i s` @ n ts"/>
-<VALUE name="conversion" val="kh @ n v a r\` z` @ n"/>
-<VALUE name="conversion's" val="kh @ n v a r\` z` @ n ts"/>
-<VALUE name="conversions" val="kh @ n v a r\` z` @ n ts"/>
-<VALUE name="converted" val="kh @ n v a r\` l i\ t"/>
-<VALUE name="converter" val="kh @ n v a r\` l a r\`"/>
-<VALUE name="convert" val="kh A n v a r\` th"/>
-<VALUE name="converts" val="kh A n v a r\` th s"/>
-<VALUE name="conveyed" val="kh @ n v e :\i t"/>
-<VALUE name="conveyer" val="kh @ n v e :\i a r\`"/>
-<VALUE name="convey" val="kh @ n v e :\i"/>
-<VALUE name="conveyor" val="kh @ n v e :\i a r\`"/>
-<VALUE name="conveys" val="kh @ n v e :\i ts"/>
-<VALUE name="convicted" val="kh @ n v i\ kh th @ t"/>
-<VALUE name="conviction" val="kh @ n v i\ kh s` @ n"/>
-<VALUE name="convictions" val="kh @ n v i\ kh s` @ n ts"/>
-<VALUE name="convict" val="kh A n v i\ kh th"/>
-<VALUE name="convict's" val="kh A n v i\ kh th s"/>
-<VALUE name="convicts" val="kh A n v i\ kh th s"/>
-<VALUE name="convinced" val="kh @ n v i\ n s th"/>
-<VALUE name="convince" val="kh @ n v i\ n s"/>
-<VALUE name="convinces" val="kh @ n v i\ n s i\ ts"/>
+<VALUE name="controversial" val="kh A n t r\` @ w a r\` s` @ l"/>
+<VALUE name="controversy" val="kh A n t r\` @ w a r\` s i"/>
+<VALUE name="convenience" val="kh @ n w i n j @ n s"/>
+<VALUE name="conveniences" val="kh @ n w i n j @ n s i\ ts"/>
+<VALUE name="conventional" val="kh @ n w e n s` @ n @ l"/>
+<VALUE name="conventionally" val="kh @ n w e n s` @ n @ l i"/>
+<VALUE name="convention" val="kh @ n w e n s` @ n"/>
+<VALUE name="convention's" val="kh @ n w e n s` @ n ts"/>
+<VALUE name="conventions" val="kh @ n w e n s` @ n ts"/>
+<VALUE name="conversational" val="kh A n w a r\` s e :\i s` @ n @ l"/>
+<VALUE name="conversation" val="kh A n w a r\` s e :\i s` @ n"/>
+<VALUE name="conversations" val="kh A n w a r\` s e :\i s` @ n ts"/>
+<VALUE name="conversion" val="kh @ n w a r\` z` @ n"/>
+<VALUE name="conversion's" val="kh @ n w a r\` z` @ n ts"/>
+<VALUE name="conversions" val="kh @ n w a r\` z` @ n ts"/>
+<VALUE name="converted" val="kh @ n w a r\` l i\ t"/>
+<VALUE name="converter" val="kh @ n w a r\` l a r\`"/>
+<VALUE name="convert" val="kh A n w a r\` th"/>
+<VALUE name="converts" val="kh A n w a r\` th s"/>
+<VALUE name="conveyed" val="kh @ n w e :\i t"/>
+<VALUE name="conveyer" val="kh @ n w e :\i a r\`"/>
+<VALUE name="convey" val="kh @ n w e :\i"/>
+<VALUE name="conveyor" val="kh @ n w e :\i a r\`"/>
+<VALUE name="conveys" val="kh @ n w e :\i ts"/>
+<VALUE name="convicted" val="kh @ n w i\ kh th @ t"/>
+<VALUE name="conviction" val="kh @ n w i\ kh s` @ n"/>
+<VALUE name="convictions" val="kh @ n w i\ kh s` @ n ts"/>
+<VALUE name="convict" val="kh A n w i\ kh th"/>
+<VALUE name="convict's" val="kh A n w i\ kh th s"/>
+<VALUE name="convicts" val="kh A n w i\ kh th s"/>
+<VALUE name="convinced" val="kh @ n w i\ n s th"/>
+<VALUE name="convince" val="kh @ n w i\ n s"/>
+<VALUE name="convinces" val="kh @ n w i\ n s i\ ts"/>
 <VALUE name="cooked" val="kh U kh th"/>
 <VALUE name="cooke" val="kh U kh"/>
 <VALUE name="cooker" val="kh U kh a r\`"/>
@@ -3538,9 +3538,9 @@
 <VALUE name="cooperates" val="kh @U A ph a r\` e :\i th s"/>
 <VALUE name="cooperation" val="kh @U A ph a r\` e :\i s` @ n"/>
 <VALUE name="cooperations" val="kh @U A ph a r\` e :\i s` @ n ts"/>
-<VALUE name="cooperative" val="kh @U A ph a r\` e :\i l i\ v"/>
-<VALUE name="cooperatively" val="kh @U A ph r\` @ th i\ v l i"/>
-<VALUE name="cooperatives" val="kh @U A ph r\` @ th i\ v ts"/>
+<VALUE name="cooperative" val="kh @U A ph a r\` e :\i l i\ w"/>
+<VALUE name="cooperatively" val="kh @U A ph r\` @ th i\ w l i"/>
+<VALUE name="cooperatives" val="kh @U A ph r\` @ th i\ w ts"/>
 <VALUE name="coordinated" val="kh @U o r\` t @ n e :\i th i\ t"/>
 <VALUE name="coordinate" val="kh @U o r\` t @ n @ th"/>
 <VALUE name="coordinates" val="kh @U o r\` t @ n @ th s"/>
@@ -3704,13 +3704,13 @@
 <VALUE name="cousino" val="kh AU s i n @U"/>
 <VALUE name="cousin's" val="kh A ts @ n ts"/>
 <VALUE name="cousins" val="kh A ts @ n ts"/>
-<VALUE name="coverage" val="kh A v a r\` @ ts`"/>
-<VALUE name="coverages" val="kh A v a r\` @ ts` i\ ts"/>
-<VALUE name="covered" val="kh A v a r\` t"/>
-<VALUE name="cover" val="kh A v a r\`"/>
-<VALUE name="covers" val="kh A v a r\` ts"/>
-<VALUE name="covert" val="kh @U v a r\` th"/>
-<VALUE name="coverup" val="kh A v a r\` A ph"/>
+<VALUE name="coverage" val="kh A w a r\` @ ts`"/>
+<VALUE name="coverages" val="kh A w a r\` @ ts` i\ ts"/>
+<VALUE name="covered" val="kh A w a r\` t"/>
+<VALUE name="cover" val="kh A w a r\`"/>
+<VALUE name="covers" val="kh A w a r\` ts"/>
+<VALUE name="covert" val="kh @U w a r\` th"/>
+<VALUE name="coverup" val="kh A w a r\` A ph"/>
 <VALUE name="cowan" val="kh AU @ n"/>
 <VALUE name="cowed" val="kh AU t"/>
 <VALUE name="cowen" val="kh AU @ n"/>
@@ -3753,9 +3753,9 @@
 <VALUE name="creates" val="kh r\` ie :\i th s"/>
 <VALUE name="creation" val="kh r\` ie :\i s` @ n"/>
 <VALUE name="creations" val="kh r\` ie :\i s` @ n ts"/>
-<VALUE name="creative" val="kh r\` ie :\i l i\ v"/>
-<VALUE name="creatively" val="kh r\` ie :\i l i\ v l i"/>
-<VALUE name="creativity" val="kh r\` ie :\i th i\ v @ th i"/>
+<VALUE name="creative" val="kh r\` ie :\i l i\ w"/>
+<VALUE name="creatively" val="kh r\` ie :\i l i\ w l i"/>
+<VALUE name="creativity" val="kh r\` ie :\i th i\ w @ th i"/>
 <VALUE name="creature" val="kh r\` i ts`h a r\`"/>
 <VALUE name="creatures" val="kh r\` i ts`h a r\` ts"/>
 <VALUE name="credibility" val="kh r\` e l @ p i\ l i\ th i"/>
@@ -3845,7 +3845,7 @@
 <VALUE name="cuero" val="kh w e r\` @U"/>
 <VALUE name="cues" val="kh j u ts"/>
 <VALUE name="cueto" val="kh w e l @U"/>
-<VALUE name="cueva" val="kh w e v @"/>
+<VALUE name="cueva" val="kh w e w @"/>
 <VALUE name="cultural" val="kh A l ts`h a r\` @ l"/>
 <VALUE name="culturally" val="kh A l ts`h a r\` @ l i"/>
 <VALUE name="cultured" val="kh A l ts`h a r\` t"/>
@@ -3877,9 +3877,9 @@
 <VALUE name="curriculums" val="kh a r\` i\ kh j @ l @ m ts"/>
 <VALUE name="curtain" val="kh a r\` l @ n"/>
 <VALUE name="curtains" val="kh a r\` l @ n ts"/>
-<VALUE name="curved" val="kh a r\` v t"/>
-<VALUE name="curve" val="kh a r\` v"/>
-<VALUE name="curves" val="kh a r\` v ts"/>
+<VALUE name="curved" val="kh a r\` w t"/>
+<VALUE name="curve" val="kh a r\` w"/>
+<VALUE name="curves" val="kh a r\` w ts"/>
 <VALUE name="custody" val="kh A s th @ t i"/>
 <VALUE name="customer" val="kh A s th @ m a r\`"/>
 <VALUE name="customer's" val="kh A s th @ m a r\` ts"/>
@@ -4091,8 +4091,8 @@
 <VALUE name="defense" val="t i\ f e n s"/>
 <VALUE name="defenses" val="t i\ f e n s @ ts"/>
 <VALUE name="defense's" val="t i\ f e n s i\ ts"/>
-<VALUE name="defensive" val="t i\ f e n s i\ v"/>
-<VALUE name="defensively" val="t i\ f e n s i\ v l i"/>
+<VALUE name="defensive" val="t i\ f e n s i\ w"/>
+<VALUE name="defensively" val="t i\ f e n s i\ w l i"/>
 <VALUE name="deficit" val="t e f @ s @ th"/>
 <VALUE name="deficit's" val="t e f @ s @ th s"/>
 <VALUE name="deficits" val="t e f i\ s i\ th s"/>
@@ -4114,11 +4114,11 @@
 <VALUE name="delight" val="t i\ l a :\i th"/>
 <VALUE name="delighted" val="t i\ l a :\i l @ t"/>
 <VALUE name="delights" val="t i\ l a :\i th s"/>
-<VALUE name="deliver" val="t i\ l i\ v a r\`"/>
-<VALUE name="delivered" val="t i\ l i\ v a r\` t"/>
-<VALUE name="deliverer" val="t i\ l i\ v a r\` a r\`"/>
-<VALUE name="delivers" val="t i\ l i\ v a r\` ts"/>
-<VALUE name="delivery" val="t i\ l i\ v a r\` i"/>
+<VALUE name="deliver" val="t i\ l i\ w a r\`"/>
+<VALUE name="delivered" val="t i\ l i\ w a r\` t"/>
+<VALUE name="deliverer" val="t i\ l i\ w a r\` a r\`"/>
+<VALUE name="delivers" val="t i\ l i\ w a r\` ts"/>
+<VALUE name="delivery" val="t i\ l i\ w a r\` i"/>
 <VALUE name="demand" val="t i\ m a n t"/>
 <VALUE name="demanded" val="t i\ m a n t @ t"/>
 <VALUE name="demands" val="t i\ m a n t ts"/>
@@ -4176,9 +4176,9 @@
 <VALUE name="depth" val="t e ph s"/>
 <VALUE name="depths" val="t e ph s s"/>
 <VALUE name="deputy" val="t e ph j @ th i"/>
-<VALUE name="derived" val="t a r\` a :\i v t"/>
-<VALUE name="derive" val="t a r\` a :\i v"/>
-<VALUE name="derives" val="t a r\` a :\i v ts"/>
+<VALUE name="derived" val="t a r\` a :\i w t"/>
+<VALUE name="derive" val="t a r\` a :\i w"/>
+<VALUE name="derives" val="t a r\` a :\i w ts"/>
 <VALUE name="descend" val="t i\ s e n t"/>
 <VALUE name="descended" val="t i\ s e n t @ t"/>
 <VALUE name="descends" val="t i\ s e n t ts"/>
@@ -4191,9 +4191,9 @@
 <VALUE name="deserted" val="t i\ ts a r\` l i\ t"/>
 <VALUE name="deserter" val="t e ts a r\` th a r\`"/>
 <VALUE name="deserts" val="t e ts a r\` th s"/>
-<VALUE name="deserved" val="t i\ ts a r\` v t"/>
-<VALUE name="deserve" val="t i\ ts a r\` v"/>
-<VALUE name="deserves" val="t i\ ts a r\` v ts"/>
+<VALUE name="deserved" val="t i\ ts a r\` w t"/>
+<VALUE name="deserve" val="t i\ ts a r\` w"/>
+<VALUE name="deserves" val="t i\ ts a r\` w ts"/>
 <VALUE name="design" val="t i\ ts a :\i n"/>
 <VALUE name="designed" val="t i\ ts a :\i n t"/>
 <VALUE name="designee" val="t e ts i\ k n i"/>
@@ -4229,9 +4229,9 @@
 <VALUE name="details" val="t i\ th e :\i l ts"/>
 <VALUE name="detect" val="t i\ th e kh th"/>
 <VALUE name="detected" val="t i\ th e kh th @ t"/>
-<VALUE name="detective" val="t i\ th e kh th i\ v"/>
-<VALUE name="detective's" val="t i\ th e kh th i\ v ts"/>
-<VALUE name="detectives" val="t i\ th e kh th i\ v ts"/>
+<VALUE name="detective" val="t i\ th e kh th i\ w"/>
+<VALUE name="detective's" val="t i\ th e kh th i\ w ts"/>
+<VALUE name="detectives" val="t i\ th e kh th i\ w ts"/>
 <VALUE name="detector" val="t i\ th e kh th a r\`"/>
 <VALUE name="detects" val="t i\ th e kh th s"/>
 <VALUE name="determination" val="t i\ th a r\` m @ n e :\i s` @ n"/>
@@ -4240,34 +4240,34 @@
 <VALUE name="determine" val="t @ th a r\` m @ n"/>
 <VALUE name="determined" val="t i\ th a r\` m @ n t"/>
 <VALUE name="determines" val="t @ th a r\` m @ n ts"/>
-<VALUE name="devastating" val="t e v @ s th e :\i l i\ N"/>
-<VALUE name="devastatingly" val="t e v @ s th e :\i l i\ N l i"/>
-<VALUE name="develop" val="t i\ v e l @ ph"/>
-<VALUE name="developed" val="t i\ v e l @ ph th"/>
-<VALUE name="developer" val="t i\ v e l @ ph a r\`"/>
-<VALUE name="developer's" val="t i\ v e l @ ph a r\` ts"/>
-<VALUE name="developers'" val="t i\ v e l @ ph a r\` ts"/>
-<VALUE name="developers" val="t i\ v e l @ ph a r\` ts"/>
-<VALUE name="developing" val="t i\ v e l @ ph i\ N"/>
-<VALUE name="developmental" val="t i\ v e l @ ph m e n th @ l"/>
-<VALUE name="developmentally" val="t i\ v e l @ ph m e n @ l i"/>
-<VALUE name="development" val="t i\ v e l @ ph m @ n th"/>
-<VALUE name="development's" val="t i\ v e l @ ph m @ n th s"/>
-<VALUE name="developments" val="t i\ v e l @ ph m @ n th s"/>
-<VALUE name="develops" val="t i\ v e l @ ph s"/>
-<VALUE name="device" val="t i\ v a :\i s"/>
-<VALUE name="devices" val="t i\ v a :\i s @ ts"/>
-<VALUE name="device's" val="t i\ v a :\i s i\ ts"/>
-<VALUE name="devil" val="t e v @ l"/>
-<VALUE name="deville" val="t @ v i\ l"/>
-<VALUE name="devil's" val="t e v @ l ts"/>
-<VALUE name="devils'" val="t e v @ l ts"/>
-<VALUE name="devils" val="t e v @ l ts"/>
-<VALUE name="devoted" val="t i\ v @U l @ t"/>
-<VALUE name="devote" val="t i\ v @U th"/>
-<VALUE name="devotee" val="t e v @ th i"/>
-<VALUE name="devotees" val="t e v @ th i ts"/>
-<VALUE name="devotes" val="t i\ v @U th s"/>
+<VALUE name="devastating" val="t e w @ s th e :\i l i\ N"/>
+<VALUE name="devastatingly" val="t e w @ s th e :\i l i\ N l i"/>
+<VALUE name="develop" val="t i\ w e l @ ph"/>
+<VALUE name="developed" val="t i\ w e l @ ph th"/>
+<VALUE name="developer" val="t i\ w e l @ ph a r\`"/>
+<VALUE name="developer's" val="t i\ w e l @ ph a r\` ts"/>
+<VALUE name="developers'" val="t i\ w e l @ ph a r\` ts"/>
+<VALUE name="developers" val="t i\ w e l @ ph a r\` ts"/>
+<VALUE name="developing" val="t i\ w e l @ ph i\ N"/>
+<VALUE name="developmental" val="t i\ w e l @ ph m e n th @ l"/>
+<VALUE name="developmentally" val="t i\ w e l @ ph m e n @ l i"/>
+<VALUE name="development" val="t i\ w e l @ ph m @ n th"/>
+<VALUE name="development's" val="t i\ w e l @ ph m @ n th s"/>
+<VALUE name="developments" val="t i\ w e l @ ph m @ n th s"/>
+<VALUE name="develops" val="t i\ w e l @ ph s"/>
+<VALUE name="device" val="t i\ w a :\i s"/>
+<VALUE name="devices" val="t i\ w a :\i s @ ts"/>
+<VALUE name="device's" val="t i\ w a :\i s i\ ts"/>
+<VALUE name="devil" val="t e w @ l"/>
+<VALUE name="deville" val="t @ w i\ l"/>
+<VALUE name="devil's" val="t e w @ l ts"/>
+<VALUE name="devils'" val="t e w @ l ts"/>
+<VALUE name="devils" val="t e w @ l ts"/>
+<VALUE name="devoted" val="t i\ w @U l @ t"/>
+<VALUE name="devote" val="t i\ w @U th"/>
+<VALUE name="devotee" val="t e w @ th i"/>
+<VALUE name="devotees" val="t e w @ th i ts"/>
+<VALUE name="devotes" val="t i\ w @U th s"/>
 <VALUE name="diabetes" val="t a :\i @ p i l i ts"/>
 <VALUE name="diagnose" val="t a :\i @ k n @U s"/>
 <VALUE name="diagnosed" val="t a :\i @ k n @U s th"/>
@@ -4361,7 +4361,7 @@
 <VALUE name="directors'" val="t i\ r\` e kh th a r\` ts"/>
 <VALUE name="directory" val="t a r\` e kh th a r\` i"/>
 <VALUE name="directs" val="t a r\` e kh th s"/>
-<VALUE name="directv" val="t a r\` e kh th i v i"/>
+<VALUE name="directv" val="t a r\` e kh th i w i"/>
 <VALUE name="dirt" val="t a r\` th"/>
 <VALUE name="dirt's" val="t a r\` th s"/>
 <VALUE name="dirty" val="t a r\` l i"/>
@@ -4397,12 +4397,12 @@
 <VALUE name="discourages" val="t i\ s kh a r\` i\ ts` i\ ts"/>
 <VALUE name="discourse" val="t i\ s kh o r\` s"/>
 <VALUE name="discourses" val="t i\ s kh o r\` s i\ ts"/>
-<VALUE name="discover" val="t i\ s kh A v a r\`"/>
-<VALUE name="discovered" val="t i\ s kh A v a r\` t"/>
-<VALUE name="discoverer" val="t i\ s kh A v @ r\` a r\`"/>
-<VALUE name="discovers" val="t i\ s kh A v a r\` ts"/>
-<VALUE name="discovery" val="t i\ s kh A v a r\` i"/>
-<VALUE name="discovery's" val="t i\ s kh A v a r\` i ts"/>
+<VALUE name="discover" val="t i\ s kh A w a r\`"/>
+<VALUE name="discovered" val="t i\ s kh A w a r\` t"/>
+<VALUE name="discoverer" val="t i\ s kh A w @ r\` a r\`"/>
+<VALUE name="discovers" val="t i\ s kh A w a r\` ts"/>
+<VALUE name="discovery" val="t i\ s kh A w a r\` i"/>
+<VALUE name="discovery's" val="t i\ s kh A w a r\` i ts"/>
 <VALUE name="discrimination" val="t i\ s kh r\` i\ m @ n e :\i s` @ n"/>
 <VALUE name="discs" val="t i\ s kh s"/>
 <VALUE name="discus" val="t i\ s kh @ s"/>
@@ -4438,11 +4438,11 @@
 <VALUE name="disputed" val="t i\ s ph j u l @ t"/>
 <VALUE name="dispute" val="t i\ s ph j u th"/>
 <VALUE name="disputes" val="t i\ s ph j u th s"/>
-<VALUE name="dissolved" val="t i\ ts A l v t"/>
-<VALUE name="dissolve" val="t i\ ts A l v"/>
-<VALUE name="dissolver" val="t i\ ts A l v a r\`"/>
-<VALUE name="dissolvers" val="t i\ ts A l v a r\` ts"/>
-<VALUE name="dissolves" val="t i\ ts A l v ts"/>
+<VALUE name="dissolved" val="t i\ ts A l w t"/>
+<VALUE name="dissolve" val="t i\ ts A l w"/>
+<VALUE name="dissolver" val="t i\ ts A l w a r\`"/>
+<VALUE name="dissolvers" val="t i\ ts A l w a r\` ts"/>
+<VALUE name="dissolves" val="t i\ ts A l w ts"/>
 <VALUE name="distanced" val="t i\ s th @ n s th"/>
 <VALUE name="distance" val="t i\ s th @ n s"/>
 <VALUE name="distances" val="t i\ s th @ n s @ ts"/>
@@ -4450,8 +4450,8 @@
 <VALUE name="distinct" val="t i\ s th i\ N kh th"/>
 <VALUE name="distinction" val="t i\ s th i\ N kh s` @ n"/>
 <VALUE name="distinctions" val="t i\ s th i\ N kh s` @ n ts"/>
-<VALUE name="distinctive" val="t i\ s th i\ N kh th i\ v"/>
-<VALUE name="distinctively" val="t i\ s th i\ N kh th i\ v l i"/>
+<VALUE name="distinctive" val="t i\ s th i\ N kh th i\ w"/>
+<VALUE name="distinctively" val="t i\ s th i\ N kh th i\ w l i"/>
 <VALUE name="distinctly" val="t i\ s th i\ N kh th l i"/>
 <VALUE name="distinguish" val="t i\ s th i\ N k w i\ s`"/>
 <VALUE name="distinguished" val="t i\ s th i\ N k w i\ s` th"/>
@@ -4472,25 +4472,25 @@
 <VALUE name="disturbing" val="t i\ s th a r\` p i\ N"/>
 <VALUE name="disturbingly" val="t i\ s th a r\` p i\ N l i"/>
 <VALUE name="disturbs" val="t i\ s th a r\` p ts"/>
-<VALUE name="diverse" val="t a :\i v a r\` s"/>
-<VALUE name="diversity" val="t i\ v a r\` s i\ th i"/>
-<VALUE name="divided" val="t i\ v a :\i l i\ t"/>
-<VALUE name="divide" val="t i\ v a :\i t"/>
-<VALUE name="dividend" val="t i\ v i\ t e n t"/>
-<VALUE name="divider" val="t i\ v a :\i l a r\`"/>
-<VALUE name="divides" val="t i\ v a :\i t ts"/>
-<VALUE name="divine" val="t i\ v a :\i n"/>
-<VALUE name="divinely" val="t i\ v a :\i n l i"/>
-<VALUE name="diviney" val="t i\ v i\ n i"/>
-<VALUE name="divisional" val="t i\ v i\ z` @ n @ l"/>
-<VALUE name="division" val="t i\ v i\ z` @ n"/>
-<VALUE name="division's" val="t i\ v i\ z` @ n ts"/>
-<VALUE name="divisions'" val="t i\ v i\ z` @ n ts"/>
-<VALUE name="divisions" val="t i\ v i\ z` @ n ts"/>
-<VALUE name="divorced" val="t i\ v o r\` s th"/>
-<VALUE name="divorce" val="t i\ v o r\` s"/>
-<VALUE name="divorcee" val="t @ v o r\` s i"/>
-<VALUE name="divorces" val="t i\ v o r\` s i\ ts"/>
+<VALUE name="diverse" val="t a :\i w a r\` s"/>
+<VALUE name="diversity" val="t i\ w a r\` s i\ th i"/>
+<VALUE name="divided" val="t i\ w a :\i l i\ t"/>
+<VALUE name="divide" val="t i\ w a :\i t"/>
+<VALUE name="dividend" val="t i\ w i\ t e n t"/>
+<VALUE name="divider" val="t i\ w a :\i l a r\`"/>
+<VALUE name="divides" val="t i\ w a :\i t ts"/>
+<VALUE name="divine" val="t i\ w a :\i n"/>
+<VALUE name="divinely" val="t i\ w a :\i n l i"/>
+<VALUE name="diviney" val="t i\ w i\ n i"/>
+<VALUE name="divisional" val="t i\ w i\ z` @ n @ l"/>
+<VALUE name="division" val="t i\ w i\ z` @ n"/>
+<VALUE name="division's" val="t i\ w i\ z` @ n ts"/>
+<VALUE name="divisions'" val="t i\ w i\ z` @ n ts"/>
+<VALUE name="divisions" val="t i\ w i\ z` @ n ts"/>
+<VALUE name="divorced" val="t i\ w o r\` s th"/>
+<VALUE name="divorce" val="t i\ w o r\` s"/>
+<VALUE name="divorcee" val="t @ w o r\` s i"/>
+<VALUE name="divorces" val="t i\ w o r\` s i\ ts"/>
 <VALUE name="dk" val="t i kh e :\i"/>
 <VALUE name="doak" val="t @U kh"/>
 <VALUE name="doan" val="t @U n"/>
@@ -4643,8 +4643,8 @@
 <VALUE name="doughty" val="t o l i"/>
 <VALUE name="doughy" val="t @U i"/>
 <VALUE name="dour" val="t AU a r\`"/>
-<VALUE name="dov" val="t A v"/>
-<VALUE name="dove" val="t A v"/>
+<VALUE name="dov" val="t A w"/>
+<VALUE name="dove" val="t A w"/>
 <VALUE name="dow" val="t AU"/>
 <VALUE name="dowd" val="t AU t"/>
 <VALUE name="dowe" val="t AU"/>
@@ -4703,7 +4703,7 @@
 <VALUE name="drawls" val="d r\` o l ts"/>
 <VALUE name="drawn" val="d r\` o n"/>
 <VALUE name="draws" val="d r\` o ts"/>
-<VALUE name="dr" val="d r\` a :\i v"/>
+<VALUE name="dr" val="d r\` a :\i w"/>
 <VALUE name="dream" val="d r\` i m"/>
 <VALUE name="dreamed" val="d r\` i m t"/>
 <VALUE name="dreamer" val="d r\` i m a r\`"/>
@@ -4731,18 +4731,18 @@
 <VALUE name="drinker" val="d r\` i\ N kh a r\`"/>
 <VALUE name="drinking" val="d r\` i\ N kh i\ N"/>
 <VALUE name="drinks" val="d r\` i\ N kh s"/>
-<VALUE name="drive" val="d r\` a :\i v"/>
-<VALUE name="drivel" val="d r\` i\ v @ l"/>
-<VALUE name="driven" val="d r\` i\ v @ n"/>
-<VALUE name="driver" val="d r\` a :\i v a r\`"/>
-<VALUE name="driver's" val="d r\` a :\i v a r\` ts"/>
-<VALUE name="drivers'" val="d r\` a :\i v a r\` ts"/>
-<VALUE name="drivers" val="d r\` a :\i v a r\` ts"/>
-<VALUE name="drive's" val="d r\` a :\i v ts"/>
-<VALUE name="drives" val="d r\` a :\i v ts"/>
-<VALUE name="driveway" val="d r\` a :\i v w e :\i"/>
-<VALUE name="driveways" val="d r\` a :\i v w e :\i ts"/>
-<VALUE name="driving" val="d r\` a :\i v i\ N"/>
+<VALUE name="drive" val="d r\` a :\i w"/>
+<VALUE name="drivel" val="d r\` i\ w @ l"/>
+<VALUE name="driven" val="d r\` i\ w @ n"/>
+<VALUE name="driver" val="d r\` a :\i w a r\`"/>
+<VALUE name="driver's" val="d r\` a :\i w a r\` ts"/>
+<VALUE name="drivers'" val="d r\` a :\i w a r\` ts"/>
+<VALUE name="drivers" val="d r\` a :\i w a r\` ts"/>
+<VALUE name="drive's" val="d r\` a :\i w ts"/>
+<VALUE name="drives" val="d r\` a :\i w ts"/>
+<VALUE name="driveway" val="d r\` a :\i w w e :\i"/>
+<VALUE name="driveways" val="d r\` a :\i w w e :\i ts"/>
+<VALUE name="driving" val="d r\` a :\i w i\ N"/>
 <VALUE name="drop" val="d r\` A ph"/>
 <VALUE name="drops" val="d r\` A ph s"/>
 <VALUE name="dropsy" val="d r\` A ph s i"/>
@@ -4916,9 +4916,9 @@
 <VALUE name="ee" val="i"/>
 <VALUE name="effected" val="i\ f e kh th @ t"/>
 <VALUE name="effect" val="i\ f e kh th"/>
-<VALUE name="effective" val="i\ f e kh th i\ v"/>
-<VALUE name="effectively" val="i\ f e kh th i\ v l i"/>
-<VALUE name="effectiveness" val="i\ f e kh th i\ v n @ s"/>
+<VALUE name="effective" val="i\ f e kh th i\ w"/>
+<VALUE name="effectively" val="i\ f e kh th i\ w l i"/>
+<VALUE name="effectiveness" val="i\ f e kh th i\ w n @ s"/>
 <VALUE name="effects" val="i\ f e kh th s"/>
 <VALUE name="efficiency" val="i\ f i\ s` @ n s i"/>
 <VALUE name="efficient" val="i\ f i\ s` @ n th"/>
@@ -4990,12 +4990,12 @@
 <VALUE name="elephant's" val="e l @ f @ n th s"/>
 <VALUE name="elephants'" val="e l @ f @ n th s"/>
 <VALUE name="elephants" val="e l @ f @ n th s"/>
-<VALUE name="elevator" val="e l @ v e :\i l a r\`"/>
-<VALUE name="elevators" val="e l @ v e :\i l a r\` ts"/>
-<VALUE name="eleven" val="i\ l e v @ n"/>
-<VALUE name="eleven's" val="i\ l e v @ n ts"/>
-<VALUE name="elevens" val="i\ l e v @ n ts"/>
-<VALUE name="eleventh" val="i\ l e v @ n s"/>
+<VALUE name="elevator" val="e l @ w e :\i l a r\`"/>
+<VALUE name="elevators" val="e l @ w e :\i l a r\` ts"/>
+<VALUE name="eleven" val="i\ l e w @ n"/>
+<VALUE name="eleven's" val="i\ l e w @ n ts"/>
+<VALUE name="elevens" val="i\ l e w @ n ts"/>
+<VALUE name="eleventh" val="i\ l e w @ n s"/>
 <VALUE name="eligible" val="e l @ ts` @ p @ l"/>
 <VALUE name="eliminated" val="i\ l i\ m @ n e :\i l @ t"/>
 <VALUE name="eliminate" val="i\ l i\ m @ n e :\i th"/>
@@ -5159,17 +5159,17 @@
 <VALUE name="entrepreneur's" val="A n t r\` @ ph r\` @ n a r\` ts"/>
 <VALUE name="entrepreneurs" val="A n t r\` @ ph r\` @ n a r\` ts"/>
 <VALUE name="entry" val="e n t r\` i"/>
-<VALUE name="enveloped" val="e n v e l @ ph th"/>
-<VALUE name="envelope" val="e n v @ l @U ph"/>
-<VALUE name="envelopes" val="e n v @ l @U ph s"/>
-<VALUE name="environmental" val="i\ n v a :\i r\` @ n m e n th @ l"/>
-<VALUE name="environmentally" val="i\ n v a :\i r\` @ n m e n th @ l i"/>
-<VALUE name="environment" val="i\ n v a :\i r\` @ n m @ n th"/>
-<VALUE name="environment's" val="i\ n v a :\i r\` @ n m @ n th s"/>
-<VALUE name="environments" val="i\ n v a :\i r\` @ n m @ n th s"/>
-<VALUE name="envisioned" val="e n v i\ z` @ n t"/>
-<VALUE name="envision" val="e n v i\ z` @ n"/>
-<VALUE name="envisions" val="e n v i\ z` @ n ts"/>
+<VALUE name="enveloped" val="e n w e l @ ph th"/>
+<VALUE name="envelope" val="e n w @ l @U ph"/>
+<VALUE name="envelopes" val="e n w @ l @U ph s"/>
+<VALUE name="environmental" val="i\ n w a :\i r\` @ n m e n th @ l"/>
+<VALUE name="environmentally" val="i\ n w a :\i r\` @ n m e n th @ l i"/>
+<VALUE name="environment" val="i\ n w a :\i r\` @ n m @ n th"/>
+<VALUE name="environment's" val="i\ n w a :\i r\` @ n m @ n th s"/>
+<VALUE name="environments" val="i\ n w a :\i r\` @ n m @ n th s"/>
+<VALUE name="envisioned" val="e n w i\ z` @ n t"/>
+<VALUE name="envision" val="e n w i\ z` @ n"/>
+<VALUE name="envisions" val="e n w i\ z` @ n ts"/>
 <VALUE name="epidemic" val="e ph @ t e m i\ kh"/>
 <VALUE name="epidemics" val="e ph @ t e m i\ kh s"/>
 <VALUE name="episode" val="e ph i\ s @U t"/>
@@ -5188,8 +5188,8 @@
 <VALUE name="equips" val="i\ kh w i\ ph s"/>
 <VALUE name="equity" val="e kh w @ th i"/>
 <VALUE name="equity's" val="e kh w @ th i ts"/>
-<VALUE name="equivalent" val="i\ kh w i\ v @ l @ n th"/>
-<VALUE name="equivalents" val="i\ kh w i\ v @ l @ n th s"/>
+<VALUE name="equivalent" val="i\ kh w i\ w @ l @ n th"/>
+<VALUE name="equivalents" val="i\ kh w i\ w @ l @ n th s"/>
 <VALUE name="era" val="e r\` @"/>
 <VALUE name="eralp" val="e r\` o l ph"/>
 <VALUE name="eramo" val="e r\` A m @U"/>
@@ -5235,53 +5235,53 @@
 <VALUE name="ethnical" val="e s n i\ kh @ l"/>
 <VALUE name="ethnic" val="e s n i\ kh"/>
 <VALUE name="ethnics" val="e s n i\ kh s"/>
-<VALUE name="evaluated" val="i\ v a l j ue :\i l @ t"/>
-<VALUE name="evaluate" val="i\ v a l j ue :\i th"/>
-<VALUE name="evaluates" val="i\ v a l j ue :\i th s"/>
-<VALUE name="evaluation" val="i\ v a l j ue :\i s` @ n"/>
-<VALUE name="evaluations" val="i\ v a l j ue :\i s` @ n ts"/>
-<VALUE name="ev" val="e v"/>
-<VALUE name="evened" val="i v @ n t"/>
-<VALUE name="evening" val="i v n i\ N"/>
-<VALUE name="evening's" val="i v n i\ N ts"/>
-<VALUE name="evenings" val="i v n i\ N ts"/>
-<VALUE name="even" val="i v i\ n"/>
-<VALUE name="evenly" val="i v @ n l i"/>
-<VALUE name="evens" val="i v @ n ts"/>
-<VALUE name="event" val="i\ v e n th"/>
-<VALUE name="event's" val="i\ v e n th s"/>
-<VALUE name="events" val="i\ v e n th s"/>
-<VALUE name="eventually" val="i\ v e n ts`h @ w @ l i"/>
-<VALUE name="evered" val="e v a r\` t"/>
-<VALUE name="ever" val="e v a r\`"/>
-<VALUE name="everex" val="e v a r\` @ kh s"/>
-<VALUE name="everly" val="e v a r\` l i"/>
-<VALUE name="evers'" val="e v a r\` ts"/>
-<VALUE name="evers" val="e v a r\` ts"/>
-<VALUE name="evert" val="i\ v a r\` th"/>
-<VALUE name="everts" val="e v a r\` th s"/>
-<VALUE name="everybody'd" val="e v r\` i p A t i t"/>
-<VALUE name="everybody" val="e v r\` i p A t i"/>
-<VALUE name="everybody's" val="e v r\` i p A t i ts"/>
-<VALUE name="everyday" val="e v r\` i t e :\i"/>
-<VALUE name="every" val="e v a r\` i"/>
-<VALUE name="everyone" val="e v r\` i w A n"/>
-<VALUE name="everyone's" val="e v r\` i w A n ts"/>
-<VALUE name="everything" val="e v r\` i s i\ N"/>
-<VALUE name="everything's" val="e v r\` i s i\ N ts"/>
-<VALUE name="everythings" val="e v r\` i s i\ N ts"/>
-<VALUE name="everywhere" val="e v r\` i w e r\`"/>
-<VALUE name="evidenced" val="e v i\ t @ n s th"/>
-<VALUE name="evidence" val="e v @ t @ n s"/>
-<VALUE name="evidences" val="e v @ t @ n s @ ts"/>
-<VALUE name="evident" val="e v @ t @ n th"/>
-<VALUE name="evidently" val="e v @ t @ n th l i"/>
-<VALUE name="evil" val="i v @ l"/>
-<VALUE name="evils" val="i v @ l ts"/>
-<VALUE name="evolution" val="e v @ l u s` @ n"/>
-<VALUE name="evolved" val="i\ v A l v t"/>
-<VALUE name="evolve" val="i\ v A l v"/>
-<VALUE name="evolves" val="i\ v A l v ts"/>
+<VALUE name="evaluated" val="i\ w a l j ue :\i l @ t"/>
+<VALUE name="evaluate" val="i\ w a l j ue :\i th"/>
+<VALUE name="evaluates" val="i\ w a l j ue :\i th s"/>
+<VALUE name="evaluation" val="i\ w a l j ue :\i s` @ n"/>
+<VALUE name="evaluations" val="i\ w a l j ue :\i s` @ n ts"/>
+<VALUE name="ev" val="e w"/>
+<VALUE name="evened" val="i w @ n t"/>
+<VALUE name="evening" val="i w n i\ N"/>
+<VALUE name="evening's" val="i w n i\ N ts"/>
+<VALUE name="evenings" val="i w n i\ N ts"/>
+<VALUE name="even" val="i w i\ n"/>
+<VALUE name="evenly" val="i w @ n l i"/>
+<VALUE name="evens" val="i w @ n ts"/>
+<VALUE name="event" val="i\ w e n th"/>
+<VALUE name="event's" val="i\ w e n th s"/>
+<VALUE name="events" val="i\ w e n th s"/>
+<VALUE name="eventually" val="i\ w e n ts`h @ w @ l i"/>
+<VALUE name="evered" val="e w a r\` t"/>
+<VALUE name="ever" val="e w a r\`"/>
+<VALUE name="everex" val="e w a r\` @ kh s"/>
+<VALUE name="everly" val="e w a r\` l i"/>
+<VALUE name="evers'" val="e w a r\` ts"/>
+<VALUE name="evers" val="e w a r\` ts"/>
+<VALUE name="evert" val="i\ w a r\` th"/>
+<VALUE name="everts" val="e w a r\` th s"/>
+<VALUE name="everybody'd" val="e w r\` i p A t i t"/>
+<VALUE name="everybody" val="e w r\` i p A t i"/>
+<VALUE name="everybody's" val="e w r\` i p A t i ts"/>
+<VALUE name="everyday" val="e w r\` i t e :\i"/>
+<VALUE name="every" val="e w a r\` i"/>
+<VALUE name="everyone" val="e w r\` i w A n"/>
+<VALUE name="everyone's" val="e w r\` i w A n ts"/>
+<VALUE name="everything" val="e w r\` i s i\ N"/>
+<VALUE name="everything's" val="e w r\` i s i\ N ts"/>
+<VALUE name="everythings" val="e w r\` i s i\ N ts"/>
+<VALUE name="everywhere" val="e w r\` i w e r\`"/>
+<VALUE name="evidenced" val="e w i\ t @ n s th"/>
+<VALUE name="evidence" val="e w @ t @ n s"/>
+<VALUE name="evidences" val="e w @ t @ n s @ ts"/>
+<VALUE name="evident" val="e w @ t @ n th"/>
+<VALUE name="evidently" val="e w @ t @ n th l i"/>
+<VALUE name="evil" val="i w @ l"/>
+<VALUE name="evils" val="i w @ l ts"/>
+<VALUE name="evolution" val="e w @ l u s` @ n"/>
+<VALUE name="evolved" val="i\ w A l w t"/>
+<VALUE name="evolve" val="i\ w A l w"/>
+<VALUE name="evolves" val="i\ w A l w ts"/>
 <VALUE name="exacted" val="i\ k ts a kh th i\ t"/>
 <VALUE name="exact" val="i\ k ts a kh th"/>
 <VALUE name="exactly" val="i\ k ts a kh th l i"/>
@@ -5308,8 +5308,8 @@
 <VALUE name="exceptional" val="i\ kh s e ph s` @ n @ l"/>
 <VALUE name="exception" val="i\ kh s e ph s` @ n"/>
 <VALUE name="exceptions" val="i\ kh s e ph s` @ n ts"/>
-<VALUE name="excessive" val="i\ kh s e s i\ v"/>
-<VALUE name="excessively" val="i\ kh s e s i\ v l i"/>
+<VALUE name="excessive" val="i\ kh s e s i\ w"/>
+<VALUE name="excessively" val="i\ kh s e s i\ w l i"/>
 <VALUE name="exchanged" val="i\ kh s ts`h e :\i n ts` t"/>
 <VALUE name="exchange" val="i\ kh s ts`h e :\i n ts`"/>
 <VALUE name="exchanger" val="i\ kh s ts`h e :\i n ts` a r\`"/>
@@ -5324,9 +5324,9 @@
 <VALUE name="excluded" val="i\ kh s kh l u l @ t"/>
 <VALUE name="exclude" val="i\ kh s kh l u t"/>
 <VALUE name="excludes" val="i\ kh s kh l u t ts"/>
-<VALUE name="exclusive" val="i\ kh s kh l u s i\ v"/>
-<VALUE name="exclusively" val="i\ kh s kh l u s i\ v l i"/>
-<VALUE name="exclusives" val="i\ kh s kh l u s i\ v ts"/>
+<VALUE name="exclusive" val="i\ kh s kh l u s i\ w"/>
+<VALUE name="exclusively" val="i\ kh s kh l u s i\ w l i"/>
+<VALUE name="exclusives" val="i\ kh s kh l u s i\ w ts"/>
 <VALUE name="excused" val="i\ kh s kh j u ts t"/>
 <VALUE name="excuse" val="i\ kh s kh j u s"/>
 <VALUE name="excuses" val="i\ kh s kh j u s i\ ts"/>
@@ -5336,10 +5336,10 @@
 <VALUE name="execution" val="e kh s @ kh j u s` @ n"/>
 <VALUE name="executioner" val="e kh s @ kh j u s` @ n a r\`"/>
 <VALUE name="executions" val="e kh s @ kh j u s` @ n ts"/>
-<VALUE name="executive" val="i\ k ts e kh j @ th i\ v"/>
-<VALUE name="executive's" val="e k ts e kh j @ th i\ v ts"/>
-<VALUE name="executives'" val="e k ts e kh j @ th i\ v ts"/>
-<VALUE name="executives" val="i\ k ts e kh j @ th i\ v ts"/>
+<VALUE name="executive" val="i\ k ts e kh j @ th i\ w"/>
+<VALUE name="executive's" val="e k ts e kh j @ th i\ w ts"/>
+<VALUE name="executives'" val="e k ts e kh j @ th i\ w ts"/>
+<VALUE name="executives" val="i\ k ts e kh j @ th i\ w ts"/>
 <VALUE name="ex" val="e kh s"/>
 <VALUE name="exercised" val="e kh s a r\` s a :\i ts t"/>
 <VALUE name="exercise" val="e kh s a r\` s a :\i ts"/>
@@ -5381,8 +5381,8 @@
 <VALUE name="expeditions" val="e kh s ph @ t i\ s` @ n ts"/>
 <VALUE name="expense" val="i\ kh s ph e n s"/>
 <VALUE name="expenses" val="i\ kh s ph e n s i\ ts"/>
-<VALUE name="expensive" val="i\ kh s ph e n s i\ v"/>
-<VALUE name="expensively" val="e kh s ph e n s i\ v l i"/>
+<VALUE name="expensive" val="i\ kh s ph e n s i\ w"/>
+<VALUE name="expensively" val="e kh s ph e n s i\ w l i"/>
 <VALUE name="experienced" val="i\ kh s ph i\ r\` i @ n s th"/>
 <VALUE name="experience" val="i\ kh s ph i\ r\` i @ n s"/>
 <VALUE name="experiences" val="i\ kh s ph i\ r\` i @ n s i\ ts"/>
@@ -5447,8 +5447,8 @@
 <VALUE name="extends" val="i\ kh s th e n t ts"/>
 <VALUE name="extension" val="i\ kh s th e n s` @ n"/>
 <VALUE name="extensions" val="i\ kh s th e n s` @ n ts"/>
-<VALUE name="extensive" val="i\ kh s th e n s i\ v"/>
-<VALUE name="extensively" val="i\ kh s th e n s i\ v l i"/>
+<VALUE name="extensive" val="i\ kh s th e n s i\ w"/>
+<VALUE name="extensively" val="i\ kh s th e n s i\ w l i"/>
 <VALUE name="extent" val="i\ kh s th e n th"/>
 <VALUE name="external" val="i\ kh s th a r\` n @ l"/>
 <VALUE name="externally" val="i\ kh s th a r\` n @ l i"/>
@@ -5593,7 +5593,7 @@
 <VALUE name="far's" val="f A r\` ts"/>
 <VALUE name="farsi" val="f A r\` s i"/>
 <VALUE name="fart" val="f A r\` th"/>
-<VALUE name="farve" val="f A r\` v e :\i"/>
+<VALUE name="farve" val="f A r\` w e :\i"/>
 <VALUE name="fascinating" val="f a s @ n e :\i l i\ N"/>
 <VALUE name="fashioned" val="f a s` @ n t"/>
 <VALUE name="fashion" val="f a s` @ n"/>
@@ -5632,12 +5632,12 @@
 <VALUE name="fault" val="f o l th"/>
 <VALUE name="faults" val="f o l th s"/>
 <VALUE name="faulty" val="f o l th i"/>
-<VALUE name="favorable" val="f e :\i v a r\` @ p @ l"/>
-<VALUE name="favored" val="f e :\i v a r\` t"/>
-<VALUE name="favor" val="f e :\i v a r\`"/>
-<VALUE name="favorite" val="f e :\i v a r\` i\ th"/>
-<VALUE name="favorites" val="f e :\i v a r\` i\ th s"/>
-<VALUE name="favors" val="f e :\i v a r\` ts"/>
+<VALUE name="favorable" val="f e :\i w a r\` @ p @ l"/>
+<VALUE name="favored" val="f e :\i w a r\` t"/>
+<VALUE name="favor" val="f e :\i w a r\`"/>
+<VALUE name="favorite" val="f e :\i w a r\` i\ th"/>
+<VALUE name="favorites" val="f e :\i w a r\` i\ th s"/>
+<VALUE name="favors" val="f e :\i w a r\` ts"/>
 <VALUE name="feared" val="f i\ r\` t"/>
 <VALUE name="fear" val="f i\ r\`"/>
 <VALUE name="fearn" val="f a r\` n"/>
@@ -5686,12 +5686,12 @@
 <VALUE name="fenced" val="f e n s th"/>
 <VALUE name="fence" val="f e n s"/>
 <VALUE name="fences" val="f e n s i\ ts"/>
-<VALUE name="festival" val="f e s th @ v @ l"/>
-<VALUE name="festivals" val="f e s th @ v @ l ts"/>
-<VALUE name="festival's" val="f e s th i\ v @ l ts"/>
-<VALUE name="fevered" val="f i v a r\` t"/>
-<VALUE name="fever" val="f i v a r\`"/>
-<VALUE name="fevers" val="f i v a r\` ts"/>
+<VALUE name="festival" val="f e s th @ w @ l"/>
+<VALUE name="festivals" val="f e s th @ w @ l ts"/>
+<VALUE name="festival's" val="f e s th i\ w @ l ts"/>
+<VALUE name="fevered" val="f i w a r\` t"/>
+<VALUE name="fever" val="f i w a r\`"/>
+<VALUE name="fevers" val="f i w a r\` ts"/>
 <VALUE name="fewer" val="f j ua r\`"/>
 <VALUE name="few" val="f j u"/>
 <VALUE name="fiber" val="f a :\i p a r\`"/>
@@ -5838,9 +5838,9 @@
 <VALUE name="fitt" val="f i\ th"/>
 <VALUE name="fitts" val="f i\ th s"/>
 <VALUE name="fitz" val="f i\ th s"/>
-<VALUE name="five" val="f a :\i v"/>
-<VALUE name="five's" val="f a :\i v ts"/>
-<VALUE name="fives" val="f a :\i v ts"/>
+<VALUE name="five" val="f a :\i w"/>
+<VALUE name="five's" val="f a :\i w ts"/>
+<VALUE name="fives" val="f a :\i w ts"/>
 <VALUE name="fixed" val="f i\ kh s th"/>
 <VALUE name="fixer" val="f i\ kh s a r\`"/>
 <VALUE name="fixes" val="f i\ kh s i\ ts"/>
@@ -5997,16 +5997,16 @@
 <VALUE name="forest's" val="f o r\` @ s th s"/>
 <VALUE name="forests" val="f o r\` @ s th s"/>
 <VALUE name="foret" val="f o r\` th"/>
-<VALUE name="forever" val="f a r\` e v a r\`"/>
+<VALUE name="forever" val="f a r\` e w a r\`"/>
 <VALUE name="forex" val="f o r\` e kh s"/>
 <VALUE name="for" val="f o r\`"/>
 <VALUE name="forge" val="f o r\` ts`"/>
 <VALUE name="forget" val="f a r\` k e th"/>
 <VALUE name="forgets" val="f a r\` k e th s"/>
 <VALUE name="forgette" val="f a r\` z` e th"/>
-<VALUE name="forgive" val="f a r\` k i\ v"/>
-<VALUE name="forgiven" val="f a r\` k i\ v @ n"/>
-<VALUE name="forgives" val="f a r\` k i\ v ts"/>
+<VALUE name="forgive" val="f a r\` k i\ w"/>
+<VALUE name="forgiven" val="f a r\` k i\ w @ n"/>
+<VALUE name="forgives" val="f a r\` k i\ w ts"/>
 <VALUE name="forgo" val="f o r\` k @U"/>
 <VALUE name="forgy" val="f o r\` ts` i"/>
 <VALUE name="forie" val="f o r\` i"/>
@@ -6367,8 +6367,8 @@
 <VALUE name="genetic" val="ts` @ n e l i\ kh"/>
 <VALUE name="genetics" val="ts` @ n e l i\ kh s"/>
 <VALUE name="genet" val="ts` e n i\ th"/>
-<VALUE name="geneva" val="ts` @ n i v @"/>
-<VALUE name="geneve" val="ts` @ n i v"/>
+<VALUE name="geneva" val="ts` @ n i w @"/>
+<VALUE name="geneve" val="ts` @ n i w"/>
 <VALUE name="genex" val="ts` e n e kh s"/>
 <VALUE name="geniuses" val="ts` i n j @ s i\ ts"/>
 <VALUE name="genius" val="ts` i n j @ s"/>
@@ -6411,13 +6411,13 @@
 <VALUE name="girl's" val="k a r\` l ts"/>
 <VALUE name="girls'" val="k a r\` l ts"/>
 <VALUE name="girls" val="k a r\` l ts"/>
-<VALUE name="give" val="k i\ v"/>
-<VALUE name="given" val="k i\ v @ n"/>
-<VALUE name="givens" val="k i\ v @ n ts"/>
-<VALUE name="giver" val="k i\ v a r\`"/>
-<VALUE name="givers" val="k i\ v a r\` ts"/>
-<VALUE name="gives" val="k i\ v ts"/>
-<VALUE name="giveth" val="k i\ v e s"/>
+<VALUE name="give" val="k i\ w"/>
+<VALUE name="given" val="k i\ w @ n"/>
+<VALUE name="givens" val="k i\ w @ n ts"/>
+<VALUE name="giver" val="k i\ w a r\`"/>
+<VALUE name="givers" val="k i\ w a r\` ts"/>
+<VALUE name="gives" val="k i\ w ts"/>
+<VALUE name="giveth" val="k i\ w e s"/>
 <VALUE name="g." val="ts` i"/>
 <VALUE name="g" val="ts` i"/>
 <VALUE name="gladd" val="k l a t"/>
@@ -6452,10 +6452,10 @@
 <VALUE name="globes" val="k l @U p ts"/>
 <VALUE name="globex" val="k l @U p @ kh s"/>
 <VALUE name="glory" val="k l o r\` i"/>
-<VALUE name="gloved" val="k l A v t"/>
-<VALUE name="glove" val="k l A v"/>
-<VALUE name="glover" val="k l A v a r\`"/>
-<VALUE name="gloves" val="k l A v ts"/>
+<VALUE name="gloved" val="k l A w t"/>
+<VALUE name="glove" val="k l A w"/>
+<VALUE name="glover" val="k l A w a r\`"/>
+<VALUE name="gloves" val="k l A w ts"/>
 <VALUE name="goad" val="k @U t"/>
 <VALUE name="goa" val="k @U @"/>
 <VALUE name="goal" val="k @U l"/>
@@ -6548,21 +6548,21 @@
 <VALUE name="gott" val="k A th"/>
 <VALUE name="gotz" val="k A th s"/>
 <VALUE name="gout" val="k AU th"/>
-<VALUE name="gove" val="k @U v"/>
-<VALUE name="governed" val="k A v a r\` n t"/>
-<VALUE name="govern" val="k A v a r\` n"/>
-<VALUE name="governmental" val="k A v a r\` m e n th @ l"/>
-<VALUE name="government" val="k A v a r\` n m @ n th"/>
-<VALUE name="government's" val="k A v a r\` n m @ n th s"/>
-<VALUE name="governments'" val="k A v a r\` n m @ n th s"/>
-<VALUE name="governments" val="k A v a r\` n m @ n th s"/>
-<VALUE name="governor" val="k A v a r\` n a r\`"/>
-<VALUE name="governor's" val="k A v a r\` n a r\` ts"/>
-<VALUE name="governors'" val="k A v a r\` n a r\` ts"/>
-<VALUE name="governors" val="k A v a r\` n a r\` ts"/>
-<VALUE name="governs" val="k A v a r\` n ts"/>
-<VALUE name="gov" val="k A v"/>
-<VALUE name="govs" val="k A v ts"/>
+<VALUE name="gove" val="k @U w"/>
+<VALUE name="governed" val="k A w a r\` n t"/>
+<VALUE name="govern" val="k A w a r\` n"/>
+<VALUE name="governmental" val="k A w a r\` m e n th @ l"/>
+<VALUE name="government" val="k A w a r\` n m @ n th"/>
+<VALUE name="government's" val="k A w a r\` n m @ n th s"/>
+<VALUE name="governments'" val="k A w a r\` n m @ n th s"/>
+<VALUE name="governments" val="k A w a r\` n m @ n th s"/>
+<VALUE name="governor" val="k A w a r\` n a r\`"/>
+<VALUE name="governor's" val="k A w a r\` n a r\` ts"/>
+<VALUE name="governors'" val="k A w a r\` n a r\` ts"/>
+<VALUE name="governors" val="k A w a r\` n a r\` ts"/>
+<VALUE name="governs" val="k A w a r\` n ts"/>
+<VALUE name="gov" val="k A w"/>
+<VALUE name="govs" val="k A w ts"/>
 <VALUE name="gow" val="k AU"/>
 <VALUE name="gown" val="k AU n"/>
 <VALUE name="goya" val="k o :\i @"/>
@@ -6656,16 +6656,16 @@
 <VALUE name="grassy" val="k r\` a s i"/>
 <VALUE name="grateful" val="k r\` e :\i th f @ l"/>
 <VALUE name="gratefully" val="k r\` e :\i th f @ l i"/>
-<VALUE name="grave" val="k r\` e :\i v"/>
-<VALUE name="gravel" val="k r\` a v @ l"/>
-<VALUE name="gravell" val="k r\` a v @ l"/>
-<VALUE name="gravely" val="k r\` e :\i v l i"/>
-<VALUE name="graven" val="k r\` e :\i v @ n"/>
-<VALUE name="graver" val="k r\` e :\i v a r\`"/>
-<VALUE name="graves" val="k r\` e :\i v ts"/>
-<VALUE name="gravest" val="k r\` a v @ s th"/>
-<VALUE name="gravett" val="k r\` a v i\ th"/>
-<VALUE name="gravity" val="k r\` a v @ th i"/>
+<VALUE name="grave" val="k r\` e :\i w"/>
+<VALUE name="gravel" val="k r\` a w @ l"/>
+<VALUE name="gravell" val="k r\` a w @ l"/>
+<VALUE name="gravely" val="k r\` e :\i w l i"/>
+<VALUE name="graven" val="k r\` e :\i w @ n"/>
+<VALUE name="graver" val="k r\` e :\i w a r\`"/>
+<VALUE name="graves" val="k r\` e :\i w ts"/>
+<VALUE name="gravest" val="k r\` a w @ s th"/>
+<VALUE name="gravett" val="k r\` a w i\ th"/>
+<VALUE name="gravity" val="k r\` a w @ th i"/>
 <VALUE name="graye" val="k r\` e :\i"/>
 <VALUE name="grayer" val="k r\` e :\i a r\`"/>
 <VALUE name="gray" val="k r\` e :\i"/>
@@ -6978,11 +6978,11 @@
 <VALUE name="harsh" val="x A r\` s`"/>
 <VALUE name="harshly" val="x A r\` s` l i"/>
 <VALUE name="hart" val="x A r\` th"/>
-<VALUE name="harvested" val="x A r\` v @ s th i\ t"/>
-<VALUE name="harvester" val="x A r\` v @ s th a r\`"/>
-<VALUE name="harvest" val="x A r\` v @ s th"/>
-<VALUE name="harvests" val="x A r\` v @ s th s"/>
-<VALUE name="harv" val="x A r\` v"/>
+<VALUE name="harvested" val="x A r\` w @ s th i\ t"/>
+<VALUE name="harvester" val="x A r\` w @ s th a r\`"/>
+<VALUE name="harvest" val="x A r\` w @ s th"/>
+<VALUE name="harvests" val="x A r\` w @ s th s"/>
+<VALUE name="harv" val="x A r\` w"/>
 <VALUE name="hase" val="x e :\i ts"/>
 <VALUE name="has" val="x a ts"/>
 <VALUE name="hash" val="x a s`"/>
@@ -7018,13 +7018,13 @@
 <VALUE name="haun" val="x o n"/>
 <VALUE name="haus" val="x AU s"/>
 <VALUE name="haut" val="x o th"/>
-<VALUE name="have" val="x a v"/>
-<VALUE name="havel" val="x a v @ l"/>
-<VALUE name="haven" val="x e :\i v @ n"/>
-<VALUE name="havens" val="x e :\i v @ n ts"/>
-<VALUE name="haver" val="x e v a r\`"/>
-<VALUE name="haves" val="x a v ts"/>
-<VALUE name="havey" val="x e :\i v i"/>
+<VALUE name="have" val="x a w"/>
+<VALUE name="havel" val="x a w @ l"/>
+<VALUE name="haven" val="x e :\i w @ n"/>
+<VALUE name="havens" val="x e :\i w @ n ts"/>
+<VALUE name="haver" val="x e w a r\`"/>
+<VALUE name="haves" val="x a w ts"/>
+<VALUE name="havey" val="x e :\i w i"/>
 <VALUE name="hawe" val="x o"/>
 <VALUE name="haw" val="x o"/>
 <VALUE name="hawk" val="x o kh"/>
@@ -7102,13 +7102,13 @@
 <VALUE name="heaton" val="x i l @ n"/>
 <VALUE name="heat's" val="x i th s"/>
 <VALUE name="heats" val="x i th s"/>
-<VALUE name="heavener" val="x e v @ n a r\`"/>
-<VALUE name="heaven" val="x e v @ n"/>
-<VALUE name="heavenly" val="x e v @ n l i"/>
-<VALUE name="heaven's" val="x e v @ n ts"/>
-<VALUE name="heavens" val="x e v @ n ts"/>
-<VALUE name="heavily" val="x e v @ l i"/>
-<VALUE name="heavy" val="x e v i"/>
+<VALUE name="heavener" val="x e w @ n a r\`"/>
+<VALUE name="heaven" val="x e w @ n"/>
+<VALUE name="heavenly" val="x e w @ n l i"/>
+<VALUE name="heaven's" val="x e w @ n ts"/>
+<VALUE name="heavens" val="x e w @ n ts"/>
+<VALUE name="heavily" val="x e w @ l i"/>
+<VALUE name="heavy" val="x e w i"/>
 <VALUE name="hebb" val="x e p"/>
 <VALUE name="hebe" val="x i p"/>
 <VALUE name="heck" val="x e kh"/>
@@ -7240,7 +7240,7 @@
 <VALUE name="herta" val="x a r\` l @"/>
 <VALUE name="hert" val="x a r\` th"/>
 <VALUE name="hertz" val="x e r\` th s"/>
-<VALUE name="herve" val="x a r\` v"/>
+<VALUE name="herve" val="x a r\` w"/>
 <VALUE name="herz" val="x a r\` ts"/>
 <VALUE name="he's" val="x i ts"/>
 <VALUE name="hesitated" val="x e ts i\ th e :\i l i\ t"/>
@@ -7379,7 +7379,7 @@
 <VALUE name="hitt" val="x i\ th"/>
 <VALUE name="hitty" val="x i\ l i"/>
 <VALUE name="hitz" val="x i\ th s"/>
-<VALUE name="hive" val="x a :\i v"/>
+<VALUE name="hive" val="x a :\i w"/>
 <VALUE name="hix" val="x i\ kh s"/>
 <VALUE name="hm" val="x @ m"/>
 <VALUE name="hockey" val="x A kh i"/>
@@ -7525,7 +7525,7 @@
 <VALUE name="howe" val="x AU"/>
 <VALUE name="hower" val="x AU a r\`"/>
 <VALUE name="howes" val="x AU ts"/>
-<VALUE name="however" val="x AU e v a r\`"/>
+<VALUE name="however" val="x AU e w a r\`"/>
 <VALUE name="howey" val="x AU i"/>
 <VALUE name="how" val="x AU"/>
 <VALUE name="howie" val="x AU i"/>
@@ -7701,20 +7701,20 @@
 <VALUE name="impress" val="i\ m ph r\` e s"/>
 <VALUE name="impression" val="i\ m ph r\` e s` @ n"/>
 <VALUE name="impressions" val="i\ m ph r\` e s` @ n ts"/>
-<VALUE name="impressive" val="i\ m ph r\` e s i\ v"/>
-<VALUE name="impressively" val="i\ m ph r\` e s i\ v l i"/>
-<VALUE name="improved" val="i\ m ph r\` u v t"/>
-<VALUE name="improve" val="i\ m ph r\` u v"/>
-<VALUE name="improvement" val="i\ m ph r\` u v m @ n th"/>
-<VALUE name="improvements" val="i\ m ph r\` u v m @ n th s"/>
-<VALUE name="improves" val="i\ m ph r\` u v ts"/>
+<VALUE name="impressive" val="i\ m ph r\` e s i\ w"/>
+<VALUE name="impressively" val="i\ m ph r\` e s i\ w l i"/>
+<VALUE name="improved" val="i\ m ph r\` u w t"/>
+<VALUE name="improve" val="i\ m ph r\` u w"/>
+<VALUE name="improvement" val="i\ m ph r\` u w m @ n th"/>
+<VALUE name="improvements" val="i\ m ph r\` u w m @ n th s"/>
+<VALUE name="improves" val="i\ m ph r\` u w ts"/>
 <VALUE name="impulse" val="i\ m ph @ l s"/>
 <VALUE name="impulses" val="i\ m ph @ l s i\ ts"/>
 <VALUE name="ina" val="i n @"/>
 <VALUE name="inca" val="i\ N kh @"/>
 <VALUE name="ince" val="i\ n s"/>
-<VALUE name="incentive" val="i\ n s e n th i\ v"/>
-<VALUE name="incentives" val="i\ n s e n th i\ v ts"/>
+<VALUE name="incentive" val="i\ n s e n th i\ w"/>
+<VALUE name="incentives" val="i\ n s e n th i\ w ts"/>
 <VALUE name="inch" val="i\ n ts`h"/>
 <VALUE name="incidental" val="i\ n s i\ t e n th @ l"/>
 <VALUE name="incident" val="i\ n s @ t @ n th"/>
@@ -7759,11 +7759,11 @@
 <VALUE name="indicators" val="i\ n t @ kh e :\i l a r\` ts"/>
 <VALUE name="indigenous" val="i\ n t i\ ts` @ n @ s"/>
 <VALUE name="indigenously" val="i\ n t i\ ts` @ n @ s l i"/>
-<VALUE name="individual" val="i\ n t @ v i\ ts` @ w @ l"/>
-<VALUE name="individually" val="i\ n t i\ v i\ ts` u@ l i"/>
-<VALUE name="individual's" val="i\ n t @ v i\ ts` @ w @ l ts"/>
-<VALUE name="individuals" val="i\ n t @ v i\ ts` @ w @ l ts"/>
-<VALUE name="individuals'" val="i\ n t i\ v i\ ts` @ w @ l ts"/>
+<VALUE name="individual" val="i\ n t @ w i\ ts` @ w @ l"/>
+<VALUE name="individually" val="i\ n t i\ w i\ ts` u@ l i"/>
+<VALUE name="individual's" val="i\ n t @ w i\ ts` @ w @ l ts"/>
+<VALUE name="individuals" val="i\ n t @ w i\ ts` @ w @ l ts"/>
+<VALUE name="individuals'" val="i\ n t i\ w i\ ts` @ w @ l ts"/>
 <VALUE name="indo" val="i\ n t @U"/>
 <VALUE name="industriale" val="i\ n t @ s t r\` iA l i"/>
 <VALUE name="industrial" val="i\ n t A s t r\` i @ l"/>
@@ -7776,8 +7776,8 @@
 <VALUE name="industry's" val="i\ n t @ s t r\` i ts"/>
 <VALUE name="indy" val="i\ n t i"/>
 <VALUE name="ines" val="i\ n i\ s"/>
-<VALUE name="inevitable" val="i\ n e v @ th @ p @ l"/>
-<VALUE name="inevitably" val="i\ n e v @ th @ p l i"/>
+<VALUE name="inevitable" val="i\ n e w @ th @ p @ l"/>
+<VALUE name="inevitably" val="i\ n e w @ th @ p l i"/>
 <VALUE name="inez" val="i\ n e ts"/>
 <VALUE name="infante" val="i\ n f A n th e :\i"/>
 <VALUE name="infant" val="i\ n f @ n th"/>
@@ -7829,8 +7829,8 @@
 <VALUE name="initiated" val="i\ n i\ s` ie :\i l @ t"/>
 <VALUE name="initiate" val="i\ n i\ s` ie :\i th"/>
 <VALUE name="initiates" val="i\ n i\ s` i @ th s"/>
-<VALUE name="initiative" val="i\ n i\ s` @ th i\ v"/>
-<VALUE name="initiatives" val="i\ n i\ s` @ th i\ v ts"/>
+<VALUE name="initiative" val="i\ n i\ s` @ th i\ w"/>
+<VALUE name="initiatives" val="i\ n i\ s` @ th i\ w ts"/>
 <VALUE name="injured" val="i\ n ts` a r\` t"/>
 <VALUE name="injure" val="i\ n ts` a r\`"/>
 <VALUE name="injures" val="i\ n ts` a r\` ts"/>
@@ -7848,9 +7848,9 @@
 <VALUE name="innocently" val="i\ n @ s @ n th l i"/>
 <VALUE name="innocents" val="i\ n @ s @ n th s"/>
 <VALUE name="inno" val="i\ n @U"/>
-<VALUE name="innovation" val="i\ n @ v e :\i s` @ n"/>
-<VALUE name="innovations" val="i\ n @ v e :\i s` @ n ts"/>
-<VALUE name="innovative" val="i\ n @ v e :\i l i\ v"/>
+<VALUE name="innovation" val="i\ n @ w e :\i s` @ n"/>
+<VALUE name="innovations" val="i\ n @ w e :\i s` @ n ts"/>
+<VALUE name="innovative" val="i\ n @ w e :\i l i\ w"/>
 <VALUE name="inns" val="i\ n ts"/>
 <VALUE name="input" val="i\ n ph U th"/>
 <VALUE name="inputs" val="i\ n ph U th s"/>
@@ -7977,15 +7977,15 @@
 <VALUE name="interrupted" val="i\ n th a r\` A ph th i\ t"/>
 <VALUE name="interrupt" val="i\ n th a r\` A ph th"/>
 <VALUE name="interrupts" val="i\ n th a r\` A ph th s"/>
-<VALUE name="interval" val="i\ n th a r\` v @ l"/>
-<VALUE name="intervals" val="i\ n th a r\` v @ l ts"/>
-<VALUE name="intervention" val="i\ n th a r\` v e n s` @ n"/>
-<VALUE name="interventions" val="i\ n th a r\` v e n s` @ n ts"/>
-<VALUE name="interviewed" val="i\ n th a r\` v j u t"/>
-<VALUE name="interviewee" val="i\ n th a r\` v j u i"/>
-<VALUE name="interviewer" val="i\ n th a r\` v j ua r\`"/>
-<VALUE name="interview" val="i\ n th a r\` v j u"/>
-<VALUE name="interviews" val="i\ n th a r\` v j u ts"/>
+<VALUE name="interval" val="i\ n th a r\` w @ l"/>
+<VALUE name="intervals" val="i\ n th a r\` w @ l ts"/>
+<VALUE name="intervention" val="i\ n th a r\` w e n s` @ n"/>
+<VALUE name="interventions" val="i\ n th a r\` w e n s` @ n ts"/>
+<VALUE name="interviewed" val="i\ n th a r\` w j u t"/>
+<VALUE name="interviewee" val="i\ n th a r\` w j u i"/>
+<VALUE name="interviewer" val="i\ n th a r\` w j ua r\`"/>
+<VALUE name="interview" val="i\ n th a r\` w j u"/>
+<VALUE name="interviews" val="i\ n th a r\` w j u ts"/>
 <VALUE name="inti" val="i\ n th i"/>
 <VALUE name="intimated" val="i\ n th i\ m e :\i l i\ t"/>
 <VALUE name="intimate" val="i\ n th @ m @ th"/>
@@ -7998,58 +7998,58 @@
 <VALUE name="introduces" val="i\ n t r\` @ t u s i\ ts"/>
 <VALUE name="introduction" val="i\ n t r\` @ t A kh s` @ n"/>
 <VALUE name="introductions" val="i\ n t r\` @ t A kh s` @ n ts"/>
-<VALUE name="invaded" val="i\ n v e :\i l @ t"/>
-<VALUE name="invade" val="i\ n v e :\i t"/>
-<VALUE name="invader" val="i\ n v e :\i l a r\`"/>
-<VALUE name="invaders" val="i\ n v e :\i l a r\` ts"/>
-<VALUE name="invades" val="i\ n v e :\i t ts"/>
-<VALUE name="invasion" val="i\ n v e :\i z` @ n"/>
-<VALUE name="invasions" val="i\ n v e :\i z` @ n ts"/>
-<VALUE name="invented" val="i\ n v e n th @ t"/>
-<VALUE name="invent" val="i\ n v e n th"/>
-<VALUE name="invention" val="i\ n v e n s` @ n"/>
-<VALUE name="inventions" val="i\ n v e n s` @ n ts"/>
-<VALUE name="inventor" val="i\ n v e n th a r\`"/>
-<VALUE name="inventory" val="i\ n v @ n th o r\` i"/>
-<VALUE name="inventory's" val="i\ n v @ n th o r\` i ts"/>
-<VALUE name="invents" val="i\ n v e n th s"/>
-<VALUE name="invested" val="i\ n v e s th @ t"/>
-<VALUE name="investigated" val="i\ n v e s th @ k e :\i l @ t"/>
-<VALUE name="investigate" val="i\ n v e s th @ k e :\i th"/>
-<VALUE name="investigates" val="i\ n v e s th @ k e :\i th s"/>
-<VALUE name="investigational" val="i\ n v e s th i\ k e :\i s` @ n @ l"/>
-<VALUE name="investigation" val="i\ n v e s th @ k e :\i s` @ n"/>
-<VALUE name="investigations" val="i\ n v e s th @ k e :\i s` @ n ts"/>
-<VALUE name="investigator" val="i\ n v e s th @ k e :\i l a r\`"/>
-<VALUE name="investigator's" val="i\ n v e s th @ k e :\i l a r\` ts"/>
-<VALUE name="investigators'" val="i\ n v e s th @ k e :\i l a r\` ts"/>
-<VALUE name="investigators" val="i\ n v e s th @ k e :\i l a r\` ts"/>
-<VALUE name="investigatory" val="i\ n v e s th @ k @ th o r\` i"/>
-<VALUE name="invest" val="i\ n v e s th"/>
-<VALUE name="investment" val="i\ n v e s th m @ n th"/>
-<VALUE name="investment's" val="i\ n v e s th m @ n th s"/>
-<VALUE name="investments'" val="i\ n v e s th m @ n th s"/>
-<VALUE name="investments" val="i\ n v e s th m @ n th s"/>
-<VALUE name="investor" val="i\ n v e s th a r\`"/>
-<VALUE name="investor's" val="i\ n v e s th a r\` ts"/>
-<VALUE name="investors'" val="i\ n v e s th a r\` ts"/>
-<VALUE name="investors" val="i\ n v e s th a r\` ts"/>
-<VALUE name="invests" val="i\ n v e s th s"/>
-<VALUE name="invisible" val="i\ n v i\ ts @ p @ l"/>
-<VALUE name="invisibles" val="i\ n v i\ ts @ p @ l ts"/>
-<VALUE name="invitational" val="i\ n v @ th e :\i s` @ n @ l"/>
-<VALUE name="invitation" val="i\ n v i\ th e :\i s` @ n"/>
-<VALUE name="invitations" val="i\ n v i\ th e :\i s` @ n ts"/>
-<VALUE name="invited" val="i\ n v a :\i l @ t"/>
-<VALUE name="invitee" val="i\ n v a :\i th i"/>
-<VALUE name="invitees" val="i\ n v a :\i th i ts"/>
-<VALUE name="invite" val="i\ n v a :\i th"/>
-<VALUE name="invites" val="i\ n v a :\i th s"/>
-<VALUE name="involved" val="i\ n v A l v t"/>
-<VALUE name="involve" val="i\ n v A l v"/>
-<VALUE name="involvement" val="i\ n v A l v m @ n th"/>
-<VALUE name="involvements" val="i\ n v A l v m @ n th s"/>
-<VALUE name="involves" val="i\ n v A l v ts"/>
+<VALUE name="invaded" val="i\ n w e :\i l @ t"/>
+<VALUE name="invade" val="i\ n w e :\i t"/>
+<VALUE name="invader" val="i\ n w e :\i l a r\`"/>
+<VALUE name="invaders" val="i\ n w e :\i l a r\` ts"/>
+<VALUE name="invades" val="i\ n w e :\i t ts"/>
+<VALUE name="invasion" val="i\ n w e :\i z` @ n"/>
+<VALUE name="invasions" val="i\ n w e :\i z` @ n ts"/>
+<VALUE name="invented" val="i\ n w e n th @ t"/>
+<VALUE name="invent" val="i\ n w e n th"/>
+<VALUE name="invention" val="i\ n w e n s` @ n"/>
+<VALUE name="inventions" val="i\ n w e n s` @ n ts"/>
+<VALUE name="inventor" val="i\ n w e n th a r\`"/>
+<VALUE name="inventory" val="i\ n w @ n th o r\` i"/>
+<VALUE name="inventory's" val="i\ n w @ n th o r\` i ts"/>
+<VALUE name="invents" val="i\ n w e n th s"/>
+<VALUE name="invested" val="i\ n w e s th @ t"/>
+<VALUE name="investigated" val="i\ n w e s th @ k e :\i l @ t"/>
+<VALUE name="investigate" val="i\ n w e s th @ k e :\i th"/>
+<VALUE name="investigates" val="i\ n w e s th @ k e :\i th s"/>
+<VALUE name="investigational" val="i\ n w e s th i\ k e :\i s` @ n @ l"/>
+<VALUE name="investigation" val="i\ n w e s th @ k e :\i s` @ n"/>
+<VALUE name="investigations" val="i\ n w e s th @ k e :\i s` @ n ts"/>
+<VALUE name="investigator" val="i\ n w e s th @ k e :\i l a r\`"/>
+<VALUE name="investigator's" val="i\ n w e s th @ k e :\i l a r\` ts"/>
+<VALUE name="investigators'" val="i\ n w e s th @ k e :\i l a r\` ts"/>
+<VALUE name="investigators" val="i\ n w e s th @ k e :\i l a r\` ts"/>
+<VALUE name="investigatory" val="i\ n w e s th @ k @ th o r\` i"/>
+<VALUE name="invest" val="i\ n w e s th"/>
+<VALUE name="investment" val="i\ n w e s th m @ n th"/>
+<VALUE name="investment's" val="i\ n w e s th m @ n th s"/>
+<VALUE name="investments'" val="i\ n w e s th m @ n th s"/>
+<VALUE name="investments" val="i\ n w e s th m @ n th s"/>
+<VALUE name="investor" val="i\ n w e s th a r\`"/>
+<VALUE name="investor's" val="i\ n w e s th a r\` ts"/>
+<VALUE name="investors'" val="i\ n w e s th a r\` ts"/>
+<VALUE name="investors" val="i\ n w e s th a r\` ts"/>
+<VALUE name="invests" val="i\ n w e s th s"/>
+<VALUE name="invisible" val="i\ n w i\ ts @ p @ l"/>
+<VALUE name="invisibles" val="i\ n w i\ ts @ p @ l ts"/>
+<VALUE name="invitational" val="i\ n w @ th e :\i s` @ n @ l"/>
+<VALUE name="invitation" val="i\ n w i\ th e :\i s` @ n"/>
+<VALUE name="invitations" val="i\ n w i\ th e :\i s` @ n ts"/>
+<VALUE name="invited" val="i\ n w a :\i l @ t"/>
+<VALUE name="invitee" val="i\ n w a :\i th i"/>
+<VALUE name="invitees" val="i\ n w a :\i th i ts"/>
+<VALUE name="invite" val="i\ n w a :\i th"/>
+<VALUE name="invites" val="i\ n w a :\i th s"/>
+<VALUE name="involved" val="i\ n w A l w t"/>
+<VALUE name="involve" val="i\ n w A l w"/>
+<VALUE name="involvement" val="i\ n w A l w m @ n th"/>
+<VALUE name="involvements" val="i\ n w A l w m @ n th s"/>
+<VALUE name="involves" val="i\ n w A l w ts"/>
 <VALUE name="iny" val="i\ n i"/>
 <VALUE name="io" val="a :\i @U"/>
 <VALUE name="ip" val="a :\i ph i"/>
@@ -8110,7 +8110,7 @@
 <VALUE name="jar" val="ts` A r\`"/>
 <VALUE name="jaros" val="j A r\` @U ts"/>
 <VALUE name="jars" val="ts` A r\` ts"/>
-<VALUE name="jarvi" val="ts` A r\` v i"/>
+<VALUE name="jarvi" val="ts` A r\` w i"/>
 <VALUE name="jaryl" val="ts` a r\` @ l"/>
 <VALUE name="jawad" val="ts` @ w A t"/>
 <VALUE name="jawed" val="ts` o t"/>
@@ -8358,7 +8358,7 @@
 <VALUE name="labor" val="l e :\i p a r\`"/>
 <VALUE name="labor's" val="l e :\i p a r\` ts"/>
 <VALUE name="labors" val="l e :\i p a r\` ts"/>
-<VALUE name="labov" val="l @ p A v"/>
+<VALUE name="labov" val="l @ p A w"/>
 <VALUE name="labow" val="l a p @U"/>
 <VALUE name="laboy" val="l @ p o :\i"/>
 <VALUE name="lab's" val="l a p ts"/>
@@ -8428,7 +8428,7 @@
 <VALUE name="lane's" val="l e :\i n ts"/>
 <VALUE name="lanes" val="l e :\i n ts"/>
 <VALUE name="lanete" val="l @ n i th"/>
-<VALUE name="laneve" val="l @ n i v"/>
+<VALUE name="laneve" val="l @ n i w"/>
 <VALUE name="laney" val="l e :\i n i"/>
 <VALUE name="language" val="l a N k w @ ts`"/>
 <VALUE name="languages" val="l a N k w @ ts` @ ts"/>
@@ -8559,13 +8559,13 @@
 <VALUE name="leather" val="l e t a r\`"/>
 <VALUE name="leathers" val="l e t a r\` ts"/>
 <VALUE name="leathery" val="l e t a r\` i"/>
-<VALUE name="leave" val="l i v"/>
-<VALUE name="leavell" val="l i v @ l"/>
-<VALUE name="leaven" val="l e v @ n"/>
-<VALUE name="leavens" val="l e v @ n ts"/>
-<VALUE name="leaver" val="l i v a r\`"/>
-<VALUE name="leaves" val="l i v ts"/>
-<VALUE name="leavey" val="l i v i"/>
+<VALUE name="leave" val="l i w"/>
+<VALUE name="leavell" val="l i w @ l"/>
+<VALUE name="leaven" val="l e w @ n"/>
+<VALUE name="leavens" val="l e w @ n ts"/>
+<VALUE name="leaver" val="l i w a r\`"/>
+<VALUE name="leaves" val="l i w ts"/>
+<VALUE name="leavey" val="l i w i"/>
 <VALUE name="lectured" val="l e kh ts`h a r\` t"/>
 <VALUE name="lecture" val="l e kh ts`h a r\`"/>
 <VALUE name="lecturer" val="l e kh ts`h a r\` a r\`"/>
@@ -8591,8 +8591,8 @@
 <VALUE name="leggy" val="l e k i"/>
 <VALUE name="legislation" val="l e ts` @ s l e :\i s` @ n"/>
 <VALUE name="legislation's" val="l e ts` @ s l e :\i s` @ n ts"/>
-<VALUE name="legislative" val="l e ts` @ s l e :\i l i\ v"/>
-<VALUE name="legislatively" val="l e ts` i\ s l e :\i l i\ v l i"/>
+<VALUE name="legislative" val="l e ts` @ s l e :\i l i\ w"/>
+<VALUE name="legislatively" val="l e ts` i\ s l e :\i l i\ w l i"/>
 <VALUE name="legislator" val="l e ts` @ s l e :\i l a r\`"/>
 <VALUE name="legislators" val="l e ts` @ s l e :\i l a r\` ts"/>
 <VALUE name="legislators'" val="l e ts` i\ s l e :\i l a r\` ts"/>
@@ -8648,11 +8648,11 @@
 <VALUE name="letty" val="l e l i"/>
 <VALUE name="letup" val="l e th A ph"/>
 <VALUE name="letz" val="l e th s"/>
-<VALUE name="leveled" val="l e v @ l t"/>
-<VALUE name="level" val="l e v @ l"/>
-<VALUE name="levell" val="l e :\i v e :\i l"/>
-<VALUE name="level's" val="l e v @ l ts"/>
-<VALUE name="levels" val="l e v @ l ts"/>
+<VALUE name="leveled" val="l e w @ l t"/>
+<VALUE name="level" val="l e w @ l"/>
+<VALUE name="levell" val="l e :\i w e :\i l"/>
+<VALUE name="level's" val="l e w @ l ts"/>
+<VALUE name="levels" val="l e w @ l ts"/>
 <VALUE name="liability" val="l a :\i @ p i\ l i\ th i"/>
 <VALUE name="liberal" val="l i\ p a r\` @ l"/>
 <VALUE name="liberally" val="l i\ p a r\` @ l i"/>
@@ -8800,17 +8800,17 @@
 <VALUE name="little's" val="l i\ l @ l ts"/>
 <VALUE name="littles" val="l i\ l @ l ts"/>
 <VALUE name="littlest" val="l i\ l @ l @ s th"/>
-<VALUE name="lived" val="l i\ v t"/>
-<VALUE name="live" val="l a :\i v"/>
-<VALUE name="lively" val="l a :\i v l i"/>
-<VALUE name="liven" val="l a :\i v @ n"/>
-<VALUE name="liver" val="l i\ v a r\`"/>
-<VALUE name="livers" val="l i\ v a r\` ts"/>
-<VALUE name="livery" val="l i\ v a r\` i"/>
-<VALUE name="lives'" val="l a :\i v ts"/>
-<VALUE name="lives" val="l i\ v ts"/>
-<VALUE name="living" val="l i\ v i\ N"/>
-<VALUE name="livings" val="l i\ v i\ N ts"/>
+<VALUE name="lived" val="l i\ w t"/>
+<VALUE name="live" val="l a :\i w"/>
+<VALUE name="lively" val="l a :\i w l i"/>
+<VALUE name="liven" val="l a :\i w @ n"/>
+<VALUE name="liver" val="l i\ w a r\`"/>
+<VALUE name="livers" val="l i\ w a r\` ts"/>
+<VALUE name="livery" val="l i\ w a r\` i"/>
+<VALUE name="lives'" val="l a :\i w ts"/>
+<VALUE name="lives" val="l i\ w ts"/>
+<VALUE name="living" val="l i\ w i\ N"/>
+<VALUE name="livings" val="l i\ w i\ N ts"/>
 <VALUE name="ln" val="l e :\i n"/>
 <VALUE name="loaded" val="l @U l @ t"/>
 <VALUE name="loader" val="l @U l a r\`"/>
@@ -8922,20 +8922,20 @@
 <VALUE name="loud" val="l AU t"/>
 <VALUE name="loudly" val="l AU t l i"/>
 <VALUE name="loudon" val="l AU l @ n"/>
-<VALUE name="loved" val="l A v t"/>
-<VALUE name="love" val="l A v"/>
-<VALUE name="lovell" val="l A v @ l"/>
-<VALUE name="lovely" val="l A v l i"/>
-<VALUE name="loven" val="l A v @ n"/>
-<VALUE name="loverde" val="l @U v e r\` t i"/>
-<VALUE name="lover" val="l A v a r\`"/>
-<VALUE name="lovern" val="l A v a r\` n"/>
-<VALUE name="lover's" val="l A v a r\` ts"/>
-<VALUE name="lovers'" val="l A v a r\` ts"/>
-<VALUE name="lovers" val="l A v a r\` ts"/>
-<VALUE name="love's" val="l A v ts"/>
-<VALUE name="loves" val="l A v ts"/>
-<VALUE name="lovett" val="l A v i\ th"/>
+<VALUE name="loved" val="l A w t"/>
+<VALUE name="love" val="l A w"/>
+<VALUE name="lovell" val="l A w @ l"/>
+<VALUE name="lovely" val="l A w l i"/>
+<VALUE name="loven" val="l A w @ n"/>
+<VALUE name="loverde" val="l @U w e r\` t i"/>
+<VALUE name="lover" val="l A w a r\`"/>
+<VALUE name="lovern" val="l A w a r\` n"/>
+<VALUE name="lover's" val="l A w a r\` ts"/>
+<VALUE name="lovers'" val="l A w a r\` ts"/>
+<VALUE name="lovers" val="l A w a r\` ts"/>
+<VALUE name="love's" val="l A w ts"/>
+<VALUE name="loves" val="l A w ts"/>
+<VALUE name="lovett" val="l A w i\ th"/>
 <VALUE name="lowe" val="l @U"/>
 <VALUE name="lowen" val="l @U @ n"/>
 <VALUE name="lowered" val="l @U a r\` t"/>
@@ -8983,7 +8983,7 @@
 <VALUE name="m2" val="e m th u"/>
 <VALUE name="m3" val="e m s r\` i"/>
 <VALUE name="m4" val="e m f o r\`"/>
-<VALUE name="m5" val="e m f a :\i v"/>
+<VALUE name="m5" val="e m f a :\i w"/>
 <VALUE name="machinea" val="m a s` @ n i @"/>
 <VALUE name="machined" val="m @ s` i n t"/>
 <VALUE name="machine" val="m @ s` i n"/>
@@ -9277,8 +9277,8 @@
 <VALUE name="massie" val="m a s i"/>
 <VALUE name="massif" val="m a s i f"/>
 <VALUE name="massi" val="m a s i"/>
-<VALUE name="massively" val="m a s i\ v l i"/>
-<VALUE name="massive" val="m a s i\ v"/>
+<VALUE name="massively" val="m a s i\ w l i"/>
+<VALUE name="massive" val="m a s i\ w"/>
 <VALUE name="mass." val="m a s"/>
 <VALUE name="mass" val="m a s"/>
 <VALUE name="masso" val="m a s @U"/>
@@ -9511,7 +9511,7 @@
 <VALUE name="mer" val="m e r\`"/>
 <VALUE name="mero" val="m e r\` @U"/>
 <VALUE name="mers" val="m a r\` ts"/>
-<VALUE name="merv" val="m a r\` v"/>
+<VALUE name="merv" val="m a r\` w"/>
 <VALUE name="merz" val="m a r\` ts"/>
 <VALUE name="mesa" val="m e :\i s @"/>
 <VALUE name="mesh" val="m e s`"/>
@@ -9791,7 +9791,7 @@
 <VALUE name="morena" val="m o r\` e :\i n @"/>
 <VALUE name="moren" val="m o r\` @ n"/>
 <VALUE name="moreno" val="m o r\` i n @U"/>
-<VALUE name="moreover" val="m o r\` @U v a r\`"/>
+<VALUE name="moreover" val="m o r\` @U w a r\`"/>
 <VALUE name="morera" val="m o r\` e r\` @"/>
 <VALUE name="mores" val="m o r\` e :\i ts"/>
 <VALUE name="moreso" val="m o r\` e s @U"/>
@@ -9821,14 +9821,14 @@
 <VALUE name="motioned" val="m @U s` @ n t"/>
 <VALUE name="motion" val="m @U s` @ n"/>
 <VALUE name="motions" val="m @U s` @ n ts"/>
-<VALUE name="motivated" val="m @U l @ v e :\i l @ t"/>
-<VALUE name="motivate" val="m @U l @ v e :\i th"/>
-<VALUE name="motivates" val="m @U l @ v e :\i th s"/>
-<VALUE name="motivational" val="m @U l @ v e :\i s` @ n @ l"/>
-<VALUE name="motivation" val="m @U l @ v e :\i s` @ n"/>
-<VALUE name="motivations" val="m @U l @ v e :\i s` @ n ts"/>
-<VALUE name="motive" val="m @U l i\ v"/>
-<VALUE name="motives" val="m @U l i\ v ts"/>
+<VALUE name="motivated" val="m @U l @ w e :\i l @ t"/>
+<VALUE name="motivate" val="m @U l @ w e :\i th"/>
+<VALUE name="motivates" val="m @U l @ w e :\i th s"/>
+<VALUE name="motivational" val="m @U l @ w e :\i s` @ n @ l"/>
+<VALUE name="motivation" val="m @U l @ w e :\i s` @ n"/>
+<VALUE name="motivations" val="m @U l @ w e :\i s` @ n ts"/>
+<VALUE name="motive" val="m @U l i\ w"/>
+<VALUE name="motives" val="m @U l i\ w ts"/>
 <VALUE name="motoren" val="m @U l a r\` @ n"/>
 <VALUE name="motor" val="m @U l a r\`"/>
 <VALUE name="motor's" val="m @U l a r\` ts"/>
@@ -9849,17 +9849,17 @@
 <VALUE name="mouth" val="m AU s"/>
 <VALUE name="mouths" val="m AU t ts"/>
 <VALUE name="mouthy" val="m AU s i"/>
-<VALUE name="moved" val="m u v t"/>
-<VALUE name="movement" val="m u v m @ n th"/>
-<VALUE name="movement's" val="m u v m @ n th s"/>
-<VALUE name="movements" val="m u v m @ n th s"/>
-<VALUE name="move" val="m u v"/>
-<VALUE name="mover" val="m u v a r\`"/>
-<VALUE name="movers" val="m u v a r\` ts"/>
-<VALUE name="moves" val="m u v ts"/>
-<VALUE name="movie" val="m u v i"/>
-<VALUE name="movie's" val="m u v i ts"/>
-<VALUE name="movies" val="m u v i ts"/>
+<VALUE name="moved" val="m u w t"/>
+<VALUE name="movement" val="m u w m @ n th"/>
+<VALUE name="movement's" val="m u w m @ n th s"/>
+<VALUE name="movements" val="m u w m @ n th s"/>
+<VALUE name="move" val="m u w"/>
+<VALUE name="mover" val="m u w a r\`"/>
+<VALUE name="movers" val="m u w a r\` ts"/>
+<VALUE name="moves" val="m u w ts"/>
+<VALUE name="movie" val="m u w i"/>
+<VALUE name="movie's" val="m u w i ts"/>
+<VALUE name="movies" val="m u w i ts"/>
 <VALUE name="mr" val="m i\ s th a r\`"/>
 <VALUE name="ms" val="m i\ ts"/>
 <VALUE name="mt" val="m AU n th"/>
@@ -9946,8 +9946,8 @@
 <VALUE name="name's" val="n e :\i m ts"/>
 <VALUE name="names" val="n e :\i m ts"/>
 <VALUE name="na" val="n A"/>
-<VALUE name="narrative" val="n a r\` @ th i\ v"/>
-<VALUE name="narratives" val="n a r\` @ th i\ v ts"/>
+<VALUE name="narrative" val="n a r\` @ th i\ w"/>
+<VALUE name="narratives" val="n a r\` @ th i\ w ts"/>
 <VALUE name="narrowed" val="n e r\` @U t"/>
 <VALUE name="narrower" val="n e r\` @U a r\`"/>
 <VALUE name="narrowly" val="n e r\` @U l i"/>
@@ -9966,8 +9966,8 @@
 <VALUE name="nations" val="n e :\i s` @ n ts"/>
 <VALUE name="nationwide" val="n e :\i s` @ n w a :\i t"/>
 <VALUE name="nationwide's" val="n e :\i s` @ n w a :\i t ts"/>
-<VALUE name="native" val="n e :\i l i\ v"/>
-<VALUE name="natives" val="n e :\i l i\ v ts"/>
+<VALUE name="native" val="n e :\i l i\ w"/>
+<VALUE name="natives" val="n e :\i l i\ w ts"/>
 <VALUE name="naturally" val="n a ts`h a r\` @ l i"/>
 <VALUE name="natural" val="n a ts`h a r\` @ l"/>
 <VALUE name="natural's" val="n a ts`h a r\` @ l ts"/>
@@ -9975,7 +9975,7 @@
 <VALUE name="nature" val="n e :\i ts`h a r\`"/>
 <VALUE name="nature's" val="n e :\i ts`h a r\` ts"/>
 <VALUE name="natures" val="n e :\i ts`h a r\` ts"/>
-<VALUE name="naval" val="n e :\i v @ l"/>
+<VALUE name="naval" val="n e :\i w @ l"/>
 <VALUE name="'n" val="@ n"/>
 <VALUE name="nearby" val="n i\ r\` p a :\i"/>
 <VALUE name="neared" val="n i\ r\` t"/>
@@ -10003,9 +10003,9 @@
 <VALUE name="need" val="n i t"/>
 <VALUE name="needs" val="n i t ts"/>
 <VALUE name="needy" val="n i t i"/>
-<VALUE name="negatively" val="n e k @ th i\ v l i"/>
-<VALUE name="negative" val="n e k @ th i\ v"/>
-<VALUE name="negatives" val="n e k @ th i\ v ts"/>
+<VALUE name="negatively" val="n e k @ th i\ w l i"/>
+<VALUE name="negative" val="n e k @ th i\ w"/>
+<VALUE name="negatives" val="n e k @ th i\ w ts"/>
 <VALUE name="negotiated" val="n @ k @U s` ie :\i l @ t"/>
 <VALUE name="negotiate" val="n @ k @U s` ie :\i th"/>
 <VALUE name="negotiates" val="n i\ k @U s` ie :\i th s"/>
@@ -10024,10 +10024,10 @@
 <VALUE name="neighbors" val="n e :\i p a r\` ts"/>
 <VALUE name="neither" val="n i t a r\`"/>
 <VALUE name="ne" val="n i"/>
-<VALUE name="nerve" val="n a r\` v"/>
-<VALUE name="nerves" val="n a r\` v ts"/>
-<VALUE name="nervously" val="n a r\` v @ s l i"/>
-<VALUE name="nervous" val="n a r\` v @ s"/>
+<VALUE name="nerve" val="n a r\` w"/>
+<VALUE name="nerves" val="n a r\` w ts"/>
+<VALUE name="nervously" val="n a r\` w @ s l i"/>
+<VALUE name="nervous" val="n a r\` w @ s"/>
 <VALUE name="nesta" val="n e s th @"/>
 <VALUE name="nestea" val="n e s th i @"/>
 <VALUE name="nested" val="n e s th @ t"/>
@@ -10055,9 +10055,9 @@
 <VALUE name="neutrally" val="n u t r\` @ l i"/>
 <VALUE name="neutral" val="n u t r\` @ l"/>
 <VALUE name="neutrals" val="n u t r\` @ l ts"/>
-<VALUE name="never" val="n e v a r\`"/>
-<VALUE name="nevers" val="n e v a r\` ts"/>
-<VALUE name="nevertheless" val="n e v a r\` t @ l e s"/>
+<VALUE name="never" val="n e w a r\`"/>
+<VALUE name="nevers" val="n e w a r\` ts"/>
+<VALUE name="nevertheless" val="n e w a r\` t @ l e s"/>
 <VALUE name="newby" val="n u p i"/>
 <VALUE name="newer" val="n ua r\`"/>
 <VALUE name="newey" val="n u i"/>
@@ -10230,21 +10230,21 @@
 <VALUE name="notz" val="n A th s"/>
 <VALUE name="noun" val="n AU n"/>
 <VALUE name="nous" val="n u s"/>
-<VALUE name="nova" val="n @U v @"/>
-<VALUE name="novella" val="n @U v e l @"/>
-<VALUE name="novelli" val="n @U v e l i"/>
-<VALUE name="novell" val="n @U v e l"/>
-<VALUE name="novello" val="n @U v e l @U"/>
-<VALUE name="novelly" val="n @U v @ l i"/>
-<VALUE name="novel" val="n A v @ l"/>
-<VALUE name="novel's" val="n A v @ l ts"/>
-<VALUE name="novels" val="n A v @ l ts"/>
-<VALUE name="novelty" val="n A v @ l th i"/>
-<VALUE name="novi" val="n @U v i"/>
-<VALUE name="nov" val="n @U v"/>
-<VALUE name="novo" val="n @U v @U"/>
-<VALUE name="novy" val="n @U v i"/>
-<VALUE name="nowak" val="n @U v a kh"/>
+<VALUE name="nova" val="n @U w @"/>
+<VALUE name="novella" val="n @U w e l @"/>
+<VALUE name="novelli" val="n @U w e l i"/>
+<VALUE name="novell" val="n @U w e l"/>
+<VALUE name="novello" val="n @U w e l @U"/>
+<VALUE name="novelly" val="n @U w @ l i"/>
+<VALUE name="novel" val="n A w @ l"/>
+<VALUE name="novel's" val="n A w @ l ts"/>
+<VALUE name="novels" val="n A w @ l ts"/>
+<VALUE name="novelty" val="n A w @ l th i"/>
+<VALUE name="novi" val="n @U w i"/>
+<VALUE name="nov" val="n @U w"/>
+<VALUE name="novo" val="n @U w @U"/>
+<VALUE name="novy" val="n @U w i"/>
+<VALUE name="nowak" val="n @U w a kh"/>
 <VALUE name="nowa" val="n AU @"/>
 <VALUE name="nowhere" val="n @U w e r\`"/>
 <VALUE name="now" val="n AU"/>
@@ -10285,27 +10285,27 @@
 <VALUE name="objection" val="@ p ts` e kh s` @ n"/>
 <VALUE name="objection's" val="@ p ts` e kh s` @ n ts"/>
 <VALUE name="objections" val="@ p ts` e kh s` @ n ts"/>
-<VALUE name="objective" val="@ p ts` e kh th i\ v"/>
-<VALUE name="objectively" val="A p ts` e kh th i\ v l i"/>
-<VALUE name="objectives" val="@ p ts` e kh th i\ v ts"/>
+<VALUE name="objective" val="@ p ts` e kh th i\ w"/>
+<VALUE name="objectively" val="A p ts` e kh th i\ w l i"/>
+<VALUE name="objectives" val="@ p ts` e kh th i\ w ts"/>
 <VALUE name="objector" val="@ p ts` e kh th a r\`"/>
 <VALUE name="objects" val="A p ts` e kh th s"/>
 <VALUE name="obligation" val="A p l @ k e :\i s` @ n"/>
 <VALUE name="obligations" val="A p l @ k e :\i s` @ n ts"/>
-<VALUE name="observation" val="A p ts a r\` v e :\i s` @ n"/>
-<VALUE name="observations" val="A p ts a r\` v e :\i s` @ n ts"/>
-<VALUE name="observe" val="@ p ts a r\` v"/>
-<VALUE name="observed" val="@ p ts a r\` v t"/>
-<VALUE name="observer" val="@ p ts a r\` v a r\`"/>
-<VALUE name="observers" val="@ p ts a r\` v a r\` ts"/>
-<VALUE name="observes" val="@ p ts a r\` v ts"/>
+<VALUE name="observation" val="A p ts a r\` w e :\i s` @ n"/>
+<VALUE name="observations" val="A p ts a r\` w e :\i s` @ n ts"/>
+<VALUE name="observe" val="@ p ts a r\` w"/>
+<VALUE name="observed" val="@ p ts a r\` w t"/>
+<VALUE name="observer" val="@ p ts a r\` w a r\`"/>
+<VALUE name="observers" val="@ p ts a r\` w a r\` ts"/>
+<VALUE name="observes" val="@ p ts a r\` w ts"/>
 <VALUE name="obstacle" val="A p s th @ kh @ l"/>
 <VALUE name="obstacles" val="A p s th @ kh @ l ts"/>
 <VALUE name="obtain" val="@ p th e :\i n"/>
 <VALUE name="obtained" val="@ p th e :\i n t"/>
 <VALUE name="obtains" val="@ p th e :\i n ts"/>
-<VALUE name="obvious" val="A p v i @ s"/>
-<VALUE name="obviously" val="A p v i @ s l i"/>
+<VALUE name="obvious" val="A p w i @ s"/>
+<VALUE name="obviously" val="A p w i @ s l i"/>
 <VALUE name="occasional" val="o kh e :\i z` @ n @ l"/>
 <VALUE name="occasionally" val="o kh e :\i z` @ n @ l i"/>
 <VALUE name="occasion" val="@ kh e :\i z` @ n"/>
@@ -10331,7 +10331,7 @@
 <VALUE name="oddly" val="A t l i"/>
 <VALUE name="odds" val="A t ts"/>
 <VALUE name="oddy" val="A t i"/>
-<VALUE name="of" val="A v"/>
+<VALUE name="of" val="A w"/>
 <VALUE name="ofc" val="@U e f s i"/>
 <VALUE name="ofer" val="@U f a r\`"/>
 <VALUE name="off" val="o f"/>
@@ -10340,9 +10340,9 @@
 <VALUE name="offenders" val="@ f e n t a r\` ts"/>
 <VALUE name="offense" val="@ f e n s"/>
 <VALUE name="offenses" val="@ f e n s i\ ts"/>
-<VALUE name="offensive" val="@ f e n s i\ v"/>
-<VALUE name="offensively" val="@ f e n s i\ v l i"/>
-<VALUE name="offensives" val="@ f e n s i\ v ts"/>
+<VALUE name="offensive" val="@ f e n s i\ w"/>
+<VALUE name="offensively" val="@ f e n s i\ w l i"/>
+<VALUE name="offensives" val="@ f e n s i\ w ts"/>
 <VALUE name="offer" val="o f a r\`"/>
 <VALUE name="offered" val="o f a r\` t"/>
 <VALUE name="offerer" val="o f a r\` a r\`"/>
@@ -10582,7 +10582,7 @@
 <VALUE name="ort" val="o r\` th"/>
 <VALUE name="orth" val="o r\` s"/>
 <VALUE name="orum" val="o r\` @ m"/>
-<VALUE name="orva" val="o r\` v @"/>
+<VALUE name="orva" val="o r\` w @"/>
 <VALUE name="ory" val="o r\` i"/>
 <VALUE name="oryx" val="o r\` i\ kh s"/>
 <VALUE name="os" val="A s"/>
@@ -10596,7 +10596,7 @@
 <VALUE name="ought" val="o th"/>
 <VALUE name="our" val="AU a r\`"/>
 <VALUE name="ours" val="AU a r\` ts"/>
-<VALUE name="ourselves" val="AU a r\` s e l v ts"/>
+<VALUE name="ourselves" val="AU a r\` s e l w ts"/>
 <VALUE name="ourso" val="a r\` s @U"/>
 <VALUE name="out" val="AU th"/>
 <VALUE name="outcome" val="AU th kh A m"/>
@@ -10630,34 +10630,34 @@
 <VALUE name="outstandingly" val="AU th s th a n t i\ N l i"/>
 <VALUE name="outta" val="u l @"/>
 <VALUE name="ou" val="u"/>
-<VALUE name="oven" val="A v @ n"/>
-<VALUE name="ovens" val="A v @ n ts"/>
-<VALUE name="overall" val="@U v a r\` o l"/>
-<VALUE name="overalls" val="@U v a r\` o l ts"/>
-<VALUE name="overby" val="@U v a r\` p i"/>
-<VALUE name="overcome" val="@U v a r\` kh A m"/>
-<VALUE name="overcomes" val="@U v a r\` kh A m ts"/>
-<VALUE name="overdo" val="@U v a r\` t u"/>
-<VALUE name="overlooked" val="@U v a r\` l U kh th"/>
-<VALUE name="overlook" val="@U v a r\` l U kh"/>
-<VALUE name="overlooks" val="@U v a r\` l U kh s"/>
-<VALUE name="overly" val="@U v a r\` l i"/>
-<VALUE name="overnighter" val="@U v a r\` n a :\i l a r\`"/>
-<VALUE name="overnight" val="@U v a r\` n a :\i th"/>
-<VALUE name="over" val="@U v a r\`"/>
-<VALUE name="overseen" val="@U v a r\` s i n"/>
-<VALUE name="oversee" val="@U v a r\` s i"/>
-<VALUE name="overseer" val="@U v a r\` s ia r\`"/>
-<VALUE name="overseers" val="@U v a r\` s ia r\` ts"/>
-<VALUE name="oversees" val="@U v a r\` s i ts"/>
-<VALUE name="overs" val="@U v a r\` ts"/>
-<VALUE name="overt" val="@U v a r\` th"/>
-<VALUE name="overwhelmed" val="@U v a r\` w e l m t"/>
-<VALUE name="overwhelmingly" val="@U v a r\` w e l m i\ N l i"/>
-<VALUE name="overwhelming" val="@U v a r\` w e l m i\ N"/>
-<VALUE name="overwhelm" val="@U v a r\` w e l m"/>
-<VALUE name="overwhelms" val="@U v a r\` w e l m ts"/>
-<VALUE name="overy" val="@U v a r\` i"/>
+<VALUE name="oven" val="A w @ n"/>
+<VALUE name="ovens" val="A w @ n ts"/>
+<VALUE name="overall" val="@U w a r\` o l"/>
+<VALUE name="overalls" val="@U w a r\` o l ts"/>
+<VALUE name="overby" val="@U w a r\` p i"/>
+<VALUE name="overcome" val="@U w a r\` kh A m"/>
+<VALUE name="overcomes" val="@U w a r\` kh A m ts"/>
+<VALUE name="overdo" val="@U w a r\` t u"/>
+<VALUE name="overlooked" val="@U w a r\` l U kh th"/>
+<VALUE name="overlook" val="@U w a r\` l U kh"/>
+<VALUE name="overlooks" val="@U w a r\` l U kh s"/>
+<VALUE name="overly" val="@U w a r\` l i"/>
+<VALUE name="overnighter" val="@U w a r\` n a :\i l a r\`"/>
+<VALUE name="overnight" val="@U w a r\` n a :\i th"/>
+<VALUE name="over" val="@U w a r\`"/>
+<VALUE name="overseen" val="@U w a r\` s i n"/>
+<VALUE name="oversee" val="@U w a r\` s i"/>
+<VALUE name="overseer" val="@U w a r\` s ia r\`"/>
+<VALUE name="overseers" val="@U w a r\` s ia r\` ts"/>
+<VALUE name="oversees" val="@U w a r\` s i ts"/>
+<VALUE name="overs" val="@U w a r\` ts"/>
+<VALUE name="overt" val="@U w a r\` th"/>
+<VALUE name="overwhelmed" val="@U w a r\` w e l m t"/>
+<VALUE name="overwhelmingly" val="@U w a r\` w e l m i\ N l i"/>
+<VALUE name="overwhelming" val="@U w a r\` w e l m i\ N"/>
+<VALUE name="overwhelm" val="@U w a r\` w e l m"/>
+<VALUE name="overwhelms" val="@U w a r\` w e l m ts"/>
+<VALUE name="overy" val="@U w a r\` i"/>
 <VALUE name="owed" val="@U t"/>
 <VALUE name="owen" val="@U @ n"/>
 <VALUE name="owens" val="@U @ n ts"/>
@@ -11036,9 +11036,9 @@
 <VALUE name="peppers" val="ph e ph a r\` ts"/>
 <VALUE name="pera" val="ph a r\` @"/>
 <VALUE name="peras" val="ph e r\` @ s"/>
-<VALUE name="perceived" val="ph a r\` s i v t"/>
-<VALUE name="perceive" val="ph a r\` s i v"/>
-<VALUE name="perceives" val="ph a r\` s i v ts"/>
+<VALUE name="perceived" val="ph a r\` s i w t"/>
+<VALUE name="perceive" val="ph a r\` s i w"/>
+<VALUE name="perceives" val="ph a r\` s i w ts"/>
 <VALUE name="percentage" val="ph a r\` s e n th @ ts`"/>
 <VALUE name="percentages" val="ph a r\` s e n th i\ ts` i\ ts"/>
 <VALUE name="perce" val="ph a r\` s"/>
@@ -11114,8 +11114,8 @@
 <VALUE name="person" val="ph a r\` s @ n"/>
 <VALUE name="person's" val="ph a r\` s @ n ts"/>
 <VALUE name="persons" val="ph a r\` s @ n ts"/>
-<VALUE name="perspective" val="ph a r\` s ph e kh th i\ v"/>
-<VALUE name="perspectives" val="ph a r\` s ph e kh th i\ v ts"/>
+<VALUE name="perspective" val="ph a r\` s ph e kh th i\ w"/>
+<VALUE name="perspectives" val="ph a r\` s ph e kh th i\ w ts"/>
 <VALUE name="pers" val="ph a r\` s"/>
 <VALUE name="persuaded" val="ph a r\` s w e :\i l @ t"/>
 <VALUE name="persuade" val="ph a r\` s w e :\i t"/>
@@ -11515,7 +11515,7 @@
 <VALUE name="popes" val="ph @U ph ts"/>
 <VALUE name="popik" val="ph @U ph i\ kh"/>
 <VALUE name="popko" val="ph @U ph kh @U"/>
-<VALUE name="popov" val="ph @U ph @ v"/>
+<VALUE name="popov" val="ph @U ph @ w"/>
 <VALUE name="po" val="ph @U"/>
 <VALUE name="pop" val="ph A ph"/>
 <VALUE name="poppa" val="ph A ph @"/>
@@ -11573,9 +11573,9 @@
 <VALUE name="positioned" val="ph @ ts i\ s` @ n t"/>
 <VALUE name="position" val="ph @ ts i\ s` @ n"/>
 <VALUE name="positions" val="ph @ ts i\ s` @ n ts"/>
-<VALUE name="positively" val="ph A ts @ th i\ v l i"/>
-<VALUE name="positive" val="ph A ts @ th i\ v"/>
-<VALUE name="positives" val="ph A ts @ th i\ v ts"/>
+<VALUE name="positively" val="ph A ts @ th i\ w l i"/>
+<VALUE name="positive" val="ph A ts @ th i\ w"/>
+<VALUE name="positives" val="ph A ts @ th i\ w ts"/>
 <VALUE name="possessed" val="ph @ ts e s th"/>
 <VALUE name="possesses" val="ph @ ts e s @ ts"/>
 <VALUE name="possession" val="ph @ ts e s` @ n"/>
@@ -11622,7 +11622,7 @@
 <VALUE name="poured" val="ph o r\` t"/>
 <VALUE name="pour" val="ph o r\`"/>
 <VALUE name="pours" val="ph o r\` ts"/>
-<VALUE name="poverty" val="ph A v a r\` th i"/>
+<VALUE name="poverty" val="ph A w a r\` th i"/>
 <VALUE name="powdered" val="ph AU l a r\` t"/>
 <VALUE name="powderly" val="ph AU l a r\` l i"/>
 <VALUE name="powder" val="ph AU l a r\`"/>
@@ -11702,11 +11702,11 @@
 <VALUE name="presently" val="ph r\` e ts @ n th l i"/>
 <VALUE name="present" val="ph r\` e ts @ n th"/>
 <VALUE name="presents" val="ph r\` e ts @ n th s"/>
-<VALUE name="preserved" val="ph r\` @ ts a r\` v t"/>
-<VALUE name="preserve" val="ph r\` @ ts a r\` v"/>
-<VALUE name="preserver" val="ph r\` i ts a r\` v a r\`"/>
-<VALUE name="preservers" val="ph r\` i ts a r\` v a r\` ts"/>
-<VALUE name="preserves" val="ph r\` @ ts a r\` v ts"/>
+<VALUE name="preserved" val="ph r\` @ ts a r\` w t"/>
+<VALUE name="preserve" val="ph r\` @ ts a r\` w"/>
+<VALUE name="preserver" val="ph r\` i ts a r\` w a r\`"/>
+<VALUE name="preservers" val="ph r\` i ts a r\` w a r\` ts"/>
+<VALUE name="preserves" val="ph r\` @ ts a r\` w ts"/>
 <VALUE name="presidency" val="ph r\` e ts i\ t @ n s i"/>
 <VALUE name="presidency's" val="ph r\` e ts i\ t @ n s i ts"/>
 <VALUE name="presidentially" val="ph r\` e ts i\ t e n s` @ l i"/>
@@ -11737,15 +11737,15 @@
 <VALUE name="pretend" val="ph r\` i th e n t"/>
 <VALUE name="pretends" val="ph r\` i th e n t ts"/>
 <VALUE name="pretty" val="ph r\` i\ l i"/>
-<VALUE name="prevailed" val="ph r\` i\ v e :\i l t"/>
-<VALUE name="prevail" val="ph r\` i\ v e :\i l"/>
-<VALUE name="prevails" val="ph r\` i\ v e :\i l ts"/>
-<VALUE name="prevented" val="ph r\` i\ v e n th i\ t"/>
-<VALUE name="prevention" val="ph r\` i v e n s` @ n"/>
-<VALUE name="prevent" val="ph r\` i\ v e n th"/>
-<VALUE name="prevents" val="ph r\` i\ v e n th s"/>
-<VALUE name="previously" val="ph r\` i v i @ s l i"/>
-<VALUE name="previous" val="ph r\` i v i @ s"/>
+<VALUE name="prevailed" val="ph r\` i\ w e :\i l t"/>
+<VALUE name="prevail" val="ph r\` i\ w e :\i l"/>
+<VALUE name="prevails" val="ph r\` i\ w e :\i l ts"/>
+<VALUE name="prevented" val="ph r\` i\ w e n th i\ t"/>
+<VALUE name="prevention" val="ph r\` i w e n s` @ n"/>
+<VALUE name="prevent" val="ph r\` i\ w e n th"/>
+<VALUE name="prevents" val="ph r\` i\ w e n th s"/>
+<VALUE name="previously" val="ph r\` i w i @ s l i"/>
+<VALUE name="previous" val="ph r\` i w i @ s"/>
 <VALUE name="priced" val="ph r\` a :\i s th"/>
 <VALUE name="price" val="ph r\` a :\i s"/>
 <VALUE name="pricer" val="ph r\` a :\i s a r\`"/>
@@ -11798,13 +11798,13 @@
 <VALUE name="prison" val="ph r\` i\ ts @ n"/>
 <VALUE name="prison's" val="ph r\` i\ ts @ n ts"/>
 <VALUE name="prisons" val="ph r\` i\ ts @ n ts"/>
-<VALUE name="privacy" val="ph r\` a :\i v @ s i"/>
-<VALUE name="privately" val="ph r\` a :\i v @ th l i"/>
-<VALUE name="private" val="ph r\` a :\i v @ th"/>
-<VALUE name="privates" val="ph r\` a :\i v @ th s"/>
-<VALUE name="privileged" val="ph r\` i\ v i\ l i\ ts` t"/>
-<VALUE name="privilege" val="ph r\` i\ v i\ l i\ ts`"/>
-<VALUE name="privileges" val="ph r\` i\ v i\ l i\ ts` i\ ts"/>
+<VALUE name="privacy" val="ph r\` a :\i w @ s i"/>
+<VALUE name="privately" val="ph r\` a :\i w @ th l i"/>
+<VALUE name="private" val="ph r\` a :\i w @ th"/>
+<VALUE name="privates" val="ph r\` a :\i w @ th s"/>
+<VALUE name="privileged" val="ph r\` i\ w i\ l i\ ts` t"/>
+<VALUE name="privilege" val="ph r\` i\ w i\ l i\ ts`"/>
+<VALUE name="privileges" val="ph r\` i\ w i\ l i\ ts` i\ ts"/>
 <VALUE name="prized" val="ph r\` a :\i ts t"/>
 <VALUE name="prize" val="ph r\` a :\i ts"/>
 <VALUE name="prizes" val="ph r\` a :\i ts @ ts"/>
@@ -11846,9 +11846,9 @@
 <VALUE name="productions'" val="ph r\` @ t A kh s` @ n ts"/>
 <VALUE name="productions" val="ph r\` @ t A kh s` @ n ts"/>
 <VALUE name="production's" val="ph r\` @U t A kh s` @ n ts"/>
-<VALUE name="productively" val="ph r\` @ t A kh th i\ v l i"/>
-<VALUE name="productive" val="ph r\` @ t A kh th i\ v"/>
-<VALUE name="productivity" val="ph r\` @U l @ kh th i\ v @ th i"/>
+<VALUE name="productively" val="ph r\` @ t A kh th i\ w l i"/>
+<VALUE name="productive" val="ph r\` @ t A kh th i\ w"/>
+<VALUE name="productivity" val="ph r\` @U l @ kh th i\ w @ th i"/>
 <VALUE name="product" val="ph r\` A l @ kh th"/>
 <VALUE name="product's" val="ph r\` A l @ kh th s"/>
 <VALUE name="products" val="ph r\` A l @ kh th s"/>
@@ -11884,9 +11884,9 @@
 <VALUE name="programs" val="ph r\` @U k r\` a m ts"/>
 <VALUE name="progressed" val="ph r\` @ k r\` e s th"/>
 <VALUE name="progresses" val="ph r\` A k r\` e s @ ts"/>
-<VALUE name="progressively" val="ph r\` A k r\` e s i\ v l i"/>
-<VALUE name="progressive" val="ph r\` @ k r\` e s i\ v"/>
-<VALUE name="progressives" val="ph r\` A k r\` e s i\ v ts"/>
+<VALUE name="progressively" val="ph r\` A k r\` e s i\ w l i"/>
+<VALUE name="progressive" val="ph r\` @ k r\` e s i\ w"/>
+<VALUE name="progressives" val="ph r\` A k r\` e s i\ w ts"/>
 <VALUE name="progress" val="ph r\` A k r\` e s"/>
 <VALUE name="prohibited" val="ph r\` @U x i\ p @ th @ t"/>
 <VALUE name="prohibit" val="ph r\` @U x i\ p @ th"/>
@@ -11965,8 +11965,8 @@
 <VALUE name="protectee" val="ph r\` @ th e kh th i"/>
 <VALUE name="protection" val="ph r\` @ th e kh s` @ n"/>
 <VALUE name="protections" val="ph r\` @ th e kh s` @ n ts"/>
-<VALUE name="protectively" val="ph r\` @ th e kh th i\ v l i"/>
-<VALUE name="protective" val="ph r\` @ th e kh th i\ v"/>
+<VALUE name="protectively" val="ph r\` @ th e kh th i\ w l i"/>
+<VALUE name="protective" val="ph r\` @ th e kh th i\ w"/>
 <VALUE name="protector" val="ph r\` @ th e kh th a r\`"/>
 <VALUE name="protect" val="ph r\` @ th e kh th"/>
 <VALUE name="protects" val="ph r\` @ th e kh th s"/>
@@ -11985,28 +11985,28 @@
 <VALUE name="proudly" val="ph r\` AU t l i"/>
 <VALUE name="proud" val="ph r\` AU t"/>
 <VALUE name="prout" val="ph r\` AU th"/>
-<VALUE name="proved" val="ph r\` u v t"/>
-<VALUE name="proven" val="ph r\` u v @ n"/>
-<VALUE name="prove" val="ph r\` u v"/>
-<VALUE name="provera" val="ph r\` @U v e r\` @"/>
-<VALUE name="proverb" val="ph r\` A v a r\` p"/>
-<VALUE name="proves" val="ph r\` u v ts"/>
-<VALUE name="provided" val="ph r\` @ v a :\i l @ t"/>
-<VALUE name="provident" val="ph r\` A v i\ t @ n th"/>
-<VALUE name="provide" val="ph r\` @ v a :\i t"/>
-<VALUE name="provider" val="ph r\` @ v a :\i l a r\`"/>
-<VALUE name="providers" val="ph r\` @ v a :\i l a r\` ts"/>
-<VALUE name="provides" val="ph r\` @ v a :\i t ts"/>
-<VALUE name="province" val="ph r\` A v @ n s"/>
-<VALUE name="provinces" val="ph r\` A v @ n s @ ts"/>
-<VALUE name="province's" val="ph r\` A v @ n s i\ ts"/>
-<VALUE name="provisional" val="ph r\` @ v i\ z` @ n @ l"/>
-<VALUE name="provision" val="ph r\` @ v i\ z` @ n"/>
-<VALUE name="provisions" val="ph r\` @ v i\ z` @ n ts"/>
-<VALUE name="provoked" val="ph r\` @ v @U kh th"/>
-<VALUE name="provoke" val="ph r\` @ v @U kh"/>
-<VALUE name="provokes" val="ph r\` @ v @U kh s"/>
-<VALUE name="provo" val="ph r\` @U v @U"/>
+<VALUE name="proved" val="ph r\` u w t"/>
+<VALUE name="proven" val="ph r\` u w @ n"/>
+<VALUE name="prove" val="ph r\` u w"/>
+<VALUE name="provera" val="ph r\` @U w e r\` @"/>
+<VALUE name="proverb" val="ph r\` A w a r\` p"/>
+<VALUE name="proves" val="ph r\` u w ts"/>
+<VALUE name="provided" val="ph r\` @ w a :\i l @ t"/>
+<VALUE name="provident" val="ph r\` A w i\ t @ n th"/>
+<VALUE name="provide" val="ph r\` @ w a :\i t"/>
+<VALUE name="provider" val="ph r\` @ w a :\i l a r\`"/>
+<VALUE name="providers" val="ph r\` @ w a :\i l a r\` ts"/>
+<VALUE name="provides" val="ph r\` @ w a :\i t ts"/>
+<VALUE name="province" val="ph r\` A w @ n s"/>
+<VALUE name="provinces" val="ph r\` A w @ n s @ ts"/>
+<VALUE name="province's" val="ph r\` A w @ n s i\ ts"/>
+<VALUE name="provisional" val="ph r\` @ w i\ z` @ n @ l"/>
+<VALUE name="provision" val="ph r\` @ w i\ z` @ n"/>
+<VALUE name="provisions" val="ph r\` @ w i\ z` @ n ts"/>
+<VALUE name="provoked" val="ph r\` @ w @U kh th"/>
+<VALUE name="provoke" val="ph r\` @ w @U kh"/>
+<VALUE name="provokes" val="ph r\` @ w @U kh s"/>
+<VALUE name="provo" val="ph r\` @U w @U"/>
 <VALUE name="prowl" val="ph r\` AU l"/>
 <VALUE name="prow" val="ph r\` AU"/>
 <VALUE name="prows" val="ph r\` AU ts"/>
@@ -12361,11 +12361,11 @@
 <VALUE name="recalled" val="r\` i\ kh o l t"/>
 <VALUE name="recall" val="r\` i kh o l"/>
 <VALUE name="recalls" val="r\` i kh o l ts"/>
-<VALUE name="received" val="r\` @ s i v t"/>
-<VALUE name="receive" val="r\` i s i v"/>
-<VALUE name="receiver" val="r\` @ s i v a r\`"/>
-<VALUE name="receivers" val="r\` @ s i v a r\` ts"/>
-<VALUE name="receives" val="r\` @ s i v ts"/>
+<VALUE name="received" val="r\` @ s i w t"/>
+<VALUE name="receive" val="r\` i s i w"/>
+<VALUE name="receiver" val="r\` @ s i w a r\`"/>
+<VALUE name="receivers" val="r\` @ s i w a r\` ts"/>
+<VALUE name="receives" val="r\` @ s i w ts"/>
 <VALUE name="recently" val="r\` i s @ n th l i"/>
 <VALUE name="recent" val="r\` i s @ n th"/>
 <VALUE name="reception" val="r\` i\ s e ph s` @ n"/>
@@ -12401,11 +12401,11 @@
 <VALUE name="record's" val="r\` e kh a r\` t ts"/>
 <VALUE name="records'" val="r\` e kh a r\` t ts"/>
 <VALUE name="reco" val="r\` e kh @U"/>
-<VALUE name="recovered" val="r\` @ kh A v a r\` t"/>
-<VALUE name="recover" val="r\` i\ kh A v a r\`"/>
-<VALUE name="recovers" val="r\` i\ kh A v a r\` ts"/>
-<VALUE name="recovery" val="r\` i\ kh A v r\` i"/>
-<VALUE name="recovery's" val="r\` i\ kh A v a r\` i ts"/>
+<VALUE name="recovered" val="r\` @ kh A w a r\` t"/>
+<VALUE name="recover" val="r\` i\ kh A w a r\`"/>
+<VALUE name="recovers" val="r\` i\ kh A w a r\` ts"/>
+<VALUE name="recovery" val="r\` i\ kh A w r\` i"/>
+<VALUE name="recovery's" val="r\` i\ kh A w a r\` i ts"/>
 <VALUE name="rec" val="r\` e kh"/>
 <VALUE name="recruited" val="r\` i\ kh r\` u l i\ t"/>
 <VALUE name="recruiter" val="r\` i\ kh r\` u l a r\`"/>
@@ -12544,27 +12544,27 @@
 <VALUE name="relationship" val="r\` i l e :\i s` @ n s` i\ ph"/>
 <VALUE name="relationships" val="r\` i l e :\i s` @ n s` i\ ph s"/>
 <VALUE name="relations" val="r\` i l e :\i s` @ n ts"/>
-<VALUE name="relatively" val="r\` e l @ th i\ v l i"/>
-<VALUE name="relative" val="r\` e l @ th i\ v"/>
-<VALUE name="relative's" val="r\` e l @ th i\ v ts"/>
-<VALUE name="relatives" val="r\` e l @ th i\ v ts"/>
+<VALUE name="relatively" val="r\` e l @ th i\ w l i"/>
+<VALUE name="relative" val="r\` e l @ th i\ w"/>
+<VALUE name="relative's" val="r\` e l @ th i\ w ts"/>
+<VALUE name="relatives" val="r\` e l @ th i\ w ts"/>
 <VALUE name="relaxed" val="r\` i\ l a kh s th"/>
 <VALUE name="relaxes" val="r\` i\ l a kh s i\ ts"/>
 <VALUE name="relax" val="r\` i\ l a kh s"/>
 <VALUE name="released" val="r\` i l i s th"/>
 <VALUE name="release" val="r\` i l i s"/>
 <VALUE name="releases" val="r\` i\ l i s i\ ts"/>
-<VALUE name="relevant" val="r\` e l @ v @ n th"/>
+<VALUE name="relevant" val="r\` e l @ w @ n th"/>
 <VALUE name="relf" val="r\` e l f"/>
 <VALUE name="reliability" val="r\` i l a :\i @ p i\ l @ th i"/>
 <VALUE name="reliable" val="r\` i\ l a :\i @ p @ l"/>
 <VALUE name="relief" val="r\` i\ l i f"/>
 <VALUE name="reliefs" val="r\` i l i f s"/>
-<VALUE name="relieved" val="r\` i\ l i v t"/>
-<VALUE name="relieve" val="r\` i\ l i v"/>
-<VALUE name="reliever" val="r\` i l i v a r\`"/>
-<VALUE name="relievers" val="r\` i l i v a r\` ts"/>
-<VALUE name="relieves" val="r\` i l i v ts"/>
+<VALUE name="relieved" val="r\` i\ l i w t"/>
+<VALUE name="relieve" val="r\` i\ l i w"/>
+<VALUE name="reliever" val="r\` i l i w a r\`"/>
+<VALUE name="relievers" val="r\` i l i w a r\` ts"/>
+<VALUE name="relieves" val="r\` i l i w ts"/>
 <VALUE name="religione" val="r\` i\ l i\ ts` i@U n i"/>
 <VALUE name="religion" val="r\` i\ l i\ ts` @ n"/>
 <VALUE name="religion's" val="r\` i\ l i\ ts` @ n ts"/>
@@ -12598,12 +12598,12 @@
 <VALUE name="remotely" val="r\` i m @U th l i"/>
 <VALUE name="remote" val="r\` i\ m @U th"/>
 <VALUE name="remotest" val="r\` i\ m @U l @ s th"/>
-<VALUE name="removal" val="r\` i\ m u v @ l"/>
-<VALUE name="removals" val="r\` i\ m u v @ l ts"/>
-<VALUE name="removed" val="r\` i m u v t"/>
-<VALUE name="remove" val="r\` i m u v"/>
-<VALUE name="remover" val="r\` i\ m u v a r\`"/>
-<VALUE name="removes" val="r\` i m u v ts"/>
+<VALUE name="removal" val="r\` i\ m u w @ l"/>
+<VALUE name="removals" val="r\` i\ m u w @ l ts"/>
+<VALUE name="removed" val="r\` i m u w t"/>
+<VALUE name="remove" val="r\` i m u w"/>
+<VALUE name="remover" val="r\` i\ m u w a r\`"/>
+<VALUE name="removes" val="r\` i m u w ts"/>
 <VALUE name="rem" val="r\` e m"/>
 <VALUE name="remy" val="r\` e m i"/>
 <VALUE name="rena" val="r\` i n @"/>
@@ -12658,14 +12658,14 @@
 <VALUE name="report's" val="r\` i ph o r\` th s"/>
 <VALUE name="repp" val="r\` e ph"/>
 <VALUE name="rep" val="r\` e ph"/>
-<VALUE name="rep." val="r\` e ph r\` i ts e l @ th i\ v"/>
+<VALUE name="rep." val="r\` e ph r\` i ts e l @ th i\ w"/>
 <VALUE name="representational" val="r\` e ph r\` @ ts @ n th e :\i s` @ n @ l"/>
 <VALUE name="representation" val="r\` e ph r\` @ ts e n th e :\i s` @ n"/>
 <VALUE name="representations" val="r\` e ph r\` @ ts @ n th e :\i s` @ n ts"/>
-<VALUE name="representative" val="r\` e ph r\` @ ts e n th @ th i\ v"/>
-<VALUE name="representatives'" val="r\` e ph r\` @ s e n th @ th i\ v ts"/>
-<VALUE name="representatives" val="r\` e ph r\` @ ts e n th @ th i\ v ts"/>
-<VALUE name="representative's" val="r\` e ph r\` i\ ts e n th @ th i\ v ts"/>
+<VALUE name="representative" val="r\` e ph r\` @ ts e n th @ th i\ w"/>
+<VALUE name="representatives'" val="r\` e ph r\` @ s e n th @ th i\ w ts"/>
+<VALUE name="representatives" val="r\` e ph r\` @ ts e n th @ th i\ w ts"/>
+<VALUE name="representative's" val="r\` e ph r\` i\ ts e n th @ th i\ w ts"/>
 <VALUE name="represented" val="r\` e ph r\` @ ts e n th @ t"/>
 <VALUE name="represent" val="r\` e ph r\` @ ts e n th"/>
 <VALUE name="represents" val="r\` e ph r\` @ ts e n th s"/>
@@ -12706,12 +12706,12 @@
 <VALUE name="resembled" val="r\` i\ ts e m p @ l t"/>
 <VALUE name="resemble" val="r\` i\ ts e m p @ l"/>
 <VALUE name="resembles" val="r\` i\ ts e m p @ l ts"/>
-<VALUE name="reservation" val="r\` e ts a r\` v e :\i s` @ n"/>
-<VALUE name="reservations" val="r\` e ts a r\` v e :\i s` @ n ts"/>
-<VALUE name="reserved" val="r\` i\ ts a r\` v t"/>
-<VALUE name="reserve" val="r\` i\ ts a r\` v"/>
-<VALUE name="reserve's" val="r\` i\ ts a r\` v ts"/>
-<VALUE name="reserves" val="r\` i\ ts a r\` v ts"/>
+<VALUE name="reservation" val="r\` e ts a r\` w e :\i s` @ n"/>
+<VALUE name="reservations" val="r\` e ts a r\` w e :\i s` @ n ts"/>
+<VALUE name="reserved" val="r\` i\ ts a r\` w t"/>
+<VALUE name="reserve" val="r\` i\ ts a r\` w"/>
+<VALUE name="reserve's" val="r\` i\ ts a r\` w ts"/>
+<VALUE name="reserves" val="r\` i\ ts a r\` w ts"/>
 <VALUE name="resh" val="r\` e s`"/>
 <VALUE name="residence" val="r\` e ts i\ t @ n s"/>
 <VALUE name="residences" val="r\` e ts i\ t @ n s i\ ts"/>
@@ -12731,9 +12731,9 @@
 <VALUE name="resolution" val="r\` e ts @ l u s` @ n"/>
 <VALUE name="resolution's" val="r\` e ts @ l u s` @ n ts"/>
 <VALUE name="resolutions" val="r\` e ts @ l u s` @ n ts"/>
-<VALUE name="resolved" val="r\` i ts A l v t"/>
-<VALUE name="resolve" val="r\` i ts A l v"/>
-<VALUE name="resolves" val="r\` i ts A l v ts"/>
+<VALUE name="resolved" val="r\` i ts A l w t"/>
+<VALUE name="resolve" val="r\` i ts A l w"/>
+<VALUE name="resolves" val="r\` i ts A l w ts"/>
 <VALUE name="reso" val="r\` i\ ts @U"/>
 <VALUE name="resorted" val="r\` i\ ts o r\` th i\ t"/>
 <VALUE name="resort" val="r\` i\ ts o r\` th"/>
@@ -12744,7 +12744,7 @@
 <VALUE name="resources'" val="r\` i s o r\` s i\ ts"/>
 <VALUE name="resources" val="r\` i s o r\` s i\ ts"/>
 <VALUE name="respected" val="r\` i\ s ph e kh th i\ t"/>
-<VALUE name="respectively" val="r\` i\ s ph e kh th i\ v l i"/>
+<VALUE name="respectively" val="r\` i\ s ph e kh th i\ w l i"/>
 <VALUE name="respect" val="r\` i\ s ph e kh th"/>
 <VALUE name="respects" val="r\` i\ s ph e kh th s"/>
 <VALUE name="responded" val="r\` i\ s ph A n t i\ t"/>
@@ -12820,32 +12820,32 @@
 <VALUE name="retz" val="r\` e th s"/>
 <VALUE name="reul" val="r\` u l"/>
 <VALUE name="reum" val="r\` i @ m"/>
-<VALUE name="reva" val="r\` e :\i v @"/>
-<VALUE name="revealed" val="r\` i\ v i l t"/>
-<VALUE name="reveal" val="r\` i\ v i l"/>
-<VALUE name="reveals" val="r\` i\ v i l ts"/>
-<VALUE name="revelation" val="r\` e v @ l e :\i s` @ n"/>
-<VALUE name="revelations" val="r\` e v @ l e :\i s` @ n ts"/>
-<VALUE name="revenue" val="r\` e v @ n u"/>
-<VALUE name="revenuer" val="r\` e v @ n ua r\`"/>
-<VALUE name="revenuers" val="r\` e v @ n ua r\` ts"/>
-<VALUE name="revenues" val="r\` e v @ n u ts"/>
-<VALUE name="reversed" val="r\` i\ v a r\` s th"/>
-<VALUE name="reverse" val="r\` i\ v a r\` s"/>
-<VALUE name="reverser" val="r\` i\ v a r\` s a r\`"/>
-<VALUE name="reversers" val="r\` i\ v a r\` s a r\` ts"/>
-<VALUE name="reverses" val="r\` i\ v a r\` s i\ ts"/>
-<VALUE name="reviewed" val="r\` i v j u t"/>
-<VALUE name="reviewer" val="r\` i v j ua r\`"/>
-<VALUE name="review" val="r\` i v j u"/>
-<VALUE name="review's" val="r\` i v j u ts"/>
-<VALUE name="reviews" val="r\` i v j u ts"/>
-<VALUE name="revolutionary" val="r\` e v @ l u s` @ n e r\` i"/>
-<VALUE name="revolution" val="r\` e v @ l u s` @ n"/>
-<VALUE name="revolution's" val="r\` e v @ l u s` @ n ts"/>
-<VALUE name="revolutions" val="r\` e v @ l u s` @ n ts"/>
-<VALUE name="rev" val="r\` e v"/>
-<VALUE name="revs" val="r\` e v ts"/>
+<VALUE name="reva" val="r\` e :\i w @"/>
+<VALUE name="revealed" val="r\` i\ w i l t"/>
+<VALUE name="reveal" val="r\` i\ w i l"/>
+<VALUE name="reveals" val="r\` i\ w i l ts"/>
+<VALUE name="revelation" val="r\` e w @ l e :\i s` @ n"/>
+<VALUE name="revelations" val="r\` e w @ l e :\i s` @ n ts"/>
+<VALUE name="revenue" val="r\` e w @ n u"/>
+<VALUE name="revenuer" val="r\` e w @ n ua r\`"/>
+<VALUE name="revenuers" val="r\` e w @ n ua r\` ts"/>
+<VALUE name="revenues" val="r\` e w @ n u ts"/>
+<VALUE name="reversed" val="r\` i\ w a r\` s th"/>
+<VALUE name="reverse" val="r\` i\ w a r\` s"/>
+<VALUE name="reverser" val="r\` i\ w a r\` s a r\`"/>
+<VALUE name="reversers" val="r\` i\ w a r\` s a r\` ts"/>
+<VALUE name="reverses" val="r\` i\ w a r\` s i\ ts"/>
+<VALUE name="reviewed" val="r\` i w j u t"/>
+<VALUE name="reviewer" val="r\` i w j ua r\`"/>
+<VALUE name="review" val="r\` i w j u"/>
+<VALUE name="review's" val="r\` i w j u ts"/>
+<VALUE name="reviews" val="r\` i w j u ts"/>
+<VALUE name="revolutionary" val="r\` e w @ l u s` @ n e r\` i"/>
+<VALUE name="revolution" val="r\` e w @ l u s` @ n"/>
+<VALUE name="revolution's" val="r\` e w @ l u s` @ n ts"/>
+<VALUE name="revolutions" val="r\` e w @ l u s` @ n ts"/>
+<VALUE name="rev" val="r\` e w"/>
+<VALUE name="revs" val="r\` e w ts"/>
 <VALUE name="rewarded" val="r\` i\ w o r\` t i\ t"/>
 <VALUE name="reward" val="r\` i\ w o r\` t"/>
 <VALUE name="rewards" val="r\` i\ w o r\` t ts"/>
@@ -12955,18 +12955,18 @@
 <VALUE name="risky" val="r\` i\ s kh i"/>
 <VALUE name="ritual" val="r\` i\ ts`h u@ l"/>
 <VALUE name="rituals" val="r\` i\ ts`h u@ l ts"/>
-<VALUE name="rivaled" val="r\` a :\i v @ l t"/>
-<VALUE name="rival" val="r\` a :\i v @ l"/>
-<VALUE name="rivalry" val="r\` a :\i v @ l r\` i"/>
-<VALUE name="rival's" val="r\` a :\i v @ l ts"/>
-<VALUE name="rivals'" val="r\` a :\i v @ l ts"/>
-<VALUE name="rivals" val="r\` a :\i v @ l ts"/>
-<VALUE name="rivera" val="r\` i\ v e r\` @"/>
-<VALUE name="rivero" val="r\` i v e r\` @U"/>
-<VALUE name="river" val="r\` i\ v a r\`"/>
-<VALUE name="riverso" val="r\` i\ v a r\` s @U"/>
-<VALUE name="river's" val="r\` i\ v a r\` ts"/>
-<VALUE name="rivers" val="r\` i\ v a r\` ts"/>
+<VALUE name="rivaled" val="r\` a :\i w @ l t"/>
+<VALUE name="rival" val="r\` a :\i w @ l"/>
+<VALUE name="rivalry" val="r\` a :\i w @ l r\` i"/>
+<VALUE name="rival's" val="r\` a :\i w @ l ts"/>
+<VALUE name="rivals'" val="r\` a :\i w @ l ts"/>
+<VALUE name="rivals" val="r\` a :\i w @ l ts"/>
+<VALUE name="rivera" val="r\` i\ w e r\` @"/>
+<VALUE name="rivero" val="r\` i w e r\` @U"/>
+<VALUE name="river" val="r\` i\ w a r\`"/>
+<VALUE name="riverso" val="r\` i\ w a r\` s @U"/>
+<VALUE name="river's" val="r\` i\ w a r\` ts"/>
+<VALUE name="rivers" val="r\` i\ w a r\` ts"/>
 <VALUE name="roades" val="r\` @U t ts"/>
 <VALUE name="roadie" val="r\` @U t i"/>
 <VALUE name="road" val="r\` @U t"/>
@@ -13300,19 +13300,19 @@
 <VALUE name="saucers" val="s o s a r\` ts"/>
 <VALUE name="sauce" val="s o s"/>
 <VALUE name="sauces" val="s o s @ ts"/>
-<VALUE name="saved" val="s e :\i v t"/>
-<VALUE name="savell" val="s A v e :\i l"/>
-<VALUE name="savel" val="s A v e l"/>
-<VALUE name="savely" val="s e :\i v l i"/>
-<VALUE name="saver" val="s e :\i v a r\`"/>
-<VALUE name="savers" val="s e :\i v a r\` ts"/>
-<VALUE name="savery" val="s e :\i v a r\` i"/>
-<VALUE name="save" val="s e :\i v"/>
-<VALUE name="save's" val="s e :\i v ts"/>
-<VALUE name="saves" val="s e :\i v ts"/>
-<VALUE name="saving" val="s e :\i v i\ N"/>
-<VALUE name="savings'" val="s e :\i v i\ N ts"/>
-<VALUE name="savings" val="s e :\i v i\ N ts"/>
+<VALUE name="saved" val="s e :\i w t"/>
+<VALUE name="savell" val="s A w e :\i l"/>
+<VALUE name="savel" val="s A w e l"/>
+<VALUE name="savely" val="s e :\i w l i"/>
+<VALUE name="saver" val="s e :\i w a r\`"/>
+<VALUE name="savers" val="s e :\i w a r\` ts"/>
+<VALUE name="savery" val="s e :\i w a r\` i"/>
+<VALUE name="save" val="s e :\i w"/>
+<VALUE name="save's" val="s e :\i w ts"/>
+<VALUE name="saves" val="s e :\i w ts"/>
+<VALUE name="saving" val="s e :\i w i\ N"/>
+<VALUE name="savings'" val="s e :\i w i\ N ts"/>
+<VALUE name="savings" val="s e :\i w i\ N ts"/>
 <VALUE name="sayad" val="s a :\i a t"/>
 <VALUE name="sayed" val="s A j e t"/>
 <VALUE name="sayer" val="s e :\i a r\`"/>
@@ -13568,9 +13568,9 @@
 <VALUE name="sensei" val="s e n s e :\i"/>
 <VALUE name="sense" val="s e n s"/>
 <VALUE name="senses" val="s e n s i\ ts"/>
-<VALUE name="sensitively" val="s e n s i\ th i\ v l i"/>
-<VALUE name="sensitive" val="s e n s @ th i\ v"/>
-<VALUE name="sensitivity" val="s e n s i\ th i\ v i\ th i"/>
+<VALUE name="sensitively" val="s e n s i\ th i\ w l i"/>
+<VALUE name="sensitive" val="s e n s @ th i\ w"/>
+<VALUE name="sensitivity" val="s e n s i\ th i\ w i\ th i"/>
 <VALUE name="sensor" val="s e n s a r\`"/>
 <VALUE name="sensor's" val="s e n s a r\` ts"/>
 <VALUE name="sensors" val="s e n s a r\` ts"/>
@@ -13593,22 +13593,22 @@
 <VALUE name="series" val="s i\ r\` i ts"/>
 <VALUE name="seriously" val="s i\ r\` i @ s l i"/>
 <VALUE name="serious" val="s i\ r\` i @ s"/>
-<VALUE name="servant" val="s a r\` v @ n th"/>
-<VALUE name="servants'" val="s a r\` v @ n th s"/>
-<VALUE name="servants" val="s a r\` v @ n th s"/>
-<VALUE name="served" val="s a r\` v t"/>
-<VALUE name="server" val="s a r\` v a r\`"/>
-<VALUE name="servers" val="s a r\` v a r\` ts"/>
-<VALUE name="serve" val="s a r\` v"/>
-<VALUE name="serves" val="s a r\` v ts"/>
-<VALUE name="serviced" val="s a r\` v i\ s th"/>
-<VALUE name="servicer" val="s a r\` v i\ s a r\`"/>
-<VALUE name="service" val="s a r\` v i\ s"/>
-<VALUE name="services" val="s a r\` v @ s @ ts"/>
-<VALUE name="service's" val="s a r\` v i\ s i\ ts"/>
-<VALUE name="services'" val="s a r\` v i\ s i\ ts"/>
-<VALUE name="serving" val="s a r\` v i\ N"/>
-<VALUE name="servings" val="s a r\` v i\ N ts"/>
+<VALUE name="servant" val="s a r\` w @ n th"/>
+<VALUE name="servants'" val="s a r\` w @ n th s"/>
+<VALUE name="servants" val="s a r\` w @ n th s"/>
+<VALUE name="served" val="s a r\` w t"/>
+<VALUE name="server" val="s a r\` w a r\`"/>
+<VALUE name="servers" val="s a r\` w a r\` ts"/>
+<VALUE name="serve" val="s a r\` w"/>
+<VALUE name="serves" val="s a r\` w ts"/>
+<VALUE name="serviced" val="s a r\` w i\ s th"/>
+<VALUE name="servicer" val="s a r\` w i\ s a r\`"/>
+<VALUE name="service" val="s a r\` w i\ s"/>
+<VALUE name="services" val="s a r\` w @ s @ ts"/>
+<VALUE name="service's" val="s a r\` w i\ s i\ ts"/>
+<VALUE name="services'" val="s a r\` w i\ s i\ ts"/>
+<VALUE name="serving" val="s a r\` w i\ N"/>
+<VALUE name="servings" val="s a r\` w i\ N ts"/>
 <VALUE name="se" val="s e :\i"/>
 <VALUE name="session" val="s e s` @ n"/>
 <VALUE name="session's" val="s e s` @ n ts"/>
@@ -13634,19 +13634,19 @@
 <VALUE name="settles" val="s e l @ l ts"/>
 <VALUE name="setty" val="s e l i"/>
 <VALUE name="setup" val="s e th A ph"/>
-<VALUE name="seven" val="s e v @ n"/>
-<VALUE name="seven's" val="s e v @ n ts"/>
-<VALUE name="sevens" val="s e v @ n ts"/>
-<VALUE name="seventh" val="s e v @ n s"/>
-<VALUE name="sevenths" val="s e v @ n s s"/>
-<VALUE name="seventy" val="s e v @ n th i"/>
-<VALUE name="severally" val="s e v r\` @ l i"/>
-<VALUE name="several" val="s e v a r\` @ l"/>
-<VALUE name="severed" val="s e v a r\` t"/>
-<VALUE name="severely" val="s @ v i\ r\` l i"/>
-<VALUE name="severer" val="s e v i\ r\` a r\`"/>
-<VALUE name="severe" val="s @ v i\ r\`"/>
-<VALUE name="severest" val="s @ v i\ r\` @ s th"/>
+<VALUE name="seven" val="s e w @ n"/>
+<VALUE name="seven's" val="s e w @ n ts"/>
+<VALUE name="sevens" val="s e w @ n ts"/>
+<VALUE name="seventh" val="s e w @ n s"/>
+<VALUE name="sevenths" val="s e w @ n s s"/>
+<VALUE name="seventy" val="s e w @ n th i"/>
+<VALUE name="severally" val="s e w r\` @ l i"/>
+<VALUE name="several" val="s e w a r\` @ l"/>
+<VALUE name="severed" val="s e w a r\` t"/>
+<VALUE name="severely" val="s @ w i\ r\` l i"/>
+<VALUE name="severer" val="s e w i\ r\` a r\`"/>
+<VALUE name="severe" val="s @ w i\ r\`"/>
+<VALUE name="severest" val="s @ w i\ r\` @ s th"/>
 <VALUE name="sexed" val="s e kh s th"/>
 <VALUE name="sexes" val="s e kh s @ ts"/>
 <VALUE name="sex" val="s e kh s"/>
@@ -13839,12 +13839,12 @@
 <VALUE name="shouted" val="s` AU l @ t"/>
 <VALUE name="shout" val="s` AU th"/>
 <VALUE name="shouts" val="s` AU th s"/>
-<VALUE name="shoved" val="s` A v t"/>
-<VALUE name="shovel" val="s` A v @ l"/>
-<VALUE name="shovels" val="s` A v @ l ts"/>
-<VALUE name="shover" val="s` A v a r\`"/>
-<VALUE name="shove" val="s` A v"/>
-<VALUE name="shoves" val="s` A v ts"/>
+<VALUE name="shoved" val="s` A w t"/>
+<VALUE name="shovel" val="s` A w @ l"/>
+<VALUE name="shovels" val="s` A w @ l ts"/>
+<VALUE name="shover" val="s` A w a r\`"/>
+<VALUE name="shove" val="s` A w"/>
+<VALUE name="shoves" val="s` A w ts"/>
 <VALUE name="showa" val="s` @U @"/>
 <VALUE name="showed" val="s` @U t"/>
 <VALUE name="showered" val="s` AU a r\` t"/>
@@ -13930,14 +13930,14 @@
 <VALUE name="silks" val="s i\ l kh s"/>
 <VALUE name="silky" val="s i\ l kh i"/>
 <VALUE name="silly" val="s i\ l i"/>
-<VALUE name="silvera" val="s i l v e r\` @"/>
-<VALUE name="silveria" val="s i l v e r\` i @"/>
-<VALUE name="silverio" val="s i l v e r\` i@U"/>
-<VALUE name="silveri" val="s i l v e r\` i"/>
-<VALUE name="silver" val="s i\ l v a r\`"/>
-<VALUE name="silver's" val="s i\ l v a r\` ts"/>
-<VALUE name="silvers" val="s i\ l v a r\` ts"/>
-<VALUE name="silvery" val="s i\ l v a r\` i"/>
+<VALUE name="silvera" val="s i l w e r\` @"/>
+<VALUE name="silveria" val="s i l w e r\` i @"/>
+<VALUE name="silverio" val="s i l w e r\` i@U"/>
+<VALUE name="silveri" val="s i l w e r\` i"/>
+<VALUE name="silver" val="s i\ l w a r\`"/>
+<VALUE name="silver's" val="s i\ l w a r\` ts"/>
+<VALUE name="silvers" val="s i\ l w a r\` ts"/>
+<VALUE name="silvery" val="s i\ l w a r\` i"/>
 <VALUE name="similarity" val="s i\ m @ l e r\` @ th i"/>
 <VALUE name="similarly" val="s i\ m @ l a r\` l i"/>
 <VALUE name="similar" val="s i\ m @ l a r\`"/>
@@ -14080,18 +14080,18 @@
 <VALUE name="slape" val="s l e :\i ph"/>
 <VALUE name="slap" val="s l a ph"/>
 <VALUE name="slaps" val="s l a ph s"/>
-<VALUE name="slaven" val="s l e :\i v @ n"/>
-<VALUE name="slavens" val="s l e :\i v @ n ts"/>
-<VALUE name="slavery" val="s l e :\i v a r\` i"/>
-<VALUE name="slave" val="s l e :\i v"/>
-<VALUE name="slaves" val="s l e :\i v ts"/>
+<VALUE name="slaven" val="s l e :\i w @ n"/>
+<VALUE name="slavens" val="s l e :\i w @ n ts"/>
+<VALUE name="slavery" val="s l e :\i w a r\` i"/>
+<VALUE name="slave" val="s l e :\i w"/>
+<VALUE name="slaves" val="s l e :\i w ts"/>
 <VALUE name="sleeper" val="s l i ph a r\`"/>
 <VALUE name="sleep" val="s l i ph"/>
 <VALUE name="sleeps" val="s l i ph s"/>
 <VALUE name="sleepy" val="s l i ph i"/>
-<VALUE name="sleeved" val="s l i v t"/>
-<VALUE name="sleeve" val="s l i v"/>
-<VALUE name="sleeves" val="s l i v ts"/>
+<VALUE name="sleeved" val="s l i w t"/>
+<VALUE name="sleeve" val="s l i w"/>
+<VALUE name="sleeves" val="s l i w ts"/>
 <VALUE name="sliced" val="s l a :\i s th"/>
 <VALUE name="slicer" val="s l a :\i s a r\`"/>
 <VALUE name="slice" val="s l a :\i s"/>
@@ -14257,12 +14257,12 @@
 <VALUE name="solt" val="s @U l th"/>
 <VALUE name="solution" val="s @ l u s` @ n"/>
 <VALUE name="solutions" val="s @ l u s` @ n ts"/>
-<VALUE name="solved" val="s A l v t"/>
-<VALUE name="solvent" val="s A l v @ n th"/>
-<VALUE name="solver" val="s A l v a r\`"/>
-<VALUE name="solvers" val="s A l v a r\` ts"/>
-<VALUE name="solve" val="s A l v"/>
-<VALUE name="solves" val="s A l v ts"/>
+<VALUE name="solved" val="s A l w t"/>
+<VALUE name="solvent" val="s A l w @ n th"/>
+<VALUE name="solver" val="s A l w a r\`"/>
+<VALUE name="solvers" val="s A l w a r\` ts"/>
+<VALUE name="solve" val="s A l w"/>
+<VALUE name="solves" val="s A l w ts"/>
 <VALUE name="soma" val="s @U m @"/>
 <VALUE name="somebody" val="s A m p A t i"/>
 <VALUE name="somebody's" val="s A m p A t i ts"/>
@@ -14375,8 +14375,8 @@
 <VALUE name="souths" val="s AU s s"/>
 <VALUE name="southwest" val="s AU s w e s th"/>
 <VALUE name="southwest's" val="s AU s w e s th s"/>
-<VALUE name="sova" val="s @U v @"/>
-<VALUE name="sovereignty" val="s A v r\` @ n th i"/>
+<VALUE name="sova" val="s @U w @"/>
+<VALUE name="sovereignty" val="s A w r\` @ n th i"/>
 <VALUE name="sowa" val="s @U @"/>
 <VALUE name="sown" val="s @U n"/>
 <VALUE name="sow" val="s AU"/>
@@ -14612,7 +14612,7 @@
 <VALUE name="starts" val="s th A r\` th s"/>
 <VALUE name="start" val="s th A r\` th"/>
 <VALUE name="startup" val="s th A r\` th A ph"/>
-<VALUE name="starve" val="s th A r\` v"/>
+<VALUE name="starve" val="s th A r\` w"/>
 <VALUE name="stary" val="s th e r\` i"/>
 <VALUE name="stated" val="s th e :\i l i\ t"/>
 <VALUE name="stately" val="s th e :\i th l i"/>
@@ -14759,9 +14759,9 @@
 <VALUE name="stormy" val="s th o r\` m i"/>
 <VALUE name="story's" val="s th o r\` i ts"/>
 <VALUE name="story" val="s th o r\` i"/>
-<VALUE name="stover" val="s th @U v a r\`"/>
-<VALUE name="stoves" val="s th @U v ts"/>
-<VALUE name="stove" val="s th @U v"/>
+<VALUE name="stover" val="s th @U w a r\`"/>
+<VALUE name="stoves" val="s th @U w ts"/>
+<VALUE name="stove" val="s th @U w"/>
 <VALUE name="straightened" val="s t r\` e :\i l @ n t"/>
 <VALUE name="straightens" val="s t r\` e :\i l @ n ts"/>
 <VALUE name="straighten" val="s t r\` e :\i l @ n"/>
@@ -15003,11 +15003,11 @@
 <VALUE name="supermarket" val="s u ph a r\` m A r\` kh i\ th"/>
 <VALUE name="supers" val="s u ph a r\` ts"/>
 <VALUE name="super" val="s u ph a r\`"/>
-<VALUE name="supervisor's" val="s u ph a r\` v a :\i ts a r\` ts"/>
-<VALUE name="supervisors'" val="s u ph a r\` v a :\i ts a r\` ts"/>
-<VALUE name="supervisors" val="s u ph a r\` v a :\i ts a r\` ts"/>
-<VALUE name="supervisor" val="s u ph a r\` v a :\i ts a r\`"/>
-<VALUE name="supervisory" val="s u ph a r\` v a :\i ts a r\` i"/>
+<VALUE name="supervisor's" val="s u ph a r\` w a :\i ts a r\` ts"/>
+<VALUE name="supervisors'" val="s u ph a r\` w a :\i ts a r\` ts"/>
+<VALUE name="supervisors" val="s u ph a r\` w a :\i ts a r\` ts"/>
+<VALUE name="supervisor" val="s u ph a r\` w a :\i ts a r\`"/>
+<VALUE name="supervisory" val="s u ph a r\` w a :\i ts a r\` i"/>
 <VALUE name="superx" val="s u ph a r\` e kh s"/>
 <VALUE name="supplier" val="s @ ph l a :\i a r\`"/>
 <VALUE name="supplier's" val="s @ ph l a :\i a r\` ts"/>
@@ -15018,7 +15018,7 @@
 <VALUE name="supported" val="s @ ph o r\` th @ t"/>
 <VALUE name="supporter" val="s @ ph o r\` th a r\`"/>
 <VALUE name="supporters" val="s @ ph o r\` th a r\` ts"/>
-<VALUE name="supportive" val="s @ ph o r\` th i\ v"/>
+<VALUE name="supportive" val="s @ ph o r\` th i\ w"/>
 <VALUE name="support" val="s @ ph o r\` th"/>
 <VALUE name="supports" val="s @ ph o r\` th s"/>
 <VALUE name="supposedly" val="s @ ph @U ts @ t l i"/>
@@ -15051,19 +15051,19 @@
 <VALUE name="surroundings" val="s a r\` AU n t i\ N ts"/>
 <VALUE name="surround" val="s a r\` AU n t"/>
 <VALUE name="surrounds" val="s a r\` AU n t ts"/>
-<VALUE name="surveillance" val="s a r\` v e :\i l @ n s"/>
-<VALUE name="surveyed" val="s a r\` v e :\i t"/>
-<VALUE name="surveyor" val="s a r\` v e :\i a r\`"/>
-<VALUE name="survey" val="s a r\` v e :\i"/>
-<VALUE name="survey's" val="s a r\` v e :\i ts"/>
-<VALUE name="surveys" val="s a r\` v e :\i ts"/>
-<VALUE name="survival" val="s a r\` v a :\i v @ l"/>
-<VALUE name="survived" val="s a r\` v a :\i v t"/>
-<VALUE name="survive" val="s a r\` v a :\i v"/>
-<VALUE name="survives" val="s a r\` v a :\i v ts"/>
-<VALUE name="survivor" val="s a r\` v a :\i v a r\`"/>
-<VALUE name="survivor's" val="s a r\` v a :\i v a r\` ts"/>
-<VALUE name="survivors" val="s a r\` v a :\i v a r\` ts"/>
+<VALUE name="surveillance" val="s a r\` w e :\i l @ n s"/>
+<VALUE name="surveyed" val="s a r\` w e :\i t"/>
+<VALUE name="surveyor" val="s a r\` w e :\i a r\`"/>
+<VALUE name="survey" val="s a r\` w e :\i"/>
+<VALUE name="survey's" val="s a r\` w e :\i ts"/>
+<VALUE name="surveys" val="s a r\` w e :\i ts"/>
+<VALUE name="survival" val="s a r\` w a :\i w @ l"/>
+<VALUE name="survived" val="s a r\` w a :\i w t"/>
+<VALUE name="survive" val="s a r\` w a :\i w"/>
+<VALUE name="survives" val="s a r\` w a :\i w ts"/>
+<VALUE name="survivor" val="s a r\` w a :\i w a r\`"/>
+<VALUE name="survivor's" val="s a r\` w a :\i w a r\` ts"/>
+<VALUE name="survivors" val="s a r\` w a :\i w a r\` ts"/>
 <VALUE name="suspected" val="s @ s ph e kh th @ t"/>
 <VALUE name="suspect" val="s @ s ph e kh th"/>
 <VALUE name="suspects'" val="s A s ph e kh th s"/>
@@ -15313,9 +15313,9 @@
 <VALUE name="telescope's" val="th e l @ s kh @U ph s"/>
 <VALUE name="telescopes" val="th e l @ s kh @U ph s"/>
 <VALUE name="telescope" val="th e l @ s kh @U ph"/>
-<VALUE name="television's" val="th e l @ v i\ z` @ n ts"/>
-<VALUE name="televisions" val="th e l @ v i\ z` @ n ts"/>
-<VALUE name="television" val="th e l @ v i\ z` @ n"/>
+<VALUE name="television's" val="th e l @ w i\ z` @ n ts"/>
+<VALUE name="televisions" val="th e l @ w i\ z` @ n ts"/>
+<VALUE name="television" val="th e l @ w i\ z` @ n"/>
 <VALUE name="tellep" val="th e l @ ph"/>
 <VALUE name="teller" val="th e l a r\`"/>
 <VALUE name="telles" val="th e l ts"/>
@@ -15442,7 +15442,7 @@
 <VALUE name="themed" val="s i m t"/>
 <VALUE name="themes" val="s i m ts"/>
 <VALUE name="theme" val="s i m"/>
-<VALUE name="themselves" val="t e m s e l v ts"/>
+<VALUE name="themselves" val="t e m s e l w ts"/>
 <VALUE name="thence" val="t e n s"/>
 <VALUE name="then" val="t e n"/>
 <VALUE name="theologically" val="s i @ l A ts` i\ kh l i"/>
@@ -15465,7 +15465,7 @@
 <VALUE name="there" val="t e r\`"/>
 <VALUE name="therefore" val="t e r\` f o r\`"/>
 <VALUE name="therein" val="t e r\` i\ n"/>
-<VALUE name="thereof" val="t e r\` A v"/>
+<VALUE name="thereof" val="t e r\` A w"/>
 <VALUE name="thereon" val="t e r\` o n"/>
 <VALUE name="theresa" val="th a r\` i s @"/>
 <VALUE name="there's" val="t e r\` ts"/>
@@ -15532,9 +15532,9 @@
 <VALUE name="threet" val="s r\` i th"/>
 <VALUE name="thresholds" val="s r\` e s` @U l t ts"/>
 <VALUE name="threshold" val="s r\` e s` @U l t"/>
-<VALUE name="thrived" val="s r\` a :\i v t"/>
-<VALUE name="thrives" val="s r\` a :\i v ts"/>
-<VALUE name="thrive" val="s r\` a :\i v"/>
+<VALUE name="thrived" val="s r\` a :\i w t"/>
+<VALUE name="thrives" val="s r\` a :\i w ts"/>
+<VALUE name="thrive" val="s r\` a :\i w"/>
 <VALUE name="throated" val="s r\` @U l i\ t"/>
 <VALUE name="throats" val="s r\` @U th s"/>
 <VALUE name="throat" val="s r\` @U th"/>
@@ -15787,7 +15787,7 @@
 <VALUE name="tours" val="th U r\` ts"/>
 <VALUE name="tour" val="th U r\`"/>
 <VALUE name="tout" val="th AU th"/>
-<VALUE name="tov" val="th @U v"/>
+<VALUE name="tov" val="th @U w"/>
 <VALUE name="towards" val="th @ w o r\` t ts"/>
 <VALUE name="toward" val="th @ w o r\` t"/>
 <VALUE name="towell" val="th A w e l"/>
@@ -15912,13 +15912,13 @@
 <VALUE name="trashy" val="t r\` a s` i"/>
 <VALUE name="traumas" val="t r\` o m @ ts"/>
 <VALUE name="trauma" val="t r\` o m @"/>
-<VALUE name="traveled" val="t r\` a v @ l t"/>
-<VALUE name="traveler's" val="t r\` a v @ l a r\` ts"/>
-<VALUE name="travelers'" val="t r\` a v @ l a r\` ts"/>
-<VALUE name="travelers" val="t r\` a v @ l a r\` ts"/>
-<VALUE name="traveler" val="t r\` a v @ l a r\`"/>
-<VALUE name="travels" val="t r\` a v @ l ts"/>
-<VALUE name="travel" val="t r\` a v @ l"/>
+<VALUE name="traveled" val="t r\` a w @ l t"/>
+<VALUE name="traveler's" val="t r\` a w @ l a r\` ts"/>
+<VALUE name="travelers'" val="t r\` a w @ l a r\` ts"/>
+<VALUE name="travelers" val="t r\` a w @ l a r\` ts"/>
+<VALUE name="traveler" val="t r\` a w @ l a r\`"/>
+<VALUE name="travels" val="t r\` a w @ l ts"/>
+<VALUE name="travel" val="t r\` a w @ l"/>
 <VALUE name="trayer" val="t r\` e :\i a r\`"/>
 <VALUE name="trays" val="t r\` e :\i ts"/>
 <VALUE name="tray" val="t r\` e :\i"/>
@@ -16057,8 +16057,8 @@
 <VALUE name="turns" val="th a r\` n ts"/>
 <VALUE name="turn" val="th a r\` n"/>
 <VALUE name="tu" val="th u"/>
-<VALUE name="tv" val="th i v i"/>
-<VALUE name="twelve" val="th w e l v"/>
+<VALUE name="tv" val="th i w i"/>
+<VALUE name="twelve" val="th w e l w"/>
 <VALUE name="twentieth" val="th w e n th ie s"/>
 <VALUE name="twenty's" val="th w e n th i ts"/>
 <VALUE name="twenty" val="th w e n th i"/>
@@ -16108,9 +16108,9 @@
 <VALUE name="uncle's" val="A N kh @ l ts"/>
 <VALUE name="uncles" val="A N kh @ l ts"/>
 <VALUE name="uncomfortable" val="@ n kh A m f a r\` th @ p @ l"/>
-<VALUE name="uncover" val="@ n kh A v a r\`"/>
-<VALUE name="uncovered" val="@ n kh A v a r\` t"/>
-<VALUE name="uncovers" val="A n kh A v a r\` ts"/>
+<VALUE name="uncover" val="@ n kh A w a r\`"/>
+<VALUE name="uncovered" val="@ n kh A w a r\` t"/>
+<VALUE name="uncovers" val="A n kh A w a r\` ts"/>
 <VALUE name="under" val="A n t a r\`"/>
 <VALUE name="undergo" val="A n t a r\` k @U"/>
 <VALUE name="undergoes" val="A n t a r\` k @U ts"/>
@@ -16163,13 +16163,13 @@
 <VALUE name="units'" val="j u n i\ th s"/>
 <VALUE name="unit" val="j u n @ th"/>
 <VALUE name="unity" val="j u n @ th i"/>
-<VALUE name="universally" val="j u n @ v a r\` s @ l i"/>
-<VALUE name="universal's" val="j u n @ v a r\` s @ l ts"/>
-<VALUE name="universal" val="j u n @ v a r\` s @ l"/>
-<VALUE name="universes" val="j u n @ v a r\` s i\ ts"/>
-<VALUE name="universe" val="j u n @ v a r\` s"/>
-<VALUE name="university's" val="j u n @ v a r\` s @ th i ts"/>
-<VALUE name="university" val="j u n @ v a r\` s @ th i"/>
+<VALUE name="universally" val="j u n @ w a r\` s @ l i"/>
+<VALUE name="universal's" val="j u n @ w a r\` s @ l ts"/>
+<VALUE name="universal" val="j u n @ w a r\` s @ l"/>
+<VALUE name="universes" val="j u n @ w a r\` s i\ ts"/>
+<VALUE name="universe" val="j u n @ w a r\` s"/>
+<VALUE name="university's" val="j u n @ w a r\` s @ th i ts"/>
+<VALUE name="university" val="j u n @ w a r\` s @ th i"/>
 <VALUE name="unknown" val="@ n n @U n"/>
 <VALUE name="unknowns" val="@ n @U n ts"/>
 <VALUE name="unless" val="@ n l e s"/>
@@ -16233,198 +16233,198 @@
 <VALUE name="u." val="j u"/>
 <VALUE name="u" val="j u"/>
 <VALUE name="uy" val="u i"/>
-<VALUE name="vacationed" val="v e :\i kh e :\i s` @ n t"/>
-<VALUE name="vacationer" val="v e :\i kh e :\i s` @ n a r\`"/>
-<VALUE name="vacations" val="v e :\i kh e :\i s` @ n ts"/>
-<VALUE name="vacation" val="v e :\i kh e :\i s` @ n"/>
-<VALUE name="vaccine's" val="v a kh s i n ts"/>
-<VALUE name="vaccines" val="v a kh s i n ts"/>
-<VALUE name="vaccine" val="v a kh s i n"/>
-<VALUE name="vacuumed" val="v a kh j u m t"/>
-<VALUE name="vacuums" val="v a kh j u m ts"/>
-<VALUE name="vacuum" val="v a kh j u m"/>
-<VALUE name=" valida" val="v A l i l @"/>
-<VALUE name=" valided" val="v a l @ t i\ t"/>
-<VALUE name=" validity" val="v @ l i\ l i\ th i"/>
-<VALUE name=" validly" val="v a l i\ t l i"/>
-<VALUE name=" valid" val="v a l i\ t"/>
-<VALUE name=" valley's" val="v a l i ts"/>
-<VALUE name=" valleys" val="v a l i ts"/>
-<VALUE name=" valley" val="v a l i"/>
-<VALUE name=" valuables" val="v a l j @ p @ l ts"/>
-<VALUE name=" valuable" val="v a l j @ p @ l"/>
-<VALUE name=" valued" val="v a l j u t"/>
-<VALUE name=" values'" val="v a l j u ts"/>
-<VALUE name=" values" val="v a l j u ts"/>
-<VALUE name=" value" val="v a l j u"/>
-<VALUE name="vana" val="v a n @"/>
-<VALUE name="vance" val="v a n s"/>
-<VALUE name="vande" val="v a n t"/>
-<VALUE name="vanek" val="v a n e kh"/>
-<VALUE name="vanes" val="v e :\i n ts"/>
-<VALUE name="vane" val="v e :\i n"/>
-<VALUE name="vang" val="v a N"/>
-<VALUE name="vangy" val="v a n ts` i"/>
-<VALUE name="vania" val="v A n i @"/>
-<VALUE name="vanik" val="v A n i\ kh"/>
-<VALUE name="vanished" val="v a n i\ s` th"/>
-<VALUE name="vanishes" val="v a n i\ s` i\ ts"/>
-<VALUE name="vanish" val="v a n i\ s`"/>
-<VALUE name="vanna" val="v a n @"/>
-<VALUE name="vanni" val="v a n i"/>
-<VALUE name="vann" val="v a n"/>
-<VALUE name="vanny" val="v a n i"/>
-<VALUE name="vano" val="v A n @U"/>
-<VALUE name="vans" val="v a n ts"/>
-<VALUE name="van" val="v a n"/>
-<VALUE name="vanya" val="v A n j @"/>
-<VALUE name="vanyo" val="v A n j @U"/>
-<VALUE name="variables" val="v e r\` i @ p @ l ts"/>
-<VALUE name="variable" val="v e r\` i @ p @ l"/>
-<VALUE name="variations" val="v e r\` ie :\i s` @ n ts"/>
-<VALUE name="variation" val="v e r\` ie :\i s` @ n"/>
-<VALUE name="variety" val="v a r\` a :\i @ th i"/>
-<VALUE name="variously" val="v e r\` i @ s l i"/>
-<VALUE name="various" val="v e r\` i @ s"/>
-<VALUE name="vary" val="v e r\` i"/>
-<VALUE name="vasta" val="v a s th @"/>
-<VALUE name="vastly" val="v a s th l i"/>
-<VALUE name="vast" val="v a s th"/>
-<VALUE name="vegetables" val="v e ts` th @ p @ l ts"/>
-<VALUE name="vegetable" val="v e ts` th @ p @ l"/>
-<VALUE name="vehicles'" val="v e x i\ kh @ l ts"/>
-<VALUE name="vehicle's" val="v i x i\ kh @ l ts"/>
-<VALUE name="vehicles" val="v i x i\ kh @ l ts"/>
-<VALUE name="vehicle" val="v i x i\ kh @ l"/>
-<VALUE name="vendor's" val="v e n t a r\` ts"/>
-<VALUE name="vendors'" val="v e n t a r\` ts"/>
-<VALUE name="vendors" val="v e n t a r\` ts"/>
-<VALUE name="vendor" val="v e n t a r\`"/>
-<VALUE name="ventured" val="v e n ts`h a r\` t"/>
-<VALUE name="venture's" val="v e n ts`h a r\` ts"/>
-<VALUE name="ventures'" val="v e n ts`h a r\` ts"/>
-<VALUE name="ventures" val="v e n ts`h a r\` ts"/>
-<VALUE name="venture" val="v e n ts`h a r\`"/>
-<VALUE name="verbally" val="v a r\` p a l i"/>
-<VALUE name="verbal" val="v a r\` p @ l"/>
-<VALUE name="verdicts" val="v a r\` l i\ kh th s"/>
-<VALUE name="verdict" val="v a r\` l i\ kh th"/>
-<VALUE name="versions" val="v a r\` z` @ n ts"/>
-<VALUE name="version" val="v a r\` z` @ n"/>
-<VALUE name="versus" val="v a r\` s @ s"/>
-<VALUE name="vertically" val="v a r\` l i\ kh l i"/>
-<VALUE name="vertical" val="v a r\` l i\ kh @ l"/>
-<VALUE name="very" val="v e r\` i"/>
-<VALUE name="vessell" val="v e s @ l"/>
-<VALUE name="vessel's" val="v e s @ l ts"/>
-<VALUE name="vessels" val="v e s @ l ts"/>
-<VALUE name="vessel" val="v e s @ l"/>
-<VALUE name="veteran's" val="v e l a r\` @ n ts"/>
-<VALUE name="veterans'" val="v e l a r\` @ n ts"/>
-<VALUE name="veterans" val="v e l a r\` @ n ts"/>
-<VALUE name="veteran" val="v e l a r\` @ n"/>
-<VALUE name="ve" val="v i"/>
-<VALUE name="viag" val="v a :\i a k"/>
-<VALUE name="viall" val="v a :\i @ l"/>
-<VALUE name="vials" val="v a :\i @ l ts"/>
-<VALUE name="vial" val="v a :\i @ l"/>
-<VALUE name="viana" val="v ia n @"/>
-<VALUE name="viani" val="v iA n i"/>
-<VALUE name="viano" val="v iA n @U"/>
-<VALUE name="vian" val="v i @ n"/>
-<VALUE name="viars" val="v a :\i a r\` ts"/>
-<VALUE name="viar" val="v a :\i a r\`"/>
-<VALUE name="viau" val="v i@U"/>
-<VALUE name="via" val="v a :\i @"/>
-<VALUE name="victim's" val="v i\ kh th i\ m ts"/>
-<VALUE name="victims'" val="v i\ kh th i\ m ts"/>
-<VALUE name="victims" val="v i\ kh th i\ m ts"/>
-<VALUE name="victim" val="v i\ kh th i\ m"/>
-<VALUE name="victory" val="v i\ kh th @ r\` i"/>
-<VALUE name="video's" val="v i\ t i@U ts"/>
-<VALUE name="videos" val="v i\ t i@U ts"/>
-<VALUE name="video" val="v i\ t i@U"/>
-<VALUE name="viewed" val="v j u t"/>
-<VALUE name="viewer's" val="v j ua r\` ts"/>
-<VALUE name="viewers'" val="v j ua r\` ts"/>
-<VALUE name="viewers" val="v j ua r\` ts"/>
-<VALUE name="viewer" val="v j ua r\`"/>
-<VALUE name="views" val="v j u ts"/>
-<VALUE name="view" val="v j u"/>
-<VALUE name="villagers" val="v i\ l i\ ts` a r\` ts"/>
-<VALUE name="villager" val="v i\ l i\ ts` a r\`"/>
-<VALUE name="villages" val="v i\ l @ ts` i\ ts"/>
-<VALUE name="village's" val="v i\ l i\ ts` i\ ts"/>
-<VALUE name="village" val="v i\ l @ ts`"/>
-<VALUE name="violated" val="v a :\i @ l e :\i th i\ t"/>
-<VALUE name="violates" val="v a :\i @ l e :\i th s"/>
-<VALUE name="violate" val="v a :\i @ l e :\i th"/>
-<VALUE name="violations" val="v a :\i @ l e :\i s` @ n ts"/>
-<VALUE name="violation" val="v a :\i @ l e :\i s` @ n"/>
-<VALUE name="violence" val="v a :\i @ l @ n s"/>
-<VALUE name="violently" val="v a :\i @ l @ n th l i"/>
-<VALUE name="violent" val="v a :\i @ l @ n th"/>
-<VALUE name="virtually" val="v a r\` ts`h u@ l i"/>
-<VALUE name="virtual" val="v a r\` ts`h u@ l"/>
-<VALUE name="virtues" val="v a r\` ts`h u ts"/>
-<VALUE name="virtue" val="v a r\` ts`h u"/>
-<VALUE name="viruses" val="v a :\i r\` @ s @ ts"/>
-<VALUE name="virus's" val="v a :\i r\` @ s i\ ts"/>
-<VALUE name="virus" val="v a :\i r\` @ s"/>
-<VALUE name="visible" val="v i\ ts @ p @ l"/>
-<VALUE name="vision's" val="v i\ z` @ n ts"/>
-<VALUE name="visions" val="v i\ z` @ n ts"/>
-<VALUE name="vision" val="v i\ z` @ n"/>
-<VALUE name="visited" val="v i\ ts i\ th i\ t"/>
-<VALUE name="visitor's" val="v i\ ts i\ th a r\` ts"/>
-<VALUE name="visitors'" val="v i\ ts i\ th a r\` ts"/>
-<VALUE name="visitors" val="v i\ ts i\ th a r\` ts"/>
-<VALUE name="visitor" val="v i\ ts i\ th a r\`"/>
-<VALUE name="visits" val="v i\ ts i\ th s"/>
-<VALUE name="visit" val="v i\ ts i\ th"/>
-<VALUE name="visually" val="v i\ z` w @ l i"/>
-<VALUE name="visuals" val="v i\ z` w @ l ts"/>
-<VALUE name="visual" val="v i\ z` @ w @ l"/>
-<VALUE name="vitale" val="v i\ th a l i"/>
-<VALUE name="vitali" val="v i th A l i"/>
-<VALUE name="vitally" val="v a :\i l @ l i"/>
-<VALUE name="vital" val="v a :\i l @ l"/>
-<VALUE name="vitaly" val="v @ th a l i"/>
-<VALUE name="vitamins" val="v a :\i l @ m @ n ts"/>
-<VALUE name="vitamin" val="v a :\i l @ m @ n"/>
-<VALUE name="vi" val="v a :\i"/>
-<VALUE name="vocally" val="v @U kh @ l i"/>
-<VALUE name="vocals" val="v @U kh @ l ts"/>
-<VALUE name="vocal" val="v @U kh @ l"/>
-<VALUE name="voiced" val="v o :\i s th"/>
-<VALUE name="voices" val="v o :\i s @ ts"/>
-<VALUE name="voice's" val="v o :\i s i\ ts"/>
-<VALUE name="voice" val="v o :\i s"/>
-<VALUE name="volume's" val="v A l j @ m ts"/>
-<VALUE name="volumes" val="v A l j u m ts"/>
-<VALUE name="volume" val="v A l j u m"/>
-<VALUE name="voluntary" val="v A l @ n th e r\` i"/>
-<VALUE name="volunteered" val="v A l @ n th i\ r\` t"/>
-<VALUE name="volunteers" val="v A l @ n th i\ r\` ts"/>
-<VALUE name="volunteer" val="v A l @ n th i\ r\`"/>
-<VALUE name="voted" val="v @U l @ t"/>
-<VALUE name="voter's" val="v @U l a r\` ts"/>
-<VALUE name="voters'" val="v @U l a r\` ts"/>
-<VALUE name="voters" val="v @U l a r\` ts"/>
-<VALUE name="voter" val="v @U l a r\`"/>
-<VALUE name="vote's" val="v @U th s"/>
-<VALUE name="votes" val="v @U th s"/>
-<VALUE name="vote" val="v @U th"/>
-<VALUE name="voting" val="v @U l i\ N"/>
-<VALUE name="vo" val="v @U"/>
-<VALUE name="vp" val="v i ph i"/>
-<VALUE name="vsel" val="v i s e l"/>
-<VALUE name="vs" val="v a r\` s @ ts"/>
-<VALUE name="vulnerable" val="v A l n a r\` @ p @ l"/>
-<VALUE name="vu" val="v u"/>
-<VALUE name="v." val="v i"/>
-<VALUE name="v" val="v i"/>
-<VALUE name="vy" val="v a :\i"/>
+<VALUE name="vacationed" val="w e :\i kh e :\i s` @ n t"/>
+<VALUE name="vacationer" val="w e :\i kh e :\i s` @ n a r\`"/>
+<VALUE name="vacations" val="w e :\i kh e :\i s` @ n ts"/>
+<VALUE name="vacation" val="w e :\i kh e :\i s` @ n"/>
+<VALUE name="vaccine's" val="w a kh s i n ts"/>
+<VALUE name="vaccines" val="w a kh s i n ts"/>
+<VALUE name="vaccine" val="w a kh s i n"/>
+<VALUE name="vacuumed" val="w a kh j u m t"/>
+<VALUE name="vacuums" val="w a kh j u m ts"/>
+<VALUE name="vacuum" val="w a kh j u m"/>
+<VALUE name=" valida" val="w A l i l @"/>
+<VALUE name=" valided" val="w a l @ t i\ t"/>
+<VALUE name=" validity" val="w @ l i\ l i\ th i"/>
+<VALUE name=" validly" val="w a l i\ t l i"/>
+<VALUE name=" valid" val="w a l i\ t"/>
+<VALUE name=" valley's" val="w a l i ts"/>
+<VALUE name=" valleys" val="w a l i ts"/>
+<VALUE name=" valley" val="w a l i"/>
+<VALUE name=" valuables" val="w a l j @ p @ l ts"/>
+<VALUE name=" valuable" val="w a l j @ p @ l"/>
+<VALUE name=" valued" val="w a l j u t"/>
+<VALUE name=" values'" val="w a l j u ts"/>
+<VALUE name=" values" val="w a l j u ts"/>
+<VALUE name=" value" val="w a l j u"/>
+<VALUE name="vana" val="w a n @"/>
+<VALUE name="vance" val="w a n s"/>
+<VALUE name="vande" val="w a n t"/>
+<VALUE name="vanek" val="w a n e kh"/>
+<VALUE name="vanes" val="w e :\i n ts"/>
+<VALUE name="vane" val="w e :\i n"/>
+<VALUE name="vang" val="w a N"/>
+<VALUE name="vangy" val="w a n ts` i"/>
+<VALUE name="vania" val="w A n i @"/>
+<VALUE name="vanik" val="w A n i\ kh"/>
+<VALUE name="vanished" val="w a n i\ s` th"/>
+<VALUE name="vanishes" val="w a n i\ s` i\ ts"/>
+<VALUE name="vanish" val="w a n i\ s`"/>
+<VALUE name="vanna" val="w a n @"/>
+<VALUE name="vanni" val="w a n i"/>
+<VALUE name="vann" val="w a n"/>
+<VALUE name="vanny" val="w a n i"/>
+<VALUE name="vano" val="w A n @U"/>
+<VALUE name="vans" val="w a n ts"/>
+<VALUE name="van" val="w a n"/>
+<VALUE name="vanya" val="w A n j @"/>
+<VALUE name="vanyo" val="w A n j @U"/>
+<VALUE name="variables" val="w e r\` i @ p @ l ts"/>
+<VALUE name="variable" val="w e r\` i @ p @ l"/>
+<VALUE name="variations" val="w e r\` ie :\i s` @ n ts"/>
+<VALUE name="variation" val="w e r\` ie :\i s` @ n"/>
+<VALUE name="variety" val="w a r\` a :\i @ th i"/>
+<VALUE name="variously" val="w e r\` i @ s l i"/>
+<VALUE name="various" val="w e r\` i @ s"/>
+<VALUE name="vary" val="w e r\` i"/>
+<VALUE name="vasta" val="w a s th @"/>
+<VALUE name="vastly" val="w a s th l i"/>
+<VALUE name="vast" val="w a s th"/>
+<VALUE name="vegetables" val="w e ts` th @ p @ l ts"/>
+<VALUE name="vegetable" val="w e ts` th @ p @ l"/>
+<VALUE name="vehicles'" val="w e x i\ kh @ l ts"/>
+<VALUE name="vehicle's" val="w i x i\ kh @ l ts"/>
+<VALUE name="vehicles" val="w i x i\ kh @ l ts"/>
+<VALUE name="vehicle" val="w i x i\ kh @ l"/>
+<VALUE name="vendor's" val="w e n t a r\` ts"/>
+<VALUE name="vendors'" val="w e n t a r\` ts"/>
+<VALUE name="vendors" val="w e n t a r\` ts"/>
+<VALUE name="vendor" val="w e n t a r\`"/>
+<VALUE name="ventured" val="w e n ts`h a r\` t"/>
+<VALUE name="venture's" val="w e n ts`h a r\` ts"/>
+<VALUE name="ventures'" val="w e n ts`h a r\` ts"/>
+<VALUE name="ventures" val="w e n ts`h a r\` ts"/>
+<VALUE name="venture" val="w e n ts`h a r\`"/>
+<VALUE name="verbally" val="w a r\` p a l i"/>
+<VALUE name="verbal" val="w a r\` p @ l"/>
+<VALUE name="verdicts" val="w a r\` l i\ kh th s"/>
+<VALUE name="verdict" val="w a r\` l i\ kh th"/>
+<VALUE name="versions" val="w a r\` z` @ n ts"/>
+<VALUE name="version" val="w a r\` z` @ n"/>
+<VALUE name="versus" val="w a r\` s @ s"/>
+<VALUE name="vertically" val="w a r\` l i\ kh l i"/>
+<VALUE name="vertical" val="w a r\` l i\ kh @ l"/>
+<VALUE name="very" val="w e r\` i"/>
+<VALUE name="vessell" val="w e s @ l"/>
+<VALUE name="vessel's" val="w e s @ l ts"/>
+<VALUE name="vessels" val="w e s @ l ts"/>
+<VALUE name="vessel" val="w e s @ l"/>
+<VALUE name="veteran's" val="w e l a r\` @ n ts"/>
+<VALUE name="veterans'" val="w e l a r\` @ n ts"/>
+<VALUE name="veterans" val="w e l a r\` @ n ts"/>
+<VALUE name="veteran" val="w e l a r\` @ n"/>
+<VALUE name="ve" val="w i"/>
+<VALUE name="viag" val="w a :\i a k"/>
+<VALUE name="viall" val="w a :\i @ l"/>
+<VALUE name="vials" val="w a :\i @ l ts"/>
+<VALUE name="vial" val="w a :\i @ l"/>
+<VALUE name="viana" val="w ia n @"/>
+<VALUE name="viani" val="w iA n i"/>
+<VALUE name="viano" val="w iA n @U"/>
+<VALUE name="vian" val="w i @ n"/>
+<VALUE name="viars" val="w a :\i a r\` ts"/>
+<VALUE name="viar" val="w a :\i a r\`"/>
+<VALUE name="viau" val="w i@U"/>
+<VALUE name="via" val="w a :\i @"/>
+<VALUE name="victim's" val="w i\ kh th i\ m ts"/>
+<VALUE name="victims'" val="w i\ kh th i\ m ts"/>
+<VALUE name="victims" val="w i\ kh th i\ m ts"/>
+<VALUE name="victim" val="w i\ kh th i\ m"/>
+<VALUE name="victory" val="w i\ kh th @ r\` i"/>
+<VALUE name="video's" val="w i\ t i@U ts"/>
+<VALUE name="videos" val="w i\ t i@U ts"/>
+<VALUE name="video" val="w i\ t i@U"/>
+<VALUE name="viewed" val="w j u t"/>
+<VALUE name="viewer's" val="w j ua r\` ts"/>
+<VALUE name="viewers'" val="w j ua r\` ts"/>
+<VALUE name="viewers" val="w j ua r\` ts"/>
+<VALUE name="viewer" val="w j ua r\`"/>
+<VALUE name="views" val="w j u ts"/>
+<VALUE name="view" val="w j u"/>
+<VALUE name="villagers" val="w i\ l i\ ts` a r\` ts"/>
+<VALUE name="villager" val="w i\ l i\ ts` a r\`"/>
+<VALUE name="villages" val="w i\ l @ ts` i\ ts"/>
+<VALUE name="village's" val="w i\ l i\ ts` i\ ts"/>
+<VALUE name="village" val="w i\ l @ ts`"/>
+<VALUE name="violated" val="w a :\i @ l e :\i th i\ t"/>
+<VALUE name="violates" val="w a :\i @ l e :\i th s"/>
+<VALUE name="violate" val="w a :\i @ l e :\i th"/>
+<VALUE name="violations" val="w a :\i @ l e :\i s` @ n ts"/>
+<VALUE name="violation" val="w a :\i @ l e :\i s` @ n"/>
+<VALUE name="violence" val="w a :\i @ l @ n s"/>
+<VALUE name="violently" val="w a :\i @ l @ n th l i"/>
+<VALUE name="violent" val="w a :\i @ l @ n th"/>
+<VALUE name="virtually" val="w a r\` ts`h u@ l i"/>
+<VALUE name="virtual" val="w a r\` ts`h u@ l"/>
+<VALUE name="virtues" val="w a r\` ts`h u ts"/>
+<VALUE name="virtue" val="w a r\` ts`h u"/>
+<VALUE name="viruses" val="w a :\i r\` @ s @ ts"/>
+<VALUE name="virus's" val="w a :\i r\` @ s i\ ts"/>
+<VALUE name="virus" val="w a :\i r\` @ s"/>
+<VALUE name="visible" val="w i\ ts @ p @ l"/>
+<VALUE name="vision's" val="w i\ z` @ n ts"/>
+<VALUE name="visions" val="w i\ z` @ n ts"/>
+<VALUE name="vision" val="w i\ z` @ n"/>
+<VALUE name="visited" val="w i\ ts i\ th i\ t"/>
+<VALUE name="visitor's" val="w i\ ts i\ th a r\` ts"/>
+<VALUE name="visitors'" val="w i\ ts i\ th a r\` ts"/>
+<VALUE name="visitors" val="w i\ ts i\ th a r\` ts"/>
+<VALUE name="visitor" val="w i\ ts i\ th a r\`"/>
+<VALUE name="visits" val="w i\ ts i\ th s"/>
+<VALUE name="visit" val="w i\ ts i\ th"/>
+<VALUE name="visually" val="w i\ z` w @ l i"/>
+<VALUE name="visuals" val="w i\ z` w @ l ts"/>
+<VALUE name="visual" val="w i\ z` @ w @ l"/>
+<VALUE name="vitale" val="w i\ th a l i"/>
+<VALUE name="vitali" val="w i th A l i"/>
+<VALUE name="vitally" val="w a :\i l @ l i"/>
+<VALUE name="vital" val="w a :\i l @ l"/>
+<VALUE name="vitaly" val="w @ th a l i"/>
+<VALUE name="vitamins" val="w a :\i l @ m @ n ts"/>
+<VALUE name="vitamin" val="w a :\i l @ m @ n"/>
+<VALUE name="vi" val="w a :\i"/>
+<VALUE name="vocally" val="w @U kh @ l i"/>
+<VALUE name="vocals" val="w @U kh @ l ts"/>
+<VALUE name="vocal" val="w @U kh @ l"/>
+<VALUE name="voiced" val="w o :\i s th"/>
+<VALUE name="voices" val="w o :\i s @ ts"/>
+<VALUE name="voice's" val="w o :\i s i\ ts"/>
+<VALUE name="voice" val="w o :\i s"/>
+<VALUE name="volume's" val="w A l j @ m ts"/>
+<VALUE name="volumes" val="w A l j u m ts"/>
+<VALUE name="volume" val="w A l j u m"/>
+<VALUE name="voluntary" val="w A l @ n th e r\` i"/>
+<VALUE name="volunteered" val="w A l @ n th i\ r\` t"/>
+<VALUE name="volunteers" val="w A l @ n th i\ r\` ts"/>
+<VALUE name="volunteer" val="w A l @ n th i\ r\`"/>
+<VALUE name="voted" val="w @U l @ t"/>
+<VALUE name="voter's" val="w @U l a r\` ts"/>
+<VALUE name="voters'" val="w @U l a r\` ts"/>
+<VALUE name="voters" val="w @U l a r\` ts"/>
+<VALUE name="voter" val="w @U l a r\`"/>
+<VALUE name="vote's" val="w @U th s"/>
+<VALUE name="votes" val="w @U th s"/>
+<VALUE name="vote" val="w @U th"/>
+<VALUE name="voting" val="w @U l i\ N"/>
+<VALUE name="vo" val="w @U"/>
+<VALUE name="vp" val="w i ph i"/>
+<VALUE name="vsel" val="w i s e l"/>
+<VALUE name="vs" val="w a r\` s @ ts"/>
+<VALUE name="vulnerable" val="w A l n a r\` @ p @ l"/>
+<VALUE name="vu" val="w u"/>
+<VALUE name="v." val="w i"/>
+<VALUE name="v" val="w i"/>
+<VALUE name="vy" val="w a :\i"/>
 <VALUE name="waged" val="w e :\i ts` t"/>
 <VALUE name="wagers" val="w e :\i ts` a r\` ts"/>
 <VALUE name="wager" val="w e :\i ts` a r\`"/>
@@ -16538,7 +16538,7 @@
 <VALUE name="washed" val="w A s` th"/>
 <VALUE name="washer" val="w A s` a r\`"/>
 <VALUE name="washes" val="w A s` i\ ts"/>
-<VALUE name="washko" val="v A s` kh @U"/>
+<VALUE name="washko" val="w A s` kh @U"/>
 <VALUE name="washoe" val="w A s` @U"/>
 <VALUE name="wash" val="w A s`"/>
 <VALUE name="washy" val="w A s` i"/>
@@ -16558,10 +16558,10 @@
 <VALUE name="waters" val="w o l a r\` ts"/>
 <VALUE name="water" val="w o l a r\`"/>
 <VALUE name="watery" val="w o l a r\` i"/>
-<VALUE name="waved" val="w e :\i v t"/>
-<VALUE name="waver" val="w e :\i v a r\`"/>
-<VALUE name="waves" val="w e :\i v ts"/>
-<VALUE name="wave" val="w e :\i v"/>
+<VALUE name="waved" val="w e :\i w t"/>
+<VALUE name="waver" val="w e :\i w a r\`"/>
+<VALUE name="waves" val="w e :\i w ts"/>
+<VALUE name="wave" val="w e :\i w"/>
 <VALUE name="wa" val="w A"/>
 <VALUE name="waye" val="w e :\i"/>
 <VALUE name="wayne" val="w e :\i n"/>
@@ -16599,11 +16599,11 @@
 <VALUE name="weather's" val="w e t a r\` ts"/>
 <VALUE name="weathers" val="w e t a r\` ts"/>
 <VALUE name="weather" val="w e t a r\`"/>
-<VALUE name="weaved" val="w i v t"/>
-<VALUE name="weavers" val="w i v a r\` ts"/>
-<VALUE name="weaver" val="w i v a r\`"/>
-<VALUE name="weaves" val="w i v ts"/>
-<VALUE name="weave" val="w i v"/>
+<VALUE name="weaved" val="w i w t"/>
+<VALUE name="weavers" val="w i w a r\` ts"/>
+<VALUE name="weaver" val="w i w a r\`"/>
+<VALUE name="weaves" val="w i w ts"/>
+<VALUE name="weave" val="w i w"/>
 <VALUE name="webbs" val="w e p ts"/>
 <VALUE name="webb" val="w e p"/>
 <VALUE name="weber" val="w e p a r\`"/>
@@ -16716,8 +16716,8 @@
 <VALUE name="whale" val="w e :\i l"/>
 <VALUE name="whaley" val="w e :\i l i"/>
 <VALUE name="what'd" val="w A l i\ t"/>
-<VALUE name="whatever's" val="w A th e v a r\` ts"/>
-<VALUE name="whatever" val="w A th e v a r\`"/>
+<VALUE name="whatever's" val="w A th e w a r\` ts"/>
+<VALUE name="whatever" val="w A th e w a r\`"/>
 <VALUE name="whate" val="w e :\i th"/>
 <VALUE name="what's" val="w A th s"/>
 <VALUE name="whats" val="w @ th s"/>
@@ -16738,7 +16738,7 @@
 <VALUE name="wheelus" val="w i l @ s"/>
 <VALUE name="wheel" val="w i l"/>
 <VALUE name="whence" val="w e n s"/>
-<VALUE name="whenever" val="w e n e v a r\`"/>
+<VALUE name="whenever" val="w e n e w a r\`"/>
 <VALUE name="when's" val="w e n ts"/>
 <VALUE name="when" val="w e n"/>
 <VALUE name="whereas" val="w e r\` a ts"/>
@@ -16746,7 +16746,7 @@
 <VALUE name="where'd" val="w e r\` t"/>
 <VALUE name="wherein" val="w e r\` i\ n"/>
 <VALUE name="where's" val="w e r\` ts"/>
-<VALUE name="wherever" val="w e r\` e v a r\`"/>
+<VALUE name="wherever" val="w e r\` e w a r\`"/>
 <VALUE name="where" val="w e r\`"/>
 <VALUE name="whether" val="w e t a r\`"/>
 <VALUE name="which's" val="w i\ ts`h i\ ts"/>
@@ -16772,8 +16772,8 @@
 <VALUE name="whitey" val="w a :\i th i"/>
 <VALUE name="whoa" val="w @U"/>
 <VALUE name="who'd" val="x u t"/>
-<VALUE name="whoever" val="x ue v a r\`"/>
-<VALUE name="whoever's" val="x ue v a r\` ts"/>
+<VALUE name="whoever" val="x ue w a r\`"/>
+<VALUE name="whoever's" val="x ue w a r\` ts"/>
 <VALUE name="who" val="x u"/>
 <VALUE name="whole" val="x @U l"/>
 <VALUE name="wholes" val="x @U l ts"/>
