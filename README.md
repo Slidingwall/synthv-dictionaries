@@ -2,6 +2,8 @@
 Interlingual user dictionary of Synthesizer V.   
 Synthesizer V的跨语言用户词典。
 
+Visit our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries)!  
+访问我们的[GitHub 页面](https://slidingwall.github.io/synthv-dictionaries)！  
 ## How to use / 如何使用
 Please see the [manual](https://slidingwall.github.io/synthv-dictionaries/manual) on our GitHub Pages.  
 请查看Github Pages上的[教程](https://slidingwall.github.io/synthv-dictionaries/manual)
@@ -12,6 +14,7 @@ The file name means the language you want to sing from the voicebank. For exampl
 文件的名称代表你想让语音库唱出的语言，例如，`Mandarin.json` 或者 `Mandarin.xml`意味着这个字典将会让您的语音库唱出普通话。
 
 ## Released dictionaries / 已公开字典 :
+All these dictionaries' demo are on [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo.html). / 这些字典的示例在 [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo.html) 中。 
 ### Synthesizer V Studio
 #### Japanese to Chinese Dictionary / 日跨中字典 
 *(Originally released on Aug 17, 2020)*  
@@ -24,7 +27,7 @@ The file name means the language you want to sing from the voicebank. For exampl
 #### English to Japanese Dictionary / 英跨日字典
 #### Japanese to English Dictionary / 日跨英字典  
 #### Chinese to English Dictionary / 中跨英字典 
-These dictionaries' demo are on [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo.html). / 这些字典的示例在 [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo.html) 中。  
+
 ### Synthesizer V Editor
 #### Japanese to Chinese Dictionary / 日跨中字典 
 > Demo video: [Ti Mian]( https://www.bilibili.com/video/BV1k54y1675S/) *(from Kelly Yu, Cover by Yamine Renri / 于文文-体面 闇音Renri翻唱)* 
@@ -32,10 +35,9 @@ These dictionaries' demo are on [GitHub Pages](https://slidingwall.github.io/syn
 #### English to Japanese Dictionary / 英跨日字典
 #### Japanese to English Dictionary / 日跨英字典  
 #### Chinese to English Dictionary / 中跨英字典 
-These dictionaries' demo are on [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo.html). / 这些字典的示例在 [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo.html) 中。 
+
 ***
-Visit our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries)!  
-访问我们的[GitHub 页面](https://slidingwall.github.io/synthv-dictionaries)！  
+
 Author: Slidingwall ([Bilibili](https://space.bilibili.com/141232009))  
 作者：Slidingwall（[哔哩哔哩](https://space.bilibili.com/141232009)）  
 ***
