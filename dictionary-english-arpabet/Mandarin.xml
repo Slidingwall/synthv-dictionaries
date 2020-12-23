@@ -44,24 +44,24 @@
 	<VALUE name="zo" val="z ao"/>
 	<VALUE name="co" val="t s ao"/>
 	<VALUE name="so" val="s ao"/>
-	<VALUE name="be" val="b ao"/>
-	<VALUE name="pe" val="p ao"/>
-	<VALUE name="me" val="m ao"/>
-	<VALUE name="fe" val="f ao"/>
-	<VALUE name="de" val="d ao"/>
-	<VALUE name="te" val="t ao"/>
-	<VALUE name="ne" val="n ao"/>
-	<VALUE name="le" val="l ao"/>
-	<VALUE name="ge" val="g ao"/>
-	<VALUE name="ke" val="k ao"/>
-	<VALUE name="he" val="hh ao"/>
-	<VALUE name="zhe" val="jh ao"/>
-	<VALUE name="che" val="ch ao"/>
-	<VALUE name="she" val="sh ao"/>
-	<VALUE name="re" val="zh ao"/>
-	<VALUE name="ze" val="z ao"/>
-	<VALUE name="ce" val="t s ao"/>
-	<VALUE name="se" val="s ao"/>
+	<VALUE name="be" val="b ah"/>
+	<VALUE name="pe" val="p ah"/>
+	<VALUE name="me" val="m ah"/>
+	<VALUE name="fe" val="f ah"/>
+	<VALUE name="de" val="d ah"/>
+	<VALUE name="te" val="t ah"/>
+	<VALUE name="ne" val="n ah"/>
+	<VALUE name="le" val="l ah"/>
+	<VALUE name="ge" val="g ah"/>
+	<VALUE name="ke" val="k ah"/>
+	<VALUE name="he" val="hh ah"/>
+	<VALUE name="zhe" val="jh ah"/>
+	<VALUE name="che" val="ch ah"/>
+	<VALUE name="she" val="sh ah"/>
+	<VALUE name="re" val="zh ah"/>
+	<VALUE name="ze" val="z ah"/>
+	<VALUE name="ce" val="t s ah"/>
+	<VALUE name="se" val="s ah"/>
 	<VALUE name="bai" val="b ae ih"/>
 	<VALUE name="pai" val="p ae ih"/>
 	<VALUE name="mai" val="m ae ih"/>
