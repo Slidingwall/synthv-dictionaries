@@ -17,16 +17,16 @@ The file name means the language you want to sing from the voicebank. For exampl
 All these dictionaries' demo are on [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo.html). / 这些字典的示例在 [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo.html) 中。 
 
 ### Synthesizer V Studio
-| Language / 语言                              | Use Cases / 使用案例                                         | Remarks / 备注                                               |
-| -------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Japanese to Chinese Dictionary / 日跨中字典  | [Twilight](https://www.bilibili.com/video/BV1y54y1U7Re) *(from JJ Lin, Cover by GENBU / 林俊杰-不为谁而作的歌 玄武翻唱)*<br />[Yi Jian Mei](https://www.bilibili.com/video/BV1rp4y1v7Hj) (a.k.a Xue Hua Piao Piao Bei Feng Xiao Xiao) *(from Yu-Ching Fei, Cover by Saki / 费玉清-一剪梅 Saki翻唱)* | These cases are using original version dictionaries, and several bugs are fixed since then.<br />这些实例使用的是原始版本的字典，在此之后又修复了一些错误。 |
-| English to Chinese Dictionary / 英跨中字典   | Demo Video: [Wu Fa Yuan Liang](https://www.bilibili.com/video/BV1Ta4y1x7P7) *(from Yoko Li, Cover by Eleanor Forte / 李佳璐-无法原谅 爱莲娜·芙缇翻唱)* |                                                              |
-| English to Japanese Dictionary / 英跨日字典  |                                                              |                                                              |
-| Japanese to English Dictionary / 日跨英字典  |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
-| Chinese to English Dictionary / 中跨英字典   |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
-| Chinese to Korean Dictionary* / 中跨韩字典*  |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
-| English to Korean Dictionary* / 英跨韩字典*  |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
-| Japanese to Korean Dictionary* / 日跨韩字典* |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
+| Language / 语言                                  | Use Cases / 使用案例                                         | Remarks / 备注                                               |
+| ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Japanese to Chinese Dictionary<br />日跨中字典   | [Twilight](https://www.bilibili.com/video/BV1y54y1U7Re) *from JJ Lin, Cover by GENBU*<br />[不为谁而作的歌](https://www.bilibili.com/video/BV1y54y1U7Re)-林俊杰 玄武翻唱<br />[Yi Jian Mei](https://www.bilibili.com/video/BV1rp4y1v7Hj) *from Yu-Ching Fei, Cover by Saki* (a.k.a Xue Hua Piao Piao Bei Feng Xiao Xiao)<br />[一剪梅](https://www.bilibili.com/video/BV1rp4y1v7Hj)-费玉清 Saki翻唱 | These cases are using original version dictionaries, and several bugs are fixed since then.<br />这些实例使用的是原始版本的字典，在此之后又修复了一些错误。 |
+| English to Chinese Dictionary<br />英跨中字典    | [Wu Fa Yuan Liang](https://www.bilibili.com/video/BV1Ta4y1x7P7) *from Yoko Li, Cover by Eleanor Forte*<br />[无法原谅](https://www.bilibili.com/video/BV1Ta4y1x7P7)-李佳璐 爱莲娜·芙缇翻唱 |                                                              |
+| English to Japanese Dictionary<br />英跨日字典   |                                                              |                                                              |
+| Japanese to English Dictionary<br />日跨英字典   |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
+| Chinese to English Dictionary<br />中跨英字典    |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
+| Chinese to Korean Dictionary* <br />中跨韩字典*  |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
+| English to Korean Dictionary* <br />英跨韩字典*  |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
+| Japanese to Korean Dictionary* <br />日跨韩字典* |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
 
 ### Synthesizer V Editor
 
@@ -36,7 +36,7 @@ All these dictionaries' demo are on [GitHub Pages](https://slidingwall.github.io
 
 | Language / 语言                              | Use Cases / 使用案例                                         | Remarks / 备注                                               |
 | -------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Japanese to Chinese Dictionary / 日跨中字典  | [Ti Mian]( https://www.bilibili.com/video/BV1k54y1675S/) *(from Kelly Yu, Cover by Yamine Renri / 于文文-体面 闇音Renri翻唱)* |                                                              |
+| Japanese to Chinese Dictionary / 日跨中字典  | [Ti Mian]( https://www.bilibili.com/video/BV1k54y1675S/) *from Kelly Yu, Cover by Yamine Renri*<br />[体面](https://www.bilibili.com/video/BV1k54y1675S/)-于文文 闇音Renri翻唱 |                                                              |
 | English to Chinese Dictionary / 英跨中字典   |                                                              |                                                              |
 | English to Japanese Dictionary / 英跨日字典  |                                                              |                                                              |
 | Japanese to English Dictionary / 日跨英字典  |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
