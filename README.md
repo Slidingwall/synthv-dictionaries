@@ -34,16 +34,16 @@ All these dictionaries' demo are on [GitHub Pages](https://slidingwall.github.io
 >
 > 注意：所有Synthesizer V Editor的字典都是从其Synthesizer V Studio的版本移植的。
 
-| Language / 语言                              | Use Cases / 使用案例                                         | Remarks / 备注                                               |
-| -------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Japanese to Chinese Dictionary / 日跨中字典  | [Ti Mian]( https://www.bilibili.com/video/BV1k54y1675S/) *from Kelly Yu, Cover by Yamine Renri*<br />[体面](https://www.bilibili.com/video/BV1k54y1675S/)-于文文 闇音Renri翻唱 |                                                              |
-| English to Chinese Dictionary / 英跨中字典   |                                                              |                                                              |
-| English to Japanese Dictionary / 英跨日字典  |                                                              |                                                              |
-| Japanese to English Dictionary / 日跨英字典  |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
-| Chinese to English Dictionary / 中跨英字典   |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
-| Chinese to Korean Dictionary* / 中跨韩字典*  |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
-| English to Korean Dictionary* / 英跨韩字典*  |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
-| Japanese to Korean Dictionary* / 日跨韩字典* |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
+| Language / 语言                                  | Use Cases / 使用案例                                         | Remarks / 备注                                               |
+| ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Japanese to Chinese Dictionary<br />日跨中字典   | [Ti Mian]( https://www.bilibili.com/video/BV1k54y1675S/) *from Kelly Yu, Cover by Yamine Renri*<br />[体面](https://www.bilibili.com/video/BV1k54y1675S/)-于文文 闇音Renri翻唱 |                                                              |
+| English to Chinese Dictionary<br />英跨中字典    |                                                              |                                                              |
+| English to Japanese Dictionary<br />英跨日字典   |                                                              |                                                              |
+| Japanese to English Dictionary<br />日跨英字典   |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
+| Chinese to English Dictionary<br />中跨英字典    |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
+| Chinese to Korean Dictionary* <br />中跨韩字典*  |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
+| English to Korean Dictionary* <br />英跨韩字典*  |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
+| Japanese to Korean Dictionary* <br />日跨韩字典* |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
 
 > **Note*: For Korean, *Revised Romanization of Korean* is used for input, and the phonetic change when the final sound and the initial sound are combined is not supported during input.
 >
