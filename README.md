@@ -24,9 +24,9 @@ All these dictionaries' demo are on [GitHub Pages](https://slidingwall.github.io
 | English to Japanese Dictionary<br />英跨日字典   |                                                              |                                                              |
 | Japanese to English Dictionary<br />日跨英字典   |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
 | Chinese to English Dictionary<br />中跨英字典    |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
-| Chinese to Korean Dictionary* <br />中跨韩字典*  |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
-| English to Korean Dictionary* <br />英跨韩字典*  |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
-| Japanese to Korean Dictionary* <br />日跨韩字典* |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
+| Chinese to Korean Dictionary* <br />中跨朝字典*  |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
+| English to Korean Dictionary* <br />英跨朝字典*  |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
+| Japanese to Korean Dictionary* <br />日跨朝字典* |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
 
 ### Synthesizer V Editor
 
@@ -41,13 +41,13 @@ All these dictionaries' demo are on [GitHub Pages](https://slidingwall.github.io
 | English to Japanese Dictionary<br />英跨日字典   |                                                              |                                                              |
 | Japanese to English Dictionary<br />日跨英字典   |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
 | Chinese to English Dictionary<br />中跨英字典    |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
-| Chinese to Korean Dictionary* <br />中跨韩字典*  |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
-| English to Korean Dictionary* <br />英跨韩字典*  |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
-| Japanese to Korean Dictionary* <br />日跨韩字典* |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
+| Chinese to Korean Dictionary* <br />中跨朝字典*  |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
+| English to Korean Dictionary* <br />英跨朝字典*  |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
+| Japanese to Korean Dictionary* <br />日跨朝字典* |                                                              | Beta Version, Still in Development.<br />测试版，仍在开发中。 |
 
 > **Note*: For Korean, *Revised Romanization of Korean* is used for input, and the phonetic change when the final sound and the initial sound are combined is not supported during input.
 >
-> **注意*：对于韩文，采用《文化观光部2000年式（国语罗马字表记法）》进行输入，暂不支持终声和初声组合时的转写变化。
+> **注意*：对于朝鲜语，采用《文化观光部2000年式（国语罗马字表记法）》进行输入，暂不支持终声和初声组合时的转写变化。
 
 #### Any contributions are welcome. / 欢迎任何形式的贡献。
 
