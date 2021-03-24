@@ -2110,75 +2110,75 @@
     },
     {
       "w": "bong",
-      "p": "b u N"
+      "p": "b o N"
     },
     {
       "w": "pong",
-      "p": "p u N"
+      "p": "p o N"
     },
     {
       "w": "mong",
-      "p": "m u N"
+      "p": "m o N"
     },
     {
       "w": "fong",
-      "p": "f u N"
+      "p": "f o N"
     },
     {
       "w": "dong",
-      "p": "d u N"
+      "p": "d o N"
     },
     {
       "w": "tong",
-      "p": "t u N"
+      "p": "t o N"
     },
     {
       "w": "nong",
-      "p": "n u N"
+      "p": "n o N"
     },
     {
       "w": "long",
-      "p": "r u N"
+      "p": "r o N"
     },
     {
       "w": "gong",
-      "p": "g u N"
+      "p": "g o N"
     },
     {
       "w": "kong",
-      "p": "k u N"
+      "p": "k o N"
     },
     {
       "w": "hong",
-      "p": "h u N"
+      "p": "h o N"
     },
     {
       "w": "zhong",
-      "p": "j u N"
+      "p": "j o N"
     },
     {
       "w": "chong",
-      "p": "ch u N"
+      "p": "ch o N"
     },
     {
       "w": "shong",
-      "p": "sh u N"
+      "p": "sh o N"
     },
     {
       "w": "rong",
-      "p": "j u N"
+      "p": "j o N"
     },
     {
       "w": "zong",
-      "p": "z u N"
+      "p": "z o N"
     },
     {
       "w": "cong",
-      "p": "ts u N"
+      "p": "ts o N"
     },
     {
       "w": "song",
-      "p": "s u N"
+      "p": "s o N"
     },
     {
       "w": "bv",
@@ -2518,87 +2518,87 @@
     },
     {
       "w": "biong",
-      "p": "b y u N"
+      "p": "b y o N"
     },
     {
       "w": "piong",
-      "p": "p y u N"
+      "p": "p y o N"
     },
     {
       "w": "miong",
-      "p": "m y u N"
+      "p": "m y o N"
     },
     {
       "w": "fiong",
-      "p": "f y u N"
+      "p": "f y o N"
     },
     {
       "w": "diong",
-      "p": "d y u N"
+      "p": "d y o N"
     },
     {
       "w": "tiong",
-      "p": "t y u N"
+      "p": "t y o N"
     },
     {
       "w": "niong",
-      "p": "n y u N"
+      "p": "n y o N"
     },
     {
       "w": "liong",
-      "p": "r y u N"
+      "p": "r y o N"
     },
     {
       "w": "giong",
-      "p": "g y u N"
+      "p": "g y o N"
     },
     {
       "w": "kiong",
-      "p": "k y u N"
+      "p": "k y o N"
     },
     {
       "w": "hiong",
-      "p": "h y u N"
+      "p": "h y o N"
     },
     {
       "w": "jiong",
-      "p": "ch i u N"
+      "p": "ch i o N"
     },
     {
       "w": "qiong",
-      "p": "ch i u N"
+      "p": "ch i o N"
     },
     {
       "w": "xiong",
-      "p": "sh y u N"
+      "p": "sh y o N"
     },
     {
       "w": "zhiong",
-      "p": "j y u N"
+      "p": "j y o N"
     },
     {
       "w": "chiong",
-      "p": "ch i u N"
+      "p": "ch i o N"
     },
     {
       "w": "shiong",
-      "p": "sh y u N"
+      "p": "sh y o N"
     },
     {
       "w": "riong",
-      "p": "j y u N"
+      "p": "j y o N"
     },
     {
       "w": "ziong",
-      "p": "z y u N"
+      "p": "z y o N"
     },
     {
       "w": "ciong",
-      "p": "ts y u N"
+      "p": "ts y o N"
     },
     {
       "w": "siong",
-      "p": "s y u N"
+      "p": "s y o N"
     },
     {
       "w": "a",
@@ -2642,7 +2642,7 @@
     },
     {
       "w": "ong",
-      "p": "u N"
+      "p": "o N"
     },
     {
       "w": "eng",
@@ -2822,7 +2822,7 @@
     },
     {
       "w": "wong",
-      "p": "w u N"
+      "p": "w o N"
     },
     {
       "w": "yue",
@@ -2858,11 +2858,11 @@
     },
     {
       "w": "yong",
-      "p": "y u N"
+      "p": "y o N"
     },
     {
       "w": "iong",
-      "p": "y u N"
+      "p": "y o N"
     }
   ]
 }
