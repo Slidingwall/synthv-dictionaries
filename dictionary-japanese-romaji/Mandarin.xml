@@ -528,24 +528,24 @@
 	<VALUE name="zuang" val="z w a N"/>
 	<VALUE name="cuang" val="ts w a N"/>
 	<VALUE name="suang" val="s w a N"/>
-	<VALUE name="bong" val="b u N"/>
-	<VALUE name="pong" val="p u N"/>
-	<VALUE name="mong" val="m u N"/>
-	<VALUE name="fong" val="f u N"/>
-	<VALUE name="dong" val="d u N"/>
-	<VALUE name="tong" val="t u N"/>
-	<VALUE name="nong" val="n u N"/>
-	<VALUE name="long" val="r u N"/>
-	<VALUE name="gong" val="g u N"/>
-	<VALUE name="kong" val="k u N"/>
-	<VALUE name="hong" val="h u N"/>
-	<VALUE name="zhong" val="j u N"/>
-	<VALUE name="chong" val="ch u N"/>
-	<VALUE name="shong" val="sh u N"/>
-	<VALUE name="rong" val="j u N"/>
-	<VALUE name="zong" val="z u N"/>
-	<VALUE name="cong" val="ts u N"/>
-	<VALUE name="song" val="s u N"/>
+	<VALUE name="bong" val="b o N"/>
+	<VALUE name="pong" val="p o N"/>
+	<VALUE name="mong" val="m o N"/>
+	<VALUE name="fong" val="f o N"/>
+	<VALUE name="dong" val="d o N"/>
+	<VALUE name="tong" val="t o N"/>
+	<VALUE name="nong" val="n o N"/>
+	<VALUE name="long" val="r o N"/>
+	<VALUE name="gong" val="g o N"/>
+	<VALUE name="kong" val="k o N"/>
+	<VALUE name="hong" val="h o N"/>
+	<VALUE name="zhong" val="j o N"/>
+	<VALUE name="chong" val="ch o N"/>
+	<VALUE name="shong" val="sh o N"/>
+	<VALUE name="rong" val="j o N"/>
+	<VALUE name="zong" val="z o N"/>
+	<VALUE name="cong" val="ts o N"/>
+	<VALUE name="song" val="s o N"/>
 	<VALUE name="bv" val="b y u"/>
 	<VALUE name="byu" val="b y u"/>
 	<VALUE name="pv" val="p y u"/>
@@ -630,27 +630,27 @@
 	<VALUE name="cue" val="ts y u e"/>
 	<VALUE name="sve" val="s y u e"/>
 	<VALUE name="sue" val="s y u e"/>
-	<VALUE name="biong" val="b y u N"/>
-	<VALUE name="piong" val="p y u N"/>
-	<VALUE name="miong" val="m y u N"/>
-	<VALUE name="fiong" val="f y u N"/>
-	<VALUE name="diong" val="d y u N"/>
-	<VALUE name="tiong" val="t y u N"/>
-	<VALUE name="niong" val="n y u N"/>
-	<VALUE name="liong" val="r y u N"/>
-	<VALUE name="giong" val="g y u N"/>
-	<VALUE name="kiong" val="k y u N"/>
-	<VALUE name="hiong" val="h y u N"/>
-	<VALUE name="jiong" val="ch y u N"/>
-	<VALUE name="qiong" val="ch y u N"/>
-	<VALUE name="xiong" val="sh y u N"/>
-	<VALUE name="zhiong" val="j y u N"/>
-	<VALUE name="chiong" val="ch y u N"/>
-	<VALUE name="shiong" val="sh y u N"/>
-	<VALUE name="riong" val="j y u N"/>
-	<VALUE name="ziong" val="z y u N"/>
-	<VALUE name="ciong" val="ts y u N"/>
-	<VALUE name="siong" val="s y u N"/>
+	<VALUE name="biong" val="b y o N"/>
+	<VALUE name="piong" val="p y o N"/>
+	<VALUE name="miong" val="m y o N"/>
+	<VALUE name="fiong" val="f y o N"/>
+	<VALUE name="diong" val="d y o N"/>
+	<VALUE name="tiong" val="t y o N"/>
+	<VALUE name="niong" val="n y o N"/>
+	<VALUE name="liong" val="r y o N"/>
+	<VALUE name="giong" val="g y o N"/>
+	<VALUE name="kiong" val="k y o N"/>
+	<VALUE name="hiong" val="h y o N"/>
+	<VALUE name="jiong" val="ch y o N"/>
+	<VALUE name="qiong" val="ch y o N"/>
+	<VALUE name="xiong" val="sh y o N"/>
+	<VALUE name="zhiong" val="j y o N"/>
+	<VALUE name="chiong" val="ch y o N"/>
+	<VALUE name="shiong" val="sh y o N"/>
+	<VALUE name="riong" val="j y o N"/>
+	<VALUE name="ziong" val="z y o N"/>
+	<VALUE name="ciong" val="ts y o N"/>
+	<VALUE name="siong" val="s y o N"/>
 	<VALUE name="a" val="a"/>
 	<VALUE name="o" val="o"/>
 	<VALUE name="e" val="o"/>
@@ -661,7 +661,7 @@
 	<VALUE name="an" val="a n"/>
 	<VALUE name="en" val="e n"/>
 	<VALUE name="ang" val="a N"/>
-	<VALUE name="ong" val="u N"/>
+	<VALUE name="ong" val="o N"/>
 	<VALUE name="eng" val="e N"/>
 	<VALUE name="er" val="a r"/>
 	<VALUE name="i" val="i"/>
@@ -706,7 +706,7 @@
 	<VALUE name="wang" val="w a N"/>
 	<VALUE name="uang" val="w a N"/>
 	<VALUE name="weng" val="w e N"/>
-	<VALUE name="wong" val="w u N"/>
+	<VALUE name="wong" val="w o N"/>
 	<VALUE name="yue" val="y u e"/>
 	<VALUE name="ue" val="y u e"/>
 	<VALUE name="yve" val="y u e"/>
@@ -715,6 +715,6 @@
 	<VALUE name="van" val="y u e n"/>
 	<VALUE name="yun" val="y u n"/>
 	<VALUE name="vn" val="y u n"/>
-	<VALUE name="yong" val="y u N"/>
-	<VALUE name="iong" val="y u N"/>
+	<VALUE name="yong" val="y o N"/>
+	<VALUE name="iong" val="y o N"/>
 </PROPERTIES>
