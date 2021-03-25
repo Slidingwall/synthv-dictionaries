@@ -5,6 +5,6 @@
 ## [How to use 如何使用](/synthv-dictionaries/manual)  
 ## [Downloads 下载](/synthv-dictionaries/download)  
 ## [Demo 演示](/synthv-dictionaries/demo) 
-###[Examples 用例](https://space.bilibili.com/141232009/channel/detail?cid=176658)
+### [Examples 用例](https://space.bilibili.com/141232009/channel/detail?cid=176658)
 ## [Phoneme 音素表](/synthv-dictionaries/phoneme) 
 ## [About 关于](/synthv-dictionaries/about)  
