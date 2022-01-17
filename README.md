@@ -1,13 +1,16 @@
 # synthv-dictionaries
 Interlingual user dictionary of Synthesizer V.   
 Synthesizer V的跨语言用户词典。
-
+  
 Visit our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries)!  
 访问我们的[GitHub 页面](https://slidingwall.github.io/synthv-dictionaries)！  
-
+  
+Companion repository [for Vocaloid (Still in develpoment)](https://github.com/Slidingwall/vocaloid-dictionaries)  
+Vocaloid的[姐妹篇](https://github.com/Slidingwall/vocaloid-dictionaries)  
+  
 **NOTICE:Since Yamine Renri's Synthesizer V Studio voicebank will be released on 2021/10/15, all characters included in Synthesizer V Editor have their voicebank updated. Dictionaries for Synthesizer V Editor's support will be cease on 2021/10/15.**  
 **注意：由于闇音Renri的Synthesizer V Studio声库将于2021年10月15日发布，所有包含在Synthesizer V Editor中的角色都已经获得声库更新。Synthesizer V Editor版本的字典将于2021年10月15日停止支持。**  
-
+  
 ## How to use / 如何使用
 Please see the [manual](https://slidingwall.github.io/synthv-dictionaries/manual) on our GitHub Pages.  
 请查看Github Pages上的[教程](https://slidingwall.github.io/synthv-dictionaries/manual)
