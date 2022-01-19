@@ -3,7 +3,7 @@
 Interlingual user dictionary of Synthesizer V.   
 Synthesizer V的跨语言用户词典。
 
-Visit our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries), or see the companion repository [for Vocaloid! (Still in develpoment)](https://github.com/Slidingwall/vocaloid-dictionaries) 
+Visit our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries), or see the companion repository [for Vocaloid! (Still in develpoment)](https://github.com/Slidingwall/vocaloid-dictionaries)   
 访问我们的[GitHub 页面](https://slidingwall.github.io/synthv-dictionaries)，或是看看适用于Vocaloid的[姐妹项目](https://github.com/Slidingwall/vocaloid-dictionaries)！  
 
 ## How to use 如何使用
@@ -12,11 +12,11 @@ Floder's name means the generation of Synthesizer V and the language of your voi
 The file name means the language you want to sing from the voicebank. For example, `Mandarin.json` or `Mandarin.xml` means this dictionary will let the voicebank singing Mandarin.  
 文件的名称代表你想让语音库唱出的语言，例如，`Mandarin.json` 或者 `Mandarin.xml`意味着这个字典将会让您的语音库唱出普通话。
 
-For detail instruction, please see the manual on our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/manual).
+For detail instruction, please see the manual on our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/manual).  
 详细教程，请查看[GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/manual)。  
 
 ## Released dictionaries 已公开字典
-All these dictionaries' demos and examples are on [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo.html), including before and after comparisons and some sample songs. 
+All these dictionaries' demos and examples are on [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo.html), including before and after comparisons and some sample songs.   
 这些字典的演示和用例都在 [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo.html) 中，包括使用前后的对比和一些歌曲样本。
 
 | Oringinal Language (Voice library)<br />原始语言 (语音库) | Target Language (Lyrics)<br />目标语言 (歌词) | Notes<br />备注                   |
