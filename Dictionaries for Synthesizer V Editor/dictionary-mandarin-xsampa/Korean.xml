@@ -3,8 +3,8 @@
 <PROPERTIES>
 	<VALUE name="ga" val="k a"/>
 	<VALUE name="gya" val="k ia"/>
-	<VALUE name="geo" val="k 7"/>
-	<VALUE name="gyeo" val="k j 7"/>
+	<VALUE name="geo" val="k A"/>
+	<VALUE name="gyeo" val="k iA"/>
 	<VALUE name="go" val="k o"/>
 	<VALUE name="gyo" val="k j o"/>
 	<VALUE name="gu" val="k u"/>
@@ -17,15 +17,15 @@
 	<VALUE name="gye" val="k ie"/>
 	<VALUE name="gwa" val="k ua"/>
 	<VALUE name="gwae" val="k ue"/>
-	<VALUE name="goe" val="k ue"/>
-	<VALUE name="gwo" val="k w 7"/>
+	<VALUE name="goe" val="k e"/>
+	<VALUE name="gwo" val="k uA"/>
 	<VALUE name="gwe" val="k ue"/>
 	<VALUE name="gwi" val="k u :\i"/>
 	<VALUE name="gui" val="k U :\i"/>
 	<VALUE name="na" val="n a"/>
 	<VALUE name="nya" val="n ia"/>
-	<VALUE name="neo" val="n 7"/>
-	<VALUE name="nyeo" val="n j 7"/>
+	<VALUE name="neo" val="n A"/>
+	<VALUE name="nyeo" val="n iA"/>
 	<VALUE name="no" val="n o"/>
 	<VALUE name="nyo" val="n j o"/>
 	<VALUE name="nu" val="n u"/>
@@ -38,15 +38,15 @@
 	<VALUE name="nye" val="n ie"/>
 	<VALUE name="nwa" val="n ua"/>
 	<VALUE name="nwae" val="n ue"/>
-	<VALUE name="noe" val="n ue"/>
-	<VALUE name="nwo" val="n w 7"/>
+	<VALUE name="noe" val="n e"/>
+	<VALUE name="nwo" val="n uA"/>
 	<VALUE name="nwe" val="n ue"/>
 	<VALUE name="nwi" val="n u :\i"/>
 	<VALUE name="nui" val="n U :\i"/>
 	<VALUE name="da" val="t a"/>
 	<VALUE name="dya" val="t ia"/>
-	<VALUE name="deo" val="t 7"/>
-	<VALUE name="dyeo" val="t j 7"/>
+	<VALUE name="deo" val="t A"/>
+	<VALUE name="dyeo" val="t iA"/>
 	<VALUE name="do" val="t o"/>
 	<VALUE name="dyo" val="t j o"/>
 	<VALUE name="du" val="t u"/>
@@ -59,36 +59,36 @@
 	<VALUE name="dye" val="t ie"/>
 	<VALUE name="dwa" val="t ua"/>
 	<VALUE name="dwae" val="t ue"/>
-	<VALUE name="doe" val="t ue"/>
-	<VALUE name="dwo" val="t w 7"/>
+	<VALUE name="doe" val="t e"/>
+	<VALUE name="dwo" val="t uA"/>
 	<VALUE name="dwe" val="t ue"/>
 	<VALUE name="dwi" val="t u :\i"/>
 	<VALUE name="dui" val="t U :\i"/>
-	<VALUE name="ra" val="r\` a"/>
-	<VALUE name="rya" val="r\` ia"/>
-	<VALUE name="reo" val="r\` 7"/>
-	<VALUE name="ryeo" val="r\` j 7"/>
-	<VALUE name="ro" val="r\` o"/>
-	<VALUE name="ryo" val="r\` j o"/>
-	<VALUE name="ru" val="r\` u"/>
-	<VALUE name="ryu" val="r\` j u"/>
-	<VALUE name="reu" val="r\` U"/>
-	<VALUE name="ri" val="r\` i"/>
-	<VALUE name="rae" val="r\` e"/>
-	<VALUE name="ryae" val="r\` ie"/>
-	<VALUE name="re" val="r\` e"/>
-	<VALUE name="rye" val="r\` ie"/>
-	<VALUE name="rwa" val="r\` ua"/>
-	<VALUE name="rwae" val="r\` ue"/>
-	<VALUE name="roe" val="r\` ue"/>
-	<VALUE name="rwo" val="r\` w 7"/>
-	<VALUE name="rwe" val="r\` ue"/>
-	<VALUE name="rwi" val="r\` u :\i"/>
-	<VALUE name="rui" val="r\` U :\i"/>
+	<VALUE name="ra" val="l a"/>
+	<VALUE name="rya" val="l ia"/>
+	<VALUE name="reo" val="l A"/>
+	<VALUE name="ryeo" val="l iA"/>
+	<VALUE name="ro" val="l o"/>
+	<VALUE name="ryo" val="l j o"/>
+	<VALUE name="ru" val="l u"/>
+	<VALUE name="ryu" val="l j u"/>
+	<VALUE name="reu" val="l U"/>
+	<VALUE name="ri" val="l i"/>
+	<VALUE name="rae" val="l e"/>
+	<VALUE name="ryae" val="l ie"/>
+	<VALUE name="re" val="l e"/>
+	<VALUE name="rye" val="l ie"/>
+	<VALUE name="rwa" val="l ua"/>
+	<VALUE name="rwae" val="l ue"/>
+	<VALUE name="roe" val="l e"/>
+	<VALUE name="rwo" val="l uA"/>
+	<VALUE name="rwe" val="l ue"/>
+	<VALUE name="rwi" val="l u :\i"/>
+	<VALUE name="rui" val="l U :\i"/>
 	<VALUE name="ma" val="m a"/>
 	<VALUE name="mya" val="m ia"/>
-	<VALUE name="meo" val="m 7"/>
-	<VALUE name="myeo" val="m j 7"/>
+	<VALUE name="meo" val="m A"/>
+	<VALUE name="myeo" val="m iA"/>
 	<VALUE name="mo" val="m o"/>
 	<VALUE name="myo" val="m j o"/>
 	<VALUE name="mu" val="m u"/>
@@ -101,15 +101,15 @@
 	<VALUE name="mye" val="m ie"/>
 	<VALUE name="mwa" val="m ua"/>
 	<VALUE name="mwae" val="m ue"/>
-	<VALUE name="moe" val="m ue"/>
-	<VALUE name="mwo" val="m w 7"/>
+	<VALUE name="moe" val="m e"/>
+	<VALUE name="mwo" val="m uA"/>
 	<VALUE name="mwe" val="m ue"/>
 	<VALUE name="mwi" val="m u :\i"/>
 	<VALUE name="mui" val="m U :\i"/>
 	<VALUE name="ba" val="p a"/>
 	<VALUE name="bya" val="p ia"/>
-	<VALUE name="beo" val="p 7"/>
-	<VALUE name="byeo" val="p j 7"/>
+	<VALUE name="beo" val="p A"/>
+	<VALUE name="byeo" val="p iA"/>
 	<VALUE name="bo" val="p o"/>
 	<VALUE name="byo" val="p j o"/>
 	<VALUE name="bu" val="p u"/>
@@ -122,15 +122,15 @@
 	<VALUE name="bye" val="p ie"/>
 	<VALUE name="bwa" val="p ua"/>
 	<VALUE name="bwae" val="p ue"/>
-	<VALUE name="boe" val="p ue"/>
-	<VALUE name="bwo" val="p w 7"/>
+	<VALUE name="boe" val="p e"/>
+	<VALUE name="bwo" val="p uA"/>
 	<VALUE name="bwe" val="p ue"/>
 	<VALUE name="bwi" val="p u :\i"/>
 	<VALUE name="bui" val="p U :\i"/>
 	<VALUE name="sa" val="s a"/>
 	<VALUE name="sya" val="s ia"/>
-	<VALUE name="seo" val="s 7"/>
-	<VALUE name="syeo" val="s j 7"/>
+	<VALUE name="seo" val="s A"/>
+	<VALUE name="syeo" val="s iA"/>
 	<VALUE name="so" val="s o"/>
 	<VALUE name="syo" val="s j o"/>
 	<VALUE name="su" val="s u"/>
@@ -143,15 +143,15 @@
 	<VALUE name="sye" val="s ie"/>
 	<VALUE name="swa" val="s ua"/>
 	<VALUE name="swae" val="s ue"/>
-	<VALUE name="soe" val="s ue"/>
-	<VALUE name="swo" val="s w 7"/>
+	<VALUE name="soe" val="s e"/>
+	<VALUE name="swo" val="s uA"/>
 	<VALUE name="swe" val="s ue"/>
 	<VALUE name="swi" val="s u :\i"/>
 	<VALUE name="sui" val="s U :\i"/>
 	<VALUE name="a" val="a"/>
 	<VALUE name="ya" val="ia"/>
-	<VALUE name="eo" val="7"/>
-	<VALUE name="yeo" val="j 7"/>
+	<VALUE name="eo" val="A"/>
+	<VALUE name="yeo" val="iA"/>
 	<VALUE name="o" val="o"/>
 	<VALUE name="yo" val="j o"/>
 	<VALUE name="u" val="u"/>
@@ -164,15 +164,15 @@
 	<VALUE name="ye" val="ie"/>
 	<VALUE name="wa" val="ua"/>
 	<VALUE name="wae" val="ue"/>
-	<VALUE name="oe" val="ue"/>
-	<VALUE name="wo" val="w 7"/>
+	<VALUE name="oe" val="e"/>
+	<VALUE name="wo" val="uA"/>
 	<VALUE name="we" val="ue"/>
 	<VALUE name="wi" val="u :\i"/>
 	<VALUE name="ui" val="U :\i"/>
 	<VALUE name="ja" val="ts\ a"/>
 	<VALUE name="jya" val="ts\ ia"/>
-	<VALUE name="jeo" val="ts\ 7"/>
-	<VALUE name="jyeo" val="ts\ j 7"/>
+	<VALUE name="jeo" val="ts\ A"/>
+	<VALUE name="jyeo" val="ts\ iA"/>
 	<VALUE name="jo" val="ts\ o"/>
 	<VALUE name="jyo" val="ts\ j o"/>
 	<VALUE name="ju" val="ts\ u"/>
@@ -185,15 +185,15 @@
 	<VALUE name="jye" val="ts\ ie"/>
 	<VALUE name="jwa" val="ts\ ua"/>
 	<VALUE name="jwae" val="ts\ ue"/>
-	<VALUE name="joe" val="ts\ ue"/>
-	<VALUE name="jwo" val="ts\ w 7"/>
+	<VALUE name="joe" val="ts\ e"/>
+	<VALUE name="jwo" val="ts\ uA"/>
 	<VALUE name="jwe" val="ts\ ue"/>
 	<VALUE name="jwi" val="ts\ u :\i"/>
 	<VALUE name="jui" val="ts\ U :\i"/>
 	<VALUE name="cha" val="ts\h a"/>
 	<VALUE name="chya" val="ts\h ia"/>
-	<VALUE name="cheo" val="ts\h 7"/>
-	<VALUE name="chyeo" val="ts\h j 7"/>
+	<VALUE name="cheo" val="ts\h A"/>
+	<VALUE name="chyeo" val="ts\h iA"/>
 	<VALUE name="cho" val="ts\h o"/>
 	<VALUE name="chyo" val="ts\h j o"/>
 	<VALUE name="chu" val="ts\h u"/>
@@ -206,15 +206,15 @@
 	<VALUE name="chye" val="ts\h ie"/>
 	<VALUE name="chwa" val="ts\h ua"/>
 	<VALUE name="chwae" val="ts\h ue"/>
-	<VALUE name="choe" val="ts\h ue"/>
-	<VALUE name="chwo" val="ts\h w 7"/>
+	<VALUE name="choe" val="ts\h e"/>
+	<VALUE name="chwo" val="ts\h uA"/>
 	<VALUE name="chwe" val="ts\h ue"/>
 	<VALUE name="chwi" val="ts\h u :\i"/>
 	<VALUE name="chui" val="ts\h U :\i"/>
 	<VALUE name="ka" val="kh a"/>
 	<VALUE name="kya" val="kh ia"/>
-	<VALUE name="keo" val="kh 7"/>
-	<VALUE name="kyeo" val="kh j 7"/>
+	<VALUE name="keo" val="kh A"/>
+	<VALUE name="kyeo" val="kh iA"/>
 	<VALUE name="ko" val="kh o"/>
 	<VALUE name="kyo" val="kh j o"/>
 	<VALUE name="ku" val="kh u"/>
@@ -227,15 +227,15 @@
 	<VALUE name="kye" val="kh ie"/>
 	<VALUE name="kwa" val="kh ua"/>
 	<VALUE name="kwae" val="kh ue"/>
-	<VALUE name="koe" val="kh ue"/>
-	<VALUE name="kwo" val="kh w 7"/>
+	<VALUE name="koe" val="kh e"/>
+	<VALUE name="kwo" val="kh uA"/>
 	<VALUE name="kwe" val="kh ue"/>
 	<VALUE name="kwi" val="kh u :\i"/>
 	<VALUE name="kui" val="kh U :\i"/>
 	<VALUE name="ta" val="th a"/>
 	<VALUE name="tya" val="th ia"/>
-	<VALUE name="teo" val="th 7"/>
-	<VALUE name="tyeo" val="th j 7"/>
+	<VALUE name="teo" val="th A"/>
+	<VALUE name="tyeo" val="th iA"/>
 	<VALUE name="to" val="th o"/>
 	<VALUE name="tyo" val="th j o"/>
 	<VALUE name="tu" val="th u"/>
@@ -248,15 +248,15 @@
 	<VALUE name="tye" val="th ie"/>
 	<VALUE name="twa" val="th ua"/>
 	<VALUE name="twae" val="th ue"/>
-	<VALUE name="toe" val="th ue"/>
-	<VALUE name="two" val="th w 7"/>
+	<VALUE name="toe" val="th e"/>
+	<VALUE name="two" val="th uA"/>
 	<VALUE name="twe" val="th ue"/>
 	<VALUE name="twi" val="th u :\i"/>
 	<VALUE name="tui" val="th U :\i"/>
 	<VALUE name="pa" val="ph a"/>
 	<VALUE name="pya" val="ph ia"/>
-	<VALUE name="peo" val="ph 7"/>
-	<VALUE name="pyeo" val="ph j 7"/>
+	<VALUE name="peo" val="ph A"/>
+	<VALUE name="pyeo" val="ph iA"/>
 	<VALUE name="po" val="ph o"/>
 	<VALUE name="pyo" val="ph j o"/>
 	<VALUE name="pu" val="ph u"/>
@@ -269,15 +269,15 @@
 	<VALUE name="pye" val="ph ie"/>
 	<VALUE name="pwa" val="ph ua"/>
 	<VALUE name="pwae" val="ph ue"/>
-	<VALUE name="poe" val="ph ue"/>
-	<VALUE name="pwo" val="ph w 7"/>
+	<VALUE name="poe" val="ph e"/>
+	<VALUE name="pwo" val="ph uA"/>
 	<VALUE name="pwe" val="ph ue"/>
 	<VALUE name="pwi" val="ph u :\i"/>
 	<VALUE name="pui" val="ph U :\i"/>
 	<VALUE name="ha" val="x a"/>
 	<VALUE name="hya" val="x ia"/>
-	<VALUE name="heo" val="x 7"/>
-	<VALUE name="hyeo" val="x j 7"/>
+	<VALUE name="heo" val="x A"/>
+	<VALUE name="hyeo" val="x iA"/>
 	<VALUE name="ho" val="x o"/>
 	<VALUE name="hyo" val="x j o"/>
 	<VALUE name="hu" val="x u"/>
@@ -290,15 +290,15 @@
 	<VALUE name="hye" val="x ie"/>
 	<VALUE name="hwa" val="x ua"/>
 	<VALUE name="hwae" val="x ue"/>
-	<VALUE name="hoe" val="x ue"/>
-	<VALUE name="hwo" val="x w 7"/>
+	<VALUE name="hoe" val="x e"/>
+	<VALUE name="hwo" val="x uA"/>
 	<VALUE name="hwe" val="x ue"/>
 	<VALUE name="hwi" val="x u :\i"/>
 	<VALUE name="hui" val="x U :\i"/>
 	<VALUE name="kka" val="k a"/>
 	<VALUE name="kkya" val="k ia"/>
-	<VALUE name="kkeo" val="k 7"/>
-	<VALUE name="kkyeo" val="k j 7"/>
+	<VALUE name="kkeo" val="k A"/>
+	<VALUE name="kkyeo" val="k iA"/>
 	<VALUE name="kko" val="k o"/>
 	<VALUE name="kkyo" val="k j o"/>
 	<VALUE name="kku" val="k u"/>
@@ -311,15 +311,15 @@
 	<VALUE name="kkye" val="k ie"/>
 	<VALUE name="kkwa" val="k ua"/>
 	<VALUE name="kkwae" val="k ue"/>
-	<VALUE name="kkoe" val="k ue"/>
-	<VALUE name="kkwo" val="k w 7"/>
+	<VALUE name="kkoe" val="k e"/>
+	<VALUE name="kkwo" val="k uA"/>
 	<VALUE name="kkwe" val="k ue"/>
 	<VALUE name="kkwi" val="k u :\i"/>
 	<VALUE name="kkui" val="k U :\i"/>
 	<VALUE name="tta" val="t a"/>
 	<VALUE name="ttya" val="t ia"/>
-	<VALUE name="tteo" val="t 7"/>
-	<VALUE name="ttyeo" val="t j 7"/>
+	<VALUE name="tteo" val="t A"/>
+	<VALUE name="ttyeo" val="t iA"/>
 	<VALUE name="tto" val="t o"/>
 	<VALUE name="ttyo" val="t j o"/>
 	<VALUE name="ttu" val="t u"/>
@@ -332,15 +332,15 @@
 	<VALUE name="ttye" val="t ie"/>
 	<VALUE name="ttwa" val="t ua"/>
 	<VALUE name="ttwae" val="t ue"/>
-	<VALUE name="ttoe" val="t ue"/>
-	<VALUE name="ttwo" val="t w 7"/>
+	<VALUE name="ttoe" val="t e"/>
+	<VALUE name="ttwo" val="t uA"/>
 	<VALUE name="ttwe" val="t ue"/>
 	<VALUE name="ttwi" val="t u :\i"/>
 	<VALUE name="ttui" val="t U :\i"/>
 	<VALUE name="ppa" val="p a"/>
 	<VALUE name="ppya" val="p ia"/>
-	<VALUE name="ppeo" val="p 7"/>
-	<VALUE name="ppyeo" val="p j 7"/>
+	<VALUE name="ppeo" val="p A"/>
+	<VALUE name="ppyeo" val="p iA"/>
 	<VALUE name="ppo" val="p o"/>
 	<VALUE name="ppyo" val="p j o"/>
 	<VALUE name="ppu" val="p u"/>
@@ -353,1653 +353,1653 @@
 	<VALUE name="ppye" val="p ie"/>
 	<VALUE name="ppwa" val="p ua"/>
 	<VALUE name="ppwae" val="p ue"/>
-	<VALUE name="ppoe" val="p ue"/>
-	<VALUE name="ppwo" val="p w 7"/>
+	<VALUE name="ppoe" val="p e"/>
+	<VALUE name="ppwo" val="p uA"/>
 	<VALUE name="ppwe" val="p ue"/>
 	<VALUE name="ppwi" val="p u :\i"/>
 	<VALUE name="ppui" val="p U :\i"/>
-	<VALUE name="ssa" val="s` a"/>
-	<VALUE name="ssya" val="s` ia"/>
-	<VALUE name="sseo" val="s` 7"/>
-	<VALUE name="ssyeo" val="s` j 7"/>
-	<VALUE name="sso" val="s` o"/>
-	<VALUE name="ssyo" val="s` j o"/>
-	<VALUE name="ssu" val="s` u"/>
-	<VALUE name="ssyu" val="s` j u"/>
-	<VALUE name="sseu" val="s` U"/>
-	<VALUE name="ssi" val="s` i"/>
-	<VALUE name="ssae" val="s` e"/>
-	<VALUE name="ssyae" val="s` ie"/>
-	<VALUE name="sse" val="s` e"/>
-	<VALUE name="ssye" val="s` ie"/>
-	<VALUE name="sswa" val="s` ua"/>
-	<VALUE name="sswae" val="s` ue"/>
-	<VALUE name="ssoe" val="s` ue"/>
-	<VALUE name="sswo" val="s` w 7"/>
-	<VALUE name="sswe" val="s` ue"/>
-	<VALUE name="sswi" val="s` u :\i"/>
-	<VALUE name="ssui" val="s` U :\i"/>
-	<VALUE name="jja" val="ts` a"/>
-	<VALUE name="jjya" val="ts` ia"/>
-	<VALUE name="jjeo" val="ts` 7"/>
-	<VALUE name="jjyeo" val="ts` j 7"/>
-	<VALUE name="jjo" val="ts` o"/>
-	<VALUE name="jjyo" val="ts` j o"/>
-	<VALUE name="jju" val="ts` u"/>
-	<VALUE name="jjyu" val="ts` j u"/>
-	<VALUE name="jjeu" val="ts` U"/>
-	<VALUE name="jji" val="ts` i"/>
-	<VALUE name="jjae" val="ts` e"/>
-	<VALUE name="jjyae" val="ts` ie"/>
-	<VALUE name="jje" val="ts` e"/>
-	<VALUE name="jjye" val="ts` ie"/>
-	<VALUE name="jjwa" val="ts` ua"/>
-	<VALUE name="jjwae" val="ts` ue"/>
-	<VALUE name="jjoe" val="ts` ue"/>
-	<VALUE name="jjwo" val="ts` w 7"/>
-	<VALUE name="jjwe" val="ts` ue"/>
-	<VALUE name="jjwi" val="ts` u :\i"/>
-	<VALUE name="jjui" val="ts` U :\i"/>
-	<VALUE name="gak" val="k a kh"/>
-	<VALUE name="gyak" val="k ia kh"/>
-	<VALUE name="geok" val="k 7 kh"/>
-	<VALUE name="gyeok" val="k j 7 kh"/>
-	<VALUE name="gok" val="k o kh"/>
-	<VALUE name="gyok" val="k j o kh"/>
-	<VALUE name="guk" val="k u kh"/>
-	<VALUE name="gyuk" val="k j u kh"/>
-	<VALUE name="geuk" val="k U kh"/>
-	<VALUE name="gik" val="k i kh"/>
-	<VALUE name="gaek" val="k e kh"/>
-	<VALUE name="gyaek" val="k ie kh"/>
-	<VALUE name="gek" val="k e kh"/>
-	<VALUE name="gyek" val="k ie kh"/>
-	<VALUE name="gwak" val="k ua kh"/>
-	<VALUE name="gwaek" val="k ue kh"/>
-	<VALUE name="goek" val="k ue kh"/>
-	<VALUE name="gwok" val="k w 7 kh"/>
-	<VALUE name="gwek" val="k ue kh"/>
-	<VALUE name="gwik" val="k u :\i kh"/>
-	<VALUE name="guik" val="k U :\i kh"/>
-	<VALUE name="nak" val="n a kh"/>
-	<VALUE name="nyak" val="n ia kh"/>
-	<VALUE name="neok" val="n 7 kh"/>
-	<VALUE name="nyeok" val="n j 7 kh"/>
-	<VALUE name="nok" val="n o kh"/>
-	<VALUE name="nyok" val="n j o kh"/>
-	<VALUE name="nuk" val="n u kh"/>
-	<VALUE name="nyuk" val="n j u kh"/>
-	<VALUE name="neuk" val="n U kh"/>
-	<VALUE name="nik" val="n i kh"/>
-	<VALUE name="naek" val="n e kh"/>
-	<VALUE name="nyaek" val="n ie kh"/>
-	<VALUE name="nek" val="n e kh"/>
-	<VALUE name="nyek" val="n ie kh"/>
-	<VALUE name="nwak" val="n ua kh"/>
-	<VALUE name="nwaek" val="n ue kh"/>
-	<VALUE name="noek" val="n ue kh"/>
-	<VALUE name="nwok" val="n w 7 kh"/>
-	<VALUE name="nwek" val="n ue kh"/>
-	<VALUE name="nwik" val="n u :\i kh"/>
-	<VALUE name="nuik" val="n U :\i kh"/>
-	<VALUE name="dak" val="t a kh"/>
-	<VALUE name="dyak" val="t ia kh"/>
-	<VALUE name="deok" val="t 7 kh"/>
-	<VALUE name="dyeok" val="t j 7 kh"/>
-	<VALUE name="dok" val="t o kh"/>
-	<VALUE name="dyok" val="t j o kh"/>
-	<VALUE name="duk" val="t u kh"/>
-	<VALUE name="dyuk" val="t j u kh"/>
-	<VALUE name="deuk" val="t U kh"/>
-	<VALUE name="dik" val="t i kh"/>
-	<VALUE name="daek" val="t e kh"/>
-	<VALUE name="dyaek" val="t ie kh"/>
-	<VALUE name="dek" val="t e kh"/>
-	<VALUE name="dyek" val="t ie kh"/>
-	<VALUE name="dwak" val="t ua kh"/>
-	<VALUE name="dwaek" val="t ue kh"/>
-	<VALUE name="doek" val="t ue kh"/>
-	<VALUE name="dwok" val="t w 7 kh"/>
-	<VALUE name="dwek" val="t ue kh"/>
-	<VALUE name="dwik" val="t u :\i kh"/>
-	<VALUE name="duik" val="t U :\i kh"/>
-	<VALUE name="rak" val="r\` a kh"/>
-	<VALUE name="ryak" val="r\` ia kh"/>
-	<VALUE name="reok" val="r\` 7 kh"/>
-	<VALUE name="ryeok" val="r\` j 7 kh"/>
-	<VALUE name="rok" val="r\` o kh"/>
-	<VALUE name="ryok" val="r\` j o kh"/>
-	<VALUE name="ruk" val="r\` u kh"/>
-	<VALUE name="ryuk" val="r\` j u kh"/>
-	<VALUE name="reuk" val="r\` U kh"/>
-	<VALUE name="rik" val="r\` i kh"/>
-	<VALUE name="raek" val="r\` e kh"/>
-	<VALUE name="ryaek" val="r\` ie kh"/>
-	<VALUE name="rek" val="r\` e kh"/>
-	<VALUE name="ryek" val="r\` ie kh"/>
-	<VALUE name="rwak" val="r\` ua kh"/>
-	<VALUE name="rwaek" val="r\` ue kh"/>
-	<VALUE name="roek" val="r\` ue kh"/>
-	<VALUE name="rwok" val="r\` w 7 kh"/>
-	<VALUE name="rwek" val="r\` ue kh"/>
-	<VALUE name="rwik" val="r\` u :\i kh"/>
-	<VALUE name="ruik" val="r\` U :\i kh"/>
-	<VALUE name="mak" val="m a kh"/>
-	<VALUE name="myak" val="m ia kh"/>
-	<VALUE name="meok" val="m 7 kh"/>
-	<VALUE name="myeok" val="m j 7 kh"/>
-	<VALUE name="mok" val="m o kh"/>
-	<VALUE name="myok" val="m j o kh"/>
-	<VALUE name="muk" val="m u kh"/>
-	<VALUE name="myuk" val="m j u kh"/>
-	<VALUE name="meuk" val="m U kh"/>
-	<VALUE name="mik" val="m i kh"/>
-	<VALUE name="maek" val="m e kh"/>
-	<VALUE name="myaek" val="m ie kh"/>
-	<VALUE name="mek" val="m e kh"/>
-	<VALUE name="myek" val="m ie kh"/>
-	<VALUE name="mwak" val="m ua kh"/>
-	<VALUE name="mwaek" val="m ue kh"/>
-	<VALUE name="moek" val="m ue kh"/>
-	<VALUE name="mwok" val="m w 7 kh"/>
-	<VALUE name="mwek" val="m ue kh"/>
-	<VALUE name="mwik" val="m u :\i kh"/>
-	<VALUE name="muik" val="m U :\i kh"/>
-	<VALUE name="bak" val="p a kh"/>
-	<VALUE name="byak" val="p ia kh"/>
-	<VALUE name="beok" val="p 7 kh"/>
-	<VALUE name="byeok" val="p j 7 kh"/>
-	<VALUE name="bok" val="p o kh"/>
-	<VALUE name="byok" val="p j o kh"/>
-	<VALUE name="buk" val="p u kh"/>
-	<VALUE name="byuk" val="p j u kh"/>
-	<VALUE name="beuk" val="p U kh"/>
-	<VALUE name="bik" val="p i kh"/>
-	<VALUE name="baek" val="p e kh"/>
-	<VALUE name="byaek" val="p ie kh"/>
-	<VALUE name="bek" val="p e kh"/>
-	<VALUE name="byek" val="p ie kh"/>
-	<VALUE name="bwak" val="p ua kh"/>
-	<VALUE name="bwaek" val="p ue kh"/>
-	<VALUE name="boek" val="p ue kh"/>
-	<VALUE name="bwok" val="p w 7 kh"/>
-	<VALUE name="bwek" val="p ue kh"/>
-	<VALUE name="bwik" val="p u :\i kh"/>
-	<VALUE name="buik" val="p U :\i kh"/>
-	<VALUE name="sak" val="s a kh"/>
-	<VALUE name="syak" val="s ia kh"/>
-	<VALUE name="seok" val="s 7 kh"/>
-	<VALUE name="syeok" val="s j 7 kh"/>
-	<VALUE name="sok" val="s o kh"/>
-	<VALUE name="syok" val="s j o kh"/>
-	<VALUE name="suk" val="s u kh"/>
-	<VALUE name="syuk" val="s j u kh"/>
-	<VALUE name="seuk" val="s U kh"/>
-	<VALUE name="sik" val="s i kh"/>
-	<VALUE name="saek" val="s e kh"/>
-	<VALUE name="syaek" val="s ie kh"/>
-	<VALUE name="sek" val="s e kh"/>
-	<VALUE name="syek" val="s ie kh"/>
-	<VALUE name="swak" val="s ua kh"/>
-	<VALUE name="swaek" val="s ue kh"/>
-	<VALUE name="soek" val="s ue kh"/>
-	<VALUE name="swok" val="s w 7 kh"/>
-	<VALUE name="swek" val="s ue kh"/>
-	<VALUE name="swik" val="s u :\i kh"/>
-	<VALUE name="suik" val="s U :\i kh"/>
-	<VALUE name="ak" val="a kh"/>
-	<VALUE name="yak" val="ia kh"/>
-	<VALUE name="eok" val="7 kh"/>
-	<VALUE name="yeok" val="j 7 kh"/>
-	<VALUE name="ok" val="o kh"/>
-	<VALUE name="yok" val="j o kh"/>
-	<VALUE name="uk" val="u kh"/>
-	<VALUE name="yuk" val="j u kh"/>
-	<VALUE name="euk" val="U kh"/>
-	<VALUE name="ik" val="i kh"/>
-	<VALUE name="aek" val="e kh"/>
-	<VALUE name="yaek" val="ie kh"/>
-	<VALUE name="ek" val="e kh"/>
-	<VALUE name="yek" val="ie kh"/>
-	<VALUE name="wak" val="ua kh"/>
-	<VALUE name="waek" val="ue kh"/>
-	<VALUE name="oek" val="ue kh"/>
-	<VALUE name="wok" val="w 7 kh"/>
-	<VALUE name="wek" val="ue kh"/>
-	<VALUE name="wik" val="u :\i kh"/>
-	<VALUE name="uik" val="U :\i kh"/>
-	<VALUE name="jak" val="ts\ a kh"/>
-	<VALUE name="jyak" val="ts\ ia kh"/>
-	<VALUE name="jeok" val="ts\ 7 kh"/>
-	<VALUE name="jyeok" val="ts\ j 7 kh"/>
-	<VALUE name="jok" val="ts\ o kh"/>
-	<VALUE name="jyok" val="ts\ j o kh"/>
-	<VALUE name="juk" val="ts\ u kh"/>
-	<VALUE name="jyuk" val="ts\ j u kh"/>
-	<VALUE name="jeuk" val="ts\ U kh"/>
-	<VALUE name="jik" val="ts\ i kh"/>
-	<VALUE name="jaek" val="ts\ e kh"/>
-	<VALUE name="jyaek" val="ts\ ie kh"/>
-	<VALUE name="jek" val="ts\ e kh"/>
-	<VALUE name="jyek" val="ts\ ie kh"/>
-	<VALUE name="jwak" val="ts\ ua kh"/>
-	<VALUE name="jwaek" val="ts\ ue kh"/>
-	<VALUE name="joek" val="ts\ ue kh"/>
-	<VALUE name="jwok" val="ts\ w 7 kh"/>
-	<VALUE name="jwek" val="ts\ ue kh"/>
-	<VALUE name="jwik" val="ts\ u :\i kh"/>
-	<VALUE name="juik" val="ts\ U :\i kh"/>
-	<VALUE name="chak" val="ts\h a kh"/>
-	<VALUE name="chyak" val="ts\h ia kh"/>
-	<VALUE name="cheok" val="ts\h 7 kh"/>
-	<VALUE name="chyeok" val="ts\h j 7 kh"/>
-	<VALUE name="chok" val="ts\h o kh"/>
-	<VALUE name="chyok" val="ts\h j o kh"/>
-	<VALUE name="chuk" val="ts\h u kh"/>
-	<VALUE name="chyuk" val="ts\h j u kh"/>
-	<VALUE name="cheuk" val="ts\h U kh"/>
-	<VALUE name="chik" val="ts\h i kh"/>
-	<VALUE name="chaek" val="ts\h e kh"/>
-	<VALUE name="chyaek" val="ts\h ie kh"/>
-	<VALUE name="chek" val="ts\h e kh"/>
-	<VALUE name="chyek" val="ts\h ie kh"/>
-	<VALUE name="chwak" val="ts\h ua kh"/>
-	<VALUE name="chwaek" val="ts\h ue kh"/>
-	<VALUE name="choek" val="ts\h ue kh"/>
-	<VALUE name="chwok" val="ts\h w 7 kh"/>
-	<VALUE name="chwek" val="ts\h ue kh"/>
-	<VALUE name="chwik" val="ts\h u :\i kh"/>
-	<VALUE name="chuik" val="ts\h U :\i kh"/>
-	<VALUE name="kak" val="kh a kh"/>
-	<VALUE name="kyak" val="kh ia kh"/>
-	<VALUE name="keok" val="kh 7 kh"/>
-	<VALUE name="kyeok" val="kh j 7 kh"/>
-	<VALUE name="kok" val="kh o kh"/>
-	<VALUE name="kyok" val="kh j o kh"/>
-	<VALUE name="kuk" val="kh u kh"/>
-	<VALUE name="kyuk" val="kh j u kh"/>
-	<VALUE name="keuk" val="kh U kh"/>
-	<VALUE name="kik" val="kh i kh"/>
-	<VALUE name="kaek" val="kh e kh"/>
-	<VALUE name="kyaek" val="kh ie kh"/>
-	<VALUE name="kek" val="kh e kh"/>
-	<VALUE name="kyek" val="kh ie kh"/>
-	<VALUE name="kwak" val="kh ua kh"/>
-	<VALUE name="kwaek" val="kh ue kh"/>
-	<VALUE name="koek" val="kh ue kh"/>
-	<VALUE name="kwok" val="kh w 7 kh"/>
-	<VALUE name="kwek" val="kh ue kh"/>
-	<VALUE name="kwik" val="kh u :\i kh"/>
-	<VALUE name="kuik" val="kh U :\i kh"/>
-	<VALUE name="tak" val="th a kh"/>
-	<VALUE name="tyak" val="th ia kh"/>
-	<VALUE name="teok" val="th 7 kh"/>
-	<VALUE name="tyeok" val="th j 7 kh"/>
-	<VALUE name="tok" val="th o kh"/>
-	<VALUE name="tyok" val="th j o kh"/>
-	<VALUE name="tuk" val="th u kh"/>
-	<VALUE name="tyuk" val="th j u kh"/>
-	<VALUE name="teuk" val="th U kh"/>
-	<VALUE name="tik" val="th i kh"/>
-	<VALUE name="taek" val="th e kh"/>
-	<VALUE name="tyaek" val="th ie kh"/>
-	<VALUE name="tek" val="th e kh"/>
-	<VALUE name="tyek" val="th ie kh"/>
-	<VALUE name="twak" val="th ua kh"/>
-	<VALUE name="twaek" val="th ue kh"/>
-	<VALUE name="toek" val="th ue kh"/>
-	<VALUE name="twok" val="th w 7 kh"/>
-	<VALUE name="twek" val="th ue kh"/>
-	<VALUE name="twik" val="th u :\i kh"/>
-	<VALUE name="tuik" val="th U :\i kh"/>
-	<VALUE name="pak" val="ph a kh"/>
-	<VALUE name="pyak" val="ph ia kh"/>
-	<VALUE name="peok" val="ph 7 kh"/>
-	<VALUE name="pyeok" val="ph j 7 kh"/>
-	<VALUE name="pok" val="ph o kh"/>
-	<VALUE name="pyok" val="ph j o kh"/>
-	<VALUE name="puk" val="ph u kh"/>
-	<VALUE name="pyuk" val="ph j u kh"/>
-	<VALUE name="peuk" val="ph U kh"/>
-	<VALUE name="pik" val="ph i kh"/>
-	<VALUE name="paek" val="ph e kh"/>
-	<VALUE name="pyaek" val="ph ie kh"/>
-	<VALUE name="pek" val="ph e kh"/>
-	<VALUE name="pyek" val="ph ie kh"/>
-	<VALUE name="pwak" val="ph ua kh"/>
-	<VALUE name="pwaek" val="ph ue kh"/>
-	<VALUE name="poek" val="ph ue kh"/>
-	<VALUE name="pwok" val="ph w 7 kh"/>
-	<VALUE name="pwek" val="ph ue kh"/>
-	<VALUE name="pwik" val="ph u :\i kh"/>
-	<VALUE name="puik" val="ph U :\i kh"/>
-	<VALUE name="hak" val="x a kh"/>
-	<VALUE name="hyak" val="x ia kh"/>
-	<VALUE name="heok" val="x 7 kh"/>
-	<VALUE name="hyeok" val="x j 7 kh"/>
-	<VALUE name="hok" val="x o kh"/>
-	<VALUE name="hyok" val="x j o kh"/>
-	<VALUE name="huk" val="x u kh"/>
-	<VALUE name="hyuk" val="x j u kh"/>
-	<VALUE name="heuk" val="x U kh"/>
-	<VALUE name="hik" val="x i kh"/>
-	<VALUE name="haek" val="x e kh"/>
-	<VALUE name="hyaek" val="x ie kh"/>
-	<VALUE name="hek" val="x e kh"/>
-	<VALUE name="hyek" val="x ie kh"/>
-	<VALUE name="hwak" val="x ua kh"/>
-	<VALUE name="hwaek" val="x ue kh"/>
-	<VALUE name="hoek" val="x ue kh"/>
-	<VALUE name="hwok" val="x w 7 kh"/>
-	<VALUE name="hwek" val="x ue kh"/>
-	<VALUE name="hwik" val="x u :\i kh"/>
-	<VALUE name="huik" val="x U :\i kh"/>
-	<VALUE name="kkak" val="k a kh"/>
-	<VALUE name="kkyak" val="k ia kh"/>
-	<VALUE name="kkeok" val="k 7 kh"/>
-	<VALUE name="kkyeok" val="k j 7 kh"/>
-	<VALUE name="kkok" val="k o kh"/>
-	<VALUE name="kkyok" val="k j o kh"/>
-	<VALUE name="kkuk" val="k u kh"/>
-	<VALUE name="kkyuk" val="k j u kh"/>
-	<VALUE name="kkeuk" val="k U kh"/>
-	<VALUE name="kkik" val="k i kh"/>
-	<VALUE name="kkaek" val="k e kh"/>
-	<VALUE name="kkyaek" val="k ie kh"/>
-	<VALUE name="kkek" val="k e kh"/>
-	<VALUE name="kkyek" val="k ie kh"/>
-	<VALUE name="kkwak" val="k ua kh"/>
-	<VALUE name="kkwaek" val="k ue kh"/>
-	<VALUE name="kkoek" val="k ue kh"/>
-	<VALUE name="kkwok" val="k w 7 kh"/>
-	<VALUE name="kkwek" val="k ue kh"/>
-	<VALUE name="kkwik" val="k u :\i kh"/>
-	<VALUE name="kkuik" val="k U :\i kh"/>
-	<VALUE name="ttak" val="t a kh"/>
-	<VALUE name="ttyak" val="t ia kh"/>
-	<VALUE name="tteok" val="t 7 kh"/>
-	<VALUE name="ttyeok" val="t j 7 kh"/>
-	<VALUE name="ttok" val="t o kh"/>
-	<VALUE name="ttyok" val="t j o kh"/>
-	<VALUE name="ttuk" val="t u kh"/>
-	<VALUE name="ttyuk" val="t j u kh"/>
-	<VALUE name="tteuk" val="t U kh"/>
-	<VALUE name="ttik" val="t i kh"/>
-	<VALUE name="ttaek" val="t e kh"/>
-	<VALUE name="ttyaek" val="t ie kh"/>
-	<VALUE name="ttek" val="t e kh"/>
-	<VALUE name="ttyek" val="t ie kh"/>
-	<VALUE name="ttwak" val="t ua kh"/>
-	<VALUE name="ttwaek" val="t ue kh"/>
-	<VALUE name="ttoek" val="t ue kh"/>
-	<VALUE name="ttwok" val="t w 7 kh"/>
-	<VALUE name="ttwek" val="t ue kh"/>
-	<VALUE name="ttwik" val="t u :\i kh"/>
-	<VALUE name="ttuik" val="t U :\i kh"/>
-	<VALUE name="ppak" val="p a kh"/>
-	<VALUE name="ppyak" val="p ia kh"/>
-	<VALUE name="ppeok" val="p 7 kh"/>
-	<VALUE name="ppyeok" val="p j 7 kh"/>
-	<VALUE name="ppok" val="p o kh"/>
-	<VALUE name="ppyok" val="p j o kh"/>
-	<VALUE name="ppuk" val="p u kh"/>
-	<VALUE name="ppyuk" val="p j u kh"/>
-	<VALUE name="ppeuk" val="p U kh"/>
-	<VALUE name="ppik" val="p i kh"/>
-	<VALUE name="ppaek" val="p e kh"/>
-	<VALUE name="ppyaek" val="p ie kh"/>
-	<VALUE name="ppek" val="p e kh"/>
-	<VALUE name="ppyek" val="p ie kh"/>
-	<VALUE name="ppwak" val="p ua kh"/>
-	<VALUE name="ppwaek" val="p ue kh"/>
-	<VALUE name="ppoek" val="p ue kh"/>
-	<VALUE name="ppwok" val="p w 7 kh"/>
-	<VALUE name="ppwek" val="p ue kh"/>
-	<VALUE name="ppwik" val="p u :\i kh"/>
-	<VALUE name="ppuik" val="p U :\i kh"/>
-	<VALUE name="ssak" val="s` a kh"/>
-	<VALUE name="ssyak" val="s` ia kh"/>
-	<VALUE name="sseok" val="s` 7 kh"/>
-	<VALUE name="ssyeok" val="s` j 7 kh"/>
-	<VALUE name="ssok" val="s` o kh"/>
-	<VALUE name="ssyok" val="s` j o kh"/>
-	<VALUE name="ssuk" val="s` u kh"/>
-	<VALUE name="ssyuk" val="s` j u kh"/>
-	<VALUE name="sseuk" val="s` U kh"/>
-	<VALUE name="ssik" val="s` i kh"/>
-	<VALUE name="ssaek" val="s` e kh"/>
-	<VALUE name="ssyaek" val="s` ie kh"/>
-	<VALUE name="ssek" val="s` e kh"/>
-	<VALUE name="ssyek" val="s` ie kh"/>
-	<VALUE name="sswak" val="s` ua kh"/>
-	<VALUE name="sswaek" val="s` ue kh"/>
-	<VALUE name="ssoek" val="s` ue kh"/>
-	<VALUE name="sswok" val="s` w 7 kh"/>
-	<VALUE name="sswek" val="s` ue kh"/>
-	<VALUE name="sswik" val="s` u :\i kh"/>
-	<VALUE name="ssuik" val="s` U :\i kh"/>
-	<VALUE name="jjak" val="ts` a kh"/>
-	<VALUE name="jjyak" val="ts` ia kh"/>
-	<VALUE name="jjeok" val="ts` 7 kh"/>
-	<VALUE name="jjyeok" val="ts` j 7 kh"/>
-	<VALUE name="jjok" val="ts` o kh"/>
-	<VALUE name="jjyok" val="ts` j o kh"/>
-	<VALUE name="jjuk" val="ts` u kh"/>
-	<VALUE name="jjyuk" val="ts` j u kh"/>
-	<VALUE name="jjeuk" val="ts` U kh"/>
-	<VALUE name="jjik" val="ts` i kh"/>
-	<VALUE name="jjaek" val="ts` e kh"/>
-	<VALUE name="jjyaek" val="ts` ie kh"/>
-	<VALUE name="jjek" val="ts` e kh"/>
-	<VALUE name="jjyek" val="ts` ie kh"/>
-	<VALUE name="jjwak" val="ts` ua kh"/>
-	<VALUE name="jjwaek" val="ts` ue kh"/>
-	<VALUE name="jjoek" val="ts` ue kh"/>
-	<VALUE name="jjwok" val="ts` w 7 kh"/>
-	<VALUE name="jjwek" val="ts` ue kh"/>
-	<VALUE name="jjwik" val="ts` u :\i kh"/>
-	<VALUE name="jjuik" val="ts` U :\i kh"/>
-	<VALUE name="gat" val="k a th"/>
-	<VALUE name="gyat" val="k ia th"/>
-	<VALUE name="geot" val="k 7 th"/>
-	<VALUE name="gyeot" val="k j 7 th"/>
-	<VALUE name="got" val="k o th"/>
-	<VALUE name="gyot" val="k j o th"/>
-	<VALUE name="gut" val="k u th"/>
-	<VALUE name="gyut" val="k j u th"/>
-	<VALUE name="geut" val="k U th"/>
-	<VALUE name="git" val="k i th"/>
-	<VALUE name="gaet" val="k e th"/>
-	<VALUE name="gyaet" val="k ie th"/>
-	<VALUE name="get" val="k e th"/>
-	<VALUE name="gyet" val="k ie th"/>
-	<VALUE name="gwat" val="k ua th"/>
-	<VALUE name="gwaet" val="k ue th"/>
-	<VALUE name="goet" val="k ue th"/>
-	<VALUE name="gwot" val="k w 7 th"/>
-	<VALUE name="gwet" val="k ue th"/>
-	<VALUE name="gwit" val="k u :\i th"/>
-	<VALUE name="guit" val="k U :\i th"/>
-	<VALUE name="nat" val="n a th"/>
-	<VALUE name="nyat" val="n ia th"/>
-	<VALUE name="neot" val="n 7 th"/>
-	<VALUE name="nyeot" val="n j 7 th"/>
-	<VALUE name="not" val="n o th"/>
-	<VALUE name="nyot" val="n j o th"/>
-	<VALUE name="nut" val="n u th"/>
-	<VALUE name="nyut" val="n j u th"/>
-	<VALUE name="neut" val="n U th"/>
-	<VALUE name="nit" val="n i th"/>
-	<VALUE name="naet" val="n e th"/>
-	<VALUE name="nyaet" val="n ie th"/>
-	<VALUE name="net" val="n e th"/>
-	<VALUE name="nyet" val="n ie th"/>
-	<VALUE name="nwat" val="n ua th"/>
-	<VALUE name="nwaet" val="n ue th"/>
-	<VALUE name="noet" val="n ue th"/>
-	<VALUE name="nwot" val="n w 7 th"/>
-	<VALUE name="nwet" val="n ue th"/>
-	<VALUE name="nwit" val="n u :\i th"/>
-	<VALUE name="nuit" val="n U :\i th"/>
-	<VALUE name="dat" val="t a th"/>
-	<VALUE name="dyat" val="t ia th"/>
-	<VALUE name="deot" val="t 7 th"/>
-	<VALUE name="dyeot" val="t j 7 th"/>
-	<VALUE name="dot" val="t o th"/>
-	<VALUE name="dyot" val="t j o th"/>
-	<VALUE name="dut" val="t u th"/>
-	<VALUE name="dyut" val="t j u th"/>
-	<VALUE name="deut" val="t U th"/>
-	<VALUE name="dit" val="t i th"/>
-	<VALUE name="daet" val="t e th"/>
-	<VALUE name="dyaet" val="t ie th"/>
-	<VALUE name="det" val="t e th"/>
-	<VALUE name="dyet" val="t ie th"/>
-	<VALUE name="dwat" val="t ua th"/>
-	<VALUE name="dwaet" val="t ue th"/>
-	<VALUE name="doet" val="t ue th"/>
-	<VALUE name="dwot" val="t w 7 th"/>
-	<VALUE name="dwet" val="t ue th"/>
-	<VALUE name="dwit" val="t u :\i th"/>
-	<VALUE name="duit" val="t U :\i th"/>
-	<VALUE name="rat" val="r\` a th"/>
-	<VALUE name="ryat" val="r\` ia th"/>
-	<VALUE name="reot" val="r\` 7 th"/>
-	<VALUE name="ryeot" val="r\` j 7 th"/>
-	<VALUE name="rot" val="r\` o th"/>
-	<VALUE name="ryot" val="r\` j o th"/>
-	<VALUE name="rut" val="r\` u th"/>
-	<VALUE name="ryut" val="r\` j u th"/>
-	<VALUE name="reut" val="r\` U th"/>
-	<VALUE name="rit" val="r\` i th"/>
-	<VALUE name="raet" val="r\` e th"/>
-	<VALUE name="ryaet" val="r\` ie th"/>
-	<VALUE name="ret" val="r\` e th"/>
-	<VALUE name="ryet" val="r\` ie th"/>
-	<VALUE name="rwat" val="r\` ua th"/>
-	<VALUE name="rwaet" val="r\` ue th"/>
-	<VALUE name="roet" val="r\` ue th"/>
-	<VALUE name="rwot" val="r\` w 7 th"/>
-	<VALUE name="rwet" val="r\` ue th"/>
-	<VALUE name="rwit" val="r\` u :\i th"/>
-	<VALUE name="ruit" val="r\` U :\i th"/>
-	<VALUE name="mat" val="m a th"/>
-	<VALUE name="myat" val="m ia th"/>
-	<VALUE name="meot" val="m 7 th"/>
-	<VALUE name="myeot" val="m j 7 th"/>
-	<VALUE name="mot" val="m o th"/>
-	<VALUE name="myot" val="m j o th"/>
-	<VALUE name="mut" val="m u th"/>
-	<VALUE name="myut" val="m j u th"/>
-	<VALUE name="meut" val="m U th"/>
-	<VALUE name="mit" val="m i th"/>
-	<VALUE name="maet" val="m e th"/>
-	<VALUE name="myaet" val="m ie th"/>
-	<VALUE name="met" val="m e th"/>
-	<VALUE name="myet" val="m ie th"/>
-	<VALUE name="mwat" val="m ua th"/>
-	<VALUE name="mwaet" val="m ue th"/>
-	<VALUE name="moet" val="m ue th"/>
-	<VALUE name="mwot" val="m w 7 th"/>
-	<VALUE name="mwet" val="m ue th"/>
-	<VALUE name="mwit" val="m u :\i th"/>
-	<VALUE name="muit" val="m U :\i th"/>
-	<VALUE name="bat" val="p a th"/>
-	<VALUE name="byat" val="p ia th"/>
-	<VALUE name="beot" val="p 7 th"/>
-	<VALUE name="byeot" val="p j 7 th"/>
-	<VALUE name="bot" val="p o th"/>
-	<VALUE name="byot" val="p j o th"/>
-	<VALUE name="but" val="p u th"/>
-	<VALUE name="byut" val="p j u th"/>
-	<VALUE name="beut" val="p U th"/>
-	<VALUE name="bit" val="p i th"/>
-	<VALUE name="baet" val="p e th"/>
-	<VALUE name="byaet" val="p ie th"/>
-	<VALUE name="bet" val="p e th"/>
-	<VALUE name="byet" val="p ie th"/>
-	<VALUE name="bwat" val="p ua th"/>
-	<VALUE name="bwaet" val="p ue th"/>
-	<VALUE name="boet" val="p ue th"/>
-	<VALUE name="bwot" val="p w 7 th"/>
-	<VALUE name="bwet" val="p ue th"/>
-	<VALUE name="bwit" val="p u :\i th"/>
-	<VALUE name="buit" val="p U :\i th"/>
-	<VALUE name="sat" val="s a th"/>
-	<VALUE name="syat" val="s ia th"/>
-	<VALUE name="seot" val="s 7 th"/>
-	<VALUE name="syeot" val="s j 7 th"/>
-	<VALUE name="sot" val="s o th"/>
-	<VALUE name="syot" val="s j o th"/>
-	<VALUE name="sut" val="s u th"/>
-	<VALUE name="syut" val="s j u th"/>
-	<VALUE name="seut" val="s U th"/>
-	<VALUE name="sit" val="s i th"/>
-	<VALUE name="saet" val="s e th"/>
-	<VALUE name="syaet" val="s ie th"/>
-	<VALUE name="set" val="s e th"/>
-	<VALUE name="syet" val="s ie th"/>
-	<VALUE name="swat" val="s ua th"/>
-	<VALUE name="swaet" val="s ue th"/>
-	<VALUE name="soet" val="s ue th"/>
-	<VALUE name="swot" val="s w 7 th"/>
-	<VALUE name="swet" val="s ue th"/>
-	<VALUE name="swit" val="s u :\i th"/>
-	<VALUE name="suit" val="s U :\i th"/>
-	<VALUE name="at" val="a th"/>
-	<VALUE name="yat" val="ia th"/>
-	<VALUE name="eot" val="7 th"/>
-	<VALUE name="yeot" val="j 7 th"/>
-	<VALUE name="ot" val="o th"/>
-	<VALUE name="yot" val="j o th"/>
-	<VALUE name="ut" val="u th"/>
-	<VALUE name="yut" val="j u th"/>
-	<VALUE name="eut" val="U th"/>
-	<VALUE name="it" val="i th"/>
-	<VALUE name="aet" val="e th"/>
-	<VALUE name="yaet" val="ie th"/>
-	<VALUE name="et" val="e th"/>
-	<VALUE name="yet" val="ie th"/>
-	<VALUE name="wat" val="ua th"/>
-	<VALUE name="waet" val="ue th"/>
-	<VALUE name="oet" val="ue th"/>
-	<VALUE name="wot" val="w 7 th"/>
-	<VALUE name="wet" val="ue th"/>
-	<VALUE name="wit" val="u :\i th"/>
-	<VALUE name="uit" val="U :\i th"/>
-	<VALUE name="jat" val="ts\ a th"/>
-	<VALUE name="jyat" val="ts\ ia th"/>
-	<VALUE name="jeot" val="ts\ 7 th"/>
-	<VALUE name="jyeot" val="ts\ j 7 th"/>
-	<VALUE name="jot" val="ts\ o th"/>
-	<VALUE name="jyot" val="ts\ j o th"/>
-	<VALUE name="jut" val="ts\ u th"/>
-	<VALUE name="jyut" val="ts\ j u th"/>
-	<VALUE name="jeut" val="ts\ U th"/>
-	<VALUE name="jit" val="ts\ i th"/>
-	<VALUE name="jaet" val="ts\ e th"/>
-	<VALUE name="jyaet" val="ts\ ie th"/>
-	<VALUE name="jet" val="ts\ e th"/>
-	<VALUE name="jyet" val="ts\ ie th"/>
-	<VALUE name="jwat" val="ts\ ua th"/>
-	<VALUE name="jwaet" val="ts\ ue th"/>
-	<VALUE name="joet" val="ts\ ue th"/>
-	<VALUE name="jwot" val="ts\ w 7 th"/>
-	<VALUE name="jwet" val="ts\ ue th"/>
-	<VALUE name="jwit" val="ts\ u :\i th"/>
-	<VALUE name="juit" val="ts\ U :\i th"/>
-	<VALUE name="chat" val="ts\h a th"/>
-	<VALUE name="chyat" val="ts\h ia th"/>
-	<VALUE name="cheot" val="ts\h 7 th"/>
-	<VALUE name="chyeot" val="ts\h j 7 th"/>
-	<VALUE name="chot" val="ts\h o th"/>
-	<VALUE name="chyot" val="ts\h j o th"/>
-	<VALUE name="chut" val="ts\h u th"/>
-	<VALUE name="chyut" val="ts\h j u th"/>
-	<VALUE name="cheut" val="ts\h U th"/>
-	<VALUE name="chit" val="ts\h i th"/>
-	<VALUE name="chaet" val="ts\h e th"/>
-	<VALUE name="chyaet" val="ts\h ie th"/>
-	<VALUE name="chet" val="ts\h e th"/>
-	<VALUE name="chyet" val="ts\h ie th"/>
-	<VALUE name="chwat" val="ts\h ua th"/>
-	<VALUE name="chwaet" val="ts\h ue th"/>
-	<VALUE name="choet" val="ts\h ue th"/>
-	<VALUE name="chwot" val="ts\h w 7 th"/>
-	<VALUE name="chwet" val="ts\h ue th"/>
-	<VALUE name="chwit" val="ts\h u :\i th"/>
-	<VALUE name="chuit" val="ts\h U :\i th"/>
-	<VALUE name="kat" val="kh a th"/>
-	<VALUE name="kyat" val="kh ia th"/>
-	<VALUE name="keot" val="kh 7 th"/>
-	<VALUE name="kyeot" val="kh j 7 th"/>
-	<VALUE name="kot" val="kh o th"/>
-	<VALUE name="kyot" val="kh j o th"/>
-	<VALUE name="kut" val="kh u th"/>
-	<VALUE name="kyut" val="kh j u th"/>
-	<VALUE name="keut" val="kh U th"/>
-	<VALUE name="kit" val="kh i th"/>
-	<VALUE name="kaet" val="kh e th"/>
-	<VALUE name="kyaet" val="kh ie th"/>
-	<VALUE name="ket" val="kh e th"/>
-	<VALUE name="kyet" val="kh ie th"/>
-	<VALUE name="kwat" val="kh ua th"/>
-	<VALUE name="kwaet" val="kh ue th"/>
-	<VALUE name="koet" val="kh ue th"/>
-	<VALUE name="kwot" val="kh w 7 th"/>
-	<VALUE name="kwet" val="kh ue th"/>
-	<VALUE name="kwit" val="kh u :\i th"/>
-	<VALUE name="kuit" val="kh U :\i th"/>
-	<VALUE name="tat" val="th a th"/>
-	<VALUE name="tyat" val="th ia th"/>
-	<VALUE name="teot" val="th 7 th"/>
-	<VALUE name="tyeot" val="th j 7 th"/>
-	<VALUE name="tot" val="th o th"/>
-	<VALUE name="tyot" val="th j o th"/>
-	<VALUE name="tut" val="th u th"/>
-	<VALUE name="tyut" val="th j u th"/>
-	<VALUE name="teut" val="th U th"/>
-	<VALUE name="tit" val="th i th"/>
-	<VALUE name="taet" val="th e th"/>
-	<VALUE name="tyaet" val="th ie th"/>
-	<VALUE name="tet" val="th e th"/>
-	<VALUE name="tyet" val="th ie th"/>
-	<VALUE name="twat" val="th ua th"/>
-	<VALUE name="twaet" val="th ue th"/>
-	<VALUE name="toet" val="th ue th"/>
-	<VALUE name="twot" val="th w 7 th"/>
-	<VALUE name="twet" val="th ue th"/>
-	<VALUE name="twit" val="th u :\i th"/>
-	<VALUE name="tuit" val="th U :\i th"/>
-	<VALUE name="pat" val="ph a th"/>
-	<VALUE name="pyat" val="ph ia th"/>
-	<VALUE name="peot" val="ph 7 th"/>
-	<VALUE name="pyeot" val="ph j 7 th"/>
-	<VALUE name="pot" val="ph o th"/>
-	<VALUE name="pyot" val="ph j o th"/>
-	<VALUE name="put" val="ph u th"/>
-	<VALUE name="pyut" val="ph j u th"/>
-	<VALUE name="peut" val="ph U th"/>
-	<VALUE name="pit" val="ph i th"/>
-	<VALUE name="paet" val="ph e th"/>
-	<VALUE name="pyaet" val="ph ie th"/>
-	<VALUE name="pet" val="ph e th"/>
-	<VALUE name="pyet" val="ph ie th"/>
-	<VALUE name="pwat" val="ph ua th"/>
-	<VALUE name="pwaet" val="ph ue th"/>
-	<VALUE name="poet" val="ph ue th"/>
-	<VALUE name="pwot" val="ph w 7 th"/>
-	<VALUE name="pwet" val="ph ue th"/>
-	<VALUE name="pwit" val="ph u :\i th"/>
-	<VALUE name="puit" val="ph U :\i th"/>
-	<VALUE name="hat" val="x a th"/>
-	<VALUE name="hyat" val="x ia th"/>
-	<VALUE name="heot" val="x 7 th"/>
-	<VALUE name="hyeot" val="x j 7 th"/>
-	<VALUE name="hot" val="x o th"/>
-	<VALUE name="hyot" val="x j o th"/>
-	<VALUE name="hut" val="x u th"/>
-	<VALUE name="hyut" val="x j u th"/>
-	<VALUE name="heut" val="x U th"/>
-	<VALUE name="hit" val="x i th"/>
-	<VALUE name="haet" val="x e th"/>
-	<VALUE name="hyaet" val="x ie th"/>
-	<VALUE name="het" val="x e th"/>
-	<VALUE name="hyet" val="x ie th"/>
-	<VALUE name="hwat" val="x ua th"/>
-	<VALUE name="hwaet" val="x ue th"/>
-	<VALUE name="hoet" val="x ue th"/>
-	<VALUE name="hwot" val="x w 7 th"/>
-	<VALUE name="hwet" val="x ue th"/>
-	<VALUE name="hwit" val="x u :\i th"/>
-	<VALUE name="huit" val="x U :\i th"/>
-	<VALUE name="kkat" val="k a th"/>
-	<VALUE name="kkyat" val="k ia th"/>
-	<VALUE name="kkeot" val="k 7 th"/>
-	<VALUE name="kkyeot" val="k j 7 th"/>
-	<VALUE name="kkot" val="k o th"/>
-	<VALUE name="kkyot" val="k j o th"/>
-	<VALUE name="kkut" val="k u th"/>
-	<VALUE name="kkyut" val="k j u th"/>
-	<VALUE name="kkeut" val="k U th"/>
-	<VALUE name="kkit" val="k i th"/>
-	<VALUE name="kkaet" val="k e th"/>
-	<VALUE name="kkyaet" val="k ie th"/>
-	<VALUE name="kket" val="k e th"/>
-	<VALUE name="kkyet" val="k ie th"/>
-	<VALUE name="kkwat" val="k ua th"/>
-	<VALUE name="kkwaet" val="k ue th"/>
-	<VALUE name="kkoet" val="k ue th"/>
-	<VALUE name="kkwot" val="k w 7 th"/>
-	<VALUE name="kkwet" val="k ue th"/>
-	<VALUE name="kkwit" val="k u :\i th"/>
-	<VALUE name="kkuit" val="k U :\i th"/>
-	<VALUE name="ttat" val="t a th"/>
-	<VALUE name="ttyat" val="t ia th"/>
-	<VALUE name="tteot" val="t 7 th"/>
-	<VALUE name="ttyeot" val="t j 7 th"/>
-	<VALUE name="ttot" val="t o th"/>
-	<VALUE name="ttyot" val="t j o th"/>
-	<VALUE name="ttut" val="t u th"/>
-	<VALUE name="ttyut" val="t j u th"/>
-	<VALUE name="tteut" val="t U th"/>
-	<VALUE name="ttit" val="t i th"/>
-	<VALUE name="ttaet" val="t e th"/>
-	<VALUE name="ttyaet" val="t ie th"/>
-	<VALUE name="ttet" val="t e th"/>
-	<VALUE name="ttyet" val="t ie th"/>
-	<VALUE name="ttwat" val="t ua th"/>
-	<VALUE name="ttwaet" val="t ue th"/>
-	<VALUE name="ttoet" val="t ue th"/>
-	<VALUE name="ttwot" val="t w 7 th"/>
-	<VALUE name="ttwet" val="t ue th"/>
-	<VALUE name="ttwit" val="t u :\i th"/>
-	<VALUE name="ttuit" val="t U :\i th"/>
-	<VALUE name="ppat" val="p a th"/>
-	<VALUE name="ppyat" val="p ia th"/>
-	<VALUE name="ppeot" val="p 7 th"/>
-	<VALUE name="ppyeot" val="p j 7 th"/>
-	<VALUE name="ppot" val="p o th"/>
-	<VALUE name="ppyot" val="p j o th"/>
-	<VALUE name="pput" val="p u th"/>
-	<VALUE name="ppyut" val="p j u th"/>
-	<VALUE name="ppeut" val="p U th"/>
-	<VALUE name="ppit" val="p i th"/>
-	<VALUE name="ppaet" val="p e th"/>
-	<VALUE name="ppyaet" val="p ie th"/>
-	<VALUE name="ppet" val="p e th"/>
-	<VALUE name="ppyet" val="p ie th"/>
-	<VALUE name="ppwat" val="p ua th"/>
-	<VALUE name="ppwaet" val="p ue th"/>
-	<VALUE name="ppoet" val="p ue th"/>
-	<VALUE name="ppwot" val="p w 7 th"/>
-	<VALUE name="ppwet" val="p ue th"/>
-	<VALUE name="ppwit" val="p u :\i th"/>
-	<VALUE name="ppuit" val="p U :\i th"/>
-	<VALUE name="ssat" val="s` a th"/>
-	<VALUE name="ssyat" val="s` ia th"/>
-	<VALUE name="sseot" val="s` 7 th"/>
-	<VALUE name="ssyeot" val="s` j 7 th"/>
-	<VALUE name="ssot" val="s` o th"/>
-	<VALUE name="ssyot" val="s` j o th"/>
-	<VALUE name="ssut" val="s` u th"/>
-	<VALUE name="ssyut" val="s` j u th"/>
-	<VALUE name="sseut" val="s` U th"/>
-	<VALUE name="ssit" val="s` i th"/>
-	<VALUE name="ssaet" val="s` e th"/>
-	<VALUE name="ssyaet" val="s` ie th"/>
-	<VALUE name="sset" val="s` e th"/>
-	<VALUE name="ssyet" val="s` ie th"/>
-	<VALUE name="sswat" val="s` ua th"/>
-	<VALUE name="sswaet" val="s` ue th"/>
-	<VALUE name="ssoet" val="s` ue th"/>
-	<VALUE name="sswot" val="s` w 7 th"/>
-	<VALUE name="sswet" val="s` ue th"/>
-	<VALUE name="sswit" val="s` u :\i th"/>
-	<VALUE name="ssuit" val="s` U :\i th"/>
-	<VALUE name="jjat" val="ts` a th"/>
-	<VALUE name="jjyat" val="ts` ia th"/>
-	<VALUE name="jjeot" val="ts` 7 th"/>
-	<VALUE name="jjyeot" val="ts` j 7 th"/>
-	<VALUE name="jjot" val="ts` o th"/>
-	<VALUE name="jjyot" val="ts` j o th"/>
-	<VALUE name="jjut" val="ts` u th"/>
-	<VALUE name="jjyut" val="ts` j u th"/>
-	<VALUE name="jjeut" val="ts` U th"/>
-	<VALUE name="jjit" val="ts` i th"/>
-	<VALUE name="jjaet" val="ts` e th"/>
-	<VALUE name="jjyaet" val="ts` ie th"/>
-	<VALUE name="jjet" val="ts` e th"/>
-	<VALUE name="jjyet" val="ts` ie th"/>
-	<VALUE name="jjwat" val="ts` ua th"/>
-	<VALUE name="jjwaet" val="ts` ue th"/>
-	<VALUE name="jjoet" val="ts` ue th"/>
-	<VALUE name="jjwot" val="ts` w 7 th"/>
-	<VALUE name="jjwet" val="ts` ue th"/>
-	<VALUE name="jjwit" val="ts` u :\i th"/>
-	<VALUE name="jjuit" val="ts` U :\i th"/>
-	<VALUE name="gap" val="k a ph"/>
-	<VALUE name="gyap" val="k ia ph"/>
-	<VALUE name="geop" val="k 7 ph"/>
-	<VALUE name="gyeop" val="k j 7 ph"/>
-	<VALUE name="gop" val="k o ph"/>
-	<VALUE name="gyop" val="k j o ph"/>
-	<VALUE name="gup" val="k u ph"/>
-	<VALUE name="gyup" val="k j u ph"/>
-	<VALUE name="geup" val="k U ph"/>
-	<VALUE name="gip" val="k i ph"/>
-	<VALUE name="gaep" val="k e ph"/>
-	<VALUE name="gyaep" val="k ie ph"/>
-	<VALUE name="gep" val="k e ph"/>
-	<VALUE name="gyep" val="k ie ph"/>
-	<VALUE name="gwap" val="k ua ph"/>
-	<VALUE name="gwaep" val="k ue ph"/>
-	<VALUE name="goep" val="k ue ph"/>
-	<VALUE name="gwop" val="k w 7 ph"/>
-	<VALUE name="gwep" val="k ue ph"/>
-	<VALUE name="gwip" val="k u :\i ph"/>
-	<VALUE name="guip" val="k U :\i ph"/>
-	<VALUE name="nap" val="n a ph"/>
-	<VALUE name="nyap" val="n ia ph"/>
-	<VALUE name="neop" val="n 7 ph"/>
-	<VALUE name="nyeop" val="n j 7 ph"/>
-	<VALUE name="nop" val="n o ph"/>
-	<VALUE name="nyop" val="n j o ph"/>
-	<VALUE name="nup" val="n u ph"/>
-	<VALUE name="nyup" val="n j u ph"/>
-	<VALUE name="neup" val="n U ph"/>
-	<VALUE name="nip" val="n i ph"/>
-	<VALUE name="naep" val="n e ph"/>
-	<VALUE name="nyaep" val="n ie ph"/>
-	<VALUE name="nep" val="n e ph"/>
-	<VALUE name="nyep" val="n ie ph"/>
-	<VALUE name="nwap" val="n ua ph"/>
-	<VALUE name="nwaep" val="n ue ph"/>
-	<VALUE name="noep" val="n ue ph"/>
-	<VALUE name="nwop" val="n w 7 ph"/>
-	<VALUE name="nwep" val="n ue ph"/>
-	<VALUE name="nwip" val="n u :\i ph"/>
-	<VALUE name="nuip" val="n U :\i ph"/>
-	<VALUE name="dap" val="t a ph"/>
-	<VALUE name="dyap" val="t ia ph"/>
-	<VALUE name="deop" val="t 7 ph"/>
-	<VALUE name="dyeop" val="t j 7 ph"/>
-	<VALUE name="dop" val="t o ph"/>
-	<VALUE name="dyop" val="t j o ph"/>
-	<VALUE name="dup" val="t u ph"/>
-	<VALUE name="dyup" val="t j u ph"/>
-	<VALUE name="deup" val="t U ph"/>
-	<VALUE name="dip" val="t i ph"/>
-	<VALUE name="daep" val="t e ph"/>
-	<VALUE name="dyaep" val="t ie ph"/>
-	<VALUE name="dep" val="t e ph"/>
-	<VALUE name="dyep" val="t ie ph"/>
-	<VALUE name="dwap" val="t ua ph"/>
-	<VALUE name="dwaep" val="t ue ph"/>
-	<VALUE name="doep" val="t ue ph"/>
-	<VALUE name="dwop" val="t w 7 ph"/>
-	<VALUE name="dwep" val="t ue ph"/>
-	<VALUE name="dwip" val="t u :\i ph"/>
-	<VALUE name="duip" val="t U :\i ph"/>
-	<VALUE name="rap" val="r\` a ph"/>
-	<VALUE name="ryap" val="r\` ia ph"/>
-	<VALUE name="reop" val="r\` 7 ph"/>
-	<VALUE name="ryeop" val="r\` j 7 ph"/>
-	<VALUE name="rop" val="r\` o ph"/>
-	<VALUE name="ryop" val="r\` j o ph"/>
-	<VALUE name="rup" val="r\` u ph"/>
-	<VALUE name="ryup" val="r\` j u ph"/>
-	<VALUE name="reup" val="r\` U ph"/>
-	<VALUE name="rip" val="r\` i ph"/>
-	<VALUE name="raep" val="r\` e ph"/>
-	<VALUE name="ryaep" val="r\` ie ph"/>
-	<VALUE name="rep" val="r\` e ph"/>
-	<VALUE name="ryep" val="r\` ie ph"/>
-	<VALUE name="rwap" val="r\` ua ph"/>
-	<VALUE name="rwaep" val="r\` ue ph"/>
-	<VALUE name="roep" val="r\` ue ph"/>
-	<VALUE name="rwop" val="r\` w 7 ph"/>
-	<VALUE name="rwep" val="r\` ue ph"/>
-	<VALUE name="rwip" val="r\` u :\i ph"/>
-	<VALUE name="ruip" val="r\` U :\i ph"/>
-	<VALUE name="map" val="m a ph"/>
-	<VALUE name="myap" val="m ia ph"/>
-	<VALUE name="meop" val="m 7 ph"/>
-	<VALUE name="myeop" val="m j 7 ph"/>
-	<VALUE name="mop" val="m o ph"/>
-	<VALUE name="myop" val="m j o ph"/>
-	<VALUE name="mup" val="m u ph"/>
-	<VALUE name="myup" val="m j u ph"/>
-	<VALUE name="meup" val="m U ph"/>
-	<VALUE name="mip" val="m i ph"/>
-	<VALUE name="maep" val="m e ph"/>
-	<VALUE name="myaep" val="m ie ph"/>
-	<VALUE name="mep" val="m e ph"/>
-	<VALUE name="myep" val="m ie ph"/>
-	<VALUE name="mwap" val="m ua ph"/>
-	<VALUE name="mwaep" val="m ue ph"/>
-	<VALUE name="moep" val="m ue ph"/>
-	<VALUE name="mwop" val="m w 7 ph"/>
-	<VALUE name="mwep" val="m ue ph"/>
-	<VALUE name="mwip" val="m u :\i ph"/>
-	<VALUE name="muip" val="m U :\i ph"/>
-	<VALUE name="bap" val="p a ph"/>
-	<VALUE name="byap" val="p ia ph"/>
-	<VALUE name="beop" val="p 7 ph"/>
-	<VALUE name="byeop" val="p j 7 ph"/>
-	<VALUE name="bop" val="p o ph"/>
-	<VALUE name="byop" val="p j o ph"/>
-	<VALUE name="bup" val="p u ph"/>
-	<VALUE name="byup" val="p j u ph"/>
-	<VALUE name="beup" val="p U ph"/>
-	<VALUE name="bip" val="p i ph"/>
-	<VALUE name="baep" val="p e ph"/>
-	<VALUE name="byaep" val="p ie ph"/>
-	<VALUE name="bep" val="p e ph"/>
-	<VALUE name="byep" val="p ie ph"/>
-	<VALUE name="bwap" val="p ua ph"/>
-	<VALUE name="bwaep" val="p ue ph"/>
-	<VALUE name="boep" val="p ue ph"/>
-	<VALUE name="bwop" val="p w 7 ph"/>
-	<VALUE name="bwep" val="p ue ph"/>
-	<VALUE name="bwip" val="p u :\i ph"/>
-	<VALUE name="buip" val="p U :\i ph"/>
-	<VALUE name="sap" val="s a ph"/>
-	<VALUE name="syap" val="s ia ph"/>
-	<VALUE name="seop" val="s 7 ph"/>
-	<VALUE name="syeop" val="s j 7 ph"/>
-	<VALUE name="sop" val="s o ph"/>
-	<VALUE name="syop" val="s j o ph"/>
-	<VALUE name="sup" val="s u ph"/>
-	<VALUE name="syup" val="s j u ph"/>
-	<VALUE name="seup" val="s U ph"/>
-	<VALUE name="sip" val="s i ph"/>
-	<VALUE name="saep" val="s e ph"/>
-	<VALUE name="syaep" val="s ie ph"/>
-	<VALUE name="sep" val="s e ph"/>
-	<VALUE name="syep" val="s ie ph"/>
-	<VALUE name="swap" val="s ua ph"/>
-	<VALUE name="swaep" val="s ue ph"/>
-	<VALUE name="soep" val="s ue ph"/>
-	<VALUE name="swop" val="s w 7 ph"/>
-	<VALUE name="swep" val="s ue ph"/>
-	<VALUE name="swip" val="s u :\i ph"/>
-	<VALUE name="suip" val="s U :\i ph"/>
-	<VALUE name="ap" val="a ph"/>
-	<VALUE name="yap" val="ia ph"/>
-	<VALUE name="eop" val="7 ph"/>
-	<VALUE name="yeop" val="j 7 ph"/>
-	<VALUE name="op" val="o ph"/>
-	<VALUE name="yop" val="j o ph"/>
-	<VALUE name="up" val="u ph"/>
-	<VALUE name="yup" val="j u ph"/>
-	<VALUE name="eup" val="U ph"/>
-	<VALUE name="ip" val="i ph"/>
-	<VALUE name="aep" val="e ph"/>
-	<VALUE name="yaep" val="ie ph"/>
-	<VALUE name="ep" val="e ph"/>
-	<VALUE name="yep" val="ie ph"/>
-	<VALUE name="wap" val="ua ph"/>
-	<VALUE name="waep" val="ue ph"/>
-	<VALUE name="oep" val="ue ph"/>
-	<VALUE name="wop" val="w 7 ph"/>
-	<VALUE name="wep" val="ue ph"/>
-	<VALUE name="wip" val="u :\i ph"/>
-	<VALUE name="uip" val="U :\i ph"/>
-	<VALUE name="jap" val="ts\ a ph"/>
-	<VALUE name="jyap" val="ts\ ia ph"/>
-	<VALUE name="jeop" val="ts\ 7 ph"/>
-	<VALUE name="jyeop" val="ts\ j 7 ph"/>
-	<VALUE name="jop" val="ts\ o ph"/>
-	<VALUE name="jyop" val="ts\ j o ph"/>
-	<VALUE name="jup" val="ts\ u ph"/>
-	<VALUE name="jyup" val="ts\ j u ph"/>
-	<VALUE name="jeup" val="ts\ U ph"/>
-	<VALUE name="jip" val="ts\ i ph"/>
-	<VALUE name="jaep" val="ts\ e ph"/>
-	<VALUE name="jyaep" val="ts\ ie ph"/>
-	<VALUE name="jep" val="ts\ e ph"/>
-	<VALUE name="jyep" val="ts\ ie ph"/>
-	<VALUE name="jwap" val="ts\ ua ph"/>
-	<VALUE name="jwaep" val="ts\ ue ph"/>
-	<VALUE name="joep" val="ts\ ue ph"/>
-	<VALUE name="jwop" val="ts\ w 7 ph"/>
-	<VALUE name="jwep" val="ts\ ue ph"/>
-	<VALUE name="jwip" val="ts\ u :\i ph"/>
-	<VALUE name="juip" val="ts\ U :\i ph"/>
-	<VALUE name="chap" val="ts\h a ph"/>
-	<VALUE name="chyap" val="ts\h ia ph"/>
-	<VALUE name="cheop" val="ts\h 7 ph"/>
-	<VALUE name="chyeop" val="ts\h j 7 ph"/>
-	<VALUE name="chop" val="ts\h o ph"/>
-	<VALUE name="chyop" val="ts\h j o ph"/>
-	<VALUE name="chup" val="ts\h u ph"/>
-	<VALUE name="chyup" val="ts\h j u ph"/>
-	<VALUE name="cheup" val="ts\h U ph"/>
-	<VALUE name="chip" val="ts\h i ph"/>
-	<VALUE name="chaep" val="ts\h e ph"/>
-	<VALUE name="chyaep" val="ts\h ie ph"/>
-	<VALUE name="chep" val="ts\h e ph"/>
-	<VALUE name="chyep" val="ts\h ie ph"/>
-	<VALUE name="chwap" val="ts\h ua ph"/>
-	<VALUE name="chwaep" val="ts\h ue ph"/>
-	<VALUE name="choep" val="ts\h ue ph"/>
-	<VALUE name="chwop" val="ts\h w 7 ph"/>
-	<VALUE name="chwep" val="ts\h ue ph"/>
-	<VALUE name="chwip" val="ts\h u :\i ph"/>
-	<VALUE name="chuip" val="ts\h U :\i ph"/>
-	<VALUE name="kap" val="kh a ph"/>
-	<VALUE name="kyap" val="kh ia ph"/>
-	<VALUE name="keop" val="kh 7 ph"/>
-	<VALUE name="kyeop" val="kh j 7 ph"/>
-	<VALUE name="kop" val="kh o ph"/>
-	<VALUE name="kyop" val="kh j o ph"/>
-	<VALUE name="kup" val="kh u ph"/>
-	<VALUE name="kyup" val="kh j u ph"/>
-	<VALUE name="keup" val="kh U ph"/>
-	<VALUE name="kip" val="kh i ph"/>
-	<VALUE name="kaep" val="kh e ph"/>
-	<VALUE name="kyaep" val="kh ie ph"/>
-	<VALUE name="kep" val="kh e ph"/>
-	<VALUE name="kyep" val="kh ie ph"/>
-	<VALUE name="kwap" val="kh ua ph"/>
-	<VALUE name="kwaep" val="kh ue ph"/>
-	<VALUE name="koep" val="kh ue ph"/>
-	<VALUE name="kwop" val="kh w 7 ph"/>
-	<VALUE name="kwep" val="kh ue ph"/>
-	<VALUE name="kwip" val="kh u :\i ph"/>
-	<VALUE name="kuip" val="kh U :\i ph"/>
-	<VALUE name="tap" val="th a ph"/>
-	<VALUE name="tyap" val="th ia ph"/>
-	<VALUE name="teop" val="th 7 ph"/>
-	<VALUE name="tyeop" val="th j 7 ph"/>
-	<VALUE name="top" val="th o ph"/>
-	<VALUE name="tyop" val="th j o ph"/>
-	<VALUE name="tup" val="th u ph"/>
-	<VALUE name="tyup" val="th j u ph"/>
-	<VALUE name="teup" val="th U ph"/>
-	<VALUE name="tip" val="th i ph"/>
-	<VALUE name="taep" val="th e ph"/>
-	<VALUE name="tyaep" val="th ie ph"/>
-	<VALUE name="tep" val="th e ph"/>
-	<VALUE name="tyep" val="th ie ph"/>
-	<VALUE name="twap" val="th ua ph"/>
-	<VALUE name="twaep" val="th ue ph"/>
-	<VALUE name="toep" val="th ue ph"/>
-	<VALUE name="twop" val="th w 7 ph"/>
-	<VALUE name="twep" val="th ue ph"/>
-	<VALUE name="twip" val="th u :\i ph"/>
-	<VALUE name="tuip" val="th U :\i ph"/>
-	<VALUE name="pap" val="ph a ph"/>
-	<VALUE name="pyap" val="ph ia ph"/>
-	<VALUE name="peop" val="ph 7 ph"/>
-	<VALUE name="pyeop" val="ph j 7 ph"/>
-	<VALUE name="pop" val="ph o ph"/>
-	<VALUE name="pyop" val="ph j o ph"/>
-	<VALUE name="pup" val="ph u ph"/>
-	<VALUE name="pyup" val="ph j u ph"/>
-	<VALUE name="peup" val="ph U ph"/>
-	<VALUE name="pip" val="ph i ph"/>
-	<VALUE name="paep" val="ph e ph"/>
-	<VALUE name="pyaep" val="ph ie ph"/>
-	<VALUE name="pep" val="ph e ph"/>
-	<VALUE name="pyep" val="ph ie ph"/>
-	<VALUE name="pwap" val="ph ua ph"/>
-	<VALUE name="pwaep" val="ph ue ph"/>
-	<VALUE name="poep" val="ph ue ph"/>
-	<VALUE name="pwop" val="ph w 7 ph"/>
-	<VALUE name="pwep" val="ph ue ph"/>
-	<VALUE name="pwip" val="ph u :\i ph"/>
-	<VALUE name="puip" val="ph U :\i ph"/>
-	<VALUE name="hap" val="x a ph"/>
-	<VALUE name="hyap" val="x ia ph"/>
-	<VALUE name="heop" val="x 7 ph"/>
-	<VALUE name="hyeop" val="x j 7 ph"/>
-	<VALUE name="hop" val="x o ph"/>
-	<VALUE name="hyop" val="x j o ph"/>
-	<VALUE name="hup" val="x u ph"/>
-	<VALUE name="hyup" val="x j u ph"/>
-	<VALUE name="heup" val="x U ph"/>
-	<VALUE name="hip" val="x i ph"/>
-	<VALUE name="haep" val="x e ph"/>
-	<VALUE name="hyaep" val="x ie ph"/>
-	<VALUE name="hep" val="x e ph"/>
-	<VALUE name="hyep" val="x ie ph"/>
-	<VALUE name="hwap" val="x ua ph"/>
-	<VALUE name="hwaep" val="x ue ph"/>
-	<VALUE name="hoep" val="x ue ph"/>
-	<VALUE name="hwop" val="x w 7 ph"/>
-	<VALUE name="hwep" val="x ue ph"/>
-	<VALUE name="hwip" val="x u :\i ph"/>
-	<VALUE name="huip" val="x U :\i ph"/>
-	<VALUE name="kkap" val="k a ph"/>
-	<VALUE name="kkyap" val="k ia ph"/>
-	<VALUE name="kkeop" val="k 7 ph"/>
-	<VALUE name="kkyeop" val="k j 7 ph"/>
-	<VALUE name="kkop" val="k o ph"/>
-	<VALUE name="kkyop" val="k j o ph"/>
-	<VALUE name="kkup" val="k u ph"/>
-	<VALUE name="kkyup" val="k j u ph"/>
-	<VALUE name="kkeup" val="k U ph"/>
-	<VALUE name="kkip" val="k i ph"/>
-	<VALUE name="kkaep" val="k e ph"/>
-	<VALUE name="kkyaep" val="k ie ph"/>
-	<VALUE name="kkep" val="k e ph"/>
-	<VALUE name="kkyep" val="k ie ph"/>
-	<VALUE name="kkwap" val="k ua ph"/>
-	<VALUE name="kkwaep" val="k ue ph"/>
-	<VALUE name="kkoep" val="k ue ph"/>
-	<VALUE name="kkwop" val="k w 7 ph"/>
-	<VALUE name="kkwep" val="k ue ph"/>
-	<VALUE name="kkwip" val="k u :\i ph"/>
-	<VALUE name="kkuip" val="k U :\i ph"/>
-	<VALUE name="ttap" val="t a ph"/>
-	<VALUE name="ttyap" val="t ia ph"/>
-	<VALUE name="tteop" val="t 7 ph"/>
-	<VALUE name="ttyeop" val="t j 7 ph"/>
-	<VALUE name="ttop" val="t o ph"/>
-	<VALUE name="ttyop" val="t j o ph"/>
-	<VALUE name="ttup" val="t u ph"/>
-	<VALUE name="ttyup" val="t j u ph"/>
-	<VALUE name="tteup" val="t U ph"/>
-	<VALUE name="ttip" val="t i ph"/>
-	<VALUE name="ttaep" val="t e ph"/>
-	<VALUE name="ttyaep" val="t ie ph"/>
-	<VALUE name="ttep" val="t e ph"/>
-	<VALUE name="ttyep" val="t ie ph"/>
-	<VALUE name="ttwap" val="t ua ph"/>
-	<VALUE name="ttwaep" val="t ue ph"/>
-	<VALUE name="ttoep" val="t ue ph"/>
-	<VALUE name="ttwop" val="t w 7 ph"/>
-	<VALUE name="ttwep" val="t ue ph"/>
-	<VALUE name="ttwip" val="t u :\i ph"/>
-	<VALUE name="ttuip" val="t U :\i ph"/>
-	<VALUE name="ppap" val="p a ph"/>
-	<VALUE name="ppyap" val="p ia ph"/>
-	<VALUE name="ppeop" val="p 7 ph"/>
-	<VALUE name="ppyeop" val="p j 7 ph"/>
-	<VALUE name="ppop" val="p o ph"/>
-	<VALUE name="ppyop" val="p j o ph"/>
-	<VALUE name="ppup" val="p u ph"/>
-	<VALUE name="ppyup" val="p j u ph"/>
-	<VALUE name="ppeup" val="p U ph"/>
-	<VALUE name="ppip" val="p i ph"/>
-	<VALUE name="ppaep" val="p e ph"/>
-	<VALUE name="ppyaep" val="p ie ph"/>
-	<VALUE name="ppep" val="p e ph"/>
-	<VALUE name="ppyep" val="p ie ph"/>
-	<VALUE name="ppwap" val="p ua ph"/>
-	<VALUE name="ppwaep" val="p ue ph"/>
-	<VALUE name="ppoep" val="p ue ph"/>
-	<VALUE name="ppwop" val="p w 7 ph"/>
-	<VALUE name="ppwep" val="p ue ph"/>
-	<VALUE name="ppwip" val="p u :\i ph"/>
-	<VALUE name="ppuip" val="p U :\i ph"/>
-	<VALUE name="ssap" val="s` a ph"/>
-	<VALUE name="ssyap" val="s` ia ph"/>
-	<VALUE name="sseop" val="s` 7 ph"/>
-	<VALUE name="ssyeop" val="s` j 7 ph"/>
-	<VALUE name="ssop" val="s` o ph"/>
-	<VALUE name="ssyop" val="s` j o ph"/>
-	<VALUE name="ssup" val="s` u ph"/>
-	<VALUE name="ssyup" val="s` j u ph"/>
-	<VALUE name="sseup" val="s` U ph"/>
-	<VALUE name="ssip" val="s` i ph"/>
-	<VALUE name="ssaep" val="s` e ph"/>
-	<VALUE name="ssyaep" val="s` ie ph"/>
-	<VALUE name="ssep" val="s` e ph"/>
-	<VALUE name="ssyep" val="s` ie ph"/>
-	<VALUE name="sswap" val="s` ua ph"/>
-	<VALUE name="sswaep" val="s` ue ph"/>
-	<VALUE name="ssoep" val="s` ue ph"/>
-	<VALUE name="sswop" val="s` w 7 ph"/>
-	<VALUE name="sswep" val="s` ue ph"/>
-	<VALUE name="sswip" val="s` u :\i ph"/>
-	<VALUE name="ssuip" val="s` U :\i ph"/>
-	<VALUE name="jjap" val="ts` a ph"/>
-	<VALUE name="jjyap" val="ts` ia ph"/>
-	<VALUE name="jjeop" val="ts` 7 ph"/>
-	<VALUE name="jjyeop" val="ts` j 7 ph"/>
-	<VALUE name="jjop" val="ts` o ph"/>
-	<VALUE name="jjyop" val="ts` j o ph"/>
-	<VALUE name="jjup" val="ts` u ph"/>
-	<VALUE name="jjyup" val="ts` j u ph"/>
-	<VALUE name="jjeup" val="ts` U ph"/>
-	<VALUE name="jjip" val="ts` i ph"/>
-	<VALUE name="jjaep" val="ts` e ph"/>
-	<VALUE name="jjyaep" val="ts` ie ph"/>
-	<VALUE name="jjep" val="ts` e ph"/>
-	<VALUE name="jjyep" val="ts` ie ph"/>
-	<VALUE name="jjwap" val="ts` ua ph"/>
-	<VALUE name="jjwaep" val="ts` ue ph"/>
-	<VALUE name="jjoep" val="ts` ue ph"/>
-	<VALUE name="jjwop" val="ts` w 7 ph"/>
-	<VALUE name="jjwep" val="ts` ue ph"/>
-	<VALUE name="jjwip" val="ts` u :\i ph"/>
-	<VALUE name="jjuip" val="ts` U :\i ph"/>
-	<VALUE name="gal" val="k a l"/>
-	<VALUE name="gyal" val="k ia l"/>
-	<VALUE name="geol" val="k 7 l"/>
-	<VALUE name="gyeol" val="k j 7 l"/>
-	<VALUE name="gol" val="k o l"/>
-	<VALUE name="gyol" val="k j o l"/>
-	<VALUE name="gul" val="k u l"/>
-	<VALUE name="gyul" val="k j u l"/>
-	<VALUE name="geul" val="k U l"/>
-	<VALUE name="gil" val="k i l"/>
-	<VALUE name="gael" val="k e l"/>
-	<VALUE name="gyael" val="k ie l"/>
-	<VALUE name="gel" val="k e l"/>
-	<VALUE name="gyel" val="k ie l"/>
-	<VALUE name="gwal" val="k ua l"/>
-	<VALUE name="gwael" val="k ue l"/>
-	<VALUE name="goel" val="k ue l"/>
-	<VALUE name="gwol" val="k w 7 l"/>
-	<VALUE name="gwel" val="k ue l"/>
-	<VALUE name="gwil" val="k u :\i l"/>
-	<VALUE name="guil" val="k U :\i l"/>
-	<VALUE name="nal" val="n a l"/>
-	<VALUE name="nyal" val="n ia l"/>
-	<VALUE name="neol" val="n 7 l"/>
-	<VALUE name="nyeol" val="n j 7 l"/>
-	<VALUE name="nol" val="n o l"/>
-	<VALUE name="nyol" val="n j o l"/>
-	<VALUE name="nul" val="n u l"/>
-	<VALUE name="nyul" val="n j u l"/>
-	<VALUE name="neul" val="n U l"/>
-	<VALUE name="nil" val="n i l"/>
-	<VALUE name="nael" val="n e l"/>
-	<VALUE name="nyael" val="n ie l"/>
-	<VALUE name="nel" val="n e l"/>
-	<VALUE name="nyel" val="n ie l"/>
-	<VALUE name="nwal" val="n ua l"/>
-	<VALUE name="nwael" val="n ue l"/>
-	<VALUE name="noel" val="n ue l"/>
-	<VALUE name="nwol" val="n w 7 l"/>
-	<VALUE name="nwel" val="n ue l"/>
-	<VALUE name="nwil" val="n u :\i l"/>
-	<VALUE name="nuil" val="n U :\i l"/>
-	<VALUE name="dal" val="t a l"/>
-	<VALUE name="dyal" val="t ia l"/>
-	<VALUE name="deol" val="t 7 l"/>
-	<VALUE name="dyeol" val="t j 7 l"/>
-	<VALUE name="dol" val="t o l"/>
-	<VALUE name="dyol" val="t j o l"/>
-	<VALUE name="dul" val="t u l"/>
-	<VALUE name="dyul" val="t j u l"/>
-	<VALUE name="deul" val="t U l"/>
-	<VALUE name="dil" val="t i l"/>
-	<VALUE name="dael" val="t e l"/>
-	<VALUE name="dyael" val="t ie l"/>
-	<VALUE name="del" val="t e l"/>
-	<VALUE name="dyel" val="t ie l"/>
-	<VALUE name="dwal" val="t ua l"/>
-	<VALUE name="dwael" val="t ue l"/>
-	<VALUE name="doel" val="t ue l"/>
-	<VALUE name="dwol" val="t w 7 l"/>
-	<VALUE name="dwel" val="t ue l"/>
-	<VALUE name="dwil" val="t u :\i l"/>
-	<VALUE name="duil" val="t U :\i l"/>
-	<VALUE name="ral" val="r\` a l"/>
-	<VALUE name="ryal" val="r\` ia l"/>
-	<VALUE name="reol" val="r\` 7 l"/>
-	<VALUE name="ryeol" val="r\` j 7 l"/>
-	<VALUE name="rol" val="r\` o l"/>
-	<VALUE name="ryol" val="r\` j o l"/>
-	<VALUE name="rul" val="r\` u l"/>
-	<VALUE name="ryul" val="r\` j u l"/>
-	<VALUE name="reul" val="r\` U l"/>
-	<VALUE name="ril" val="r\` i l"/>
-	<VALUE name="rael" val="r\` e l"/>
-	<VALUE name="ryael" val="r\` ie l"/>
-	<VALUE name="rel" val="r\` e l"/>
-	<VALUE name="ryel" val="r\` ie l"/>
-	<VALUE name="rwal" val="r\` ua l"/>
-	<VALUE name="rwael" val="r\` ue l"/>
-	<VALUE name="roel" val="r\` ue l"/>
-	<VALUE name="rwol" val="r\` w 7 l"/>
-	<VALUE name="rwel" val="r\` ue l"/>
-	<VALUE name="rwil" val="r\` u :\i l"/>
-	<VALUE name="ruil" val="r\` U :\i l"/>
-	<VALUE name="mal" val="m a l"/>
-	<VALUE name="myal" val="m ia l"/>
-	<VALUE name="meol" val="m 7 l"/>
-	<VALUE name="myeol" val="m j 7 l"/>
-	<VALUE name="mol" val="m o l"/>
-	<VALUE name="myol" val="m j o l"/>
-	<VALUE name="mul" val="m u l"/>
-	<VALUE name="myul" val="m j u l"/>
-	<VALUE name="meul" val="m U l"/>
-	<VALUE name="mil" val="m i l"/>
-	<VALUE name="mael" val="m e l"/>
-	<VALUE name="myael" val="m ie l"/>
-	<VALUE name="mel" val="m e l"/>
-	<VALUE name="myel" val="m ie l"/>
-	<VALUE name="mwal" val="m ua l"/>
-	<VALUE name="mwael" val="m ue l"/>
-	<VALUE name="moel" val="m ue l"/>
-	<VALUE name="mwol" val="m w 7 l"/>
-	<VALUE name="mwel" val="m ue l"/>
-	<VALUE name="mwil" val="m u :\i l"/>
-	<VALUE name="muil" val="m U :\i l"/>
-	<VALUE name="bal" val="p a l"/>
-	<VALUE name="byal" val="p ia l"/>
-	<VALUE name="beol" val="p 7 l"/>
-	<VALUE name="byeol" val="p j 7 l"/>
-	<VALUE name="bol" val="p o l"/>
-	<VALUE name="byol" val="p j o l"/>
-	<VALUE name="bul" val="p u l"/>
-	<VALUE name="byul" val="p j u l"/>
-	<VALUE name="beul" val="p U l"/>
-	<VALUE name="bil" val="p i l"/>
-	<VALUE name="bael" val="p e l"/>
-	<VALUE name="byael" val="p ie l"/>
-	<VALUE name="bel" val="p e l"/>
-	<VALUE name="byel" val="p ie l"/>
-	<VALUE name="bwal" val="p ua l"/>
-	<VALUE name="bwael" val="p ue l"/>
-	<VALUE name="boel" val="p ue l"/>
-	<VALUE name="bwol" val="p w 7 l"/>
-	<VALUE name="bwel" val="p ue l"/>
-	<VALUE name="bwil" val="p u :\i l"/>
-	<VALUE name="buil" val="p U :\i l"/>
-	<VALUE name="sal" val="s a l"/>
-	<VALUE name="syal" val="s ia l"/>
-	<VALUE name="seol" val="s 7 l"/>
-	<VALUE name="syeol" val="s j 7 l"/>
-	<VALUE name="sol" val="s o l"/>
-	<VALUE name="syol" val="s j o l"/>
-	<VALUE name="sul" val="s u l"/>
-	<VALUE name="syul" val="s j u l"/>
-	<VALUE name="seul" val="s U l"/>
-	<VALUE name="sil" val="s i l"/>
-	<VALUE name="sael" val="s e l"/>
-	<VALUE name="syael" val="s ie l"/>
-	<VALUE name="sel" val="s e l"/>
-	<VALUE name="syel" val="s ie l"/>
-	<VALUE name="swal" val="s ua l"/>
-	<VALUE name="swael" val="s ue l"/>
-	<VALUE name="soel" val="s ue l"/>
-	<VALUE name="swol" val="s w 7 l"/>
-	<VALUE name="swel" val="s ue l"/>
-	<VALUE name="swil" val="s u :\i l"/>
-	<VALUE name="suil" val="s U :\i l"/>
-	<VALUE name="al" val="a l"/>
-	<VALUE name="yal" val="ia l"/>
-	<VALUE name="eol" val="7 l"/>
-	<VALUE name="yeol" val="j 7 l"/>
-	<VALUE name="ol" val="o l"/>
-	<VALUE name="yol" val="j o l"/>
-	<VALUE name="ul" val="u l"/>
-	<VALUE name="yul" val="j u l"/>
-	<VALUE name="eul" val="U l"/>
-	<VALUE name="il" val="i l"/>
-	<VALUE name="ael" val="e l"/>
-	<VALUE name="yael" val="ie l"/>
-	<VALUE name="el" val="e l"/>
-	<VALUE name="yel" val="ie l"/>
-	<VALUE name="wal" val="ua l"/>
-	<VALUE name="wael" val="ue l"/>
-	<VALUE name="oel" val="ue l"/>
-	<VALUE name="wol" val="w 7 l"/>
-	<VALUE name="wel" val="ue l"/>
-	<VALUE name="wil" val="u :\i l"/>
-	<VALUE name="uil" val="U :\i l"/>
-	<VALUE name="jal" val="ts\ a l"/>
-	<VALUE name="jyal" val="ts\ ia l"/>
-	<VALUE name="jeol" val="ts\ 7 l"/>
-	<VALUE name="jyeol" val="ts\ j 7 l"/>
-	<VALUE name="jol" val="ts\ o l"/>
-	<VALUE name="jyol" val="ts\ j o l"/>
-	<VALUE name="jul" val="ts\ u l"/>
-	<VALUE name="jyul" val="ts\ j u l"/>
-	<VALUE name="jeul" val="ts\ U l"/>
-	<VALUE name="jil" val="ts\ i l"/>
-	<VALUE name="jael" val="ts\ e l"/>
-	<VALUE name="jyael" val="ts\ ie l"/>
-	<VALUE name="jel" val="ts\ e l"/>
-	<VALUE name="jyel" val="ts\ ie l"/>
-	<VALUE name="jwal" val="ts\ ua l"/>
-	<VALUE name="jwael" val="ts\ ue l"/>
-	<VALUE name="joel" val="ts\ ue l"/>
-	<VALUE name="jwol" val="ts\ w 7 l"/>
-	<VALUE name="jwel" val="ts\ ue l"/>
-	<VALUE name="jwil" val="ts\ u :\i l"/>
-	<VALUE name="juil" val="ts\ U :\i l"/>
-	<VALUE name="chal" val="ts\h a l"/>
-	<VALUE name="chyal" val="ts\h ia l"/>
-	<VALUE name="cheol" val="ts\h 7 l"/>
-	<VALUE name="chyeol" val="ts\h j 7 l"/>
-	<VALUE name="chol" val="ts\h o l"/>
-	<VALUE name="chyol" val="ts\h j o l"/>
-	<VALUE name="chul" val="ts\h u l"/>
-	<VALUE name="chyul" val="ts\h j u l"/>
-	<VALUE name="cheul" val="ts\h U l"/>
-	<VALUE name="chil" val="ts\h i l"/>
-	<VALUE name="chael" val="ts\h e l"/>
-	<VALUE name="chyael" val="ts\h ie l"/>
-	<VALUE name="chel" val="ts\h e l"/>
-	<VALUE name="chyel" val="ts\h ie l"/>
-	<VALUE name="chwal" val="ts\h ua l"/>
-	<VALUE name="chwael" val="ts\h ue l"/>
-	<VALUE name="choel" val="ts\h ue l"/>
-	<VALUE name="chwol" val="ts\h w 7 l"/>
-	<VALUE name="chwel" val="ts\h ue l"/>
-	<VALUE name="chwil" val="ts\h u :\i l"/>
-	<VALUE name="chuil" val="ts\h U :\i l"/>
-	<VALUE name="kal" val="kh a l"/>
-	<VALUE name="kyal" val="kh ia l"/>
-	<VALUE name="keol" val="kh 7 l"/>
-	<VALUE name="kyeol" val="kh j 7 l"/>
-	<VALUE name="kol" val="kh o l"/>
-	<VALUE name="kyol" val="kh j o l"/>
-	<VALUE name="kul" val="kh u l"/>
-	<VALUE name="kyul" val="kh j u l"/>
-	<VALUE name="keul" val="kh U l"/>
-	<VALUE name="kil" val="kh i l"/>
-	<VALUE name="kael" val="kh e l"/>
-	<VALUE name="kyael" val="kh ie l"/>
-	<VALUE name="kel" val="kh e l"/>
-	<VALUE name="kyel" val="kh ie l"/>
-	<VALUE name="kwal" val="kh ua l"/>
-	<VALUE name="kwael" val="kh ue l"/>
-	<VALUE name="koel" val="kh ue l"/>
-	<VALUE name="kwol" val="kh w 7 l"/>
-	<VALUE name="kwel" val="kh ue l"/>
-	<VALUE name="kwil" val="kh u :\i l"/>
-	<VALUE name="kuil" val="kh U :\i l"/>
-	<VALUE name="tal" val="th a l"/>
-	<VALUE name="tyal" val="th ia l"/>
-	<VALUE name="teol" val="th 7 l"/>
-	<VALUE name="tyeol" val="th j 7 l"/>
-	<VALUE name="tol" val="th o l"/>
-	<VALUE name="tyol" val="th j o l"/>
-	<VALUE name="tul" val="th u l"/>
-	<VALUE name="tyul" val="th j u l"/>
-	<VALUE name="teul" val="th U l"/>
-	<VALUE name="til" val="th i l"/>
-	<VALUE name="tael" val="th e l"/>
-	<VALUE name="tyael" val="th ie l"/>
-	<VALUE name="tel" val="th e l"/>
-	<VALUE name="tyel" val="th ie l"/>
-	<VALUE name="twal" val="th ua l"/>
-	<VALUE name="twael" val="th ue l"/>
-	<VALUE name="toel" val="th ue l"/>
-	<VALUE name="twol" val="th w 7 l"/>
-	<VALUE name="twel" val="th ue l"/>
-	<VALUE name="twil" val="th u :\i l"/>
-	<VALUE name="tuil" val="th U :\i l"/>
-	<VALUE name="pal" val="ph a l"/>
-	<VALUE name="pyal" val="ph ia l"/>
-	<VALUE name="peol" val="ph 7 l"/>
-	<VALUE name="pyeol" val="ph j 7 l"/>
-	<VALUE name="pol" val="ph o l"/>
-	<VALUE name="pyol" val="ph j o l"/>
-	<VALUE name="pul" val="ph u l"/>
-	<VALUE name="pyul" val="ph j u l"/>
-	<VALUE name="peul" val="ph U l"/>
-	<VALUE name="pil" val="ph i l"/>
-	<VALUE name="pael" val="ph e l"/>
-	<VALUE name="pyael" val="ph ie l"/>
-	<VALUE name="pel" val="ph e l"/>
-	<VALUE name="pyel" val="ph ie l"/>
-	<VALUE name="pwal" val="ph ua l"/>
-	<VALUE name="pwael" val="ph ue l"/>
-	<VALUE name="poel" val="ph ue l"/>
-	<VALUE name="pwol" val="ph w 7 l"/>
-	<VALUE name="pwel" val="ph ue l"/>
-	<VALUE name="pwil" val="ph u :\i l"/>
-	<VALUE name="puil" val="ph U :\i l"/>
-	<VALUE name="hal" val="x a l"/>
-	<VALUE name="hyal" val="x ia l"/>
-	<VALUE name="heol" val="x 7 l"/>
-	<VALUE name="hyeol" val="x j 7 l"/>
-	<VALUE name="hol" val="x o l"/>
-	<VALUE name="hyol" val="x j o l"/>
-	<VALUE name="hul" val="x u l"/>
-	<VALUE name="hyul" val="x j u l"/>
-	<VALUE name="heul" val="x U l"/>
-	<VALUE name="hil" val="x i l"/>
-	<VALUE name="hael" val="x e l"/>
-	<VALUE name="hyael" val="x ie l"/>
-	<VALUE name="hel" val="x e l"/>
-	<VALUE name="hyel" val="x ie l"/>
-	<VALUE name="hwal" val="x ua l"/>
-	<VALUE name="hwael" val="x ue l"/>
-	<VALUE name="hoel" val="x ue l"/>
-	<VALUE name="hwol" val="x w 7 l"/>
-	<VALUE name="hwel" val="x ue l"/>
-	<VALUE name="hwil" val="x u :\i l"/>
-	<VALUE name="huil" val="x U :\i l"/>
-	<VALUE name="kkal" val="k a l"/>
-	<VALUE name="kkyal" val="k ia l"/>
-	<VALUE name="kkeol" val="k 7 l"/>
-	<VALUE name="kkyeol" val="k j 7 l"/>
-	<VALUE name="kkol" val="k o l"/>
-	<VALUE name="kkyol" val="k j o l"/>
-	<VALUE name="kkul" val="k u l"/>
-	<VALUE name="kkyul" val="k j u l"/>
-	<VALUE name="kkeul" val="k U l"/>
-	<VALUE name="kkil" val="k i l"/>
-	<VALUE name="kkael" val="k e l"/>
-	<VALUE name="kkyael" val="k ie l"/>
-	<VALUE name="kkel" val="k e l"/>
-	<VALUE name="kkyel" val="k ie l"/>
-	<VALUE name="kkwal" val="k ua l"/>
-	<VALUE name="kkwael" val="k ue l"/>
-	<VALUE name="kkoel" val="k ue l"/>
-	<VALUE name="kkwol" val="k w 7 l"/>
-	<VALUE name="kkwel" val="k ue l"/>
-	<VALUE name="kkwil" val="k u :\i l"/>
-	<VALUE name="kkuil" val="k U :\i l"/>
-	<VALUE name="ttal" val="t a l"/>
-	<VALUE name="ttyal" val="t ia l"/>
-	<VALUE name="tteol" val="t 7 l"/>
-	<VALUE name="ttyeol" val="t j 7 l"/>
-	<VALUE name="ttol" val="t o l"/>
-	<VALUE name="ttyol" val="t j o l"/>
-	<VALUE name="ttul" val="t u l"/>
-	<VALUE name="ttyul" val="t j u l"/>
-	<VALUE name="tteul" val="t U l"/>
-	<VALUE name="ttil" val="t i l"/>
-	<VALUE name="ttael" val="t e l"/>
-	<VALUE name="ttyael" val="t ie l"/>
-	<VALUE name="ttel" val="t e l"/>
-	<VALUE name="ttyel" val="t ie l"/>
-	<VALUE name="ttwal" val="t ua l"/>
-	<VALUE name="ttwael" val="t ue l"/>
-	<VALUE name="ttoel" val="t ue l"/>
-	<VALUE name="ttwol" val="t w 7 l"/>
-	<VALUE name="ttwel" val="t ue l"/>
-	<VALUE name="ttwil" val="t u :\i l"/>
-	<VALUE name="ttuil" val="t U :\i l"/>
-	<VALUE name="ppal" val="p a l"/>
-	<VALUE name="ppyal" val="p ia l"/>
-	<VALUE name="ppeol" val="p 7 l"/>
-	<VALUE name="ppyeol" val="p j 7 l"/>
-	<VALUE name="ppol" val="p o l"/>
-	<VALUE name="ppyol" val="p j o l"/>
-	<VALUE name="ppul" val="p u l"/>
-	<VALUE name="ppyul" val="p j u l"/>
-	<VALUE name="ppeul" val="p U l"/>
-	<VALUE name="ppil" val="p i l"/>
-	<VALUE name="ppael" val="p e l"/>
-	<VALUE name="ppyael" val="p ie l"/>
-	<VALUE name="ppel" val="p e l"/>
-	<VALUE name="ppyel" val="p ie l"/>
-	<VALUE name="ppwal" val="p ua l"/>
-	<VALUE name="ppwael" val="p ue l"/>
-	<VALUE name="ppoel" val="p ue l"/>
-	<VALUE name="ppwol" val="p w 7 l"/>
-	<VALUE name="ppwel" val="p ue l"/>
-	<VALUE name="ppwil" val="p u :\i l"/>
-	<VALUE name="ppuil" val="p U :\i l"/>
-	<VALUE name="ssal" val="s` a l"/>
-	<VALUE name="ssyal" val="s` ia l"/>
-	<VALUE name="sseol" val="s` 7 l"/>
-	<VALUE name="ssyeol" val="s` j 7 l"/>
-	<VALUE name="ssol" val="s` o l"/>
-	<VALUE name="ssyol" val="s` j o l"/>
-	<VALUE name="ssul" val="s` u l"/>
-	<VALUE name="ssyul" val="s` j u l"/>
-	<VALUE name="sseul" val="s` U l"/>
-	<VALUE name="ssil" val="s` i l"/>
-	<VALUE name="ssael" val="s` e l"/>
-	<VALUE name="ssyael" val="s` ie l"/>
-	<VALUE name="ssel" val="s` e l"/>
-	<VALUE name="ssyel" val="s` ie l"/>
-	<VALUE name="sswal" val="s` ua l"/>
-	<VALUE name="sswael" val="s` ue l"/>
-	<VALUE name="ssoel" val="s` ue l"/>
-	<VALUE name="sswol" val="s` w 7 l"/>
-	<VALUE name="sswel" val="s` ue l"/>
-	<VALUE name="sswil" val="s` u :\i l"/>
-	<VALUE name="ssuil" val="s` U :\i l"/>
-	<VALUE name="jjal" val="ts` a l"/>
-	<VALUE name="jjyal" val="ts` ia l"/>
-	<VALUE name="jjeol" val="ts` 7 l"/>
-	<VALUE name="jjyeol" val="ts` j 7 l"/>
-	<VALUE name="jjol" val="ts` o l"/>
-	<VALUE name="jjyol" val="ts` j o l"/>
-	<VALUE name="jjul" val="ts` u l"/>
-	<VALUE name="jjyul" val="ts` j u l"/>
-	<VALUE name="jjeul" val="ts` U l"/>
-	<VALUE name="jjil" val="ts` i l"/>
-	<VALUE name="jjael" val="ts` e l"/>
-	<VALUE name="jjyael" val="ts` ie l"/>
-	<VALUE name="jjel" val="ts` e l"/>
-	<VALUE name="jjyel" val="ts` ie l"/>
-	<VALUE name="jjwal" val="ts` ua l"/>
-	<VALUE name="jjwael" val="ts` ue l"/>
-	<VALUE name="jjoel" val="ts` ue l"/>
-	<VALUE name="jjwol" val="ts` w 7 l"/>
-	<VALUE name="jjwel" val="ts` ue l"/>
-	<VALUE name="jjwil" val="ts` u :\i l"/>
-	<VALUE name="jjuil" val="ts` U :\i l"/>
+	<VALUE name="ssa" val="s a"/>
+	<VALUE name="ssya" val="s ia"/>
+	<VALUE name="sseo" val="s A"/>
+	<VALUE name="ssyeo" val="s iA"/>
+	<VALUE name="sso" val="s o"/>
+	<VALUE name="ssyo" val="s j o"/>
+	<VALUE name="ssu" val="s u"/>
+	<VALUE name="ssyu" val="s j u"/>
+	<VALUE name="sseu" val="s U"/>
+	<VALUE name="ssi" val="s i"/>
+	<VALUE name="ssae" val="s e"/>
+	<VALUE name="ssyae" val="s ie"/>
+	<VALUE name="sse" val="s e"/>
+	<VALUE name="ssye" val="s ie"/>
+	<VALUE name="sswa" val="s ua"/>
+	<VALUE name="sswae" val="s ue"/>
+	<VALUE name="ssoe" val="s e"/>
+	<VALUE name="sswo" val="s uA"/>
+	<VALUE name="sswe" val="s ue"/>
+	<VALUE name="sswi" val="s u :\i"/>
+	<VALUE name="ssui" val="s U :\i"/>
+	<VALUE name="jja" val="ts\ a"/>
+	<VALUE name="jjya" val="ts\ ia"/>
+	<VALUE name="jjeo" val="ts\ A"/>
+	<VALUE name="jjyeo" val="ts\ iA"/>
+	<VALUE name="jjo" val="ts\ o"/>
+	<VALUE name="jjyo" val="ts\ j o"/>
+	<VALUE name="jju" val="ts\ u"/>
+	<VALUE name="jjyu" val="ts\ j u"/>
+	<VALUE name="jjeu" val="ts\ U"/>
+	<VALUE name="jji" val="ts\ i"/>
+	<VALUE name="jjae" val="ts\ e"/>
+	<VALUE name="jjyae" val="ts\ ie"/>
+	<VALUE name="jje" val="ts\ e"/>
+	<VALUE name="jjye" val="ts\ ie"/>
+	<VALUE name="jjwa" val="ts\ ua"/>
+	<VALUE name="jjwae" val="ts\ ue"/>
+	<VALUE name="jjoe" val="ts\ e"/>
+	<VALUE name="jjwo" val="ts\ uA"/>
+	<VALUE name="jjwe" val="ts\ ue"/>
+	<VALUE name="jjwi" val="ts\ u :\i"/>
+	<VALUE name="jjui" val="ts\ U :\i"/>
+	<VALUE name="gak" val="k a k"/>
+	<VALUE name="gyak" val="k ia k"/>
+	<VALUE name="geok" val="k A k"/>
+	<VALUE name="gyeok" val="k iA k"/>
+	<VALUE name="gok" val="k o k"/>
+	<VALUE name="gyok" val="k j o k"/>
+	<VALUE name="guk" val="k u k"/>
+	<VALUE name="gyuk" val="k j u k"/>
+	<VALUE name="geuk" val="k U k"/>
+	<VALUE name="gik" val="k i k"/>
+	<VALUE name="gaek" val="k e k"/>
+	<VALUE name="gyaek" val="k ie k"/>
+	<VALUE name="gek" val="k e k"/>
+	<VALUE name="gyek" val="k ie k"/>
+	<VALUE name="gwak" val="k ua k"/>
+	<VALUE name="gwaek" val="k ue k"/>
+	<VALUE name="goek" val="k e k"/>
+	<VALUE name="gwok" val="k uA k"/>
+	<VALUE name="gwek" val="k ue k"/>
+	<VALUE name="gwik" val="k u :\i k"/>
+	<VALUE name="guik" val="k U :\i k"/>
+	<VALUE name="nak" val="n a k"/>
+	<VALUE name="nyak" val="n ia k"/>
+	<VALUE name="neok" val="n A k"/>
+	<VALUE name="nyeok" val="n iA k"/>
+	<VALUE name="nok" val="n o k"/>
+	<VALUE name="nyok" val="n j o k"/>
+	<VALUE name="nuk" val="n u k"/>
+	<VALUE name="nyuk" val="n j u k"/>
+	<VALUE name="neuk" val="n U k"/>
+	<VALUE name="nik" val="n i k"/>
+	<VALUE name="naek" val="n e k"/>
+	<VALUE name="nyaek" val="n ie k"/>
+	<VALUE name="nek" val="n e k"/>
+	<VALUE name="nyek" val="n ie k"/>
+	<VALUE name="nwak" val="n ua k"/>
+	<VALUE name="nwaek" val="n ue k"/>
+	<VALUE name="noek" val="n e k"/>
+	<VALUE name="nwok" val="n uA k"/>
+	<VALUE name="nwek" val="n ue k"/>
+	<VALUE name="nwik" val="n u :\i k"/>
+	<VALUE name="nuik" val="n U :\i k"/>
+	<VALUE name="dak" val="t a k"/>
+	<VALUE name="dyak" val="t ia k"/>
+	<VALUE name="deok" val="t A k"/>
+	<VALUE name="dyeok" val="t iA k"/>
+	<VALUE name="dok" val="t o k"/>
+	<VALUE name="dyok" val="t j o k"/>
+	<VALUE name="duk" val="t u k"/>
+	<VALUE name="dyuk" val="t j u k"/>
+	<VALUE name="deuk" val="t U k"/>
+	<VALUE name="dik" val="t i k"/>
+	<VALUE name="daek" val="t e k"/>
+	<VALUE name="dyaek" val="t ie k"/>
+	<VALUE name="dek" val="t e k"/>
+	<VALUE name="dyek" val="t ie k"/>
+	<VALUE name="dwak" val="t ua k"/>
+	<VALUE name="dwaek" val="t ue k"/>
+	<VALUE name="doek" val="t e k"/>
+	<VALUE name="dwok" val="t uA k"/>
+	<VALUE name="dwek" val="t ue k"/>
+	<VALUE name="dwik" val="t u :\i k"/>
+	<VALUE name="duik" val="t U :\i k"/>
+	<VALUE name="rak" val="l a k"/>
+	<VALUE name="ryak" val="l ia k"/>
+	<VALUE name="reok" val="l A k"/>
+	<VALUE name="ryeok" val="l iA k"/>
+	<VALUE name="rok" val="l o k"/>
+	<VALUE name="ryok" val="l j o k"/>
+	<VALUE name="ruk" val="l u k"/>
+	<VALUE name="ryuk" val="l j u k"/>
+	<VALUE name="reuk" val="l U k"/>
+	<VALUE name="rik" val="l i k"/>
+	<VALUE name="raek" val="l e k"/>
+	<VALUE name="ryaek" val="l ie k"/>
+	<VALUE name="rek" val="l e k"/>
+	<VALUE name="ryek" val="l ie k"/>
+	<VALUE name="rwak" val="l ua k"/>
+	<VALUE name="rwaek" val="l ue k"/>
+	<VALUE name="roek" val="l e k"/>
+	<VALUE name="rwok" val="l uA k"/>
+	<VALUE name="rwek" val="l ue k"/>
+	<VALUE name="rwik" val="l u :\i k"/>
+	<VALUE name="ruik" val="l U :\i k"/>
+	<VALUE name="mak" val="m a k"/>
+	<VALUE name="myak" val="m ia k"/>
+	<VALUE name="meok" val="m A k"/>
+	<VALUE name="myeok" val="m iA k"/>
+	<VALUE name="mok" val="m o k"/>
+	<VALUE name="myok" val="m j o k"/>
+	<VALUE name="muk" val="m u k"/>
+	<VALUE name="myuk" val="m j u k"/>
+	<VALUE name="meuk" val="m U k"/>
+	<VALUE name="mik" val="m i k"/>
+	<VALUE name="maek" val="m e k"/>
+	<VALUE name="myaek" val="m ie k"/>
+	<VALUE name="mek" val="m e k"/>
+	<VALUE name="myek" val="m ie k"/>
+	<VALUE name="mwak" val="m ua k"/>
+	<VALUE name="mwaek" val="m ue k"/>
+	<VALUE name="moek" val="m e k"/>
+	<VALUE name="mwok" val="m uA k"/>
+	<VALUE name="mwek" val="m ue k"/>
+	<VALUE name="mwik" val="m u :\i k"/>
+	<VALUE name="muik" val="m U :\i k"/>
+	<VALUE name="bak" val="p a k"/>
+	<VALUE name="byak" val="p ia k"/>
+	<VALUE name="beok" val="p A k"/>
+	<VALUE name="byeok" val="p iA k"/>
+	<VALUE name="bok" val="p o k"/>
+	<VALUE name="byok" val="p j o k"/>
+	<VALUE name="buk" val="p u k"/>
+	<VALUE name="byuk" val="p j u k"/>
+	<VALUE name="beuk" val="p U k"/>
+	<VALUE name="bik" val="p i k"/>
+	<VALUE name="baek" val="p e k"/>
+	<VALUE name="byaek" val="p ie k"/>
+	<VALUE name="bek" val="p e k"/>
+	<VALUE name="byek" val="p ie k"/>
+	<VALUE name="bwak" val="p ua k"/>
+	<VALUE name="bwaek" val="p ue k"/>
+	<VALUE name="boek" val="p e k"/>
+	<VALUE name="bwok" val="p uA k"/>
+	<VALUE name="bwek" val="p ue k"/>
+	<VALUE name="bwik" val="p u :\i k"/>
+	<VALUE name="buik" val="p U :\i k"/>
+	<VALUE name="sak" val="s a k"/>
+	<VALUE name="syak" val="s ia k"/>
+	<VALUE name="seok" val="s A k"/>
+	<VALUE name="syeok" val="s iA k"/>
+	<VALUE name="sok" val="s o k"/>
+	<VALUE name="syok" val="s j o k"/>
+	<VALUE name="suk" val="s u k"/>
+	<VALUE name="syuk" val="s j u k"/>
+	<VALUE name="seuk" val="s U k"/>
+	<VALUE name="sik" val="s i k"/>
+	<VALUE name="saek" val="s e k"/>
+	<VALUE name="syaek" val="s ie k"/>
+	<VALUE name="sek" val="s e k"/>
+	<VALUE name="syek" val="s ie k"/>
+	<VALUE name="swak" val="s ua k"/>
+	<VALUE name="swaek" val="s ue k"/>
+	<VALUE name="soek" val="s e k"/>
+	<VALUE name="swok" val="s uA k"/>
+	<VALUE name="swek" val="s ue k"/>
+	<VALUE name="swik" val="s u :\i k"/>
+	<VALUE name="suik" val="s U :\i k"/>
+	<VALUE name="ak" val="a k"/>
+	<VALUE name="yak" val="ia k"/>
+	<VALUE name="eok" val="A k"/>
+	<VALUE name="yeok" val="iA k"/>
+	<VALUE name="ok" val="o k"/>
+	<VALUE name="yok" val="j o k"/>
+	<VALUE name="uk" val="u k"/>
+	<VALUE name="yuk" val="j u k"/>
+	<VALUE name="euk" val="U k"/>
+	<VALUE name="ik" val="i k"/>
+	<VALUE name="aek" val="e k"/>
+	<VALUE name="yaek" val="ie k"/>
+	<VALUE name="ek" val="e k"/>
+	<VALUE name="yek" val="ie k"/>
+	<VALUE name="wak" val="ua k"/>
+	<VALUE name="waek" val="ue k"/>
+	<VALUE name="oek" val="e k"/>
+	<VALUE name="wok" val="uA k"/>
+	<VALUE name="wek" val="ue k"/>
+	<VALUE name="wik" val="u :\i k"/>
+	<VALUE name="uik" val="U :\i k"/>
+	<VALUE name="jak" val="ts\ a k"/>
+	<VALUE name="jyak" val="ts\ ia k"/>
+	<VALUE name="jeok" val="ts\ A k"/>
+	<VALUE name="jyeok" val="ts\ iA k"/>
+	<VALUE name="jok" val="ts\ o k"/>
+	<VALUE name="jyok" val="ts\ j o k"/>
+	<VALUE name="juk" val="ts\ u k"/>
+	<VALUE name="jyuk" val="ts\ j u k"/>
+	<VALUE name="jeuk" val="ts\ U k"/>
+	<VALUE name="jik" val="ts\ i k"/>
+	<VALUE name="jaek" val="ts\ e k"/>
+	<VALUE name="jyaek" val="ts\ ie k"/>
+	<VALUE name="jek" val="ts\ e k"/>
+	<VALUE name="jyek" val="ts\ ie k"/>
+	<VALUE name="jwak" val="ts\ ua k"/>
+	<VALUE name="jwaek" val="ts\ ue k"/>
+	<VALUE name="joek" val="ts\ e k"/>
+	<VALUE name="jwok" val="ts\ uA k"/>
+	<VALUE name="jwek" val="ts\ ue k"/>
+	<VALUE name="jwik" val="ts\ u :\i k"/>
+	<VALUE name="juik" val="ts\ U :\i k"/>
+	<VALUE name="chak" val="ts\h a k"/>
+	<VALUE name="chyak" val="ts\h ia k"/>
+	<VALUE name="cheok" val="ts\h A k"/>
+	<VALUE name="chyeok" val="ts\h iA k"/>
+	<VALUE name="chok" val="ts\h o k"/>
+	<VALUE name="chyok" val="ts\h j o k"/>
+	<VALUE name="chuk" val="ts\h u k"/>
+	<VALUE name="chyuk" val="ts\h j u k"/>
+	<VALUE name="cheuk" val="ts\h U k"/>
+	<VALUE name="chik" val="ts\h i k"/>
+	<VALUE name="chaek" val="ts\h e k"/>
+	<VALUE name="chyaek" val="ts\h ie k"/>
+	<VALUE name="chek" val="ts\h e k"/>
+	<VALUE name="chyek" val="ts\h ie k"/>
+	<VALUE name="chwak" val="ts\h ua k"/>
+	<VALUE name="chwaek" val="ts\h ue k"/>
+	<VALUE name="choek" val="ts\h e k"/>
+	<VALUE name="chwok" val="ts\h uA k"/>
+	<VALUE name="chwek" val="ts\h ue k"/>
+	<VALUE name="chwik" val="ts\h u :\i k"/>
+	<VALUE name="chuik" val="ts\h U :\i k"/>
+	<VALUE name="kak" val="kh a k"/>
+	<VALUE name="kyak" val="kh ia k"/>
+	<VALUE name="keok" val="kh A k"/>
+	<VALUE name="kyeok" val="kh iA k"/>
+	<VALUE name="kok" val="kh o k"/>
+	<VALUE name="kyok" val="kh j o k"/>
+	<VALUE name="kuk" val="kh u k"/>
+	<VALUE name="kyuk" val="kh j u k"/>
+	<VALUE name="keuk" val="kh U k"/>
+	<VALUE name="kik" val="kh i k"/>
+	<VALUE name="kaek" val="kh e k"/>
+	<VALUE name="kyaek" val="kh ie k"/>
+	<VALUE name="kek" val="kh e k"/>
+	<VALUE name="kyek" val="kh ie k"/>
+	<VALUE name="kwak" val="kh ua k"/>
+	<VALUE name="kwaek" val="kh ue k"/>
+	<VALUE name="koek" val="kh e k"/>
+	<VALUE name="kwok" val="kh uA k"/>
+	<VALUE name="kwek" val="kh ue k"/>
+	<VALUE name="kwik" val="kh u :\i k"/>
+	<VALUE name="kuik" val="kh U :\i k"/>
+	<VALUE name="tak" val="th a k"/>
+	<VALUE name="tyak" val="th ia k"/>
+	<VALUE name="teok" val="th A k"/>
+	<VALUE name="tyeok" val="th iA k"/>
+	<VALUE name="tok" val="th o k"/>
+	<VALUE name="tyok" val="th j o k"/>
+	<VALUE name="tuk" val="th u k"/>
+	<VALUE name="tyuk" val="th j u k"/>
+	<VALUE name="teuk" val="th U k"/>
+	<VALUE name="tik" val="th i k"/>
+	<VALUE name="taek" val="th e k"/>
+	<VALUE name="tyaek" val="th ie k"/>
+	<VALUE name="tek" val="th e k"/>
+	<VALUE name="tyek" val="th ie k"/>
+	<VALUE name="twak" val="th ua k"/>
+	<VALUE name="twaek" val="th ue k"/>
+	<VALUE name="toek" val="th e k"/>
+	<VALUE name="twok" val="th uA k"/>
+	<VALUE name="twek" val="th ue k"/>
+	<VALUE name="twik" val="th u :\i k"/>
+	<VALUE name="tuik" val="th U :\i k"/>
+	<VALUE name="pak" val="ph a k"/>
+	<VALUE name="pyak" val="ph ia k"/>
+	<VALUE name="peok" val="ph A k"/>
+	<VALUE name="pyeok" val="ph iA k"/>
+	<VALUE name="pok" val="ph o k"/>
+	<VALUE name="pyok" val="ph j o k"/>
+	<VALUE name="puk" val="ph u k"/>
+	<VALUE name="pyuk" val="ph j u k"/>
+	<VALUE name="peuk" val="ph U k"/>
+	<VALUE name="pik" val="ph i k"/>
+	<VALUE name="paek" val="ph e k"/>
+	<VALUE name="pyaek" val="ph ie k"/>
+	<VALUE name="pek" val="ph e k"/>
+	<VALUE name="pyek" val="ph ie k"/>
+	<VALUE name="pwak" val="ph ua k"/>
+	<VALUE name="pwaek" val="ph ue k"/>
+	<VALUE name="poek" val="ph e k"/>
+	<VALUE name="pwok" val="ph uA k"/>
+	<VALUE name="pwek" val="ph ue k"/>
+	<VALUE name="pwik" val="ph u :\i k"/>
+	<VALUE name="puik" val="ph U :\i k"/>
+	<VALUE name="hak" val="x a k"/>
+	<VALUE name="hyak" val="x ia k"/>
+	<VALUE name="heok" val="x A k"/>
+	<VALUE name="hyeok" val="x iA k"/>
+	<VALUE name="hok" val="x o k"/>
+	<VALUE name="hyok" val="x j o k"/>
+	<VALUE name="huk" val="x u k"/>
+	<VALUE name="hyuk" val="x j u k"/>
+	<VALUE name="heuk" val="x U k"/>
+	<VALUE name="hik" val="x i k"/>
+	<VALUE name="haek" val="x e k"/>
+	<VALUE name="hyaek" val="x ie k"/>
+	<VALUE name="hek" val="x e k"/>
+	<VALUE name="hyek" val="x ie k"/>
+	<VALUE name="hwak" val="x ua k"/>
+	<VALUE name="hwaek" val="x ue k"/>
+	<VALUE name="hoek" val="x e k"/>
+	<VALUE name="hwok" val="x uA k"/>
+	<VALUE name="hwek" val="x ue k"/>
+	<VALUE name="hwik" val="x u :\i k"/>
+	<VALUE name="huik" val="x U :\i k"/>
+	<VALUE name="kkak" val="k a k"/>
+	<VALUE name="kkyak" val="k ia k"/>
+	<VALUE name="kkeok" val="k A k"/>
+	<VALUE name="kkyeok" val="k iA k"/>
+	<VALUE name="kkok" val="k o k"/>
+	<VALUE name="kkyok" val="k j o k"/>
+	<VALUE name="kkuk" val="k u k"/>
+	<VALUE name="kkyuk" val="k j u k"/>
+	<VALUE name="kkeuk" val="k U k"/>
+	<VALUE name="kkik" val="k i k"/>
+	<VALUE name="kkaek" val="k e k"/>
+	<VALUE name="kkyaek" val="k ie k"/>
+	<VALUE name="kkek" val="k e k"/>
+	<VALUE name="kkyek" val="k ie k"/>
+	<VALUE name="kkwak" val="k ua k"/>
+	<VALUE name="kkwaek" val="k ue k"/>
+	<VALUE name="kkoek" val="k e k"/>
+	<VALUE name="kkwok" val="k uA k"/>
+	<VALUE name="kkwek" val="k ue k"/>
+	<VALUE name="kkwik" val="k u :\i k"/>
+	<VALUE name="kkuik" val="k U :\i k"/>
+	<VALUE name="ttak" val="t a k"/>
+	<VALUE name="ttyak" val="t ia k"/>
+	<VALUE name="tteok" val="t A k"/>
+	<VALUE name="ttyeok" val="t iA k"/>
+	<VALUE name="ttok" val="t o k"/>
+	<VALUE name="ttyok" val="t j o k"/>
+	<VALUE name="ttuk" val="t u k"/>
+	<VALUE name="ttyuk" val="t j u k"/>
+	<VALUE name="tteuk" val="t U k"/>
+	<VALUE name="ttik" val="t i k"/>
+	<VALUE name="ttaek" val="t e k"/>
+	<VALUE name="ttyaek" val="t ie k"/>
+	<VALUE name="ttek" val="t e k"/>
+	<VALUE name="ttyek" val="t ie k"/>
+	<VALUE name="ttwak" val="t ua k"/>
+	<VALUE name="ttwaek" val="t ue k"/>
+	<VALUE name="ttoek" val="t e k"/>
+	<VALUE name="ttwok" val="t uA k"/>
+	<VALUE name="ttwek" val="t ue k"/>
+	<VALUE name="ttwik" val="t u :\i k"/>
+	<VALUE name="ttuik" val="t U :\i k"/>
+	<VALUE name="ppak" val="p a k"/>
+	<VALUE name="ppyak" val="p ia k"/>
+	<VALUE name="ppeok" val="p A k"/>
+	<VALUE name="ppyeok" val="p iA k"/>
+	<VALUE name="ppok" val="p o k"/>
+	<VALUE name="ppyok" val="p j o k"/>
+	<VALUE name="ppuk" val="p u k"/>
+	<VALUE name="ppyuk" val="p j u k"/>
+	<VALUE name="ppeuk" val="p U k"/>
+	<VALUE name="ppik" val="p i k"/>
+	<VALUE name="ppaek" val="p e k"/>
+	<VALUE name="ppyaek" val="p ie k"/>
+	<VALUE name="ppek" val="p e k"/>
+	<VALUE name="ppyek" val="p ie k"/>
+	<VALUE name="ppwak" val="p ua k"/>
+	<VALUE name="ppwaek" val="p ue k"/>
+	<VALUE name="ppoek" val="p e k"/>
+	<VALUE name="ppwok" val="p uA k"/>
+	<VALUE name="ppwek" val="p ue k"/>
+	<VALUE name="ppwik" val="p u :\i k"/>
+	<VALUE name="ppuik" val="p U :\i k"/>
+	<VALUE name="ssak" val="s a k"/>
+	<VALUE name="ssyak" val="s ia k"/>
+	<VALUE name="sseok" val="s A k"/>
+	<VALUE name="ssyeok" val="s iA k"/>
+	<VALUE name="ssok" val="s o k"/>
+	<VALUE name="ssyok" val="s j o k"/>
+	<VALUE name="ssuk" val="s u k"/>
+	<VALUE name="ssyuk" val="s j u k"/>
+	<VALUE name="sseuk" val="s U k"/>
+	<VALUE name="ssik" val="s i k"/>
+	<VALUE name="ssaek" val="s e k"/>
+	<VALUE name="ssyaek" val="s ie k"/>
+	<VALUE name="ssek" val="s e k"/>
+	<VALUE name="ssyek" val="s ie k"/>
+	<VALUE name="sswak" val="s ua k"/>
+	<VALUE name="sswaek" val="s ue k"/>
+	<VALUE name="ssoek" val="s e k"/>
+	<VALUE name="sswok" val="s uA k"/>
+	<VALUE name="sswek" val="s ue k"/>
+	<VALUE name="sswik" val="s u :\i k"/>
+	<VALUE name="ssuik" val="s U :\i k"/>
+	<VALUE name="jjak" val="ts\ a k"/>
+	<VALUE name="jjyak" val="ts\ ia k"/>
+	<VALUE name="jjeok" val="ts\ A k"/>
+	<VALUE name="jjyeok" val="ts\ iA k"/>
+	<VALUE name="jjok" val="ts\ o k"/>
+	<VALUE name="jjyok" val="ts\ j o k"/>
+	<VALUE name="jjuk" val="ts\ u k"/>
+	<VALUE name="jjyuk" val="ts\ j u k"/>
+	<VALUE name="jjeuk" val="ts\ U k"/>
+	<VALUE name="jjik" val="ts\ i k"/>
+	<VALUE name="jjaek" val="ts\ e k"/>
+	<VALUE name="jjyaek" val="ts\ ie k"/>
+	<VALUE name="jjek" val="ts\ e k"/>
+	<VALUE name="jjyek" val="ts\ ie k"/>
+	<VALUE name="jjwak" val="ts\ ua k"/>
+	<VALUE name="jjwaek" val="ts\ ue k"/>
+	<VALUE name="jjoek" val="ts\ e k"/>
+	<VALUE name="jjwok" val="ts\ uA k"/>
+	<VALUE name="jjwek" val="ts\ ue k"/>
+	<VALUE name="jjwik" val="ts\ u :\i k"/>
+	<VALUE name="jjuik" val="ts\ U :\i k"/>
+	<VALUE name="gat" val="k a t"/>
+	<VALUE name="gyat" val="k ia t"/>
+	<VALUE name="geot" val="k A t"/>
+	<VALUE name="gyeot" val="k iA t"/>
+	<VALUE name="got" val="k o t"/>
+	<VALUE name="gyot" val="k j o t"/>
+	<VALUE name="gut" val="k u t"/>
+	<VALUE name="gyut" val="k j u t"/>
+	<VALUE name="geut" val="k U t"/>
+	<VALUE name="git" val="k i t"/>
+	<VALUE name="gaet" val="k e t"/>
+	<VALUE name="gyaet" val="k ie t"/>
+	<VALUE name="get" val="k e t"/>
+	<VALUE name="gyet" val="k ie t"/>
+	<VALUE name="gwat" val="k ua t"/>
+	<VALUE name="gwaet" val="k ue t"/>
+	<VALUE name="goet" val="k e t"/>
+	<VALUE name="gwot" val="k uA t"/>
+	<VALUE name="gwet" val="k ue t"/>
+	<VALUE name="gwit" val="k u :\i t"/>
+	<VALUE name="guit" val="k U :\i t"/>
+	<VALUE name="nat" val="n a t"/>
+	<VALUE name="nyat" val="n ia t"/>
+	<VALUE name="neot" val="n A t"/>
+	<VALUE name="nyeot" val="n iA t"/>
+	<VALUE name="not" val="n o t"/>
+	<VALUE name="nyot" val="n j o t"/>
+	<VALUE name="nut" val="n u t"/>
+	<VALUE name="nyut" val="n j u t"/>
+	<VALUE name="neut" val="n U t"/>
+	<VALUE name="nit" val="n i t"/>
+	<VALUE name="naet" val="n e t"/>
+	<VALUE name="nyaet" val="n ie t"/>
+	<VALUE name="net" val="n e t"/>
+	<VALUE name="nyet" val="n ie t"/>
+	<VALUE name="nwat" val="n ua t"/>
+	<VALUE name="nwaet" val="n ue t"/>
+	<VALUE name="noet" val="n e t"/>
+	<VALUE name="nwot" val="n uA t"/>
+	<VALUE name="nwet" val="n ue t"/>
+	<VALUE name="nwit" val="n u :\i t"/>
+	<VALUE name="nuit" val="n U :\i t"/>
+	<VALUE name="dat" val="t a t"/>
+	<VALUE name="dyat" val="t ia t"/>
+	<VALUE name="deot" val="t A t"/>
+	<VALUE name="dyeot" val="t iA t"/>
+	<VALUE name="dot" val="t o t"/>
+	<VALUE name="dyot" val="t j o t"/>
+	<VALUE name="dut" val="t u t"/>
+	<VALUE name="dyut" val="t j u t"/>
+	<VALUE name="deut" val="t U t"/>
+	<VALUE name="dit" val="t i t"/>
+	<VALUE name="daet" val="t e t"/>
+	<VALUE name="dyaet" val="t ie t"/>
+	<VALUE name="det" val="t e t"/>
+	<VALUE name="dyet" val="t ie t"/>
+	<VALUE name="dwat" val="t ua t"/>
+	<VALUE name="dwaet" val="t ue t"/>
+	<VALUE name="doet" val="t e t"/>
+	<VALUE name="dwot" val="t uA t"/>
+	<VALUE name="dwet" val="t ue t"/>
+	<VALUE name="dwit" val="t u :\i t"/>
+	<VALUE name="duit" val="t U :\i t"/>
+	<VALUE name="rat" val="l a t"/>
+	<VALUE name="ryat" val="l ia t"/>
+	<VALUE name="reot" val="l A t"/>
+	<VALUE name="ryeot" val="l iA t"/>
+	<VALUE name="rot" val="l o t"/>
+	<VALUE name="ryot" val="l j o t"/>
+	<VALUE name="rut" val="l u t"/>
+	<VALUE name="ryut" val="l j u t"/>
+	<VALUE name="reut" val="l U t"/>
+	<VALUE name="rit" val="l i t"/>
+	<VALUE name="raet" val="l e t"/>
+	<VALUE name="ryaet" val="l ie t"/>
+	<VALUE name="ret" val="l e t"/>
+	<VALUE name="ryet" val="l ie t"/>
+	<VALUE name="rwat" val="l ua t"/>
+	<VALUE name="rwaet" val="l ue t"/>
+	<VALUE name="roet" val="l e t"/>
+	<VALUE name="rwot" val="l uA t"/>
+	<VALUE name="rwet" val="l ue t"/>
+	<VALUE name="rwit" val="l u :\i t"/>
+	<VALUE name="ruit" val="l U :\i t"/>
+	<VALUE name="mat" val="m a t"/>
+	<VALUE name="myat" val="m ia t"/>
+	<VALUE name="meot" val="m A t"/>
+	<VALUE name="myeot" val="m iA t"/>
+	<VALUE name="mot" val="m o t"/>
+	<VALUE name="myot" val="m j o t"/>
+	<VALUE name="mut" val="m u t"/>
+	<VALUE name="myut" val="m j u t"/>
+	<VALUE name="meut" val="m U t"/>
+	<VALUE name="mit" val="m i t"/>
+	<VALUE name="maet" val="m e t"/>
+	<VALUE name="myaet" val="m ie t"/>
+	<VALUE name="met" val="m e t"/>
+	<VALUE name="myet" val="m ie t"/>
+	<VALUE name="mwat" val="m ua t"/>
+	<VALUE name="mwaet" val="m ue t"/>
+	<VALUE name="moet" val="m e t"/>
+	<VALUE name="mwot" val="m uA t"/>
+	<VALUE name="mwet" val="m ue t"/>
+	<VALUE name="mwit" val="m u :\i t"/>
+	<VALUE name="muit" val="m U :\i t"/>
+	<VALUE name="bat" val="p a t"/>
+	<VALUE name="byat" val="p ia t"/>
+	<VALUE name="beot" val="p A t"/>
+	<VALUE name="byeot" val="p iA t"/>
+	<VALUE name="bot" val="p o t"/>
+	<VALUE name="byot" val="p j o t"/>
+	<VALUE name="but" val="p u t"/>
+	<VALUE name="byut" val="p j u t"/>
+	<VALUE name="beut" val="p U t"/>
+	<VALUE name="bit" val="p i t"/>
+	<VALUE name="baet" val="p e t"/>
+	<VALUE name="byaet" val="p ie t"/>
+	<VALUE name="bet" val="p e t"/>
+	<VALUE name="byet" val="p ie t"/>
+	<VALUE name="bwat" val="p ua t"/>
+	<VALUE name="bwaet" val="p ue t"/>
+	<VALUE name="boet" val="p e t"/>
+	<VALUE name="bwot" val="p uA t"/>
+	<VALUE name="bwet" val="p ue t"/>
+	<VALUE name="bwit" val="p u :\i t"/>
+	<VALUE name="buit" val="p U :\i t"/>
+	<VALUE name="sat" val="s a t"/>
+	<VALUE name="syat" val="s ia t"/>
+	<VALUE name="seot" val="s A t"/>
+	<VALUE name="syeot" val="s iA t"/>
+	<VALUE name="sot" val="s o t"/>
+	<VALUE name="syot" val="s j o t"/>
+	<VALUE name="sut" val="s u t"/>
+	<VALUE name="syut" val="s j u t"/>
+	<VALUE name="seut" val="s U t"/>
+	<VALUE name="sit" val="s i t"/>
+	<VALUE name="saet" val="s e t"/>
+	<VALUE name="syaet" val="s ie t"/>
+	<VALUE name="set" val="s e t"/>
+	<VALUE name="syet" val="s ie t"/>
+	<VALUE name="swat" val="s ua t"/>
+	<VALUE name="swaet" val="s ue t"/>
+	<VALUE name="soet" val="s e t"/>
+	<VALUE name="swot" val="s uA t"/>
+	<VALUE name="swet" val="s ue t"/>
+	<VALUE name="swit" val="s u :\i t"/>
+	<VALUE name="suit" val="s U :\i t"/>
+	<VALUE name="at" val="a t"/>
+	<VALUE name="yat" val="ia t"/>
+	<VALUE name="eot" val="A t"/>
+	<VALUE name="yeot" val="iA t"/>
+	<VALUE name="ot" val="o t"/>
+	<VALUE name="yot" val="j o t"/>
+	<VALUE name="ut" val="u t"/>
+	<VALUE name="yut" val="j u t"/>
+	<VALUE name="eut" val="U t"/>
+	<VALUE name="it" val="i t"/>
+	<VALUE name="aet" val="e t"/>
+	<VALUE name="yaet" val="ie t"/>
+	<VALUE name="et" val="e t"/>
+	<VALUE name="yet" val="ie t"/>
+	<VALUE name="wat" val="ua t"/>
+	<VALUE name="waet" val="ue t"/>
+	<VALUE name="oet" val="e t"/>
+	<VALUE name="wot" val="uA t"/>
+	<VALUE name="wet" val="ue t"/>
+	<VALUE name="wit" val="u :\i t"/>
+	<VALUE name="uit" val="U :\i t"/>
+	<VALUE name="jat" val="ts\ a t"/>
+	<VALUE name="jyat" val="ts\ ia t"/>
+	<VALUE name="jeot" val="ts\ A t"/>
+	<VALUE name="jyeot" val="ts\ iA t"/>
+	<VALUE name="jot" val="ts\ o t"/>
+	<VALUE name="jyot" val="ts\ j o t"/>
+	<VALUE name="jut" val="ts\ u t"/>
+	<VALUE name="jyut" val="ts\ j u t"/>
+	<VALUE name="jeut" val="ts\ U t"/>
+	<VALUE name="jit" val="ts\ i t"/>
+	<VALUE name="jaet" val="ts\ e t"/>
+	<VALUE name="jyaet" val="ts\ ie t"/>
+	<VALUE name="jet" val="ts\ e t"/>
+	<VALUE name="jyet" val="ts\ ie t"/>
+	<VALUE name="jwat" val="ts\ ua t"/>
+	<VALUE name="jwaet" val="ts\ ue t"/>
+	<VALUE name="joet" val="ts\ e t"/>
+	<VALUE name="jwot" val="ts\ uA t"/>
+	<VALUE name="jwet" val="ts\ ue t"/>
+	<VALUE name="jwit" val="ts\ u :\i t"/>
+	<VALUE name="juit" val="ts\ U :\i t"/>
+	<VALUE name="chat" val="ts\h a t"/>
+	<VALUE name="chyat" val="ts\h ia t"/>
+	<VALUE name="cheot" val="ts\h A t"/>
+	<VALUE name="chyeot" val="ts\h iA t"/>
+	<VALUE name="chot" val="ts\h o t"/>
+	<VALUE name="chyot" val="ts\h j o t"/>
+	<VALUE name="chut" val="ts\h u t"/>
+	<VALUE name="chyut" val="ts\h j u t"/>
+	<VALUE name="cheut" val="ts\h U t"/>
+	<VALUE name="chit" val="ts\h i t"/>
+	<VALUE name="chaet" val="ts\h e t"/>
+	<VALUE name="chyaet" val="ts\h ie t"/>
+	<VALUE name="chet" val="ts\h e t"/>
+	<VALUE name="chyet" val="ts\h ie t"/>
+	<VALUE name="chwat" val="ts\h ua t"/>
+	<VALUE name="chwaet" val="ts\h ue t"/>
+	<VALUE name="choet" val="ts\h e t"/>
+	<VALUE name="chwot" val="ts\h uA t"/>
+	<VALUE name="chwet" val="ts\h ue t"/>
+	<VALUE name="chwit" val="ts\h u :\i t"/>
+	<VALUE name="chuit" val="ts\h U :\i t"/>
+	<VALUE name="kat" val="kh a t"/>
+	<VALUE name="kyat" val="kh ia t"/>
+	<VALUE name="keot" val="kh A t"/>
+	<VALUE name="kyeot" val="kh iA t"/>
+	<VALUE name="kot" val="kh o t"/>
+	<VALUE name="kyot" val="kh j o t"/>
+	<VALUE name="kut" val="kh u t"/>
+	<VALUE name="kyut" val="kh j u t"/>
+	<VALUE name="keut" val="kh U t"/>
+	<VALUE name="kit" val="kh i t"/>
+	<VALUE name="kaet" val="kh e t"/>
+	<VALUE name="kyaet" val="kh ie t"/>
+	<VALUE name="ket" val="kh e t"/>
+	<VALUE name="kyet" val="kh ie t"/>
+	<VALUE name="kwat" val="kh ua t"/>
+	<VALUE name="kwaet" val="kh ue t"/>
+	<VALUE name="koet" val="kh e t"/>
+	<VALUE name="kwot" val="kh uA t"/>
+	<VALUE name="kwet" val="kh ue t"/>
+	<VALUE name="kwit" val="kh u :\i t"/>
+	<VALUE name="kuit" val="kh U :\i t"/>
+	<VALUE name="tat" val="th a t"/>
+	<VALUE name="tyat" val="th ia t"/>
+	<VALUE name="teot" val="th A t"/>
+	<VALUE name="tyeot" val="th iA t"/>
+	<VALUE name="tot" val="th o t"/>
+	<VALUE name="tyot" val="th j o t"/>
+	<VALUE name="tut" val="th u t"/>
+	<VALUE name="tyut" val="th j u t"/>
+	<VALUE name="teut" val="th U t"/>
+	<VALUE name="tit" val="th i t"/>
+	<VALUE name="taet" val="th e t"/>
+	<VALUE name="tyaet" val="th ie t"/>
+	<VALUE name="tet" val="th e t"/>
+	<VALUE name="tyet" val="th ie t"/>
+	<VALUE name="twat" val="th ua t"/>
+	<VALUE name="twaet" val="th ue t"/>
+	<VALUE name="toet" val="th e t"/>
+	<VALUE name="twot" val="th uA t"/>
+	<VALUE name="twet" val="th ue t"/>
+	<VALUE name="twit" val="th u :\i t"/>
+	<VALUE name="tuit" val="th U :\i t"/>
+	<VALUE name="pat" val="ph a t"/>
+	<VALUE name="pyat" val="ph ia t"/>
+	<VALUE name="peot" val="ph A t"/>
+	<VALUE name="pyeot" val="ph iA t"/>
+	<VALUE name="pot" val="ph o t"/>
+	<VALUE name="pyot" val="ph j o t"/>
+	<VALUE name="put" val="ph u t"/>
+	<VALUE name="pyut" val="ph j u t"/>
+	<VALUE name="peut" val="ph U t"/>
+	<VALUE name="pit" val="ph i t"/>
+	<VALUE name="paet" val="ph e t"/>
+	<VALUE name="pyaet" val="ph ie t"/>
+	<VALUE name="pet" val="ph e t"/>
+	<VALUE name="pyet" val="ph ie t"/>
+	<VALUE name="pwat" val="ph ua t"/>
+	<VALUE name="pwaet" val="ph ue t"/>
+	<VALUE name="poet" val="ph e t"/>
+	<VALUE name="pwot" val="ph uA t"/>
+	<VALUE name="pwet" val="ph ue t"/>
+	<VALUE name="pwit" val="ph u :\i t"/>
+	<VALUE name="puit" val="ph U :\i t"/>
+	<VALUE name="hat" val="x a t"/>
+	<VALUE name="hyat" val="x ia t"/>
+	<VALUE name="heot" val="x A t"/>
+	<VALUE name="hyeot" val="x iA t"/>
+	<VALUE name="hot" val="x o t"/>
+	<VALUE name="hyot" val="x j o t"/>
+	<VALUE name="hut" val="x u t"/>
+	<VALUE name="hyut" val="x j u t"/>
+	<VALUE name="heut" val="x U t"/>
+	<VALUE name="hit" val="x i t"/>
+	<VALUE name="haet" val="x e t"/>
+	<VALUE name="hyaet" val="x ie t"/>
+	<VALUE name="het" val="x e t"/>
+	<VALUE name="hyet" val="x ie t"/>
+	<VALUE name="hwat" val="x ua t"/>
+	<VALUE name="hwaet" val="x ue t"/>
+	<VALUE name="hoet" val="x e t"/>
+	<VALUE name="hwot" val="x uA t"/>
+	<VALUE name="hwet" val="x ue t"/>
+	<VALUE name="hwit" val="x u :\i t"/>
+	<VALUE name="huit" val="x U :\i t"/>
+	<VALUE name="kkat" val="k a t"/>
+	<VALUE name="kkyat" val="k ia t"/>
+	<VALUE name="kkeot" val="k A t"/>
+	<VALUE name="kkyeot" val="k iA t"/>
+	<VALUE name="kkot" val="k o t"/>
+	<VALUE name="kkyot" val="k j o t"/>
+	<VALUE name="kkut" val="k u t"/>
+	<VALUE name="kkyut" val="k j u t"/>
+	<VALUE name="kkeut" val="k U t"/>
+	<VALUE name="kkit" val="k i t"/>
+	<VALUE name="kkaet" val="k e t"/>
+	<VALUE name="kkyaet" val="k ie t"/>
+	<VALUE name="kket" val="k e t"/>
+	<VALUE name="kkyet" val="k ie t"/>
+	<VALUE name="kkwat" val="k ua t"/>
+	<VALUE name="kkwaet" val="k ue t"/>
+	<VALUE name="kkoet" val="k e t"/>
+	<VALUE name="kkwot" val="k uA t"/>
+	<VALUE name="kkwet" val="k ue t"/>
+	<VALUE name="kkwit" val="k u :\i t"/>
+	<VALUE name="kkuit" val="k U :\i t"/>
+	<VALUE name="ttat" val="t a t"/>
+	<VALUE name="ttyat" val="t ia t"/>
+	<VALUE name="tteot" val="t A t"/>
+	<VALUE name="ttyeot" val="t iA t"/>
+	<VALUE name="ttot" val="t o t"/>
+	<VALUE name="ttyot" val="t j o t"/>
+	<VALUE name="ttut" val="t u t"/>
+	<VALUE name="ttyut" val="t j u t"/>
+	<VALUE name="tteut" val="t U t"/>
+	<VALUE name="ttit" val="t i t"/>
+	<VALUE name="ttaet" val="t e t"/>
+	<VALUE name="ttyaet" val="t ie t"/>
+	<VALUE name="ttet" val="t e t"/>
+	<VALUE name="ttyet" val="t ie t"/>
+	<VALUE name="ttwat" val="t ua t"/>
+	<VALUE name="ttwaet" val="t ue t"/>
+	<VALUE name="ttoet" val="t e t"/>
+	<VALUE name="ttwot" val="t uA t"/>
+	<VALUE name="ttwet" val="t ue t"/>
+	<VALUE name="ttwit" val="t u :\i t"/>
+	<VALUE name="ttuit" val="t U :\i t"/>
+	<VALUE name="ppat" val="p a t"/>
+	<VALUE name="ppyat" val="p ia t"/>
+	<VALUE name="ppeot" val="p A t"/>
+	<VALUE name="ppyeot" val="p iA t"/>
+	<VALUE name="ppot" val="p o t"/>
+	<VALUE name="ppyot" val="p j o t"/>
+	<VALUE name="pput" val="p u t"/>
+	<VALUE name="ppyut" val="p j u t"/>
+	<VALUE name="ppeut" val="p U t"/>
+	<VALUE name="ppit" val="p i t"/>
+	<VALUE name="ppaet" val="p e t"/>
+	<VALUE name="ppyaet" val="p ie t"/>
+	<VALUE name="ppet" val="p e t"/>
+	<VALUE name="ppyet" val="p ie t"/>
+	<VALUE name="ppwat" val="p ua t"/>
+	<VALUE name="ppwaet" val="p ue t"/>
+	<VALUE name="ppoet" val="p e t"/>
+	<VALUE name="ppwot" val="p uA t"/>
+	<VALUE name="ppwet" val="p ue t"/>
+	<VALUE name="ppwit" val="p u :\i t"/>
+	<VALUE name="ppuit" val="p U :\i t"/>
+	<VALUE name="ssat" val="s a t"/>
+	<VALUE name="ssyat" val="s ia t"/>
+	<VALUE name="sseot" val="s A t"/>
+	<VALUE name="ssyeot" val="s iA t"/>
+	<VALUE name="ssot" val="s o t"/>
+	<VALUE name="ssyot" val="s j o t"/>
+	<VALUE name="ssut" val="s u t"/>
+	<VALUE name="ssyut" val="s j u t"/>
+	<VALUE name="sseut" val="s U t"/>
+	<VALUE name="ssit" val="s i t"/>
+	<VALUE name="ssaet" val="s e t"/>
+	<VALUE name="ssyaet" val="s ie t"/>
+	<VALUE name="sset" val="s e t"/>
+	<VALUE name="ssyet" val="s ie t"/>
+	<VALUE name="sswat" val="s ua t"/>
+	<VALUE name="sswaet" val="s ue t"/>
+	<VALUE name="ssoet" val="s e t"/>
+	<VALUE name="sswot" val="s uA t"/>
+	<VALUE name="sswet" val="s ue t"/>
+	<VALUE name="sswit" val="s u :\i t"/>
+	<VALUE name="ssuit" val="s U :\i t"/>
+	<VALUE name="jjat" val="ts\ a t"/>
+	<VALUE name="jjyat" val="ts\ ia t"/>
+	<VALUE name="jjeot" val="ts\ A t"/>
+	<VALUE name="jjyeot" val="ts\ iA t"/>
+	<VALUE name="jjot" val="ts\ o t"/>
+	<VALUE name="jjyot" val="ts\ j o t"/>
+	<VALUE name="jjut" val="ts\ u t"/>
+	<VALUE name="jjyut" val="ts\ j u t"/>
+	<VALUE name="jjeut" val="ts\ U t"/>
+	<VALUE name="jjit" val="ts\ i t"/>
+	<VALUE name="jjaet" val="ts\ e t"/>
+	<VALUE name="jjyaet" val="ts\ ie t"/>
+	<VALUE name="jjet" val="ts\ e t"/>
+	<VALUE name="jjyet" val="ts\ ie t"/>
+	<VALUE name="jjwat" val="ts\ ua t"/>
+	<VALUE name="jjwaet" val="ts\ ue t"/>
+	<VALUE name="jjoet" val="ts\ e t"/>
+	<VALUE name="jjwot" val="ts\ uA t"/>
+	<VALUE name="jjwet" val="ts\ ue t"/>
+	<VALUE name="jjwit" val="ts\ u :\i t"/>
+	<VALUE name="jjuit" val="ts\ U :\i t"/>
+	<VALUE name="gap" val="k a p"/>
+	<VALUE name="gyap" val="k ia p"/>
+	<VALUE name="geop" val="k A p"/>
+	<VALUE name="gyeop" val="k iA p"/>
+	<VALUE name="gop" val="k o p"/>
+	<VALUE name="gyop" val="k j o p"/>
+	<VALUE name="gup" val="k u p"/>
+	<VALUE name="gyup" val="k j u p"/>
+	<VALUE name="geup" val="k U p"/>
+	<VALUE name="gip" val="k i p"/>
+	<VALUE name="gaep" val="k e p"/>
+	<VALUE name="gyaep" val="k ie p"/>
+	<VALUE name="gep" val="k e p"/>
+	<VALUE name="gyep" val="k ie p"/>
+	<VALUE name="gwap" val="k ua p"/>
+	<VALUE name="gwaep" val="k ue p"/>
+	<VALUE name="goep" val="k e p"/>
+	<VALUE name="gwop" val="k uA p"/>
+	<VALUE name="gwep" val="k ue p"/>
+	<VALUE name="gwip" val="k u :\i p"/>
+	<VALUE name="guip" val="k U :\i p"/>
+	<VALUE name="nap" val="n a p"/>
+	<VALUE name="nyap" val="n ia p"/>
+	<VALUE name="neop" val="n A p"/>
+	<VALUE name="nyeop" val="n iA p"/>
+	<VALUE name="nop" val="n o p"/>
+	<VALUE name="nyop" val="n j o p"/>
+	<VALUE name="nup" val="n u p"/>
+	<VALUE name="nyup" val="n j u p"/>
+	<VALUE name="neup" val="n U p"/>
+	<VALUE name="nip" val="n i p"/>
+	<VALUE name="naep" val="n e p"/>
+	<VALUE name="nyaep" val="n ie p"/>
+	<VALUE name="nep" val="n e p"/>
+	<VALUE name="nyep" val="n ie p"/>
+	<VALUE name="nwap" val="n ua p"/>
+	<VALUE name="nwaep" val="n ue p"/>
+	<VALUE name="noep" val="n e p"/>
+	<VALUE name="nwop" val="n uA p"/>
+	<VALUE name="nwep" val="n ue p"/>
+	<VALUE name="nwip" val="n u :\i p"/>
+	<VALUE name="nuip" val="n U :\i p"/>
+	<VALUE name="dap" val="t a p"/>
+	<VALUE name="dyap" val="t ia p"/>
+	<VALUE name="deop" val="t A p"/>
+	<VALUE name="dyeop" val="t iA p"/>
+	<VALUE name="dop" val="t o p"/>
+	<VALUE name="dyop" val="t j o p"/>
+	<VALUE name="dup" val="t u p"/>
+	<VALUE name="dyup" val="t j u p"/>
+	<VALUE name="deup" val="t U p"/>
+	<VALUE name="dip" val="t i p"/>
+	<VALUE name="daep" val="t e p"/>
+	<VALUE name="dyaep" val="t ie p"/>
+	<VALUE name="dep" val="t e p"/>
+	<VALUE name="dyep" val="t ie p"/>
+	<VALUE name="dwap" val="t ua p"/>
+	<VALUE name="dwaep" val="t ue p"/>
+	<VALUE name="doep" val="t e p"/>
+	<VALUE name="dwop" val="t uA p"/>
+	<VALUE name="dwep" val="t ue p"/>
+	<VALUE name="dwip" val="t u :\i p"/>
+	<VALUE name="duip" val="t U :\i p"/>
+	<VALUE name="rap" val="l a p"/>
+	<VALUE name="ryap" val="l ia p"/>
+	<VALUE name="reop" val="l A p"/>
+	<VALUE name="ryeop" val="l iA p"/>
+	<VALUE name="rop" val="l o p"/>
+	<VALUE name="ryop" val="l j o p"/>
+	<VALUE name="rup" val="l u p"/>
+	<VALUE name="ryup" val="l j u p"/>
+	<VALUE name="reup" val="l U p"/>
+	<VALUE name="rip" val="l i p"/>
+	<VALUE name="raep" val="l e p"/>
+	<VALUE name="ryaep" val="l ie p"/>
+	<VALUE name="rep" val="l e p"/>
+	<VALUE name="ryep" val="l ie p"/>
+	<VALUE name="rwap" val="l ua p"/>
+	<VALUE name="rwaep" val="l ue p"/>
+	<VALUE name="roep" val="l e p"/>
+	<VALUE name="rwop" val="l uA p"/>
+	<VALUE name="rwep" val="l ue p"/>
+	<VALUE name="rwip" val="l u :\i p"/>
+	<VALUE name="ruip" val="l U :\i p"/>
+	<VALUE name="map" val="m a p"/>
+	<VALUE name="myap" val="m ia p"/>
+	<VALUE name="meop" val="m A p"/>
+	<VALUE name="myeop" val="m iA p"/>
+	<VALUE name="mop" val="m o p"/>
+	<VALUE name="myop" val="m j o p"/>
+	<VALUE name="mup" val="m u p"/>
+	<VALUE name="myup" val="m j u p"/>
+	<VALUE name="meup" val="m U p"/>
+	<VALUE name="mip" val="m i p"/>
+	<VALUE name="maep" val="m e p"/>
+	<VALUE name="myaep" val="m ie p"/>
+	<VALUE name="mep" val="m e p"/>
+	<VALUE name="myep" val="m ie p"/>
+	<VALUE name="mwap" val="m ua p"/>
+	<VALUE name="mwaep" val="m ue p"/>
+	<VALUE name="moep" val="m e p"/>
+	<VALUE name="mwop" val="m uA p"/>
+	<VALUE name="mwep" val="m ue p"/>
+	<VALUE name="mwip" val="m u :\i p"/>
+	<VALUE name="muip" val="m U :\i p"/>
+	<VALUE name="bap" val="p a p"/>
+	<VALUE name="byap" val="p ia p"/>
+	<VALUE name="beop" val="p A p"/>
+	<VALUE name="byeop" val="p iA p"/>
+	<VALUE name="bop" val="p o p"/>
+	<VALUE name="byop" val="p j o p"/>
+	<VALUE name="bup" val="p u p"/>
+	<VALUE name="byup" val="p j u p"/>
+	<VALUE name="beup" val="p U p"/>
+	<VALUE name="bip" val="p i p"/>
+	<VALUE name="baep" val="p e p"/>
+	<VALUE name="byaep" val="p ie p"/>
+	<VALUE name="bep" val="p e p"/>
+	<VALUE name="byep" val="p ie p"/>
+	<VALUE name="bwap" val="p ua p"/>
+	<VALUE name="bwaep" val="p ue p"/>
+	<VALUE name="boep" val="p e p"/>
+	<VALUE name="bwop" val="p uA p"/>
+	<VALUE name="bwep" val="p ue p"/>
+	<VALUE name="bwip" val="p u :\i p"/>
+	<VALUE name="buip" val="p U :\i p"/>
+	<VALUE name="sap" val="s a p"/>
+	<VALUE name="syap" val="s ia p"/>
+	<VALUE name="seop" val="s A p"/>
+	<VALUE name="syeop" val="s iA p"/>
+	<VALUE name="sop" val="s o p"/>
+	<VALUE name="syop" val="s j o p"/>
+	<VALUE name="sup" val="s u p"/>
+	<VALUE name="syup" val="s j u p"/>
+	<VALUE name="seup" val="s U p"/>
+	<VALUE name="sip" val="s i p"/>
+	<VALUE name="saep" val="s e p"/>
+	<VALUE name="syaep" val="s ie p"/>
+	<VALUE name="sep" val="s e p"/>
+	<VALUE name="syep" val="s ie p"/>
+	<VALUE name="swap" val="s ua p"/>
+	<VALUE name="swaep" val="s ue p"/>
+	<VALUE name="soep" val="s e p"/>
+	<VALUE name="swop" val="s uA p"/>
+	<VALUE name="swep" val="s ue p"/>
+	<VALUE name="swip" val="s u :\i p"/>
+	<VALUE name="suip" val="s U :\i p"/>
+	<VALUE name="ap" val="a p"/>
+	<VALUE name="yap" val="ia p"/>
+	<VALUE name="eop" val="A p"/>
+	<VALUE name="yeop" val="iA p"/>
+	<VALUE name="op" val="o p"/>
+	<VALUE name="yop" val="j o p"/>
+	<VALUE name="up" val="u p"/>
+	<VALUE name="yup" val="j u p"/>
+	<VALUE name="eup" val="U p"/>
+	<VALUE name="ip" val="i p"/>
+	<VALUE name="aep" val="e p"/>
+	<VALUE name="yaep" val="ie p"/>
+	<VALUE name="ep" val="e p"/>
+	<VALUE name="yep" val="ie p"/>
+	<VALUE name="wap" val="ua p"/>
+	<VALUE name="waep" val="ue p"/>
+	<VALUE name="oep" val="e p"/>
+	<VALUE name="wop" val="uA p"/>
+	<VALUE name="wep" val="ue p"/>
+	<VALUE name="wip" val="u :\i p"/>
+	<VALUE name="uip" val="U :\i p"/>
+	<VALUE name="jap" val="ts\ a p"/>
+	<VALUE name="jyap" val="ts\ ia p"/>
+	<VALUE name="jeop" val="ts\ A p"/>
+	<VALUE name="jyeop" val="ts\ iA p"/>
+	<VALUE name="jop" val="ts\ o p"/>
+	<VALUE name="jyop" val="ts\ j o p"/>
+	<VALUE name="jup" val="ts\ u p"/>
+	<VALUE name="jyup" val="ts\ j u p"/>
+	<VALUE name="jeup" val="ts\ U p"/>
+	<VALUE name="jip" val="ts\ i p"/>
+	<VALUE name="jaep" val="ts\ e p"/>
+	<VALUE name="jyaep" val="ts\ ie p"/>
+	<VALUE name="jep" val="ts\ e p"/>
+	<VALUE name="jyep" val="ts\ ie p"/>
+	<VALUE name="jwap" val="ts\ ua p"/>
+	<VALUE name="jwaep" val="ts\ ue p"/>
+	<VALUE name="joep" val="ts\ e p"/>
+	<VALUE name="jwop" val="ts\ uA p"/>
+	<VALUE name="jwep" val="ts\ ue p"/>
+	<VALUE name="jwip" val="ts\ u :\i p"/>
+	<VALUE name="juip" val="ts\ U :\i p"/>
+	<VALUE name="chap" val="ts\h a p"/>
+	<VALUE name="chyap" val="ts\h ia p"/>
+	<VALUE name="cheop" val="ts\h A p"/>
+	<VALUE name="chyeop" val="ts\h iA p"/>
+	<VALUE name="chop" val="ts\h o p"/>
+	<VALUE name="chyop" val="ts\h j o p"/>
+	<VALUE name="chup" val="ts\h u p"/>
+	<VALUE name="chyup" val="ts\h j u p"/>
+	<VALUE name="cheup" val="ts\h U p"/>
+	<VALUE name="chip" val="ts\h i p"/>
+	<VALUE name="chaep" val="ts\h e p"/>
+	<VALUE name="chyaep" val="ts\h ie p"/>
+	<VALUE name="chep" val="ts\h e p"/>
+	<VALUE name="chyep" val="ts\h ie p"/>
+	<VALUE name="chwap" val="ts\h ua p"/>
+	<VALUE name="chwaep" val="ts\h ue p"/>
+	<VALUE name="choep" val="ts\h e p"/>
+	<VALUE name="chwop" val="ts\h uA p"/>
+	<VALUE name="chwep" val="ts\h ue p"/>
+	<VALUE name="chwip" val="ts\h u :\i p"/>
+	<VALUE name="chuip" val="ts\h U :\i p"/>
+	<VALUE name="kap" val="kh a p"/>
+	<VALUE name="kyap" val="kh ia p"/>
+	<VALUE name="keop" val="kh A p"/>
+	<VALUE name="kyeop" val="kh iA p"/>
+	<VALUE name="kop" val="kh o p"/>
+	<VALUE name="kyop" val="kh j o p"/>
+	<VALUE name="kup" val="kh u p"/>
+	<VALUE name="kyup" val="kh j u p"/>
+	<VALUE name="keup" val="kh U p"/>
+	<VALUE name="kip" val="kh i p"/>
+	<VALUE name="kaep" val="kh e p"/>
+	<VALUE name="kyaep" val="kh ie p"/>
+	<VALUE name="kep" val="kh e p"/>
+	<VALUE name="kyep" val="kh ie p"/>
+	<VALUE name="kwap" val="kh ua p"/>
+	<VALUE name="kwaep" val="kh ue p"/>
+	<VALUE name="koep" val="kh e p"/>
+	<VALUE name="kwop" val="kh uA p"/>
+	<VALUE name="kwep" val="kh ue p"/>
+	<VALUE name="kwip" val="kh u :\i p"/>
+	<VALUE name="kuip" val="kh U :\i p"/>
+	<VALUE name="tap" val="th a p"/>
+	<VALUE name="tyap" val="th ia p"/>
+	<VALUE name="teop" val="th A p"/>
+	<VALUE name="tyeop" val="th iA p"/>
+	<VALUE name="top" val="th o p"/>
+	<VALUE name="tyop" val="th j o p"/>
+	<VALUE name="tup" val="th u p"/>
+	<VALUE name="tyup" val="th j u p"/>
+	<VALUE name="teup" val="th U p"/>
+	<VALUE name="tip" val="th i p"/>
+	<VALUE name="taep" val="th e p"/>
+	<VALUE name="tyaep" val="th ie p"/>
+	<VALUE name="tep" val="th e p"/>
+	<VALUE name="tyep" val="th ie p"/>
+	<VALUE name="twap" val="th ua p"/>
+	<VALUE name="twaep" val="th ue p"/>
+	<VALUE name="toep" val="th e p"/>
+	<VALUE name="twop" val="th uA p"/>
+	<VALUE name="twep" val="th ue p"/>
+	<VALUE name="twip" val="th u :\i p"/>
+	<VALUE name="tuip" val="th U :\i p"/>
+	<VALUE name="pap" val="ph a p"/>
+	<VALUE name="pyap" val="ph ia p"/>
+	<VALUE name="peop" val="ph A p"/>
+	<VALUE name="pyeop" val="ph iA p"/>
+	<VALUE name="pop" val="ph o p"/>
+	<VALUE name="pyop" val="ph j o p"/>
+	<VALUE name="pup" val="ph u p"/>
+	<VALUE name="pyup" val="ph j u p"/>
+	<VALUE name="peup" val="ph U p"/>
+	<VALUE name="pip" val="ph i p"/>
+	<VALUE name="paep" val="ph e p"/>
+	<VALUE name="pyaep" val="ph ie p"/>
+	<VALUE name="pep" val="ph e p"/>
+	<VALUE name="pyep" val="ph ie p"/>
+	<VALUE name="pwap" val="ph ua p"/>
+	<VALUE name="pwaep" val="ph ue p"/>
+	<VALUE name="poep" val="ph e p"/>
+	<VALUE name="pwop" val="ph uA p"/>
+	<VALUE name="pwep" val="ph ue p"/>
+	<VALUE name="pwip" val="ph u :\i p"/>
+	<VALUE name="puip" val="ph U :\i p"/>
+	<VALUE name="hap" val="x a p"/>
+	<VALUE name="hyap" val="x ia p"/>
+	<VALUE name="heop" val="x A p"/>
+	<VALUE name="hyeop" val="x iA p"/>
+	<VALUE name="hop" val="x o p"/>
+	<VALUE name="hyop" val="x j o p"/>
+	<VALUE name="hup" val="x u p"/>
+	<VALUE name="hyup" val="x j u p"/>
+	<VALUE name="heup" val="x U p"/>
+	<VALUE name="hip" val="x i p"/>
+	<VALUE name="haep" val="x e p"/>
+	<VALUE name="hyaep" val="x ie p"/>
+	<VALUE name="hep" val="x e p"/>
+	<VALUE name="hyep" val="x ie p"/>
+	<VALUE name="hwap" val="x ua p"/>
+	<VALUE name="hwaep" val="x ue p"/>
+	<VALUE name="hoep" val="x e p"/>
+	<VALUE name="hwop" val="x uA p"/>
+	<VALUE name="hwep" val="x ue p"/>
+	<VALUE name="hwip" val="x u :\i p"/>
+	<VALUE name="huip" val="x U :\i p"/>
+	<VALUE name="kkap" val="k a p"/>
+	<VALUE name="kkyap" val="k ia p"/>
+	<VALUE name="kkeop" val="k A p"/>
+	<VALUE name="kkyeop" val="k iA p"/>
+	<VALUE name="kkop" val="k o p"/>
+	<VALUE name="kkyop" val="k j o p"/>
+	<VALUE name="kkup" val="k u p"/>
+	<VALUE name="kkyup" val="k j u p"/>
+	<VALUE name="kkeup" val="k U p"/>
+	<VALUE name="kkip" val="k i p"/>
+	<VALUE name="kkaep" val="k e p"/>
+	<VALUE name="kkyaep" val="k ie p"/>
+	<VALUE name="kkep" val="k e p"/>
+	<VALUE name="kkyep" val="k ie p"/>
+	<VALUE name="kkwap" val="k ua p"/>
+	<VALUE name="kkwaep" val="k ue p"/>
+	<VALUE name="kkoep" val="k e p"/>
+	<VALUE name="kkwop" val="k uA p"/>
+	<VALUE name="kkwep" val="k ue p"/>
+	<VALUE name="kkwip" val="k u :\i p"/>
+	<VALUE name="kkuip" val="k U :\i p"/>
+	<VALUE name="ttap" val="t a p"/>
+	<VALUE name="ttyap" val="t ia p"/>
+	<VALUE name="tteop" val="t A p"/>
+	<VALUE name="ttyeop" val="t iA p"/>
+	<VALUE name="ttop" val="t o p"/>
+	<VALUE name="ttyop" val="t j o p"/>
+	<VALUE name="ttup" val="t u p"/>
+	<VALUE name="ttyup" val="t j u p"/>
+	<VALUE name="tteup" val="t U p"/>
+	<VALUE name="ttip" val="t i p"/>
+	<VALUE name="ttaep" val="t e p"/>
+	<VALUE name="ttyaep" val="t ie p"/>
+	<VALUE name="ttep" val="t e p"/>
+	<VALUE name="ttyep" val="t ie p"/>
+	<VALUE name="ttwap" val="t ua p"/>
+	<VALUE name="ttwaep" val="t ue p"/>
+	<VALUE name="ttoep" val="t e p"/>
+	<VALUE name="ttwop" val="t uA p"/>
+	<VALUE name="ttwep" val="t ue p"/>
+	<VALUE name="ttwip" val="t u :\i p"/>
+	<VALUE name="ttuip" val="t U :\i p"/>
+	<VALUE name="ppap" val="p a p"/>
+	<VALUE name="ppyap" val="p ia p"/>
+	<VALUE name="ppeop" val="p A p"/>
+	<VALUE name="ppyeop" val="p iA p"/>
+	<VALUE name="ppop" val="p o p"/>
+	<VALUE name="ppyop" val="p j o p"/>
+	<VALUE name="ppup" val="p u p"/>
+	<VALUE name="ppyup" val="p j u p"/>
+	<VALUE name="ppeup" val="p U p"/>
+	<VALUE name="ppip" val="p i p"/>
+	<VALUE name="ppaep" val="p e p"/>
+	<VALUE name="ppyaep" val="p ie p"/>
+	<VALUE name="ppep" val="p e p"/>
+	<VALUE name="ppyep" val="p ie p"/>
+	<VALUE name="ppwap" val="p ua p"/>
+	<VALUE name="ppwaep" val="p ue p"/>
+	<VALUE name="ppoep" val="p e p"/>
+	<VALUE name="ppwop" val="p uA p"/>
+	<VALUE name="ppwep" val="p ue p"/>
+	<VALUE name="ppwip" val="p u :\i p"/>
+	<VALUE name="ppuip" val="p U :\i p"/>
+	<VALUE name="ssap" val="s a p"/>
+	<VALUE name="ssyap" val="s ia p"/>
+	<VALUE name="sseop" val="s A p"/>
+	<VALUE name="ssyeop" val="s iA p"/>
+	<VALUE name="ssop" val="s o p"/>
+	<VALUE name="ssyop" val="s j o p"/>
+	<VALUE name="ssup" val="s u p"/>
+	<VALUE name="ssyup" val="s j u p"/>
+	<VALUE name="sseup" val="s U p"/>
+	<VALUE name="ssip" val="s i p"/>
+	<VALUE name="ssaep" val="s e p"/>
+	<VALUE name="ssyaep" val="s ie p"/>
+	<VALUE name="ssep" val="s e p"/>
+	<VALUE name="ssyep" val="s ie p"/>
+	<VALUE name="sswap" val="s ua p"/>
+	<VALUE name="sswaep" val="s ue p"/>
+	<VALUE name="ssoep" val="s e p"/>
+	<VALUE name="sswop" val="s uA p"/>
+	<VALUE name="sswep" val="s ue p"/>
+	<VALUE name="sswip" val="s u :\i p"/>
+	<VALUE name="ssuip" val="s U :\i p"/>
+	<VALUE name="jjap" val="ts\ a p"/>
+	<VALUE name="jjyap" val="ts\ ia p"/>
+	<VALUE name="jjeop" val="ts\ A p"/>
+	<VALUE name="jjyeop" val="ts\ iA p"/>
+	<VALUE name="jjop" val="ts\ o p"/>
+	<VALUE name="jjyop" val="ts\ j o p"/>
+	<VALUE name="jjup" val="ts\ u p"/>
+	<VALUE name="jjyup" val="ts\ j u p"/>
+	<VALUE name="jjeup" val="ts\ U p"/>
+	<VALUE name="jjip" val="ts\ i p"/>
+	<VALUE name="jjaep" val="ts\ e p"/>
+	<VALUE name="jjyaep" val="ts\ ie p"/>
+	<VALUE name="jjep" val="ts\ e p"/>
+	<VALUE name="jjyep" val="ts\ ie p"/>
+	<VALUE name="jjwap" val="ts\ ua p"/>
+	<VALUE name="jjwaep" val="ts\ ue p"/>
+	<VALUE name="jjoep" val="ts\ e p"/>
+	<VALUE name="jjwop" val="ts\ uA p"/>
+	<VALUE name="jjwep" val="ts\ ue p"/>
+	<VALUE name="jjwip" val="ts\ u :\i p"/>
+	<VALUE name="jjuip" val="ts\ U :\i p"/>
+	<VALUE name="gal" val="k a r\`"/>
+	<VALUE name="gyal" val="k ia r\`"/>
+	<VALUE name="geol" val="k A r\`"/>
+	<VALUE name="gyeol" val="k iA r\`"/>
+	<VALUE name="gol" val="k o r\`"/>
+	<VALUE name="gyol" val="k j o r\`"/>
+	<VALUE name="gul" val="k u r\`"/>
+	<VALUE name="gyul" val="k j u r\`"/>
+	<VALUE name="geul" val="k U r\`"/>
+	<VALUE name="gil" val="k i r\`"/>
+	<VALUE name="gael" val="k e r\`"/>
+	<VALUE name="gyael" val="k ie r\`"/>
+	<VALUE name="gel" val="k e r\`"/>
+	<VALUE name="gyel" val="k ie r\`"/>
+	<VALUE name="gwal" val="k ua r\`"/>
+	<VALUE name="gwael" val="k ue r\`"/>
+	<VALUE name="goel" val="k e r\`"/>
+	<VALUE name="gwol" val="k uA r\`"/>
+	<VALUE name="gwel" val="k ue r\`"/>
+	<VALUE name="gwil" val="k u :\i r\`"/>
+	<VALUE name="guil" val="k U :\i r\`"/>
+	<VALUE name="nal" val="n a r\`"/>
+	<VALUE name="nyal" val="n ia r\`"/>
+	<VALUE name="neol" val="n A r\`"/>
+	<VALUE name="nyeol" val="n iA r\`"/>
+	<VALUE name="nol" val="n o r\`"/>
+	<VALUE name="nyol" val="n j o r\`"/>
+	<VALUE name="nul" val="n u r\`"/>
+	<VALUE name="nyul" val="n j u r\`"/>
+	<VALUE name="neul" val="n U r\`"/>
+	<VALUE name="nil" val="n i r\`"/>
+	<VALUE name="nael" val="n e r\`"/>
+	<VALUE name="nyael" val="n ie r\`"/>
+	<VALUE name="nel" val="n e r\`"/>
+	<VALUE name="nyel" val="n ie r\`"/>
+	<VALUE name="nwal" val="n ua r\`"/>
+	<VALUE name="nwael" val="n ue r\`"/>
+	<VALUE name="noel" val="n e r\`"/>
+	<VALUE name="nwol" val="n uA r\`"/>
+	<VALUE name="nwel" val="n ue r\`"/>
+	<VALUE name="nwil" val="n u :\i r\`"/>
+	<VALUE name="nuil" val="n U :\i r\`"/>
+	<VALUE name="dal" val="t a r\`"/>
+	<VALUE name="dyal" val="t ia r\`"/>
+	<VALUE name="deol" val="t A r\`"/>
+	<VALUE name="dyeol" val="t iA r\`"/>
+	<VALUE name="dol" val="t o r\`"/>
+	<VALUE name="dyol" val="t j o r\`"/>
+	<VALUE name="dul" val="t u r\`"/>
+	<VALUE name="dyul" val="t j u r\`"/>
+	<VALUE name="deul" val="t U r\`"/>
+	<VALUE name="dil" val="t i r\`"/>
+	<VALUE name="dael" val="t e r\`"/>
+	<VALUE name="dyael" val="t ie r\`"/>
+	<VALUE name="del" val="t e r\`"/>
+	<VALUE name="dyel" val="t ie r\`"/>
+	<VALUE name="dwal" val="t ua r\`"/>
+	<VALUE name="dwael" val="t ue r\`"/>
+	<VALUE name="doel" val="t e r\`"/>
+	<VALUE name="dwol" val="t uA r\`"/>
+	<VALUE name="dwel" val="t ue r\`"/>
+	<VALUE name="dwil" val="t u :\i r\`"/>
+	<VALUE name="duil" val="t U :\i r\`"/>
+	<VALUE name="ral" val="l a r\`"/>
+	<VALUE name="ryal" val="l ia r\`"/>
+	<VALUE name="reol" val="l A r\`"/>
+	<VALUE name="ryeol" val="l iA r\`"/>
+	<VALUE name="rol" val="l o r\`"/>
+	<VALUE name="ryol" val="l j o r\`"/>
+	<VALUE name="rul" val="l u r\`"/>
+	<VALUE name="ryul" val="l j u r\`"/>
+	<VALUE name="reul" val="l U r\`"/>
+	<VALUE name="ril" val="l i r\`"/>
+	<VALUE name="rael" val="l e r\`"/>
+	<VALUE name="ryael" val="l ie r\`"/>
+	<VALUE name="rel" val="l e r\`"/>
+	<VALUE name="ryel" val="l ie r\`"/>
+	<VALUE name="rwal" val="l ua r\`"/>
+	<VALUE name="rwael" val="l ue r\`"/>
+	<VALUE name="roel" val="l e r\`"/>
+	<VALUE name="rwol" val="l uA r\`"/>
+	<VALUE name="rwel" val="l ue r\`"/>
+	<VALUE name="rwil" val="l u :\i r\`"/>
+	<VALUE name="ruil" val="l U :\i r\`"/>
+	<VALUE name="mal" val="m a r\`"/>
+	<VALUE name="myal" val="m ia r\`"/>
+	<VALUE name="meol" val="m A r\`"/>
+	<VALUE name="myeol" val="m iA r\`"/>
+	<VALUE name="mol" val="m o r\`"/>
+	<VALUE name="myol" val="m j o r\`"/>
+	<VALUE name="mul" val="m u r\`"/>
+	<VALUE name="myul" val="m j u r\`"/>
+	<VALUE name="meul" val="m U r\`"/>
+	<VALUE name="mil" val="m i r\`"/>
+	<VALUE name="mael" val="m e r\`"/>
+	<VALUE name="myael" val="m ie r\`"/>
+	<VALUE name="mel" val="m e r\`"/>
+	<VALUE name="myel" val="m ie r\`"/>
+	<VALUE name="mwal" val="m ua r\`"/>
+	<VALUE name="mwael" val="m ue r\`"/>
+	<VALUE name="moel" val="m e r\`"/>
+	<VALUE name="mwol" val="m uA r\`"/>
+	<VALUE name="mwel" val="m ue r\`"/>
+	<VALUE name="mwil" val="m u :\i r\`"/>
+	<VALUE name="muil" val="m U :\i r\`"/>
+	<VALUE name="bal" val="p a r\`"/>
+	<VALUE name="byal" val="p ia r\`"/>
+	<VALUE name="beol" val="p A r\`"/>
+	<VALUE name="byeol" val="p iA r\`"/>
+	<VALUE name="bol" val="p o r\`"/>
+	<VALUE name="byol" val="p j o r\`"/>
+	<VALUE name="bul" val="p u r\`"/>
+	<VALUE name="byul" val="p j u r\`"/>
+	<VALUE name="beul" val="p U r\`"/>
+	<VALUE name="bil" val="p i r\`"/>
+	<VALUE name="bael" val="p e r\`"/>
+	<VALUE name="byael" val="p ie r\`"/>
+	<VALUE name="bel" val="p e r\`"/>
+	<VALUE name="byel" val="p ie r\`"/>
+	<VALUE name="bwal" val="p ua r\`"/>
+	<VALUE name="bwael" val="p ue r\`"/>
+	<VALUE name="boel" val="p e r\`"/>
+	<VALUE name="bwol" val="p uA r\`"/>
+	<VALUE name="bwel" val="p ue r\`"/>
+	<VALUE name="bwil" val="p u :\i r\`"/>
+	<VALUE name="buil" val="p U :\i r\`"/>
+	<VALUE name="sal" val="s a r\`"/>
+	<VALUE name="syal" val="s ia r\`"/>
+	<VALUE name="seol" val="s A r\`"/>
+	<VALUE name="syeol" val="s iA r\`"/>
+	<VALUE name="sol" val="s o r\`"/>
+	<VALUE name="syol" val="s j o r\`"/>
+	<VALUE name="sul" val="s u r\`"/>
+	<VALUE name="syul" val="s j u r\`"/>
+	<VALUE name="seul" val="s U r\`"/>
+	<VALUE name="sil" val="s i r\`"/>
+	<VALUE name="sael" val="s e r\`"/>
+	<VALUE name="syael" val="s ie r\`"/>
+	<VALUE name="sel" val="s e r\`"/>
+	<VALUE name="syel" val="s ie r\`"/>
+	<VALUE name="swal" val="s ua r\`"/>
+	<VALUE name="swael" val="s ue r\`"/>
+	<VALUE name="soel" val="s e r\`"/>
+	<VALUE name="swol" val="s uA r\`"/>
+	<VALUE name="swel" val="s ue r\`"/>
+	<VALUE name="swil" val="s u :\i r\`"/>
+	<VALUE name="suil" val="s U :\i r\`"/>
+	<VALUE name="al" val="a r\`"/>
+	<VALUE name="yal" val="ia r\`"/>
+	<VALUE name="eol" val="A r\`"/>
+	<VALUE name="yeol" val="iA r\`"/>
+	<VALUE name="ol" val="o r\`"/>
+	<VALUE name="yol" val="j o r\`"/>
+	<VALUE name="ul" val="u r\`"/>
+	<VALUE name="yul" val="j u r\`"/>
+	<VALUE name="eul" val="U r\`"/>
+	<VALUE name="il" val="i r\`"/>
+	<VALUE name="ael" val="e r\`"/>
+	<VALUE name="yael" val="ie r\`"/>
+	<VALUE name="el" val="e r\`"/>
+	<VALUE name="yel" val="ie r\`"/>
+	<VALUE name="wal" val="ua r\`"/>
+	<VALUE name="wael" val="ue r\`"/>
+	<VALUE name="oel" val="e r\`"/>
+	<VALUE name="wol" val="uA r\`"/>
+	<VALUE name="wel" val="ue r\`"/>
+	<VALUE name="wil" val="u :\i r\`"/>
+	<VALUE name="uil" val="U :\i r\`"/>
+	<VALUE name="jal" val="ts\ a r\`"/>
+	<VALUE name="jyal" val="ts\ ia r\`"/>
+	<VALUE name="jeol" val="ts\ A r\`"/>
+	<VALUE name="jyeol" val="ts\ iA r\`"/>
+	<VALUE name="jol" val="ts\ o r\`"/>
+	<VALUE name="jyol" val="ts\ j o r\`"/>
+	<VALUE name="jul" val="ts\ u r\`"/>
+	<VALUE name="jyul" val="ts\ j u r\`"/>
+	<VALUE name="jeul" val="ts\ U r\`"/>
+	<VALUE name="jil" val="ts\ i r\`"/>
+	<VALUE name="jael" val="ts\ e r\`"/>
+	<VALUE name="jyael" val="ts\ ie r\`"/>
+	<VALUE name="jel" val="ts\ e r\`"/>
+	<VALUE name="jyel" val="ts\ ie r\`"/>
+	<VALUE name="jwal" val="ts\ ua r\`"/>
+	<VALUE name="jwael" val="ts\ ue r\`"/>
+	<VALUE name="joel" val="ts\ e r\`"/>
+	<VALUE name="jwol" val="ts\ uA r\`"/>
+	<VALUE name="jwel" val="ts\ ue r\`"/>
+	<VALUE name="jwil" val="ts\ u :\i r\`"/>
+	<VALUE name="juil" val="ts\ U :\i r\`"/>
+	<VALUE name="chal" val="ts\h a r\`"/>
+	<VALUE name="chyal" val="ts\h ia r\`"/>
+	<VALUE name="cheol" val="ts\h A r\`"/>
+	<VALUE name="chyeol" val="ts\h iA r\`"/>
+	<VALUE name="chol" val="ts\h o r\`"/>
+	<VALUE name="chyol" val="ts\h j o r\`"/>
+	<VALUE name="chul" val="ts\h u r\`"/>
+	<VALUE name="chyul" val="ts\h j u r\`"/>
+	<VALUE name="cheul" val="ts\h U r\`"/>
+	<VALUE name="chil" val="ts\h i r\`"/>
+	<VALUE name="chael" val="ts\h e r\`"/>
+	<VALUE name="chyael" val="ts\h ie r\`"/>
+	<VALUE name="chel" val="ts\h e r\`"/>
+	<VALUE name="chyel" val="ts\h ie r\`"/>
+	<VALUE name="chwal" val="ts\h ua r\`"/>
+	<VALUE name="chwael" val="ts\h ue r\`"/>
+	<VALUE name="choel" val="ts\h e r\`"/>
+	<VALUE name="chwol" val="ts\h uA r\`"/>
+	<VALUE name="chwel" val="ts\h ue r\`"/>
+	<VALUE name="chwil" val="ts\h u :\i r\`"/>
+	<VALUE name="chuil" val="ts\h U :\i r\`"/>
+	<VALUE name="kal" val="kh a r\`"/>
+	<VALUE name="kyal" val="kh ia r\`"/>
+	<VALUE name="keol" val="kh A r\`"/>
+	<VALUE name="kyeol" val="kh iA r\`"/>
+	<VALUE name="kol" val="kh o r\`"/>
+	<VALUE name="kyol" val="kh j o r\`"/>
+	<VALUE name="kul" val="kh u r\`"/>
+	<VALUE name="kyul" val="kh j u r\`"/>
+	<VALUE name="keul" val="kh U r\`"/>
+	<VALUE name="kil" val="kh i r\`"/>
+	<VALUE name="kael" val="kh e r\`"/>
+	<VALUE name="kyael" val="kh ie r\`"/>
+	<VALUE name="kel" val="kh e r\`"/>
+	<VALUE name="kyel" val="kh ie r\`"/>
+	<VALUE name="kwal" val="kh ua r\`"/>
+	<VALUE name="kwael" val="kh ue r\`"/>
+	<VALUE name="koel" val="kh e r\`"/>
+	<VALUE name="kwol" val="kh uA r\`"/>
+	<VALUE name="kwel" val="kh ue r\`"/>
+	<VALUE name="kwil" val="kh u :\i r\`"/>
+	<VALUE name="kuil" val="kh U :\i r\`"/>
+	<VALUE name="tal" val="th a r\`"/>
+	<VALUE name="tyal" val="th ia r\`"/>
+	<VALUE name="teol" val="th A r\`"/>
+	<VALUE name="tyeol" val="th iA r\`"/>
+	<VALUE name="tol" val="th o r\`"/>
+	<VALUE name="tyol" val="th j o r\`"/>
+	<VALUE name="tul" val="th u r\`"/>
+	<VALUE name="tyul" val="th j u r\`"/>
+	<VALUE name="teul" val="th U r\`"/>
+	<VALUE name="til" val="th i r\`"/>
+	<VALUE name="tael" val="th e r\`"/>
+	<VALUE name="tyael" val="th ie r\`"/>
+	<VALUE name="tel" val="th e r\`"/>
+	<VALUE name="tyel" val="th ie r\`"/>
+	<VALUE name="twal" val="th ua r\`"/>
+	<VALUE name="twael" val="th ue r\`"/>
+	<VALUE name="toel" val="th e r\`"/>
+	<VALUE name="twol" val="th uA r\`"/>
+	<VALUE name="twel" val="th ue r\`"/>
+	<VALUE name="twil" val="th u :\i r\`"/>
+	<VALUE name="tuil" val="th U :\i r\`"/>
+	<VALUE name="pal" val="ph a r\`"/>
+	<VALUE name="pyal" val="ph ia r\`"/>
+	<VALUE name="peol" val="ph A r\`"/>
+	<VALUE name="pyeol" val="ph iA r\`"/>
+	<VALUE name="pol" val="ph o r\`"/>
+	<VALUE name="pyol" val="ph j o r\`"/>
+	<VALUE name="pul" val="ph u r\`"/>
+	<VALUE name="pyul" val="ph j u r\`"/>
+	<VALUE name="peul" val="ph U r\`"/>
+	<VALUE name="pil" val="ph i r\`"/>
+	<VALUE name="pael" val="ph e r\`"/>
+	<VALUE name="pyael" val="ph ie r\`"/>
+	<VALUE name="pel" val="ph e r\`"/>
+	<VALUE name="pyel" val="ph ie r\`"/>
+	<VALUE name="pwal" val="ph ua r\`"/>
+	<VALUE name="pwael" val="ph ue r\`"/>
+	<VALUE name="poel" val="ph e r\`"/>
+	<VALUE name="pwol" val="ph uA r\`"/>
+	<VALUE name="pwel" val="ph ue r\`"/>
+	<VALUE name="pwil" val="ph u :\i r\`"/>
+	<VALUE name="puil" val="ph U :\i r\`"/>
+	<VALUE name="hal" val="x a r\`"/>
+	<VALUE name="hyal" val="x ia r\`"/>
+	<VALUE name="heol" val="x A r\`"/>
+	<VALUE name="hyeol" val="x iA r\`"/>
+	<VALUE name="hol" val="x o r\`"/>
+	<VALUE name="hyol" val="x j o r\`"/>
+	<VALUE name="hul" val="x u r\`"/>
+	<VALUE name="hyul" val="x j u r\`"/>
+	<VALUE name="heul" val="x U r\`"/>
+	<VALUE name="hil" val="x i r\`"/>
+	<VALUE name="hael" val="x e r\`"/>
+	<VALUE name="hyael" val="x ie r\`"/>
+	<VALUE name="hel" val="x e r\`"/>
+	<VALUE name="hyel" val="x ie r\`"/>
+	<VALUE name="hwal" val="x ua r\`"/>
+	<VALUE name="hwael" val="x ue r\`"/>
+	<VALUE name="hoel" val="x e r\`"/>
+	<VALUE name="hwol" val="x uA r\`"/>
+	<VALUE name="hwel" val="x ue r\`"/>
+	<VALUE name="hwil" val="x u :\i r\`"/>
+	<VALUE name="huil" val="x U :\i r\`"/>
+	<VALUE name="kkal" val="k a r\`"/>
+	<VALUE name="kkyal" val="k ia r\`"/>
+	<VALUE name="kkeol" val="k A r\`"/>
+	<VALUE name="kkyeol" val="k iA r\`"/>
+	<VALUE name="kkol" val="k o r\`"/>
+	<VALUE name="kkyol" val="k j o r\`"/>
+	<VALUE name="kkul" val="k u r\`"/>
+	<VALUE name="kkyul" val="k j u r\`"/>
+	<VALUE name="kkeul" val="k U r\`"/>
+	<VALUE name="kkil" val="k i r\`"/>
+	<VALUE name="kkael" val="k e r\`"/>
+	<VALUE name="kkyael" val="k ie r\`"/>
+	<VALUE name="kkel" val="k e r\`"/>
+	<VALUE name="kkyel" val="k ie r\`"/>
+	<VALUE name="kkwal" val="k ua r\`"/>
+	<VALUE name="kkwael" val="k ue r\`"/>
+	<VALUE name="kkoel" val="k e r\`"/>
+	<VALUE name="kkwol" val="k uA r\`"/>
+	<VALUE name="kkwel" val="k ue r\`"/>
+	<VALUE name="kkwil" val="k u :\i r\`"/>
+	<VALUE name="kkuil" val="k U :\i r\`"/>
+	<VALUE name="ttal" val="t a r\`"/>
+	<VALUE name="ttyal" val="t ia r\`"/>
+	<VALUE name="tteol" val="t A r\`"/>
+	<VALUE name="ttyeol" val="t iA r\`"/>
+	<VALUE name="ttol" val="t o r\`"/>
+	<VALUE name="ttyol" val="t j o r\`"/>
+	<VALUE name="ttul" val="t u r\`"/>
+	<VALUE name="ttyul" val="t j u r\`"/>
+	<VALUE name="tteul" val="t U r\`"/>
+	<VALUE name="ttil" val="t i r\`"/>
+	<VALUE name="ttael" val="t e r\`"/>
+	<VALUE name="ttyael" val="t ie r\`"/>
+	<VALUE name="ttel" val="t e r\`"/>
+	<VALUE name="ttyel" val="t ie r\`"/>
+	<VALUE name="ttwal" val="t ua r\`"/>
+	<VALUE name="ttwael" val="t ue r\`"/>
+	<VALUE name="ttoel" val="t e r\`"/>
+	<VALUE name="ttwol" val="t uA r\`"/>
+	<VALUE name="ttwel" val="t ue r\`"/>
+	<VALUE name="ttwil" val="t u :\i r\`"/>
+	<VALUE name="ttuil" val="t U :\i r\`"/>
+	<VALUE name="ppal" val="p a r\`"/>
+	<VALUE name="ppyal" val="p ia r\`"/>
+	<VALUE name="ppeol" val="p A r\`"/>
+	<VALUE name="ppyeol" val="p iA r\`"/>
+	<VALUE name="ppol" val="p o r\`"/>
+	<VALUE name="ppyol" val="p j o r\`"/>
+	<VALUE name="ppul" val="p u r\`"/>
+	<VALUE name="ppyul" val="p j u r\`"/>
+	<VALUE name="ppeul" val="p U r\`"/>
+	<VALUE name="ppil" val="p i r\`"/>
+	<VALUE name="ppael" val="p e r\`"/>
+	<VALUE name="ppyael" val="p ie r\`"/>
+	<VALUE name="ppel" val="p e r\`"/>
+	<VALUE name="ppyel" val="p ie r\`"/>
+	<VALUE name="ppwal" val="p ua r\`"/>
+	<VALUE name="ppwael" val="p ue r\`"/>
+	<VALUE name="ppoel" val="p e r\`"/>
+	<VALUE name="ppwol" val="p uA r\`"/>
+	<VALUE name="ppwel" val="p ue r\`"/>
+	<VALUE name="ppwil" val="p u :\i r\`"/>
+	<VALUE name="ppuil" val="p U :\i r\`"/>
+	<VALUE name="ssal" val="s a r\`"/>
+	<VALUE name="ssyal" val="s ia r\`"/>
+	<VALUE name="sseol" val="s A r\`"/>
+	<VALUE name="ssyeol" val="s iA r\`"/>
+	<VALUE name="ssol" val="s o r\`"/>
+	<VALUE name="ssyol" val="s j o r\`"/>
+	<VALUE name="ssul" val="s u r\`"/>
+	<VALUE name="ssyul" val="s j u r\`"/>
+	<VALUE name="sseul" val="s U r\`"/>
+	<VALUE name="ssil" val="s i r\`"/>
+	<VALUE name="ssael" val="s e r\`"/>
+	<VALUE name="ssyael" val="s ie r\`"/>
+	<VALUE name="ssel" val="s e r\`"/>
+	<VALUE name="ssyel" val="s ie r\`"/>
+	<VALUE name="sswal" val="s ua r\`"/>
+	<VALUE name="sswael" val="s ue r\`"/>
+	<VALUE name="ssoel" val="s e r\`"/>
+	<VALUE name="sswol" val="s uA r\`"/>
+	<VALUE name="sswel" val="s ue r\`"/>
+	<VALUE name="sswil" val="s u :\i r\`"/>
+	<VALUE name="ssuil" val="s U :\i r\`"/>
+	<VALUE name="jjal" val="ts\ a r\`"/>
+	<VALUE name="jjyal" val="ts\ ia r\`"/>
+	<VALUE name="jjeol" val="ts\ A r\`"/>
+	<VALUE name="jjyeol" val="ts\ iA r\`"/>
+	<VALUE name="jjol" val="ts\ o r\`"/>
+	<VALUE name="jjyol" val="ts\ j o r\`"/>
+	<VALUE name="jjul" val="ts\ u r\`"/>
+	<VALUE name="jjyul" val="ts\ j u r\`"/>
+	<VALUE name="jjeul" val="ts\ U r\`"/>
+	<VALUE name="jjil" val="ts\ i r\`"/>
+	<VALUE name="jjael" val="ts\ e r\`"/>
+	<VALUE name="jjyael" val="ts\ ie r\`"/>
+	<VALUE name="jjel" val="ts\ e r\`"/>
+	<VALUE name="jjyel" val="ts\ ie r\`"/>
+	<VALUE name="jjwal" val="ts\ ua r\`"/>
+	<VALUE name="jjwael" val="ts\ ue r\`"/>
+	<VALUE name="jjoel" val="ts\ e r\`"/>
+	<VALUE name="jjwol" val="ts\ uA r\`"/>
+	<VALUE name="jjwel" val="ts\ ue r\`"/>
+	<VALUE name="jjwil" val="ts\ u :\i r\`"/>
+	<VALUE name="jjuil" val="ts\ U :\i r\`"/>
 	<VALUE name="gam" val="k a m"/>
 	<VALUE name="gyam" val="k ia m"/>
-	<VALUE name="geom" val="k 7 m"/>
-	<VALUE name="gyeom" val="k j 7 m"/>
+	<VALUE name="geom" val="k A m"/>
+	<VALUE name="gyeom" val="k iA m"/>
 	<VALUE name="gom" val="k o m"/>
 	<VALUE name="gyom" val="k j o m"/>
 	<VALUE name="gum" val="k u m"/>
@@ -2012,15 +2012,15 @@
 	<VALUE name="gyem" val="k ie m"/>
 	<VALUE name="gwam" val="k ua m"/>
 	<VALUE name="gwaem" val="k ue m"/>
-	<VALUE name="goem" val="k ue m"/>
-	<VALUE name="gwom" val="k w 7 m"/>
+	<VALUE name="goem" val="k e m"/>
+	<VALUE name="gwom" val="k uA m"/>
 	<VALUE name="gwem" val="k ue m"/>
 	<VALUE name="gwim" val="k u :\i m"/>
 	<VALUE name="guim" val="k U :\i m"/>
 	<VALUE name="nam" val="n a m"/>
 	<VALUE name="nyam" val="n ia m"/>
-	<VALUE name="neom" val="n 7 m"/>
-	<VALUE name="nyeom" val="n j 7 m"/>
+	<VALUE name="neom" val="n A m"/>
+	<VALUE name="nyeom" val="n iA m"/>
 	<VALUE name="nom" val="n o m"/>
 	<VALUE name="nyom" val="n j o m"/>
 	<VALUE name="num" val="n u m"/>
@@ -2033,15 +2033,15 @@
 	<VALUE name="nyem" val="n ie m"/>
 	<VALUE name="nwam" val="n ua m"/>
 	<VALUE name="nwaem" val="n ue m"/>
-	<VALUE name="noem" val="n ue m"/>
-	<VALUE name="nwom" val="n w 7 m"/>
+	<VALUE name="noem" val="n e m"/>
+	<VALUE name="nwom" val="n uA m"/>
 	<VALUE name="nwem" val="n ue m"/>
 	<VALUE name="nwim" val="n u :\i m"/>
 	<VALUE name="nuim" val="n U :\i m"/>
 	<VALUE name="dam" val="t a m"/>
 	<VALUE name="dyam" val="t ia m"/>
-	<VALUE name="deom" val="t 7 m"/>
-	<VALUE name="dyeom" val="t j 7 m"/>
+	<VALUE name="deom" val="t A m"/>
+	<VALUE name="dyeom" val="t iA m"/>
 	<VALUE name="dom" val="t o m"/>
 	<VALUE name="dyom" val="t j o m"/>
 	<VALUE name="dum" val="t u m"/>
@@ -2054,36 +2054,36 @@
 	<VALUE name="dyem" val="t ie m"/>
 	<VALUE name="dwam" val="t ua m"/>
 	<VALUE name="dwaem" val="t ue m"/>
-	<VALUE name="doem" val="t ue m"/>
-	<VALUE name="dwom" val="t w 7 m"/>
+	<VALUE name="doem" val="t e m"/>
+	<VALUE name="dwom" val="t uA m"/>
 	<VALUE name="dwem" val="t ue m"/>
 	<VALUE name="dwim" val="t u :\i m"/>
 	<VALUE name="duim" val="t U :\i m"/>
-	<VALUE name="ram" val="r\` a m"/>
-	<VALUE name="ryam" val="r\` ia m"/>
-	<VALUE name="reom" val="r\` 7 m"/>
-	<VALUE name="ryeom" val="r\` j 7 m"/>
-	<VALUE name="rom" val="r\` o m"/>
-	<VALUE name="ryom" val="r\` j o m"/>
-	<VALUE name="rum" val="r\` u m"/>
-	<VALUE name="ryum" val="r\` j u m"/>
-	<VALUE name="reum" val="r\` U m"/>
-	<VALUE name="rim" val="r\` i m"/>
-	<VALUE name="raem" val="r\` e m"/>
-	<VALUE name="ryaem" val="r\` ie m"/>
-	<VALUE name="rem" val="r\` e m"/>
-	<VALUE name="ryem" val="r\` ie m"/>
-	<VALUE name="rwam" val="r\` ua m"/>
-	<VALUE name="rwaem" val="r\` ue m"/>
-	<VALUE name="roem" val="r\` ue m"/>
-	<VALUE name="rwom" val="r\` w 7 m"/>
-	<VALUE name="rwem" val="r\` ue m"/>
-	<VALUE name="rwim" val="r\` u :\i m"/>
-	<VALUE name="ruim" val="r\` U :\i m"/>
+	<VALUE name="ram" val="l a m"/>
+	<VALUE name="ryam" val="l ia m"/>
+	<VALUE name="reom" val="l A m"/>
+	<VALUE name="ryeom" val="l iA m"/>
+	<VALUE name="rom" val="l o m"/>
+	<VALUE name="ryom" val="l j o m"/>
+	<VALUE name="rum" val="l u m"/>
+	<VALUE name="ryum" val="l j u m"/>
+	<VALUE name="reum" val="l U m"/>
+	<VALUE name="rim" val="l i m"/>
+	<VALUE name="raem" val="l e m"/>
+	<VALUE name="ryaem" val="l ie m"/>
+	<VALUE name="rem" val="l e m"/>
+	<VALUE name="ryem" val="l ie m"/>
+	<VALUE name="rwam" val="l ua m"/>
+	<VALUE name="rwaem" val="l ue m"/>
+	<VALUE name="roem" val="l e m"/>
+	<VALUE name="rwom" val="l uA m"/>
+	<VALUE name="rwem" val="l ue m"/>
+	<VALUE name="rwim" val="l u :\i m"/>
+	<VALUE name="ruim" val="l U :\i m"/>
 	<VALUE name="mam" val="m a m"/>
 	<VALUE name="myam" val="m ia m"/>
-	<VALUE name="meom" val="m 7 m"/>
-	<VALUE name="myeom" val="m j 7 m"/>
+	<VALUE name="meom" val="m A m"/>
+	<VALUE name="myeom" val="m iA m"/>
 	<VALUE name="mom" val="m o m"/>
 	<VALUE name="myom" val="m j o m"/>
 	<VALUE name="mum" val="m u m"/>
@@ -2096,15 +2096,15 @@
 	<VALUE name="myem" val="m ie m"/>
 	<VALUE name="mwam" val="m ua m"/>
 	<VALUE name="mwaem" val="m ue m"/>
-	<VALUE name="moem" val="m ue m"/>
-	<VALUE name="mwom" val="m w 7 m"/>
+	<VALUE name="moem" val="m e m"/>
+	<VALUE name="mwom" val="m uA m"/>
 	<VALUE name="mwem" val="m ue m"/>
 	<VALUE name="mwim" val="m u :\i m"/>
 	<VALUE name="muim" val="m U :\i m"/>
 	<VALUE name="bam" val="p a m"/>
 	<VALUE name="byam" val="p ia m"/>
-	<VALUE name="beom" val="p 7 m"/>
-	<VALUE name="byeom" val="p j 7 m"/>
+	<VALUE name="beom" val="p A m"/>
+	<VALUE name="byeom" val="p iA m"/>
 	<VALUE name="bom" val="p o m"/>
 	<VALUE name="byom" val="p j o m"/>
 	<VALUE name="bum" val="p u m"/>
@@ -2117,15 +2117,15 @@
 	<VALUE name="byem" val="p ie m"/>
 	<VALUE name="bwam" val="p ua m"/>
 	<VALUE name="bwaem" val="p ue m"/>
-	<VALUE name="boem" val="p ue m"/>
-	<VALUE name="bwom" val="p w 7 m"/>
+	<VALUE name="boem" val="p e m"/>
+	<VALUE name="bwom" val="p uA m"/>
 	<VALUE name="bwem" val="p ue m"/>
 	<VALUE name="bwim" val="p u :\i m"/>
 	<VALUE name="buim" val="p U :\i m"/>
 	<VALUE name="sam" val="s a m"/>
 	<VALUE name="syam" val="s ia m"/>
-	<VALUE name="seom" val="s 7 m"/>
-	<VALUE name="syeom" val="s j 7 m"/>
+	<VALUE name="seom" val="s A m"/>
+	<VALUE name="syeom" val="s iA m"/>
 	<VALUE name="som" val="s o m"/>
 	<VALUE name="syom" val="s j o m"/>
 	<VALUE name="sum" val="s u m"/>
@@ -2138,15 +2138,15 @@
 	<VALUE name="syem" val="s ie m"/>
 	<VALUE name="swam" val="s ua m"/>
 	<VALUE name="swaem" val="s ue m"/>
-	<VALUE name="soem" val="s ue m"/>
-	<VALUE name="swom" val="s w 7 m"/>
+	<VALUE name="soem" val="s e m"/>
+	<VALUE name="swom" val="s uA m"/>
 	<VALUE name="swem" val="s ue m"/>
 	<VALUE name="swim" val="s u :\i m"/>
 	<VALUE name="suim" val="s U :\i m"/>
 	<VALUE name="am" val="a m"/>
 	<VALUE name="yam" val="ia m"/>
-	<VALUE name="eom" val="7 m"/>
-	<VALUE name="yeom" val="j 7 m"/>
+	<VALUE name="eom" val="A m"/>
+	<VALUE name="yeom" val="iA m"/>
 	<VALUE name="om" val="o m"/>
 	<VALUE name="yom" val="j o m"/>
 	<VALUE name="um" val="u m"/>
@@ -2159,15 +2159,15 @@
 	<VALUE name="yem" val="ie m"/>
 	<VALUE name="wam" val="ua m"/>
 	<VALUE name="waem" val="ue m"/>
-	<VALUE name="oem" val="ue m"/>
-	<VALUE name="wom" val="w 7 m"/>
+	<VALUE name="oem" val="e m"/>
+	<VALUE name="wom" val="uA m"/>
 	<VALUE name="wem" val="ue m"/>
 	<VALUE name="wim" val="u :\i m"/>
 	<VALUE name="uim" val="U :\i m"/>
 	<VALUE name="jam" val="ts\ a m"/>
 	<VALUE name="jyam" val="ts\ ia m"/>
-	<VALUE name="jeom" val="ts\ 7 m"/>
-	<VALUE name="jyeom" val="ts\ j 7 m"/>
+	<VALUE name="jeom" val="ts\ A m"/>
+	<VALUE name="jyeom" val="ts\ iA m"/>
 	<VALUE name="jom" val="ts\ o m"/>
 	<VALUE name="jyom" val="ts\ j o m"/>
 	<VALUE name="jum" val="ts\ u m"/>
@@ -2180,15 +2180,15 @@
 	<VALUE name="jyem" val="ts\ ie m"/>
 	<VALUE name="jwam" val="ts\ ua m"/>
 	<VALUE name="jwaem" val="ts\ ue m"/>
-	<VALUE name="joem" val="ts\ ue m"/>
-	<VALUE name="jwom" val="ts\ w 7 m"/>
+	<VALUE name="joem" val="ts\ e m"/>
+	<VALUE name="jwom" val="ts\ uA m"/>
 	<VALUE name="jwem" val="ts\ ue m"/>
 	<VALUE name="jwim" val="ts\ u :\i m"/>
 	<VALUE name="juim" val="ts\ U :\i m"/>
 	<VALUE name="cham" val="ts\h a m"/>
 	<VALUE name="chyam" val="ts\h ia m"/>
-	<VALUE name="cheom" val="ts\h 7 m"/>
-	<VALUE name="chyeom" val="ts\h j 7 m"/>
+	<VALUE name="cheom" val="ts\h A m"/>
+	<VALUE name="chyeom" val="ts\h iA m"/>
 	<VALUE name="chom" val="ts\h o m"/>
 	<VALUE name="chyom" val="ts\h j o m"/>
 	<VALUE name="chum" val="ts\h u m"/>
@@ -2201,15 +2201,15 @@
 	<VALUE name="chyem" val="ts\h ie m"/>
 	<VALUE name="chwam" val="ts\h ua m"/>
 	<VALUE name="chwaem" val="ts\h ue m"/>
-	<VALUE name="choem" val="ts\h ue m"/>
-	<VALUE name="chwom" val="ts\h w 7 m"/>
+	<VALUE name="choem" val="ts\h e m"/>
+	<VALUE name="chwom" val="ts\h uA m"/>
 	<VALUE name="chwem" val="ts\h ue m"/>
 	<VALUE name="chwim" val="ts\h u :\i m"/>
 	<VALUE name="chuim" val="ts\h U :\i m"/>
 	<VALUE name="kam" val="kh a m"/>
 	<VALUE name="kyam" val="kh ia m"/>
-	<VALUE name="keom" val="kh 7 m"/>
-	<VALUE name="kyeom" val="kh j 7 m"/>
+	<VALUE name="keom" val="kh A m"/>
+	<VALUE name="kyeom" val="kh iA m"/>
 	<VALUE name="kom" val="kh o m"/>
 	<VALUE name="kyom" val="kh j o m"/>
 	<VALUE name="kum" val="kh u m"/>
@@ -2222,15 +2222,15 @@
 	<VALUE name="kyem" val="kh ie m"/>
 	<VALUE name="kwam" val="kh ua m"/>
 	<VALUE name="kwaem" val="kh ue m"/>
-	<VALUE name="koem" val="kh ue m"/>
-	<VALUE name="kwom" val="kh w 7 m"/>
+	<VALUE name="koem" val="kh e m"/>
+	<VALUE name="kwom" val="kh uA m"/>
 	<VALUE name="kwem" val="kh ue m"/>
 	<VALUE name="kwim" val="kh u :\i m"/>
 	<VALUE name="kuim" val="kh U :\i m"/>
 	<VALUE name="tam" val="th a m"/>
 	<VALUE name="tyam" val="th ia m"/>
-	<VALUE name="teom" val="th 7 m"/>
-	<VALUE name="tyeom" val="th j 7 m"/>
+	<VALUE name="teom" val="th A m"/>
+	<VALUE name="tyeom" val="th iA m"/>
 	<VALUE name="tom" val="th o m"/>
 	<VALUE name="tyom" val="th j o m"/>
 	<VALUE name="tum" val="th u m"/>
@@ -2243,15 +2243,15 @@
 	<VALUE name="tyem" val="th ie m"/>
 	<VALUE name="twam" val="th ua m"/>
 	<VALUE name="twaem" val="th ue m"/>
-	<VALUE name="toem" val="th ue m"/>
-	<VALUE name="twom" val="th w 7 m"/>
+	<VALUE name="toem" val="th e m"/>
+	<VALUE name="twom" val="th uA m"/>
 	<VALUE name="twem" val="th ue m"/>
 	<VALUE name="twim" val="th u :\i m"/>
 	<VALUE name="tuim" val="th U :\i m"/>
 	<VALUE name="pam" val="ph a m"/>
 	<VALUE name="pyam" val="ph ia m"/>
-	<VALUE name="peom" val="ph 7 m"/>
-	<VALUE name="pyeom" val="ph j 7 m"/>
+	<VALUE name="peom" val="ph A m"/>
+	<VALUE name="pyeom" val="ph iA m"/>
 	<VALUE name="pom" val="ph o m"/>
 	<VALUE name="pyom" val="ph j o m"/>
 	<VALUE name="pum" val="ph u m"/>
@@ -2264,15 +2264,15 @@
 	<VALUE name="pyem" val="ph ie m"/>
 	<VALUE name="pwam" val="ph ua m"/>
 	<VALUE name="pwaem" val="ph ue m"/>
-	<VALUE name="poem" val="ph ue m"/>
-	<VALUE name="pwom" val="ph w 7 m"/>
+	<VALUE name="poem" val="ph e m"/>
+	<VALUE name="pwom" val="ph uA m"/>
 	<VALUE name="pwem" val="ph ue m"/>
 	<VALUE name="pwim" val="ph u :\i m"/>
 	<VALUE name="puim" val="ph U :\i m"/>
 	<VALUE name="ham" val="x a m"/>
 	<VALUE name="hyam" val="x ia m"/>
-	<VALUE name="heom" val="x 7 m"/>
-	<VALUE name="hyeom" val="x j 7 m"/>
+	<VALUE name="heom" val="x A m"/>
+	<VALUE name="hyeom" val="x iA m"/>
 	<VALUE name="hom" val="x o m"/>
 	<VALUE name="hyom" val="x j o m"/>
 	<VALUE name="hum" val="x u m"/>
@@ -2285,15 +2285,15 @@
 	<VALUE name="hyem" val="x ie m"/>
 	<VALUE name="hwam" val="x ua m"/>
 	<VALUE name="hwaem" val="x ue m"/>
-	<VALUE name="hoem" val="x ue m"/>
-	<VALUE name="hwom" val="x w 7 m"/>
+	<VALUE name="hoem" val="x e m"/>
+	<VALUE name="hwom" val="x uA m"/>
 	<VALUE name="hwem" val="x ue m"/>
 	<VALUE name="hwim" val="x u :\i m"/>
 	<VALUE name="huim" val="x U :\i m"/>
 	<VALUE name="kkam" val="k a m"/>
 	<VALUE name="kkyam" val="k ia m"/>
-	<VALUE name="kkeom" val="k 7 m"/>
-	<VALUE name="kkyeom" val="k j 7 m"/>
+	<VALUE name="kkeom" val="k A m"/>
+	<VALUE name="kkyeom" val="k iA m"/>
 	<VALUE name="kkom" val="k o m"/>
 	<VALUE name="kkyom" val="k j o m"/>
 	<VALUE name="kkum" val="k u m"/>
@@ -2306,15 +2306,15 @@
 	<VALUE name="kkyem" val="k ie m"/>
 	<VALUE name="kkwam" val="k ua m"/>
 	<VALUE name="kkwaem" val="k ue m"/>
-	<VALUE name="kkoem" val="k ue m"/>
-	<VALUE name="kkwom" val="k w 7 m"/>
+	<VALUE name="kkoem" val="k e m"/>
+	<VALUE name="kkwom" val="k uA m"/>
 	<VALUE name="kkwem" val="k ue m"/>
 	<VALUE name="kkwim" val="k u :\i m"/>
 	<VALUE name="kkuim" val="k U :\i m"/>
 	<VALUE name="ttam" val="t a m"/>
 	<VALUE name="ttyam" val="t ia m"/>
-	<VALUE name="tteom" val="t 7 m"/>
-	<VALUE name="ttyeom" val="t j 7 m"/>
+	<VALUE name="tteom" val="t A m"/>
+	<VALUE name="ttyeom" val="t iA m"/>
 	<VALUE name="ttom" val="t o m"/>
 	<VALUE name="ttyom" val="t j o m"/>
 	<VALUE name="ttum" val="t u m"/>
@@ -2327,15 +2327,15 @@
 	<VALUE name="ttyem" val="t ie m"/>
 	<VALUE name="ttwam" val="t ua m"/>
 	<VALUE name="ttwaem" val="t ue m"/>
-	<VALUE name="ttoem" val="t ue m"/>
-	<VALUE name="ttwom" val="t w 7 m"/>
+	<VALUE name="ttoem" val="t e m"/>
+	<VALUE name="ttwom" val="t uA m"/>
 	<VALUE name="ttwem" val="t ue m"/>
 	<VALUE name="ttwim" val="t u :\i m"/>
 	<VALUE name="ttuim" val="t U :\i m"/>
 	<VALUE name="ppam" val="p a m"/>
 	<VALUE name="ppyam" val="p ia m"/>
-	<VALUE name="ppeom" val="p 7 m"/>
-	<VALUE name="ppyeom" val="p j 7 m"/>
+	<VALUE name="ppeom" val="p A m"/>
+	<VALUE name="ppyeom" val="p iA m"/>
 	<VALUE name="ppom" val="p o m"/>
 	<VALUE name="ppyom" val="p j o m"/>
 	<VALUE name="ppum" val="p u m"/>
@@ -2348,456 +2348,456 @@
 	<VALUE name="ppyem" val="p ie m"/>
 	<VALUE name="ppwam" val="p ua m"/>
 	<VALUE name="ppwaem" val="p ue m"/>
-	<VALUE name="ppoem" val="p ue m"/>
-	<VALUE name="ppwom" val="p w 7 m"/>
+	<VALUE name="ppoem" val="p e m"/>
+	<VALUE name="ppwom" val="p uA m"/>
 	<VALUE name="ppwem" val="p ue m"/>
 	<VALUE name="ppwim" val="p u :\i m"/>
 	<VALUE name="ppuim" val="p U :\i m"/>
-	<VALUE name="ssam" val="s` a m"/>
-	<VALUE name="ssyam" val="s` ia m"/>
-	<VALUE name="sseom" val="s` 7 m"/>
-	<VALUE name="ssyeom" val="s` j 7 m"/>
-	<VALUE name="ssom" val="s` o m"/>
-	<VALUE name="ssyom" val="s` j o m"/>
-	<VALUE name="ssum" val="s` u m"/>
-	<VALUE name="ssyum" val="s` j u m"/>
-	<VALUE name="sseum" val="s` U m"/>
-	<VALUE name="ssim" val="s` i m"/>
-	<VALUE name="ssaem" val="s` e m"/>
-	<VALUE name="ssyaem" val="s` ie m"/>
-	<VALUE name="ssem" val="s` e m"/>
-	<VALUE name="ssyem" val="s` ie m"/>
-	<VALUE name="sswam" val="s` ua m"/>
-	<VALUE name="sswaem" val="s` ue m"/>
-	<VALUE name="ssoem" val="s` ue m"/>
-	<VALUE name="sswom" val="s` w 7 m"/>
-	<VALUE name="sswem" val="s` ue m"/>
-	<VALUE name="sswim" val="s` u :\i m"/>
-	<VALUE name="ssuim" val="s` U :\i m"/>
-	<VALUE name="jjam" val="ts` a m"/>
-	<VALUE name="jjyam" val="ts` ia m"/>
-	<VALUE name="jjeom" val="ts` 7 m"/>
-	<VALUE name="jjyeom" val="ts` j 7 m"/>
-	<VALUE name="jjom" val="ts` o m"/>
-	<VALUE name="jjyom" val="ts` j o m"/>
-	<VALUE name="jjum" val="ts` u m"/>
-	<VALUE name="jjyum" val="ts` j u m"/>
-	<VALUE name="jjeum" val="ts` U m"/>
-	<VALUE name="jjim" val="ts` i m"/>
-	<VALUE name="jjaem" val="ts` e m"/>
-	<VALUE name="jjyaem" val="ts` ie m"/>
-	<VALUE name="jjem" val="ts` e m"/>
-	<VALUE name="jjyem" val="ts` ie m"/>
-	<VALUE name="jjwam" val="ts` ua m"/>
-	<VALUE name="jjwaem" val="ts` ue m"/>
-	<VALUE name="jjoem" val="ts` ue m"/>
-	<VALUE name="jjwom" val="ts` w 7 m"/>
-	<VALUE name="jjwem" val="ts` ue m"/>
-	<VALUE name="jjwim" val="ts` u :\i m"/>
-	<VALUE name="jjuim" val="ts` U :\i m"/>
-	<VALUE name="gan" val="k a :n"/>
-	<VALUE name="gyan" val="k ia :n"/>
-	<VALUE name="geon" val="k 7 :n"/>
-	<VALUE name="gyeon" val="k j 7 :n"/>
-	<VALUE name="gon" val="k o :n"/>
-	<VALUE name="gyon" val="k j o :n"/>
-	<VALUE name="gun" val="k u :n"/>
-	<VALUE name="gyun" val="k j u :n"/>
-	<VALUE name="geun" val="k U :n"/>
-	<VALUE name="gin" val="k i :n"/>
-	<VALUE name="gaen" val="k e :n"/>
-	<VALUE name="gyaen" val="k ie :n"/>
-	<VALUE name="gen" val="k e :n"/>
-	<VALUE name="gyen" val="k ie :n"/>
-	<VALUE name="gwan" val="k ua :n"/>
-	<VALUE name="gwaen" val="k ue :n"/>
-	<VALUE name="goen" val="k ue :n"/>
-	<VALUE name="gwon" val="k w 7 :n"/>
-	<VALUE name="gwen" val="k ue :n"/>
-	<VALUE name="gwin" val="k u :\i :n"/>
-	<VALUE name="guin" val="k U :\i :n"/>
-	<VALUE name="nan" val="n a :n"/>
-	<VALUE name="nyan" val="n ia :n"/>
-	<VALUE name="neon" val="n 7 :n"/>
-	<VALUE name="nyeon" val="n j 7 :n"/>
-	<VALUE name="non" val="n o :n"/>
-	<VALUE name="nyon" val="n j o :n"/>
-	<VALUE name="nun" val="n u :n"/>
-	<VALUE name="nyun" val="n j u :n"/>
-	<VALUE name="neun" val="n U :n"/>
-	<VALUE name="nin" val="n i :n"/>
-	<VALUE name="naen" val="n e :n"/>
-	<VALUE name="nyaen" val="n ie :n"/>
-	<VALUE name="nen" val="n e :n"/>
-	<VALUE name="nyen" val="n ie :n"/>
-	<VALUE name="nwan" val="n ua :n"/>
-	<VALUE name="nwaen" val="n ue :n"/>
-	<VALUE name="noen" val="n ue :n"/>
-	<VALUE name="nwon" val="n w 7 :n"/>
-	<VALUE name="nwen" val="n ue :n"/>
-	<VALUE name="nwin" val="n u :\i :n"/>
-	<VALUE name="nuin" val="n U :\i :n"/>
-	<VALUE name="dan" val="t a :n"/>
-	<VALUE name="dyan" val="t ia :n"/>
-	<VALUE name="deon" val="t 7 :n"/>
-	<VALUE name="dyeon" val="t j 7 :n"/>
-	<VALUE name="don" val="t o :n"/>
-	<VALUE name="dyon" val="t j o :n"/>
-	<VALUE name="dun" val="t u :n"/>
-	<VALUE name="dyun" val="t j u :n"/>
-	<VALUE name="deun" val="t U :n"/>
-	<VALUE name="din" val="t i :n"/>
-	<VALUE name="daen" val="t e :n"/>
-	<VALUE name="dyaen" val="t ie :n"/>
-	<VALUE name="den" val="t e :n"/>
-	<VALUE name="dyen" val="t ie :n"/>
-	<VALUE name="dwan" val="t ua :n"/>
-	<VALUE name="dwaen" val="t ue :n"/>
-	<VALUE name="doen" val="t ue :n"/>
-	<VALUE name="dwon" val="t w 7 :n"/>
-	<VALUE name="dwen" val="t ue :n"/>
-	<VALUE name="dwin" val="t u :\i :n"/>
-	<VALUE name="duin" val="t U :\i :n"/>
-	<VALUE name="ran" val="r\` a :n"/>
-	<VALUE name="ryan" val="r\` ia :n"/>
-	<VALUE name="reon" val="r\` 7 :n"/>
-	<VALUE name="ryeon" val="r\` j 7 :n"/>
-	<VALUE name="ron" val="r\` o :n"/>
-	<VALUE name="ryon" val="r\` j o :n"/>
-	<VALUE name="run" val="r\` u :n"/>
-	<VALUE name="ryun" val="r\` j u :n"/>
-	<VALUE name="reun" val="r\` U :n"/>
-	<VALUE name="rin" val="r\` i :n"/>
-	<VALUE name="raen" val="r\` e :n"/>
-	<VALUE name="ryaen" val="r\` ie :n"/>
-	<VALUE name="ren" val="r\` e :n"/>
-	<VALUE name="ryen" val="r\` ie :n"/>
-	<VALUE name="rwan" val="r\` ua :n"/>
-	<VALUE name="rwaen" val="r\` ue :n"/>
-	<VALUE name="roen" val="r\` ue :n"/>
-	<VALUE name="rwon" val="r\` w 7 :n"/>
-	<VALUE name="rwen" val="r\` ue :n"/>
-	<VALUE name="rwin" val="r\` u :\i :n"/>
-	<VALUE name="ruin" val="r\` U :\i :n"/>
-	<VALUE name="man" val="m a :n"/>
-	<VALUE name="myan" val="m ia :n"/>
-	<VALUE name="meon" val="m 7 :n"/>
-	<VALUE name="myeon" val="m j 7 :n"/>
-	<VALUE name="mon" val="m o :n"/>
-	<VALUE name="myon" val="m j o :n"/>
-	<VALUE name="mun" val="m u :n"/>
-	<VALUE name="myun" val="m j u :n"/>
-	<VALUE name="meun" val="m U :n"/>
-	<VALUE name="min" val="m i :n"/>
-	<VALUE name="maen" val="m e :n"/>
-	<VALUE name="myaen" val="m ie :n"/>
-	<VALUE name="men" val="m e :n"/>
-	<VALUE name="myen" val="m ie :n"/>
-	<VALUE name="mwan" val="m ua :n"/>
-	<VALUE name="mwaen" val="m ue :n"/>
-	<VALUE name="moen" val="m ue :n"/>
-	<VALUE name="mwon" val="m w 7 :n"/>
-	<VALUE name="mwen" val="m ue :n"/>
-	<VALUE name="mwin" val="m u :\i :n"/>
-	<VALUE name="muin" val="m U :\i :n"/>
-	<VALUE name="ban" val="p a :n"/>
-	<VALUE name="byan" val="p ia :n"/>
-	<VALUE name="beon" val="p 7 :n"/>
-	<VALUE name="byeon" val="p j 7 :n"/>
-	<VALUE name="bon" val="p o :n"/>
-	<VALUE name="byon" val="p j o :n"/>
-	<VALUE name="bun" val="p u :n"/>
-	<VALUE name="byun" val="p j u :n"/>
-	<VALUE name="beun" val="p U :n"/>
-	<VALUE name="bin" val="p i :n"/>
-	<VALUE name="baen" val="p e :n"/>
-	<VALUE name="byaen" val="p ie :n"/>
-	<VALUE name="ben" val="p e :n"/>
-	<VALUE name="byen" val="p ie :n"/>
-	<VALUE name="bwan" val="p ua :n"/>
-	<VALUE name="bwaen" val="p ue :n"/>
-	<VALUE name="boen" val="p ue :n"/>
-	<VALUE name="bwon" val="p w 7 :n"/>
-	<VALUE name="bwen" val="p ue :n"/>
-	<VALUE name="bwin" val="p u :\i :n"/>
-	<VALUE name="buin" val="p U :\i :n"/>
-	<VALUE name="san" val="s a :n"/>
-	<VALUE name="syan" val="s ia :n"/>
-	<VALUE name="seon" val="s 7 :n"/>
-	<VALUE name="syeon" val="s j 7 :n"/>
-	<VALUE name="son" val="s o :n"/>
-	<VALUE name="syon" val="s j o :n"/>
-	<VALUE name="sun" val="s u :n"/>
-	<VALUE name="syun" val="s j u :n"/>
-	<VALUE name="seun" val="s U :n"/>
-	<VALUE name="sin" val="s i :n"/>
-	<VALUE name="saen" val="s e :n"/>
-	<VALUE name="syaen" val="s ie :n"/>
-	<VALUE name="sen" val="s e :n"/>
-	<VALUE name="syen" val="s ie :n"/>
-	<VALUE name="swan" val="s ua :n"/>
-	<VALUE name="swaen" val="s ue :n"/>
-	<VALUE name="soen" val="s ue :n"/>
-	<VALUE name="swon" val="s w 7 :n"/>
-	<VALUE name="swen" val="s ue :n"/>
-	<VALUE name="swin" val="s u :\i :n"/>
-	<VALUE name="suin" val="s U :\i :n"/>
-	<VALUE name="an" val="a :n"/>
-	<VALUE name="yan" val="ia :n"/>
-	<VALUE name="eon" val="7 :n"/>
-	<VALUE name="yeon" val="j 7 :n"/>
-	<VALUE name="on" val="o :n"/>
-	<VALUE name="yon" val="j o :n"/>
-	<VALUE name="un" val="u :n"/>
-	<VALUE name="yun" val="j u :n"/>
-	<VALUE name="eun" val="U :n"/>
-	<VALUE name="in" val="i :n"/>
-	<VALUE name="aen" val="e :n"/>
-	<VALUE name="yaen" val="ie :n"/>
-	<VALUE name="en" val="e :n"/>
-	<VALUE name="yen" val="ie :n"/>
-	<VALUE name="wan" val="ua :n"/>
-	<VALUE name="waen" val="ue :n"/>
-	<VALUE name="oen" val="ue :n"/>
-	<VALUE name="won" val="w 7 :n"/>
-	<VALUE name="wen" val="ue :n"/>
-	<VALUE name="win" val="u :\i :n"/>
-	<VALUE name="uin" val="U :\i :n"/>
-	<VALUE name="jan" val="ts\ a :n"/>
-	<VALUE name="jyan" val="ts\ ia :n"/>
-	<VALUE name="jeon" val="ts\ 7 :n"/>
-	<VALUE name="jyeon" val="ts\ j 7 :n"/>
-	<VALUE name="jon" val="ts\ o :n"/>
-	<VALUE name="jyon" val="ts\ j o :n"/>
-	<VALUE name="jun" val="ts\ u :n"/>
-	<VALUE name="jyun" val="ts\ j u :n"/>
-	<VALUE name="jeun" val="ts\ U :n"/>
-	<VALUE name="jin" val="ts\ i :n"/>
-	<VALUE name="jaen" val="ts\ e :n"/>
-	<VALUE name="jyaen" val="ts\ ie :n"/>
-	<VALUE name="jen" val="ts\ e :n"/>
-	<VALUE name="jyen" val="ts\ ie :n"/>
-	<VALUE name="jwan" val="ts\ ua :n"/>
-	<VALUE name="jwaen" val="ts\ ue :n"/>
-	<VALUE name="joen" val="ts\ ue :n"/>
-	<VALUE name="jwon" val="ts\ w 7 :n"/>
-	<VALUE name="jwen" val="ts\ ue :n"/>
-	<VALUE name="jwin" val="ts\ u :\i :n"/>
-	<VALUE name="juin" val="ts\ U :\i :n"/>
-	<VALUE name="chan" val="ts\h a :n"/>
-	<VALUE name="chyan" val="ts\h ia :n"/>
-	<VALUE name="cheon" val="ts\h 7 :n"/>
-	<VALUE name="chyeon" val="ts\h j 7 :n"/>
-	<VALUE name="chon" val="ts\h o :n"/>
-	<VALUE name="chyon" val="ts\h j o :n"/>
-	<VALUE name="chun" val="ts\h u :n"/>
-	<VALUE name="chyun" val="ts\h j u :n"/>
-	<VALUE name="cheun" val="ts\h U :n"/>
-	<VALUE name="chin" val="ts\h i :n"/>
-	<VALUE name="chaen" val="ts\h e :n"/>
-	<VALUE name="chyaen" val="ts\h ie :n"/>
-	<VALUE name="chen" val="ts\h e :n"/>
-	<VALUE name="chyen" val="ts\h ie :n"/>
-	<VALUE name="chwan" val="ts\h ua :n"/>
-	<VALUE name="chwaen" val="ts\h ue :n"/>
-	<VALUE name="choen" val="ts\h ue :n"/>
-	<VALUE name="chwon" val="ts\h w 7 :n"/>
-	<VALUE name="chwen" val="ts\h ue :n"/>
-	<VALUE name="chwin" val="ts\h u :\i :n"/>
-	<VALUE name="chuin" val="ts\h U :\i :n"/>
-	<VALUE name="kan" val="kh a :n"/>
-	<VALUE name="kyan" val="kh ia :n"/>
-	<VALUE name="keon" val="kh 7 :n"/>
-	<VALUE name="kyeon" val="kh j 7 :n"/>
-	<VALUE name="kon" val="kh o :n"/>
-	<VALUE name="kyon" val="kh j o :n"/>
-	<VALUE name="kun" val="kh u :n"/>
-	<VALUE name="kyun" val="kh j u :n"/>
-	<VALUE name="keun" val="kh U :n"/>
-	<VALUE name="kin" val="kh i :n"/>
-	<VALUE name="kaen" val="kh e :n"/>
-	<VALUE name="kyaen" val="kh ie :n"/>
-	<VALUE name="ken" val="kh e :n"/>
-	<VALUE name="kyen" val="kh ie :n"/>
-	<VALUE name="kwan" val="kh ua :n"/>
-	<VALUE name="kwaen" val="kh ue :n"/>
-	<VALUE name="koen" val="kh ue :n"/>
-	<VALUE name="kwon" val="kh w 7 :n"/>
-	<VALUE name="kwen" val="kh ue :n"/>
-	<VALUE name="kwin" val="kh u :\i :n"/>
-	<VALUE name="kuin" val="kh U :\i :n"/>
-	<VALUE name="tan" val="th a :n"/>
-	<VALUE name="tyan" val="th ia :n"/>
-	<VALUE name="teon" val="th 7 :n"/>
-	<VALUE name="tyeon" val="th j 7 :n"/>
-	<VALUE name="ton" val="th o :n"/>
-	<VALUE name="tyon" val="th j o :n"/>
-	<VALUE name="tun" val="th u :n"/>
-	<VALUE name="tyun" val="th j u :n"/>
-	<VALUE name="teun" val="th U :n"/>
-	<VALUE name="tin" val="th i :n"/>
-	<VALUE name="taen" val="th e :n"/>
-	<VALUE name="tyaen" val="th ie :n"/>
-	<VALUE name="ten" val="th e :n"/>
-	<VALUE name="tyen" val="th ie :n"/>
-	<VALUE name="twan" val="th ua :n"/>
-	<VALUE name="twaen" val="th ue :n"/>
-	<VALUE name="toen" val="th ue :n"/>
-	<VALUE name="twon" val="th w 7 :n"/>
-	<VALUE name="twen" val="th ue :n"/>
-	<VALUE name="twin" val="th u :\i :n"/>
-	<VALUE name="tuin" val="th U :\i :n"/>
-	<VALUE name="pan" val="ph a :n"/>
-	<VALUE name="pyan" val="ph ia :n"/>
-	<VALUE name="peon" val="ph 7 :n"/>
-	<VALUE name="pyeon" val="ph j 7 :n"/>
-	<VALUE name="pon" val="ph o :n"/>
-	<VALUE name="pyon" val="ph j o :n"/>
-	<VALUE name="pun" val="ph u :n"/>
-	<VALUE name="pyun" val="ph j u :n"/>
-	<VALUE name="peun" val="ph U :n"/>
-	<VALUE name="pin" val="ph i :n"/>
-	<VALUE name="paen" val="ph e :n"/>
-	<VALUE name="pyaen" val="ph ie :n"/>
-	<VALUE name="pen" val="ph e :n"/>
-	<VALUE name="pyen" val="ph ie :n"/>
-	<VALUE name="pwan" val="ph ua :n"/>
-	<VALUE name="pwaen" val="ph ue :n"/>
-	<VALUE name="poen" val="ph ue :n"/>
-	<VALUE name="pwon" val="ph w 7 :n"/>
-	<VALUE name="pwen" val="ph ue :n"/>
-	<VALUE name="pwin" val="ph u :\i :n"/>
-	<VALUE name="puin" val="ph U :\i :n"/>
-	<VALUE name="han" val="x a :n"/>
-	<VALUE name="hyan" val="x ia :n"/>
-	<VALUE name="heon" val="x 7 :n"/>
-	<VALUE name="hyeon" val="x j 7 :n"/>
-	<VALUE name="hon" val="x o :n"/>
-	<VALUE name="hyon" val="x j o :n"/>
-	<VALUE name="hun" val="x u :n"/>
-	<VALUE name="hyun" val="x j u :n"/>
-	<VALUE name="heun" val="x U :n"/>
-	<VALUE name="hin" val="x i :n"/>
-	<VALUE name="haen" val="x e :n"/>
-	<VALUE name="hyaen" val="x ie :n"/>
-	<VALUE name="hen" val="x e :n"/>
-	<VALUE name="hyen" val="x ie :n"/>
-	<VALUE name="hwan" val="x ua :n"/>
-	<VALUE name="hwaen" val="x ue :n"/>
-	<VALUE name="hoen" val="x ue :n"/>
-	<VALUE name="hwon" val="x w 7 :n"/>
-	<VALUE name="hwen" val="x ue :n"/>
-	<VALUE name="hwin" val="x u :\i :n"/>
-	<VALUE name="huin" val="x U :\i :n"/>
-	<VALUE name="kkan" val="k a :n"/>
-	<VALUE name="kkyan" val="k ia :n"/>
-	<VALUE name="kkeon" val="k 7 :n"/>
-	<VALUE name="kkyeon" val="k j 7 :n"/>
-	<VALUE name="kkon" val="k o :n"/>
-	<VALUE name="kkyon" val="k j o :n"/>
-	<VALUE name="kkun" val="k u :n"/>
-	<VALUE name="kkyun" val="k j u :n"/>
-	<VALUE name="kkeun" val="k U :n"/>
-	<VALUE name="kkin" val="k i :n"/>
-	<VALUE name="kkaen" val="k e :n"/>
-	<VALUE name="kkyaen" val="k ie :n"/>
-	<VALUE name="kken" val="k e :n"/>
-	<VALUE name="kkyen" val="k ie :n"/>
-	<VALUE name="kkwan" val="k ua :n"/>
-	<VALUE name="kkwaen" val="k ue :n"/>
-	<VALUE name="kkoen" val="k ue :n"/>
-	<VALUE name="kkwon" val="k w 7 :n"/>
-	<VALUE name="kkwen" val="k ue :n"/>
-	<VALUE name="kkwin" val="k u :\i :n"/>
-	<VALUE name="kkuin" val="k U :\i :n"/>
-	<VALUE name="ttan" val="t a :n"/>
-	<VALUE name="ttyan" val="t ia :n"/>
-	<VALUE name="tteon" val="t 7 :n"/>
-	<VALUE name="ttyeon" val="t j 7 :n"/>
-	<VALUE name="tton" val="t o :n"/>
-	<VALUE name="ttyon" val="t j o :n"/>
-	<VALUE name="ttun" val="t u :n"/>
-	<VALUE name="ttyun" val="t j u :n"/>
-	<VALUE name="tteun" val="t U :n"/>
-	<VALUE name="ttin" val="t i :n"/>
-	<VALUE name="ttaen" val="t e :n"/>
-	<VALUE name="ttyaen" val="t ie :n"/>
-	<VALUE name="tten" val="t e :n"/>
-	<VALUE name="ttyen" val="t ie :n"/>
-	<VALUE name="ttwan" val="t ua :n"/>
-	<VALUE name="ttwaen" val="t ue :n"/>
-	<VALUE name="ttoen" val="t ue :n"/>
-	<VALUE name="ttwon" val="t w 7 :n"/>
-	<VALUE name="ttwen" val="t ue :n"/>
-	<VALUE name="ttwin" val="t u :\i :n"/>
-	<VALUE name="ttuin" val="t U :\i :n"/>
-	<VALUE name="ppan" val="p a :n"/>
-	<VALUE name="ppyan" val="p ia :n"/>
-	<VALUE name="ppeon" val="p 7 :n"/>
-	<VALUE name="ppyeon" val="p j 7 :n"/>
-	<VALUE name="ppon" val="p o :n"/>
-	<VALUE name="ppyon" val="p j o :n"/>
-	<VALUE name="ppun" val="p u :n"/>
-	<VALUE name="ppyun" val="p j u :n"/>
-	<VALUE name="ppeun" val="p U :n"/>
-	<VALUE name="ppin" val="p i :n"/>
-	<VALUE name="ppaen" val="p e :n"/>
-	<VALUE name="ppyaen" val="p ie :n"/>
-	<VALUE name="ppen" val="p e :n"/>
-	<VALUE name="ppyen" val="p ie :n"/>
-	<VALUE name="ppwan" val="p ua :n"/>
-	<VALUE name="ppwaen" val="p ue :n"/>
-	<VALUE name="ppoen" val="p ue :n"/>
-	<VALUE name="ppwon" val="p w 7 :n"/>
-	<VALUE name="ppwen" val="p ue :n"/>
-	<VALUE name="ppwin" val="p u :\i :n"/>
-	<VALUE name="ppuin" val="p U :\i :n"/>
-	<VALUE name="ssan" val="s` a :n"/>
-	<VALUE name="ssyan" val="s` ia :n"/>
-	<VALUE name="sseon" val="s` 7 :n"/>
-	<VALUE name="ssyeon" val="s` j 7 :n"/>
-	<VALUE name="sson" val="s` o :n"/>
-	<VALUE name="ssyon" val="s` j o :n"/>
-	<VALUE name="ssun" val="s` u :n"/>
-	<VALUE name="ssyun" val="s` j u :n"/>
-	<VALUE name="sseun" val="s` U :n"/>
-	<VALUE name="ssin" val="s` i :n"/>
-	<VALUE name="ssaen" val="s` e :n"/>
-	<VALUE name="ssyaen" val="s` ie :n"/>
-	<VALUE name="ssen" val="s` e :n"/>
-	<VALUE name="ssyen" val="s` ie :n"/>
-	<VALUE name="sswan" val="s` ua :n"/>
-	<VALUE name="sswaen" val="s` ue :n"/>
-	<VALUE name="ssoen" val="s` ue :n"/>
-	<VALUE name="sswon" val="s` w 7 :n"/>
-	<VALUE name="sswen" val="s` ue :n"/>
-	<VALUE name="sswin" val="s` u :\i :n"/>
-	<VALUE name="ssuin" val="s` U :\i :n"/>
-	<VALUE name="jjan" val="ts` a :n"/>
-	<VALUE name="jjyan" val="ts` ia :n"/>
-	<VALUE name="jjeon" val="ts` 7 :n"/>
-	<VALUE name="jjyeon" val="ts` j 7 :n"/>
-	<VALUE name="jjon" val="ts` o :n"/>
-	<VALUE name="jjyon" val="ts` j o :n"/>
-	<VALUE name="jjun" val="ts` u :n"/>
-	<VALUE name="jjyun" val="ts` j u :n"/>
-	<VALUE name="jjeun" val="ts` U :n"/>
-	<VALUE name="jjin" val="ts` i :n"/>
-	<VALUE name="jjaen" val="ts` e :n"/>
-	<VALUE name="jjyaen" val="ts` ie :n"/>
-	<VALUE name="jjen" val="ts` e :n"/>
-	<VALUE name="jjyen" val="ts` ie :n"/>
-	<VALUE name="jjwan" val="ts` ua :n"/>
-	<VALUE name="jjwaen" val="ts` ue :n"/>
-	<VALUE name="jjoen" val="ts` ue :n"/>
-	<VALUE name="jjwon" val="ts` w 7 :n"/>
-	<VALUE name="jjwen" val="ts` ue :n"/>
-	<VALUE name="jjwin" val="ts` u :\i :n"/>
-	<VALUE name="jjuin" val="ts` U :\i :n"/>
+	<VALUE name="ssam" val="s a m"/>
+	<VALUE name="ssyam" val="s ia m"/>
+	<VALUE name="sseom" val="s A m"/>
+	<VALUE name="ssyeom" val="s iA m"/>
+	<VALUE name="ssom" val="s o m"/>
+	<VALUE name="ssyom" val="s j o m"/>
+	<VALUE name="ssum" val="s u m"/>
+	<VALUE name="ssyum" val="s j u m"/>
+	<VALUE name="sseum" val="s U m"/>
+	<VALUE name="ssim" val="s i m"/>
+	<VALUE name="ssaem" val="s e m"/>
+	<VALUE name="ssyaem" val="s ie m"/>
+	<VALUE name="ssem" val="s e m"/>
+	<VALUE name="ssyem" val="s ie m"/>
+	<VALUE name="sswam" val="s ua m"/>
+	<VALUE name="sswaem" val="s ue m"/>
+	<VALUE name="ssoem" val="s e m"/>
+	<VALUE name="sswom" val="s uA m"/>
+	<VALUE name="sswem" val="s ue m"/>
+	<VALUE name="sswim" val="s u :\i m"/>
+	<VALUE name="ssuim" val="s U :\i m"/>
+	<VALUE name="jjam" val="ts\ a m"/>
+	<VALUE name="jjyam" val="ts\ ia m"/>
+	<VALUE name="jjeom" val="ts\ A m"/>
+	<VALUE name="jjyeom" val="ts\ iA m"/>
+	<VALUE name="jjom" val="ts\ o m"/>
+	<VALUE name="jjyom" val="ts\ j o m"/>
+	<VALUE name="jjum" val="ts\ u m"/>
+	<VALUE name="jjyum" val="ts\ j u m"/>
+	<VALUE name="jjeum" val="ts\ U m"/>
+	<VALUE name="jjim" val="ts\ i m"/>
+	<VALUE name="jjaem" val="ts\ e m"/>
+	<VALUE name="jjyaem" val="ts\ ie m"/>
+	<VALUE name="jjem" val="ts\ e m"/>
+	<VALUE name="jjyem" val="ts\ ie m"/>
+	<VALUE name="jjwam" val="ts\ ua m"/>
+	<VALUE name="jjwaem" val="ts\ ue m"/>
+	<VALUE name="jjoem" val="ts\ e m"/>
+	<VALUE name="jjwom" val="ts\ uA m"/>
+	<VALUE name="jjwem" val="ts\ ue m"/>
+	<VALUE name="jjwim" val="ts\ u :\i m"/>
+	<VALUE name="jjuim" val="ts\ U :\i m"/>
+	<VALUE name="gan" val="k a n"/>
+	<VALUE name="gyan" val="k ia n"/>
+	<VALUE name="geon" val="k A n"/>
+	<VALUE name="gyeon" val="k iA n"/>
+	<VALUE name="gon" val="k o n"/>
+	<VALUE name="gyon" val="k j o n"/>
+	<VALUE name="gun" val="k u n"/>
+	<VALUE name="gyun" val="k j u n"/>
+	<VALUE name="geun" val="k U n"/>
+	<VALUE name="gin" val="k i n"/>
+	<VALUE name="gaen" val="k e n"/>
+	<VALUE name="gyaen" val="k ie n"/>
+	<VALUE name="gen" val="k e n"/>
+	<VALUE name="gyen" val="k ie n"/>
+	<VALUE name="gwan" val="k ua n"/>
+	<VALUE name="gwaen" val="k ue n"/>
+	<VALUE name="goen" val="k e n"/>
+	<VALUE name="gwon" val="k uA n"/>
+	<VALUE name="gwen" val="k ue n"/>
+	<VALUE name="gwin" val="k u :\i n"/>
+	<VALUE name="guin" val="k U :\i n"/>
+	<VALUE name="nan" val="n a n"/>
+	<VALUE name="nyan" val="n ia n"/>
+	<VALUE name="neon" val="n A n"/>
+	<VALUE name="nyeon" val="n iA n"/>
+	<VALUE name="non" val="n o n"/>
+	<VALUE name="nyon" val="n j o n"/>
+	<VALUE name="nun" val="n u n"/>
+	<VALUE name="nyun" val="n j u n"/>
+	<VALUE name="neun" val="n U n"/>
+	<VALUE name="nin" val="n i n"/>
+	<VALUE name="naen" val="n e n"/>
+	<VALUE name="nyaen" val="n ie n"/>
+	<VALUE name="nen" val="n e n"/>
+	<VALUE name="nyen" val="n ie n"/>
+	<VALUE name="nwan" val="n ua n"/>
+	<VALUE name="nwaen" val="n ue n"/>
+	<VALUE name="noen" val="n e n"/>
+	<VALUE name="nwon" val="n uA n"/>
+	<VALUE name="nwen" val="n ue n"/>
+	<VALUE name="nwin" val="n u :\i n"/>
+	<VALUE name="nuin" val="n U :\i n"/>
+	<VALUE name="dan" val="t a n"/>
+	<VALUE name="dyan" val="t ia n"/>
+	<VALUE name="deon" val="t A n"/>
+	<VALUE name="dyeon" val="t iA n"/>
+	<VALUE name="don" val="t o n"/>
+	<VALUE name="dyon" val="t j o n"/>
+	<VALUE name="dun" val="t u n"/>
+	<VALUE name="dyun" val="t j u n"/>
+	<VALUE name="deun" val="t U n"/>
+	<VALUE name="din" val="t i n"/>
+	<VALUE name="daen" val="t e n"/>
+	<VALUE name="dyaen" val="t ie n"/>
+	<VALUE name="den" val="t e n"/>
+	<VALUE name="dyen" val="t ie n"/>
+	<VALUE name="dwan" val="t ua n"/>
+	<VALUE name="dwaen" val="t ue n"/>
+	<VALUE name="doen" val="t e n"/>
+	<VALUE name="dwon" val="t uA n"/>
+	<VALUE name="dwen" val="t ue n"/>
+	<VALUE name="dwin" val="t u :\i n"/>
+	<VALUE name="duin" val="t U :\i n"/>
+	<VALUE name="ran" val="l a n"/>
+	<VALUE name="ryan" val="l ia n"/>
+	<VALUE name="reon" val="l A n"/>
+	<VALUE name="ryeon" val="l iA n"/>
+	<VALUE name="ron" val="l o n"/>
+	<VALUE name="ryon" val="l j o n"/>
+	<VALUE name="run" val="l u n"/>
+	<VALUE name="ryun" val="l j u n"/>
+	<VALUE name="reun" val="l U n"/>
+	<VALUE name="rin" val="l i n"/>
+	<VALUE name="raen" val="l e n"/>
+	<VALUE name="ryaen" val="l ie n"/>
+	<VALUE name="ren" val="l e n"/>
+	<VALUE name="ryen" val="l ie n"/>
+	<VALUE name="rwan" val="l ua n"/>
+	<VALUE name="rwaen" val="l ue n"/>
+	<VALUE name="roen" val="l e n"/>
+	<VALUE name="rwon" val="l uA n"/>
+	<VALUE name="rwen" val="l ue n"/>
+	<VALUE name="rwin" val="l u :\i n"/>
+	<VALUE name="ruin" val="l U :\i n"/>
+	<VALUE name="man" val="m a n"/>
+	<VALUE name="myan" val="m ia n"/>
+	<VALUE name="meon" val="m A n"/>
+	<VALUE name="myeon" val="m iA n"/>
+	<VALUE name="mon" val="m o n"/>
+	<VALUE name="myon" val="m j o n"/>
+	<VALUE name="mun" val="m u n"/>
+	<VALUE name="myun" val="m j u n"/>
+	<VALUE name="meun" val="m U n"/>
+	<VALUE name="min" val="m i n"/>
+	<VALUE name="maen" val="m e n"/>
+	<VALUE name="myaen" val="m ie n"/>
+	<VALUE name="men" val="m e n"/>
+	<VALUE name="myen" val="m ie n"/>
+	<VALUE name="mwan" val="m ua n"/>
+	<VALUE name="mwaen" val="m ue n"/>
+	<VALUE name="moen" val="m e n"/>
+	<VALUE name="mwon" val="m uA n"/>
+	<VALUE name="mwen" val="m ue n"/>
+	<VALUE name="mwin" val="m u :\i n"/>
+	<VALUE name="muin" val="m U :\i n"/>
+	<VALUE name="ban" val="p a n"/>
+	<VALUE name="byan" val="p ia n"/>
+	<VALUE name="beon" val="p A n"/>
+	<VALUE name="byeon" val="p iA n"/>
+	<VALUE name="bon" val="p o n"/>
+	<VALUE name="byon" val="p j o n"/>
+	<VALUE name="bun" val="p u n"/>
+	<VALUE name="byun" val="p j u n"/>
+	<VALUE name="beun" val="p U n"/>
+	<VALUE name="bin" val="p i n"/>
+	<VALUE name="baen" val="p e n"/>
+	<VALUE name="byaen" val="p ie n"/>
+	<VALUE name="ben" val="p e n"/>
+	<VALUE name="byen" val="p ie n"/>
+	<VALUE name="bwan" val="p ua n"/>
+	<VALUE name="bwaen" val="p ue n"/>
+	<VALUE name="boen" val="p e n"/>
+	<VALUE name="bwon" val="p uA n"/>
+	<VALUE name="bwen" val="p ue n"/>
+	<VALUE name="bwin" val="p u :\i n"/>
+	<VALUE name="buin" val="p U :\i n"/>
+	<VALUE name="san" val="s a n"/>
+	<VALUE name="syan" val="s ia n"/>
+	<VALUE name="seon" val="s A n"/>
+	<VALUE name="syeon" val="s iA n"/>
+	<VALUE name="son" val="s o n"/>
+	<VALUE name="syon" val="s j o n"/>
+	<VALUE name="sun" val="s u n"/>
+	<VALUE name="syun" val="s j u n"/>
+	<VALUE name="seun" val="s U n"/>
+	<VALUE name="sin" val="s i n"/>
+	<VALUE name="saen" val="s e n"/>
+	<VALUE name="syaen" val="s ie n"/>
+	<VALUE name="sen" val="s e n"/>
+	<VALUE name="syen" val="s ie n"/>
+	<VALUE name="swan" val="s ua n"/>
+	<VALUE name="swaen" val="s ue n"/>
+	<VALUE name="soen" val="s e n"/>
+	<VALUE name="swon" val="s uA n"/>
+	<VALUE name="swen" val="s ue n"/>
+	<VALUE name="swin" val="s u :\i n"/>
+	<VALUE name="suin" val="s U :\i n"/>
+	<VALUE name="an" val="a n"/>
+	<VALUE name="yan" val="ia n"/>
+	<VALUE name="eon" val="A n"/>
+	<VALUE name="yeon" val="iA n"/>
+	<VALUE name="on" val="o n"/>
+	<VALUE name="yon" val="j o n"/>
+	<VALUE name="un" val="u n"/>
+	<VALUE name="yun" val="j u n"/>
+	<VALUE name="eun" val="U n"/>
+	<VALUE name="in" val="i n"/>
+	<VALUE name="aen" val="e n"/>
+	<VALUE name="yaen" val="ie n"/>
+	<VALUE name="en" val="e n"/>
+	<VALUE name="yen" val="ie n"/>
+	<VALUE name="wan" val="ua n"/>
+	<VALUE name="waen" val="ue n"/>
+	<VALUE name="oen" val="e n"/>
+	<VALUE name="won" val="uA n"/>
+	<VALUE name="wen" val="ue n"/>
+	<VALUE name="win" val="u :\i n"/>
+	<VALUE name="uin" val="U :\i n"/>
+	<VALUE name="jan" val="ts\ a n"/>
+	<VALUE name="jyan" val="ts\ ia n"/>
+	<VALUE name="jeon" val="ts\ A n"/>
+	<VALUE name="jyeon" val="ts\ iA n"/>
+	<VALUE name="jon" val="ts\ o n"/>
+	<VALUE name="jyon" val="ts\ j o n"/>
+	<VALUE name="jun" val="ts\ u n"/>
+	<VALUE name="jyun" val="ts\ j u n"/>
+	<VALUE name="jeun" val="ts\ U n"/>
+	<VALUE name="jin" val="ts\ i n"/>
+	<VALUE name="jaen" val="ts\ e n"/>
+	<VALUE name="jyaen" val="ts\ ie n"/>
+	<VALUE name="jen" val="ts\ e n"/>
+	<VALUE name="jyen" val="ts\ ie n"/>
+	<VALUE name="jwan" val="ts\ ua n"/>
+	<VALUE name="jwaen" val="ts\ ue n"/>
+	<VALUE name="joen" val="ts\ e n"/>
+	<VALUE name="jwon" val="ts\ uA n"/>
+	<VALUE name="jwen" val="ts\ ue n"/>
+	<VALUE name="jwin" val="ts\ u :\i n"/>
+	<VALUE name="juin" val="ts\ U :\i n"/>
+	<VALUE name="chan" val="ts\h a n"/>
+	<VALUE name="chyan" val="ts\h ia n"/>
+	<VALUE name="cheon" val="ts\h A n"/>
+	<VALUE name="chyeon" val="ts\h iA n"/>
+	<VALUE name="chon" val="ts\h o n"/>
+	<VALUE name="chyon" val="ts\h j o n"/>
+	<VALUE name="chun" val="ts\h u n"/>
+	<VALUE name="chyun" val="ts\h j u n"/>
+	<VALUE name="cheun" val="ts\h U n"/>
+	<VALUE name="chin" val="ts\h i n"/>
+	<VALUE name="chaen" val="ts\h e n"/>
+	<VALUE name="chyaen" val="ts\h ie n"/>
+	<VALUE name="chen" val="ts\h e n"/>
+	<VALUE name="chyen" val="ts\h ie n"/>
+	<VALUE name="chwan" val="ts\h ua n"/>
+	<VALUE name="chwaen" val="ts\h ue n"/>
+	<VALUE name="choen" val="ts\h e n"/>
+	<VALUE name="chwon" val="ts\h uA n"/>
+	<VALUE name="chwen" val="ts\h ue n"/>
+	<VALUE name="chwin" val="ts\h u :\i n"/>
+	<VALUE name="chuin" val="ts\h U :\i n"/>
+	<VALUE name="kan" val="kh a n"/>
+	<VALUE name="kyan" val="kh ia n"/>
+	<VALUE name="keon" val="kh A n"/>
+	<VALUE name="kyeon" val="kh iA n"/>
+	<VALUE name="kon" val="kh o n"/>
+	<VALUE name="kyon" val="kh j o n"/>
+	<VALUE name="kun" val="kh u n"/>
+	<VALUE name="kyun" val="kh j u n"/>
+	<VALUE name="keun" val="kh U n"/>
+	<VALUE name="kin" val="kh i n"/>
+	<VALUE name="kaen" val="kh e n"/>
+	<VALUE name="kyaen" val="kh ie n"/>
+	<VALUE name="ken" val="kh e n"/>
+	<VALUE name="kyen" val="kh ie n"/>
+	<VALUE name="kwan" val="kh ua n"/>
+	<VALUE name="kwaen" val="kh ue n"/>
+	<VALUE name="koen" val="kh e n"/>
+	<VALUE name="kwon" val="kh uA n"/>
+	<VALUE name="kwen" val="kh ue n"/>
+	<VALUE name="kwin" val="kh u :\i n"/>
+	<VALUE name="kuin" val="kh U :\i n"/>
+	<VALUE name="tan" val="th a n"/>
+	<VALUE name="tyan" val="th ia n"/>
+	<VALUE name="teon" val="th A n"/>
+	<VALUE name="tyeon" val="th iA n"/>
+	<VALUE name="ton" val="th o n"/>
+	<VALUE name="tyon" val="th j o n"/>
+	<VALUE name="tun" val="th u n"/>
+	<VALUE name="tyun" val="th j u n"/>
+	<VALUE name="teun" val="th U n"/>
+	<VALUE name="tin" val="th i n"/>
+	<VALUE name="taen" val="th e n"/>
+	<VALUE name="tyaen" val="th ie n"/>
+	<VALUE name="ten" val="th e n"/>
+	<VALUE name="tyen" val="th ie n"/>
+	<VALUE name="twan" val="th ua n"/>
+	<VALUE name="twaen" val="th ue n"/>
+	<VALUE name="toen" val="th e n"/>
+	<VALUE name="twon" val="th uA n"/>
+	<VALUE name="twen" val="th ue n"/>
+	<VALUE name="twin" val="th u :\i n"/>
+	<VALUE name="tuin" val="th U :\i n"/>
+	<VALUE name="pan" val="ph a n"/>
+	<VALUE name="pyan" val="ph ia n"/>
+	<VALUE name="peon" val="ph A n"/>
+	<VALUE name="pyeon" val="ph iA n"/>
+	<VALUE name="pon" val="ph o n"/>
+	<VALUE name="pyon" val="ph j o n"/>
+	<VALUE name="pun" val="ph u n"/>
+	<VALUE name="pyun" val="ph j u n"/>
+	<VALUE name="peun" val="ph U n"/>
+	<VALUE name="pin" val="ph i n"/>
+	<VALUE name="paen" val="ph e n"/>
+	<VALUE name="pyaen" val="ph ie n"/>
+	<VALUE name="pen" val="ph e n"/>
+	<VALUE name="pyen" val="ph ie n"/>
+	<VALUE name="pwan" val="ph ua n"/>
+	<VALUE name="pwaen" val="ph ue n"/>
+	<VALUE name="poen" val="ph e n"/>
+	<VALUE name="pwon" val="ph uA n"/>
+	<VALUE name="pwen" val="ph ue n"/>
+	<VALUE name="pwin" val="ph u :\i n"/>
+	<VALUE name="puin" val="ph U :\i n"/>
+	<VALUE name="han" val="x a n"/>
+	<VALUE name="hyan" val="x ia n"/>
+	<VALUE name="heon" val="x A n"/>
+	<VALUE name="hyeon" val="x iA n"/>
+	<VALUE name="hon" val="x o n"/>
+	<VALUE name="hyon" val="x j o n"/>
+	<VALUE name="hun" val="x u n"/>
+	<VALUE name="hyun" val="x j u n"/>
+	<VALUE name="heun" val="x U n"/>
+	<VALUE name="hin" val="x i n"/>
+	<VALUE name="haen" val="x e n"/>
+	<VALUE name="hyaen" val="x ie n"/>
+	<VALUE name="hen" val="x e n"/>
+	<VALUE name="hyen" val="x ie n"/>
+	<VALUE name="hwan" val="x ua n"/>
+	<VALUE name="hwaen" val="x ue n"/>
+	<VALUE name="hoen" val="x e n"/>
+	<VALUE name="hwon" val="x uA n"/>
+	<VALUE name="hwen" val="x ue n"/>
+	<VALUE name="hwin" val="x u :\i n"/>
+	<VALUE name="huin" val="x U :\i n"/>
+	<VALUE name="kkan" val="k a n"/>
+	<VALUE name="kkyan" val="k ia n"/>
+	<VALUE name="kkeon" val="k A n"/>
+	<VALUE name="kkyeon" val="k iA n"/>
+	<VALUE name="kkon" val="k o n"/>
+	<VALUE name="kkyon" val="k j o n"/>
+	<VALUE name="kkun" val="k u n"/>
+	<VALUE name="kkyun" val="k j u n"/>
+	<VALUE name="kkeun" val="k U n"/>
+	<VALUE name="kkin" val="k i n"/>
+	<VALUE name="kkaen" val="k e n"/>
+	<VALUE name="kkyaen" val="k ie n"/>
+	<VALUE name="kken" val="k e n"/>
+	<VALUE name="kkyen" val="k ie n"/>
+	<VALUE name="kkwan" val="k ua n"/>
+	<VALUE name="kkwaen" val="k ue n"/>
+	<VALUE name="kkoen" val="k e n"/>
+	<VALUE name="kkwon" val="k uA n"/>
+	<VALUE name="kkwen" val="k ue n"/>
+	<VALUE name="kkwin" val="k u :\i n"/>
+	<VALUE name="kkuin" val="k U :\i n"/>
+	<VALUE name="ttan" val="t a n"/>
+	<VALUE name="ttyan" val="t ia n"/>
+	<VALUE name="tteon" val="t A n"/>
+	<VALUE name="ttyeon" val="t iA n"/>
+	<VALUE name="tton" val="t o n"/>
+	<VALUE name="ttyon" val="t j o n"/>
+	<VALUE name="ttun" val="t u n"/>
+	<VALUE name="ttyun" val="t j u n"/>
+	<VALUE name="tteun" val="t U n"/>
+	<VALUE name="ttin" val="t i n"/>
+	<VALUE name="ttaen" val="t e n"/>
+	<VALUE name="ttyaen" val="t ie n"/>
+	<VALUE name="tten" val="t e n"/>
+	<VALUE name="ttyen" val="t ie n"/>
+	<VALUE name="ttwan" val="t ua n"/>
+	<VALUE name="ttwaen" val="t ue n"/>
+	<VALUE name="ttoen" val="t e n"/>
+	<VALUE name="ttwon" val="t uA n"/>
+	<VALUE name="ttwen" val="t ue n"/>
+	<VALUE name="ttwin" val="t u :\i n"/>
+	<VALUE name="ttuin" val="t U :\i n"/>
+	<VALUE name="ppan" val="p a n"/>
+	<VALUE name="ppyan" val="p ia n"/>
+	<VALUE name="ppeon" val="p A n"/>
+	<VALUE name="ppyeon" val="p iA n"/>
+	<VALUE name="ppon" val="p o n"/>
+	<VALUE name="ppyon" val="p j o n"/>
+	<VALUE name="ppun" val="p u n"/>
+	<VALUE name="ppyun" val="p j u n"/>
+	<VALUE name="ppeun" val="p U n"/>
+	<VALUE name="ppin" val="p i n"/>
+	<VALUE name="ppaen" val="p e n"/>
+	<VALUE name="ppyaen" val="p ie n"/>
+	<VALUE name="ppen" val="p e n"/>
+	<VALUE name="ppyen" val="p ie n"/>
+	<VALUE name="ppwan" val="p ua n"/>
+	<VALUE name="ppwaen" val="p ue n"/>
+	<VALUE name="ppoen" val="p e n"/>
+	<VALUE name="ppwon" val="p uA n"/>
+	<VALUE name="ppwen" val="p ue n"/>
+	<VALUE name="ppwin" val="p u :\i n"/>
+	<VALUE name="ppuin" val="p U :\i n"/>
+	<VALUE name="ssan" val="s a n"/>
+	<VALUE name="ssyan" val="s ia n"/>
+	<VALUE name="sseon" val="s A n"/>
+	<VALUE name="ssyeon" val="s iA n"/>
+	<VALUE name="sson" val="s o n"/>
+	<VALUE name="ssyon" val="s j o n"/>
+	<VALUE name="ssun" val="s u n"/>
+	<VALUE name="ssyun" val="s j u n"/>
+	<VALUE name="sseun" val="s U n"/>
+	<VALUE name="ssin" val="s i n"/>
+	<VALUE name="ssaen" val="s e n"/>
+	<VALUE name="ssyaen" val="s ie n"/>
+	<VALUE name="ssen" val="s e n"/>
+	<VALUE name="ssyen" val="s ie n"/>
+	<VALUE name="sswan" val="s ua n"/>
+	<VALUE name="sswaen" val="s ue n"/>
+	<VALUE name="ssoen" val="s e n"/>
+	<VALUE name="sswon" val="s uA n"/>
+	<VALUE name="sswen" val="s ue n"/>
+	<VALUE name="sswin" val="s u :\i n"/>
+	<VALUE name="ssuin" val="s U :\i n"/>
+	<VALUE name="jjan" val="ts\ a n"/>
+	<VALUE name="jjyan" val="ts\ ia n"/>
+	<VALUE name="jjeon" val="ts\ A n"/>
+	<VALUE name="jjyeon" val="ts\ iA n"/>
+	<VALUE name="jjon" val="ts\ o n"/>
+	<VALUE name="jjyon" val="ts\ j o n"/>
+	<VALUE name="jjun" val="ts\ u n"/>
+	<VALUE name="jjyun" val="ts\ j u n"/>
+	<VALUE name="jjeun" val="ts\ U n"/>
+	<VALUE name="jjin" val="ts\ i n"/>
+	<VALUE name="jjaen" val="ts\ e n"/>
+	<VALUE name="jjyaen" val="ts\ ie n"/>
+	<VALUE name="jjen" val="ts\ e n"/>
+	<VALUE name="jjyen" val="ts\ ie n"/>
+	<VALUE name="jjwan" val="ts\ ua n"/>
+	<VALUE name="jjwaen" val="ts\ ue n"/>
+	<VALUE name="jjoen" val="ts\ e n"/>
+	<VALUE name="jjwon" val="ts\ uA n"/>
+	<VALUE name="jjwen" val="ts\ ue n"/>
+	<VALUE name="jjwin" val="ts\ u :\i n"/>
+	<VALUE name="jjuin" val="ts\ U :\i n"/>
 	<VALUE name="gang" val="k a N"/>
 	<VALUE name="gyang" val="k ia N"/>
-	<VALUE name="geong" val="k 7 N"/>
-	<VALUE name="gyeong" val="k j 7 N"/>
+	<VALUE name="geong" val="k A N"/>
+	<VALUE name="gyeong" val="k iA N"/>
 	<VALUE name="gong" val="k o N"/>
 	<VALUE name="gyong" val="k j o N"/>
 	<VALUE name="gung" val="k u N"/>
@@ -2810,15 +2810,15 @@
 	<VALUE name="gyeng" val="k ie N"/>
 	<VALUE name="gwang" val="k ua N"/>
 	<VALUE name="gwaeng" val="k ue N"/>
-	<VALUE name="goeng" val="k ue N"/>
-	<VALUE name="gwong" val="k w 7 N"/>
+	<VALUE name="goeng" val="k e N"/>
+	<VALUE name="gwong" val="k uA N"/>
 	<VALUE name="gweng" val="k ue N"/>
 	<VALUE name="gwing" val="k u :\i N"/>
 	<VALUE name="guing" val="k U :\i N"/>
 	<VALUE name="nang" val="n a N"/>
 	<VALUE name="nyang" val="n ia N"/>
-	<VALUE name="neong" val="n 7 N"/>
-	<VALUE name="nyeong" val="n j 7 N"/>
+	<VALUE name="neong" val="n A N"/>
+	<VALUE name="nyeong" val="n iA N"/>
 	<VALUE name="nong" val="n o N"/>
 	<VALUE name="nyong" val="n j o N"/>
 	<VALUE name="nung" val="n u N"/>
@@ -2831,15 +2831,15 @@
 	<VALUE name="nyeng" val="n ie N"/>
 	<VALUE name="nwang" val="n ua N"/>
 	<VALUE name="nwaeng" val="n ue N"/>
-	<VALUE name="noeng" val="n ue N"/>
-	<VALUE name="nwong" val="n w 7 N"/>
+	<VALUE name="noeng" val="n e N"/>
+	<VALUE name="nwong" val="n uA N"/>
 	<VALUE name="nweng" val="n ue N"/>
 	<VALUE name="nwing" val="n u :\i N"/>
 	<VALUE name="nuing" val="n U :\i N"/>
 	<VALUE name="dang" val="t a N"/>
 	<VALUE name="dyang" val="t ia N"/>
-	<VALUE name="deong" val="t 7 N"/>
-	<VALUE name="dyeong" val="t j 7 N"/>
+	<VALUE name="deong" val="t A N"/>
+	<VALUE name="dyeong" val="t iA N"/>
 	<VALUE name="dong" val="t o N"/>
 	<VALUE name="dyong" val="t j o N"/>
 	<VALUE name="dung" val="t u N"/>
@@ -2852,36 +2852,36 @@
 	<VALUE name="dyeng" val="t ie N"/>
 	<VALUE name="dwang" val="t ua N"/>
 	<VALUE name="dwaeng" val="t ue N"/>
-	<VALUE name="doeng" val="t ue N"/>
-	<VALUE name="dwong" val="t w 7 N"/>
+	<VALUE name="doeng" val="t e N"/>
+	<VALUE name="dwong" val="t uA N"/>
 	<VALUE name="dweng" val="t ue N"/>
 	<VALUE name="dwing" val="t u :\i N"/>
 	<VALUE name="duing" val="t U :\i N"/>
-	<VALUE name="rang" val="r\` a N"/>
-	<VALUE name="ryang" val="r\` ia N"/>
-	<VALUE name="reong" val="r\` 7 N"/>
-	<VALUE name="ryeong" val="r\` j 7 N"/>
-	<VALUE name="rong" val="r\` o N"/>
-	<VALUE name="ryong" val="r\` j o N"/>
-	<VALUE name="rung" val="r\` u N"/>
-	<VALUE name="ryung" val="r\` j u N"/>
-	<VALUE name="reung" val="r\` U N"/>
-	<VALUE name="ring" val="r\` i N"/>
-	<VALUE name="raeng" val="r\` e N"/>
-	<VALUE name="ryaeng" val="r\` ie N"/>
-	<VALUE name="reng" val="r\` e N"/>
-	<VALUE name="ryeng" val="r\` ie N"/>
-	<VALUE name="rwang" val="r\` ua N"/>
-	<VALUE name="rwaeng" val="r\` ue N"/>
-	<VALUE name="roeng" val="r\` ue N"/>
-	<VALUE name="rwong" val="r\` w 7 N"/>
-	<VALUE name="rweng" val="r\` ue N"/>
-	<VALUE name="rwing" val="r\` u :\i N"/>
-	<VALUE name="ruing" val="r\` U :\i N"/>
+	<VALUE name="rang" val="l a N"/>
+	<VALUE name="ryang" val="l ia N"/>
+	<VALUE name="reong" val="l A N"/>
+	<VALUE name="ryeong" val="l iA N"/>
+	<VALUE name="rong" val="l o N"/>
+	<VALUE name="ryong" val="l j o N"/>
+	<VALUE name="rung" val="l u N"/>
+	<VALUE name="ryung" val="l j u N"/>
+	<VALUE name="reung" val="l U N"/>
+	<VALUE name="ring" val="l i N"/>
+	<VALUE name="raeng" val="l e N"/>
+	<VALUE name="ryaeng" val="l ie N"/>
+	<VALUE name="reng" val="l e N"/>
+	<VALUE name="ryeng" val="l ie N"/>
+	<VALUE name="rwang" val="l ua N"/>
+	<VALUE name="rwaeng" val="l ue N"/>
+	<VALUE name="roeng" val="l e N"/>
+	<VALUE name="rwong" val="l uA N"/>
+	<VALUE name="rweng" val="l ue N"/>
+	<VALUE name="rwing" val="l u :\i N"/>
+	<VALUE name="ruing" val="l U :\i N"/>
 	<VALUE name="mang" val="m a N"/>
 	<VALUE name="myang" val="m ia N"/>
-	<VALUE name="meong" val="m 7 N"/>
-	<VALUE name="myeong" val="m j 7 N"/>
+	<VALUE name="meong" val="m A N"/>
+	<VALUE name="myeong" val="m iA N"/>
 	<VALUE name="mong" val="m o N"/>
 	<VALUE name="myong" val="m j o N"/>
 	<VALUE name="mung" val="m u N"/>
@@ -2894,15 +2894,15 @@
 	<VALUE name="myeng" val="m ie N"/>
 	<VALUE name="mwang" val="m ua N"/>
 	<VALUE name="mwaeng" val="m ue N"/>
-	<VALUE name="moeng" val="m ue N"/>
-	<VALUE name="mwong" val="m w 7 N"/>
+	<VALUE name="moeng" val="m e N"/>
+	<VALUE name="mwong" val="m uA N"/>
 	<VALUE name="mweng" val="m ue N"/>
 	<VALUE name="mwing" val="m u :\i N"/>
 	<VALUE name="muing" val="m U :\i N"/>
 	<VALUE name="bang" val="p a N"/>
 	<VALUE name="byang" val="p ia N"/>
-	<VALUE name="beong" val="p 7 N"/>
-	<VALUE name="byeong" val="p j 7 N"/>
+	<VALUE name="beong" val="p A N"/>
+	<VALUE name="byeong" val="p iA N"/>
 	<VALUE name="bong" val="p o N"/>
 	<VALUE name="byong" val="p j o N"/>
 	<VALUE name="bung" val="p u N"/>
@@ -2915,15 +2915,15 @@
 	<VALUE name="byeng" val="p ie N"/>
 	<VALUE name="bwang" val="p ua N"/>
 	<VALUE name="bwaeng" val="p ue N"/>
-	<VALUE name="boeng" val="p ue N"/>
-	<VALUE name="bwong" val="p w 7 N"/>
+	<VALUE name="boeng" val="p e N"/>
+	<VALUE name="bwong" val="p uA N"/>
 	<VALUE name="bweng" val="p ue N"/>
 	<VALUE name="bwing" val="p u :\i N"/>
 	<VALUE name="buing" val="p U :\i N"/>
 	<VALUE name="sang" val="s a N"/>
 	<VALUE name="syang" val="s ia N"/>
-	<VALUE name="seong" val="s 7 N"/>
-	<VALUE name="syeong" val="s j 7 N"/>
+	<VALUE name="seong" val="s A N"/>
+	<VALUE name="syeong" val="s iA N"/>
 	<VALUE name="song" val="s o N"/>
 	<VALUE name="syong" val="s j o N"/>
 	<VALUE name="sung" val="s u N"/>
@@ -2936,15 +2936,15 @@
 	<VALUE name="syeng" val="s ie N"/>
 	<VALUE name="swang" val="s ua N"/>
 	<VALUE name="swaeng" val="s ue N"/>
-	<VALUE name="soeng" val="s ue N"/>
-	<VALUE name="swong" val="s w 7 N"/>
+	<VALUE name="soeng" val="s e N"/>
+	<VALUE name="swong" val="s uA N"/>
 	<VALUE name="sweng" val="s ue N"/>
 	<VALUE name="swing" val="s u :\i N"/>
 	<VALUE name="suing" val="s U :\i N"/>
 	<VALUE name="ang" val="a N"/>
 	<VALUE name="yang" val="ia N"/>
-	<VALUE name="eong" val="7 N"/>
-	<VALUE name="yeong" val="j 7 N"/>
+	<VALUE name="eong" val="A N"/>
+	<VALUE name="yeong" val="iA N"/>
 	<VALUE name="ong" val="o N"/>
 	<VALUE name="yong" val="j o N"/>
 	<VALUE name="ung" val="u N"/>
@@ -2957,15 +2957,15 @@
 	<VALUE name="yeng" val="ie N"/>
 	<VALUE name="wang" val="ua N"/>
 	<VALUE name="waeng" val="ue N"/>
-	<VALUE name="oeng" val="ue N"/>
-	<VALUE name="wong" val="w 7 N"/>
+	<VALUE name="oeng" val="e N"/>
+	<VALUE name="wong" val="uA N"/>
 	<VALUE name="weng" val="ue N"/>
 	<VALUE name="wing" val="u :\i N"/>
 	<VALUE name="uing" val="U :\i N"/>
 	<VALUE name="jang" val="ts\ a N"/>
 	<VALUE name="jyang" val="ts\ ia N"/>
-	<VALUE name="jeong" val="ts\ 7 N"/>
-	<VALUE name="jyeong" val="ts\ j 7 N"/>
+	<VALUE name="jeong" val="ts\ A N"/>
+	<VALUE name="jyeong" val="ts\ iA N"/>
 	<VALUE name="jong" val="ts\ o N"/>
 	<VALUE name="jyong" val="ts\ j o N"/>
 	<VALUE name="jung" val="ts\ u N"/>
@@ -2978,15 +2978,15 @@
 	<VALUE name="jyeng" val="ts\ ie N"/>
 	<VALUE name="jwang" val="ts\ ua N"/>
 	<VALUE name="jwaeng" val="ts\ ue N"/>
-	<VALUE name="joeng" val="ts\ ue N"/>
-	<VALUE name="jwong" val="ts\ w 7 N"/>
+	<VALUE name="joeng" val="ts\ e N"/>
+	<VALUE name="jwong" val="ts\ uA N"/>
 	<VALUE name="jweng" val="ts\ ue N"/>
 	<VALUE name="jwing" val="ts\ u :\i N"/>
 	<VALUE name="juing" val="ts\ U :\i N"/>
 	<VALUE name="chang" val="ts\h a N"/>
 	<VALUE name="chyang" val="ts\h ia N"/>
-	<VALUE name="cheong" val="ts\h 7 N"/>
-	<VALUE name="chyeong" val="ts\h j 7 N"/>
+	<VALUE name="cheong" val="ts\h A N"/>
+	<VALUE name="chyeong" val="ts\h iA N"/>
 	<VALUE name="chong" val="ts\h o N"/>
 	<VALUE name="chyong" val="ts\h j o N"/>
 	<VALUE name="chung" val="ts\h u N"/>
@@ -2999,15 +2999,15 @@
 	<VALUE name="chyeng" val="ts\h ie N"/>
 	<VALUE name="chwang" val="ts\h ua N"/>
 	<VALUE name="chwaeng" val="ts\h ue N"/>
-	<VALUE name="choeng" val="ts\h ue N"/>
-	<VALUE name="chwong" val="ts\h w 7 N"/>
+	<VALUE name="choeng" val="ts\h e N"/>
+	<VALUE name="chwong" val="ts\h uA N"/>
 	<VALUE name="chweng" val="ts\h ue N"/>
 	<VALUE name="chwing" val="ts\h u :\i N"/>
 	<VALUE name="chuing" val="ts\h U :\i N"/>
 	<VALUE name="kang" val="kh a N"/>
 	<VALUE name="kyang" val="kh ia N"/>
-	<VALUE name="keong" val="kh 7 N"/>
-	<VALUE name="kyeong" val="kh j 7 N"/>
+	<VALUE name="keong" val="kh A N"/>
+	<VALUE name="kyeong" val="kh iA N"/>
 	<VALUE name="kong" val="kh o N"/>
 	<VALUE name="kyong" val="kh j o N"/>
 	<VALUE name="kung" val="kh u N"/>
@@ -3020,15 +3020,15 @@
 	<VALUE name="kyeng" val="kh ie N"/>
 	<VALUE name="kwang" val="kh ua N"/>
 	<VALUE name="kwaeng" val="kh ue N"/>
-	<VALUE name="koeng" val="kh ue N"/>
-	<VALUE name="kwong" val="kh w 7 N"/>
+	<VALUE name="koeng" val="kh e N"/>
+	<VALUE name="kwong" val="kh uA N"/>
 	<VALUE name="kweng" val="kh ue N"/>
 	<VALUE name="kwing" val="kh u :\i N"/>
 	<VALUE name="kuing" val="kh U :\i N"/>
 	<VALUE name="tang" val="th a N"/>
 	<VALUE name="tyang" val="th ia N"/>
-	<VALUE name="teong" val="th 7 N"/>
-	<VALUE name="tyeong" val="th j 7 N"/>
+	<VALUE name="teong" val="th A N"/>
+	<VALUE name="tyeong" val="th iA N"/>
 	<VALUE name="tong" val="th o N"/>
 	<VALUE name="tyong" val="th j o N"/>
 	<VALUE name="tung" val="th u N"/>
@@ -3041,15 +3041,15 @@
 	<VALUE name="tyeng" val="th ie N"/>
 	<VALUE name="twang" val="th ua N"/>
 	<VALUE name="twaeng" val="th ue N"/>
-	<VALUE name="toeng" val="th ue N"/>
-	<VALUE name="twong" val="th w 7 N"/>
+	<VALUE name="toeng" val="th e N"/>
+	<VALUE name="twong" val="th uA N"/>
 	<VALUE name="tweng" val="th ue N"/>
 	<VALUE name="twing" val="th u :\i N"/>
 	<VALUE name="tuing" val="th U :\i N"/>
 	<VALUE name="pang" val="ph a N"/>
 	<VALUE name="pyang" val="ph ia N"/>
-	<VALUE name="peong" val="ph 7 N"/>
-	<VALUE name="pyeong" val="ph j 7 N"/>
+	<VALUE name="peong" val="ph A N"/>
+	<VALUE name="pyeong" val="ph iA N"/>
 	<VALUE name="pong" val="ph o N"/>
 	<VALUE name="pyong" val="ph j o N"/>
 	<VALUE name="pung" val="ph u N"/>
@@ -3062,15 +3062,15 @@
 	<VALUE name="pyeng" val="ph ie N"/>
 	<VALUE name="pwang" val="ph ua N"/>
 	<VALUE name="pwaeng" val="ph ue N"/>
-	<VALUE name="poeng" val="ph ue N"/>
-	<VALUE name="pwong" val="ph w 7 N"/>
+	<VALUE name="poeng" val="ph e N"/>
+	<VALUE name="pwong" val="ph uA N"/>
 	<VALUE name="pweng" val="ph ue N"/>
 	<VALUE name="pwing" val="ph u :\i N"/>
 	<VALUE name="puing" val="ph U :\i N"/>
 	<VALUE name="hang" val="x a N"/>
 	<VALUE name="hyang" val="x ia N"/>
-	<VALUE name="heong" val="x 7 N"/>
-	<VALUE name="hyeong" val="x j 7 N"/>
+	<VALUE name="heong" val="x A N"/>
+	<VALUE name="hyeong" val="x iA N"/>
 	<VALUE name="hong" val="x o N"/>
 	<VALUE name="hyong" val="x j o N"/>
 	<VALUE name="hung" val="x u N"/>
@@ -3083,15 +3083,15 @@
 	<VALUE name="hyeng" val="x ie N"/>
 	<VALUE name="hwang" val="x ua N"/>
 	<VALUE name="hwaeng" val="x ue N"/>
-	<VALUE name="hoeng" val="x ue N"/>
-	<VALUE name="hwong" val="x w 7 N"/>
+	<VALUE name="hoeng" val="x e N"/>
+	<VALUE name="hwong" val="x uA N"/>
 	<VALUE name="hweng" val="x ue N"/>
 	<VALUE name="hwing" val="x u :\i N"/>
 	<VALUE name="huing" val="x U :\i N"/>
 	<VALUE name="kkang" val="k a N"/>
 	<VALUE name="kkyang" val="k ia N"/>
-	<VALUE name="kkeong" val="k 7 N"/>
-	<VALUE name="kkyeong" val="k j 7 N"/>
+	<VALUE name="kkeong" val="k A N"/>
+	<VALUE name="kkyeong" val="k iA N"/>
 	<VALUE name="kkong" val="k o N"/>
 	<VALUE name="kkyong" val="k j o N"/>
 	<VALUE name="kkung" val="k u N"/>
@@ -3104,15 +3104,15 @@
 	<VALUE name="kkyeng" val="k ie N"/>
 	<VALUE name="kkwang" val="k ua N"/>
 	<VALUE name="kkwaeng" val="k ue N"/>
-	<VALUE name="kkoeng" val="k ue N"/>
-	<VALUE name="kkwong" val="k w 7 N"/>
+	<VALUE name="kkoeng" val="k e N"/>
+	<VALUE name="kkwong" val="k uA N"/>
 	<VALUE name="kkweng" val="k ue N"/>
 	<VALUE name="kkwing" val="k u :\i N"/>
 	<VALUE name="kkuing" val="k U :\i N"/>
 	<VALUE name="ttang" val="t a N"/>
 	<VALUE name="ttyang" val="t ia N"/>
-	<VALUE name="tteong" val="t 7 N"/>
-	<VALUE name="ttyeong" val="t j 7 N"/>
+	<VALUE name="tteong" val="t A N"/>
+	<VALUE name="ttyeong" val="t iA N"/>
 	<VALUE name="ttong" val="t o N"/>
 	<VALUE name="ttyong" val="t j o N"/>
 	<VALUE name="ttung" val="t u N"/>
@@ -3125,15 +3125,15 @@
 	<VALUE name="ttyeng" val="t ie N"/>
 	<VALUE name="ttwang" val="t ua N"/>
 	<VALUE name="ttwaeng" val="t ue N"/>
-	<VALUE name="ttoeng" val="t ue N"/>
-	<VALUE name="ttwong" val="t w 7 N"/>
+	<VALUE name="ttoeng" val="t e N"/>
+	<VALUE name="ttwong" val="t uA N"/>
 	<VALUE name="ttweng" val="t ue N"/>
 	<VALUE name="ttwing" val="t u :\i N"/>
 	<VALUE name="ttuing" val="t U :\i N"/>
 	<VALUE name="ppang" val="p a N"/>
 	<VALUE name="ppyang" val="p ia N"/>
-	<VALUE name="ppeong" val="p 7 N"/>
-	<VALUE name="ppyeong" val="p j 7 N"/>
+	<VALUE name="ppeong" val="p A N"/>
+	<VALUE name="ppyeong" val="p iA N"/>
 	<VALUE name="ppong" val="p o N"/>
 	<VALUE name="ppyong" val="p j o N"/>
 	<VALUE name="ppung" val="p u N"/>
@@ -3146,51 +3146,51 @@
 	<VALUE name="ppyeng" val="p ie N"/>
 	<VALUE name="ppwang" val="p ua N"/>
 	<VALUE name="ppwaeng" val="p ue N"/>
-	<VALUE name="ppoeng" val="p ue N"/>
-	<VALUE name="ppwong" val="p w 7 N"/>
+	<VALUE name="ppoeng" val="p e N"/>
+	<VALUE name="ppwong" val="p uA N"/>
 	<VALUE name="ppweng" val="p ue N"/>
 	<VALUE name="ppwing" val="p u :\i N"/>
 	<VALUE name="ppuing" val="p U :\i N"/>
-	<VALUE name="ssang" val="s` a N"/>
-	<VALUE name="ssyang" val="s` ia N"/>
-	<VALUE name="sseong" val="s` 7 N"/>
-	<VALUE name="ssyeong" val="s` j 7 N"/>
-	<VALUE name="ssong" val="s` o N"/>
-	<VALUE name="ssyong" val="s` j o N"/>
-	<VALUE name="ssung" val="s` u N"/>
-	<VALUE name="ssyung" val="s` j u N"/>
-	<VALUE name="sseung" val="s` U N"/>
-	<VALUE name="ssing" val="s` i N"/>
-	<VALUE name="ssaeng" val="s` e N"/>
-	<VALUE name="ssyaeng" val="s` ie N"/>
-	<VALUE name="sseng" val="s` e N"/>
-	<VALUE name="ssyeng" val="s` ie N"/>
-	<VALUE name="sswang" val="s` ua N"/>
-	<VALUE name="sswaeng" val="s` ue N"/>
-	<VALUE name="ssoeng" val="s` ue N"/>
-	<VALUE name="sswong" val="s` w 7 N"/>
-	<VALUE name="ssweng" val="s` ue N"/>
-	<VALUE name="sswing" val="s` u :\i N"/>
-	<VALUE name="ssuing" val="s` U :\i N"/>
-	<VALUE name="jjang" val="ts` a N"/>
-	<VALUE name="jjyang" val="ts` ia N"/>
-	<VALUE name="jjeong" val="ts` 7 N"/>
-	<VALUE name="jjyeong" val="ts` j 7 N"/>
-	<VALUE name="jjong" val="ts` o N"/>
-	<VALUE name="jjyong" val="ts` j o N"/>
-	<VALUE name="jjung" val="ts` u N"/>
-	<VALUE name="jjyung" val="ts` j u N"/>
-	<VALUE name="jjeung" val="ts` U N"/>
-	<VALUE name="jjing" val="ts` i N"/>
-	<VALUE name="jjaeng" val="ts` e N"/>
-	<VALUE name="jjyaeng" val="ts` ie N"/>
-	<VALUE name="jjeng" val="ts` e N"/>
-	<VALUE name="jjyeng" val="ts` ie N"/>
-	<VALUE name="jjwang" val="ts` ua N"/>
-	<VALUE name="jjwaeng" val="ts` ue N"/>
-	<VALUE name="jjoeng" val="ts` ue N"/>
-	<VALUE name="jjwong" val="ts` w 7 N"/>
-	<VALUE name="jjweng" val="ts` ue N"/>
-	<VALUE name="jjwing" val="ts` u :\i N"/>
-	<VALUE name="jjuing" val="ts` U :\i N"/>
+	<VALUE name="ssang" val="s a N"/>
+	<VALUE name="ssyang" val="s ia N"/>
+	<VALUE name="sseong" val="s A N"/>
+	<VALUE name="ssyeong" val="s iA N"/>
+	<VALUE name="ssong" val="s o N"/>
+	<VALUE name="ssyong" val="s j o N"/>
+	<VALUE name="ssung" val="s u N"/>
+	<VALUE name="ssyung" val="s j u N"/>
+	<VALUE name="sseung" val="s U N"/>
+	<VALUE name="ssing" val="s i N"/>
+	<VALUE name="ssaeng" val="s e N"/>
+	<VALUE name="ssyaeng" val="s ie N"/>
+	<VALUE name="sseng" val="s e N"/>
+	<VALUE name="ssyeng" val="s ie N"/>
+	<VALUE name="sswang" val="s ua N"/>
+	<VALUE name="sswaeng" val="s ue N"/>
+	<VALUE name="ssoeng" val="s e N"/>
+	<VALUE name="sswong" val="s uA N"/>
+	<VALUE name="ssweng" val="s ue N"/>
+	<VALUE name="sswing" val="s u :\i N"/>
+	<VALUE name="ssuing" val="s U :\i N"/>
+	<VALUE name="jjang" val="ts\ a N"/>
+	<VALUE name="jjyang" val="ts\ ia N"/>
+	<VALUE name="jjeong" val="ts\ A N"/>
+	<VALUE name="jjyeong" val="ts\ iA N"/>
+	<VALUE name="jjong" val="ts\ o N"/>
+	<VALUE name="jjyong" val="ts\ j o N"/>
+	<VALUE name="jjung" val="ts\ u N"/>
+	<VALUE name="jjyung" val="ts\ j u N"/>
+	<VALUE name="jjeung" val="ts\ U N"/>
+	<VALUE name="jjing" val="ts\ i N"/>
+	<VALUE name="jjaeng" val="ts\ e N"/>
+	<VALUE name="jjyaeng" val="ts\ ie N"/>
+	<VALUE name="jjeng" val="ts\ e N"/>
+	<VALUE name="jjyeng" val="ts\ ie N"/>
+	<VALUE name="jjwang" val="ts\ ua N"/>
+	<VALUE name="jjwaeng" val="ts\ ue N"/>
+	<VALUE name="jjoeng" val="ts\ e N"/>
+	<VALUE name="jjwong" val="ts\ uA N"/>
+	<VALUE name="jjweng" val="ts\ ue N"/>
+	<VALUE name="jjwing" val="ts\ u :\i N"/>
+	<VALUE name="jjuing" val="ts\ U :\i N"/>
 </PROPERTIES>
