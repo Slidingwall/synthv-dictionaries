@@ -17,7 +17,7 @@
 	<VALUE name="gye" val="g y eh"/>
 	<VALUE name="gwa" val="g w ae"/>
 	<VALUE name="gwae" val="g w eh"/>
-	<VALUE name="goe" val="g w eh"/>
+	<VALUE name="goe" val="g eh"/>
 	<VALUE name="gwo" val="g w ah"/>
 	<VALUE name="gwe" val="g w eh"/>
 	<VALUE name="gwi" val="g w iy"/>
@@ -38,7 +38,7 @@
 	<VALUE name="nye" val="n y eh"/>
 	<VALUE name="nwa" val="n w ae"/>
 	<VALUE name="nwae" val="n w eh"/>
-	<VALUE name="noe" val="n w eh"/>
+	<VALUE name="noe" val="n eh"/>
 	<VALUE name="nwo" val="n w ah"/>
 	<VALUE name="nwe" val="n w eh"/>
 	<VALUE name="nwi" val="n w iy"/>
@@ -59,7 +59,7 @@
 	<VALUE name="dye" val="d y eh"/>
 	<VALUE name="dwa" val="d w ae"/>
 	<VALUE name="dwae" val="d w eh"/>
-	<VALUE name="doe" val="d w eh"/>
+	<VALUE name="doe" val="d eh"/>
 	<VALUE name="dwo" val="d w ah"/>
 	<VALUE name="dwe" val="d w eh"/>
 	<VALUE name="dwi" val="d w iy"/>
@@ -80,7 +80,7 @@
 	<VALUE name="rye" val="dx y eh"/>
 	<VALUE name="rwa" val="dx w ae"/>
 	<VALUE name="rwae" val="dx w eh"/>
-	<VALUE name="roe" val="dx w eh"/>
+	<VALUE name="roe" val="dx eh"/>
 	<VALUE name="rwo" val="dx w ah"/>
 	<VALUE name="rwe" val="dx w eh"/>
 	<VALUE name="rwi" val="dx w iy"/>
@@ -101,7 +101,7 @@
 	<VALUE name="mye" val="m y eh"/>
 	<VALUE name="mwa" val="m w ae"/>
 	<VALUE name="mwae" val="m w eh"/>
-	<VALUE name="moe" val="m w eh"/>
+	<VALUE name="moe" val="m eh"/>
 	<VALUE name="mwo" val="m w ah"/>
 	<VALUE name="mwe" val="m w eh"/>
 	<VALUE name="mwi" val="m w iy"/>
@@ -122,7 +122,7 @@
 	<VALUE name="bye" val="b y eh"/>
 	<VALUE name="bwa" val="b w ae"/>
 	<VALUE name="bwae" val="b w eh"/>
-	<VALUE name="boe" val="b w eh"/>
+	<VALUE name="boe" val="b eh"/>
 	<VALUE name="bwo" val="b w ah"/>
 	<VALUE name="bwe" val="b w eh"/>
 	<VALUE name="bwi" val="b w iy"/>
@@ -143,7 +143,7 @@
 	<VALUE name="sye" val="s y eh"/>
 	<VALUE name="swa" val="s w ae"/>
 	<VALUE name="swae" val="s w eh"/>
-	<VALUE name="soe" val="s w eh"/>
+	<VALUE name="soe" val="s eh"/>
 	<VALUE name="swo" val="s w ah"/>
 	<VALUE name="swe" val="s w eh"/>
 	<VALUE name="swi" val="s w iy"/>
@@ -164,7 +164,7 @@
 	<VALUE name="ye" val="y eh"/>
 	<VALUE name="wa" val="w ae"/>
 	<VALUE name="wae" val="w eh"/>
-	<VALUE name="oe" val="w eh"/>
+	<VALUE name="oe" val="eh"/>
 	<VALUE name="wo" val="w ah"/>
 	<VALUE name="we" val="w eh"/>
 	<VALUE name="wi" val="w iy"/>
@@ -185,7 +185,7 @@
 	<VALUE name="jye" val="ch y eh"/>
 	<VALUE name="jwa" val="ch w ae"/>
 	<VALUE name="jwae" val="ch w eh"/>
-	<VALUE name="joe" val="ch w eh"/>
+	<VALUE name="joe" val="ch eh"/>
 	<VALUE name="jwo" val="ch w ah"/>
 	<VALUE name="jwe" val="ch w eh"/>
 	<VALUE name="jwi" val="ch w iy"/>
@@ -206,7 +206,7 @@
 	<VALUE name="chye" val="ch y eh"/>
 	<VALUE name="chwa" val="ch w ae"/>
 	<VALUE name="chwae" val="ch w eh"/>
-	<VALUE name="choe" val="ch w eh"/>
+	<VALUE name="choe" val="ch eh"/>
 	<VALUE name="chwo" val="ch w ah"/>
 	<VALUE name="chwe" val="ch w eh"/>
 	<VALUE name="chwi" val="ch w iy"/>
@@ -227,7 +227,7 @@
 	<VALUE name="kye" val="k y eh"/>
 	<VALUE name="kwa" val="k w ae"/>
 	<VALUE name="kwae" val="k w eh"/>
-	<VALUE name="koe" val="k w eh"/>
+	<VALUE name="koe" val="k eh"/>
 	<VALUE name="kwo" val="k w ah"/>
 	<VALUE name="kwe" val="k w eh"/>
 	<VALUE name="kwi" val="k w iy"/>
@@ -248,7 +248,7 @@
 	<VALUE name="tye" val="t y eh"/>
 	<VALUE name="twa" val="t w ae"/>
 	<VALUE name="twae" val="t w eh"/>
-	<VALUE name="toe" val="t w eh"/>
+	<VALUE name="toe" val="t eh"/>
 	<VALUE name="two" val="t w ah"/>
 	<VALUE name="twe" val="t w eh"/>
 	<VALUE name="twi" val="t w iy"/>
@@ -269,7 +269,7 @@
 	<VALUE name="pye" val="p y eh"/>
 	<VALUE name="pwa" val="p w ae"/>
 	<VALUE name="pwae" val="p w eh"/>
-	<VALUE name="poe" val="p w eh"/>
+	<VALUE name="poe" val="p eh"/>
 	<VALUE name="pwo" val="p w ah"/>
 	<VALUE name="pwe" val="p w eh"/>
 	<VALUE name="pwi" val="p w iy"/>
@@ -290,7 +290,7 @@
 	<VALUE name="hye" val="hh y eh"/>
 	<VALUE name="hwa" val="hh w ae"/>
 	<VALUE name="hwae" val="hh w eh"/>
-	<VALUE name="hoe" val="hh w eh"/>
+	<VALUE name="hoe" val="hh eh"/>
 	<VALUE name="hwo" val="hh w ah"/>
 	<VALUE name="hwe" val="hh w eh"/>
 	<VALUE name="hwi" val="hh w iy"/>
@@ -311,7 +311,7 @@
 	<VALUE name="kkye" val="g y eh"/>
 	<VALUE name="kkwa" val="g w ae"/>
 	<VALUE name="kkwae" val="g w eh"/>
-	<VALUE name="kkoe" val="g w eh"/>
+	<VALUE name="kkoe" val="g eh"/>
 	<VALUE name="kkwo" val="g w ah"/>
 	<VALUE name="kkwe" val="g w eh"/>
 	<VALUE name="kkwi" val="g w iy"/>
@@ -332,7 +332,7 @@
 	<VALUE name="ttye" val="d y eh"/>
 	<VALUE name="ttwa" val="d w ae"/>
 	<VALUE name="ttwae" val="d w eh"/>
-	<VALUE name="ttoe" val="d w eh"/>
+	<VALUE name="ttoe" val="d eh"/>
 	<VALUE name="ttwo" val="d w ah"/>
 	<VALUE name="ttwe" val="d w eh"/>
 	<VALUE name="ttwi" val="d w iy"/>
@@ -353,7 +353,7 @@
 	<VALUE name="ppye" val="b y eh"/>
 	<VALUE name="ppwa" val="b w ae"/>
 	<VALUE name="ppwae" val="b w eh"/>
-	<VALUE name="ppoe" val="b w eh"/>
+	<VALUE name="ppoe" val="b eh"/>
 	<VALUE name="ppwo" val="b w ah"/>
 	<VALUE name="ppwe" val="b w eh"/>
 	<VALUE name="ppwi" val="b w iy"/>
@@ -374,7 +374,7 @@
 	<VALUE name="ssye" val="s y eh"/>
 	<VALUE name="sswa" val="s w ae"/>
 	<VALUE name="sswae" val="s w eh"/>
-	<VALUE name="ssoe" val="s w eh"/>
+	<VALUE name="ssoe" val="s eh"/>
 	<VALUE name="sswo" val="s w ah"/>
 	<VALUE name="sswe" val="s w eh"/>
 	<VALUE name="sswi" val="s w iy"/>
@@ -395,7 +395,7 @@
 	<VALUE name="jjye" val="jh y eh"/>
 	<VALUE name="jjwa" val="jh w ae"/>
 	<VALUE name="jjwae" val="jh w eh"/>
-	<VALUE name="jjoe" val="jh w eh"/>
+	<VALUE name="jjoe" val="jh eh"/>
 	<VALUE name="jjwo" val="jh w ah"/>
 	<VALUE name="jjwe" val="jh w eh"/>
 	<VALUE name="jjwi" val="jh w iy"/>
@@ -416,7 +416,7 @@
 	<VALUE name="gyek" val="g y eh k"/>
 	<VALUE name="gwak" val="g w ae k"/>
 	<VALUE name="gwaek" val="g w eh k"/>
-	<VALUE name="goek" val="g w eh k"/>
+	<VALUE name="goek" val="g eh k"/>
 	<VALUE name="gwok" val="g w ah k"/>
 	<VALUE name="gwek" val="g w eh k"/>
 	<VALUE name="gwik" val="g w iy k"/>
@@ -437,7 +437,7 @@
 	<VALUE name="nyek" val="n y eh k"/>
 	<VALUE name="nwak" val="n w ae k"/>
 	<VALUE name="nwaek" val="n w eh k"/>
-	<VALUE name="noek" val="n w eh k"/>
+	<VALUE name="noek" val="n eh k"/>
 	<VALUE name="nwok" val="n w ah k"/>
 	<VALUE name="nwek" val="n w eh k"/>
 	<VALUE name="nwik" val="n w iy k"/>
@@ -458,7 +458,7 @@
 	<VALUE name="dyek" val="d y eh k"/>
 	<VALUE name="dwak" val="d w ae k"/>
 	<VALUE name="dwaek" val="d w eh k"/>
-	<VALUE name="doek" val="d w eh k"/>
+	<VALUE name="doek" val="d eh k"/>
 	<VALUE name="dwok" val="d w ah k"/>
 	<VALUE name="dwek" val="d w eh k"/>
 	<VALUE name="dwik" val="d w iy k"/>
@@ -479,7 +479,7 @@
 	<VALUE name="ryek" val="dx y eh k"/>
 	<VALUE name="rwak" val="dx w ae k"/>
 	<VALUE name="rwaek" val="dx w eh k"/>
-	<VALUE name="roek" val="dx w eh k"/>
+	<VALUE name="roek" val="dx eh k"/>
 	<VALUE name="rwok" val="dx w ah k"/>
 	<VALUE name="rwek" val="dx w eh k"/>
 	<VALUE name="rwik" val="dx w iy k"/>
@@ -500,7 +500,7 @@
 	<VALUE name="myek" val="m y eh k"/>
 	<VALUE name="mwak" val="m w ae k"/>
 	<VALUE name="mwaek" val="m w eh k"/>
-	<VALUE name="moek" val="m w eh k"/>
+	<VALUE name="moek" val="m eh k"/>
 	<VALUE name="mwok" val="m w ah k"/>
 	<VALUE name="mwek" val="m w eh k"/>
 	<VALUE name="mwik" val="m w iy k"/>
@@ -521,7 +521,7 @@
 	<VALUE name="byek" val="b y eh k"/>
 	<VALUE name="bwak" val="b w ae k"/>
 	<VALUE name="bwaek" val="b w eh k"/>
-	<VALUE name="boek" val="b w eh k"/>
+	<VALUE name="boek" val="b eh k"/>
 	<VALUE name="bwok" val="b w ah k"/>
 	<VALUE name="bwek" val="b w eh k"/>
 	<VALUE name="bwik" val="b w iy k"/>
@@ -542,7 +542,7 @@
 	<VALUE name="syek" val="s y eh k"/>
 	<VALUE name="swak" val="s w ae k"/>
 	<VALUE name="swaek" val="s w eh k"/>
-	<VALUE name="soek" val="s w eh k"/>
+	<VALUE name="soek" val="s eh k"/>
 	<VALUE name="swok" val="s w ah k"/>
 	<VALUE name="swek" val="s w eh k"/>
 	<VALUE name="swik" val="s w iy k"/>
@@ -563,7 +563,7 @@
 	<VALUE name="yek" val="y eh k"/>
 	<VALUE name="wak" val="w ae k"/>
 	<VALUE name="waek" val="w eh k"/>
-	<VALUE name="oek" val="w eh k"/>
+	<VALUE name="oek" val="eh k"/>
 	<VALUE name="wok" val="w ah k"/>
 	<VALUE name="wek" val="w eh k"/>
 	<VALUE name="wik" val="w iy k"/>
@@ -584,7 +584,7 @@
 	<VALUE name="jyek" val="ch y eh k"/>
 	<VALUE name="jwak" val="ch w ae k"/>
 	<VALUE name="jwaek" val="ch w eh k"/>
-	<VALUE name="joek" val="ch w eh k"/>
+	<VALUE name="joek" val="ch eh k"/>
 	<VALUE name="jwok" val="ch w ah k"/>
 	<VALUE name="jwek" val="ch w eh k"/>
 	<VALUE name="jwik" val="ch w iy k"/>
@@ -605,7 +605,7 @@
 	<VALUE name="chyek" val="ch y eh k"/>
 	<VALUE name="chwak" val="ch w ae k"/>
 	<VALUE name="chwaek" val="ch w eh k"/>
-	<VALUE name="choek" val="ch w eh k"/>
+	<VALUE name="choek" val="ch eh k"/>
 	<VALUE name="chwok" val="ch w ah k"/>
 	<VALUE name="chwek" val="ch w eh k"/>
 	<VALUE name="chwik" val="ch w iy k"/>
@@ -626,7 +626,7 @@
 	<VALUE name="kyek" val="k y eh k"/>
 	<VALUE name="kwak" val="k w ae k"/>
 	<VALUE name="kwaek" val="k w eh k"/>
-	<VALUE name="koek" val="k w eh k"/>
+	<VALUE name="koek" val="k eh k"/>
 	<VALUE name="kwok" val="k w ah k"/>
 	<VALUE name="kwek" val="k w eh k"/>
 	<VALUE name="kwik" val="k w iy k"/>
@@ -647,7 +647,7 @@
 	<VALUE name="tyek" val="t y eh k"/>
 	<VALUE name="twak" val="t w ae k"/>
 	<VALUE name="twaek" val="t w eh k"/>
-	<VALUE name="toek" val="t w eh k"/>
+	<VALUE name="toek" val="t eh k"/>
 	<VALUE name="twok" val="t w ah k"/>
 	<VALUE name="twek" val="t w eh k"/>
 	<VALUE name="twik" val="t w iy k"/>
@@ -668,7 +668,7 @@
 	<VALUE name="pyek" val="p y eh k"/>
 	<VALUE name="pwak" val="p w ae k"/>
 	<VALUE name="pwaek" val="p w eh k"/>
-	<VALUE name="poek" val="p w eh k"/>
+	<VALUE name="poek" val="p eh k"/>
 	<VALUE name="pwok" val="p w ah k"/>
 	<VALUE name="pwek" val="p w eh k"/>
 	<VALUE name="pwik" val="p w iy k"/>
@@ -689,7 +689,7 @@
 	<VALUE name="hyek" val="hh y eh k"/>
 	<VALUE name="hwak" val="hh w ae k"/>
 	<VALUE name="hwaek" val="hh w eh k"/>
-	<VALUE name="hoek" val="hh w eh k"/>
+	<VALUE name="hoek" val="hh eh k"/>
 	<VALUE name="hwok" val="hh w ah k"/>
 	<VALUE name="hwek" val="hh w eh k"/>
 	<VALUE name="hwik" val="hh w iy k"/>
@@ -710,7 +710,7 @@
 	<VALUE name="kkyek" val="g y eh k"/>
 	<VALUE name="kkwak" val="g w ae k"/>
 	<VALUE name="kkwaek" val="g w eh k"/>
-	<VALUE name="kkoek" val="g w eh k"/>
+	<VALUE name="kkoek" val="g eh k"/>
 	<VALUE name="kkwok" val="g w ah k"/>
 	<VALUE name="kkwek" val="g w eh k"/>
 	<VALUE name="kkwik" val="g w iy k"/>
@@ -731,7 +731,7 @@
 	<VALUE name="ttyek" val="d y eh k"/>
 	<VALUE name="ttwak" val="d w ae k"/>
 	<VALUE name="ttwaek" val="d w eh k"/>
-	<VALUE name="ttoek" val="d w eh k"/>
+	<VALUE name="ttoek" val="d eh k"/>
 	<VALUE name="ttwok" val="d w ah k"/>
 	<VALUE name="ttwek" val="d w eh k"/>
 	<VALUE name="ttwik" val="d w iy k"/>
@@ -752,7 +752,7 @@
 	<VALUE name="ppyek" val="b y eh k"/>
 	<VALUE name="ppwak" val="b w ae k"/>
 	<VALUE name="ppwaek" val="b w eh k"/>
-	<VALUE name="ppoek" val="b w eh k"/>
+	<VALUE name="ppoek" val="b eh k"/>
 	<VALUE name="ppwok" val="b w ah k"/>
 	<VALUE name="ppwek" val="b w eh k"/>
 	<VALUE name="ppwik" val="b w iy k"/>
@@ -773,7 +773,7 @@
 	<VALUE name="ssyek" val="s y eh k"/>
 	<VALUE name="sswak" val="s w ae k"/>
 	<VALUE name="sswaek" val="s w eh k"/>
-	<VALUE name="ssoek" val="s w eh k"/>
+	<VALUE name="ssoek" val="s eh k"/>
 	<VALUE name="sswok" val="s w ah k"/>
 	<VALUE name="sswek" val="s w eh k"/>
 	<VALUE name="sswik" val="s w iy k"/>
@@ -794,7 +794,7 @@
 	<VALUE name="jjyek" val="jh y eh k"/>
 	<VALUE name="jjwak" val="jh w ae k"/>
 	<VALUE name="jjwaek" val="jh w eh k"/>
-	<VALUE name="jjoek" val="jh w eh k"/>
+	<VALUE name="jjoek" val="jh eh k"/>
 	<VALUE name="jjwok" val="jh w ah k"/>
 	<VALUE name="jjwek" val="jh w eh k"/>
 	<VALUE name="jjwik" val="jh w iy k"/>
@@ -815,7 +815,7 @@
 	<VALUE name="gyet" val="g y eh t"/>
 	<VALUE name="gwat" val="g w ae t"/>
 	<VALUE name="gwaet" val="g w eh t"/>
-	<VALUE name="goet" val="g w eh t"/>
+	<VALUE name="goet" val="g eh t"/>
 	<VALUE name="gwot" val="g w ah t"/>
 	<VALUE name="gwet" val="g w eh t"/>
 	<VALUE name="gwit" val="g w iy t"/>
@@ -836,7 +836,7 @@
 	<VALUE name="nyet" val="n y eh t"/>
 	<VALUE name="nwat" val="n w ae t"/>
 	<VALUE name="nwaet" val="n w eh t"/>
-	<VALUE name="noet" val="n w eh t"/>
+	<VALUE name="noet" val="n eh t"/>
 	<VALUE name="nwot" val="n w ah t"/>
 	<VALUE name="nwet" val="n w eh t"/>
 	<VALUE name="nwit" val="n w iy t"/>
@@ -857,7 +857,7 @@
 	<VALUE name="dyet" val="d y eh t"/>
 	<VALUE name="dwat" val="d w ae t"/>
 	<VALUE name="dwaet" val="d w eh t"/>
-	<VALUE name="doet" val="d w eh t"/>
+	<VALUE name="doet" val="d eh t"/>
 	<VALUE name="dwot" val="d w ah t"/>
 	<VALUE name="dwet" val="d w eh t"/>
 	<VALUE name="dwit" val="d w iy t"/>
@@ -878,7 +878,7 @@
 	<VALUE name="ryet" val="dx y eh t"/>
 	<VALUE name="rwat" val="dx w ae t"/>
 	<VALUE name="rwaet" val="dx w eh t"/>
-	<VALUE name="roet" val="dx w eh t"/>
+	<VALUE name="roet" val="dx eh t"/>
 	<VALUE name="rwot" val="dx w ah t"/>
 	<VALUE name="rwet" val="dx w eh t"/>
 	<VALUE name="rwit" val="dx w iy t"/>
@@ -899,7 +899,7 @@
 	<VALUE name="myet" val="m y eh t"/>
 	<VALUE name="mwat" val="m w ae t"/>
 	<VALUE name="mwaet" val="m w eh t"/>
-	<VALUE name="moet" val="m w eh t"/>
+	<VALUE name="moet" val="m eh t"/>
 	<VALUE name="mwot" val="m w ah t"/>
 	<VALUE name="mwet" val="m w eh t"/>
 	<VALUE name="mwit" val="m w iy t"/>
@@ -920,7 +920,7 @@
 	<VALUE name="byet" val="b y eh t"/>
 	<VALUE name="bwat" val="b w ae t"/>
 	<VALUE name="bwaet" val="b w eh t"/>
-	<VALUE name="boet" val="b w eh t"/>
+	<VALUE name="boet" val="b eh t"/>
 	<VALUE name="bwot" val="b w ah t"/>
 	<VALUE name="bwet" val="b w eh t"/>
 	<VALUE name="bwit" val="b w iy t"/>
@@ -941,7 +941,7 @@
 	<VALUE name="syet" val="s y eh t"/>
 	<VALUE name="swat" val="s w ae t"/>
 	<VALUE name="swaet" val="s w eh t"/>
-	<VALUE name="soet" val="s w eh t"/>
+	<VALUE name="soet" val="s eh t"/>
 	<VALUE name="swot" val="s w ah t"/>
 	<VALUE name="swet" val="s w eh t"/>
 	<VALUE name="swit" val="s w iy t"/>
@@ -962,7 +962,7 @@
 	<VALUE name="yet" val="y eh t"/>
 	<VALUE name="wat" val="w ae t"/>
 	<VALUE name="waet" val="w eh t"/>
-	<VALUE name="oet" val="w eh t"/>
+	<VALUE name="oet" val="eh t"/>
 	<VALUE name="wot" val="w ah t"/>
 	<VALUE name="wet" val="w eh t"/>
 	<VALUE name="wit" val="w iy t"/>
@@ -983,7 +983,7 @@
 	<VALUE name="jyet" val="ch y eh t"/>
 	<VALUE name="jwat" val="ch w ae t"/>
 	<VALUE name="jwaet" val="ch w eh t"/>
-	<VALUE name="joet" val="ch w eh t"/>
+	<VALUE name="joet" val="ch eh t"/>
 	<VALUE name="jwot" val="ch w ah t"/>
 	<VALUE name="jwet" val="ch w eh t"/>
 	<VALUE name="jwit" val="ch w iy t"/>
@@ -1004,7 +1004,7 @@
 	<VALUE name="chyet" val="ch y eh t"/>
 	<VALUE name="chwat" val="ch w ae t"/>
 	<VALUE name="chwaet" val="ch w eh t"/>
-	<VALUE name="choet" val="ch w eh t"/>
+	<VALUE name="choet" val="ch eh t"/>
 	<VALUE name="chwot" val="ch w ah t"/>
 	<VALUE name="chwet" val="ch w eh t"/>
 	<VALUE name="chwit" val="ch w iy t"/>
@@ -1025,7 +1025,7 @@
 	<VALUE name="kyet" val="k y eh t"/>
 	<VALUE name="kwat" val="k w ae t"/>
 	<VALUE name="kwaet" val="k w eh t"/>
-	<VALUE name="koet" val="k w eh t"/>
+	<VALUE name="koet" val="k eh t"/>
 	<VALUE name="kwot" val="k w ah t"/>
 	<VALUE name="kwet" val="k w eh t"/>
 	<VALUE name="kwit" val="k w iy t"/>
@@ -1046,7 +1046,7 @@
 	<VALUE name="tyet" val="t y eh t"/>
 	<VALUE name="twat" val="t w ae t"/>
 	<VALUE name="twaet" val="t w eh t"/>
-	<VALUE name="toet" val="t w eh t"/>
+	<VALUE name="toet" val="t eh t"/>
 	<VALUE name="twot" val="t w ah t"/>
 	<VALUE name="twet" val="t w eh t"/>
 	<VALUE name="twit" val="t w iy t"/>
@@ -1067,7 +1067,7 @@
 	<VALUE name="pyet" val="p y eh t"/>
 	<VALUE name="pwat" val="p w ae t"/>
 	<VALUE name="pwaet" val="p w eh t"/>
-	<VALUE name="poet" val="p w eh t"/>
+	<VALUE name="poet" val="p eh t"/>
 	<VALUE name="pwot" val="p w ah t"/>
 	<VALUE name="pwet" val="p w eh t"/>
 	<VALUE name="pwit" val="p w iy t"/>
@@ -1088,7 +1088,7 @@
 	<VALUE name="hyet" val="hh y eh t"/>
 	<VALUE name="hwat" val="hh w ae t"/>
 	<VALUE name="hwaet" val="hh w eh t"/>
-	<VALUE name="hoet" val="hh w eh t"/>
+	<VALUE name="hoet" val="hh eh t"/>
 	<VALUE name="hwot" val="hh w ah t"/>
 	<VALUE name="hwet" val="hh w eh t"/>
 	<VALUE name="hwit" val="hh w iy t"/>
@@ -1109,7 +1109,7 @@
 	<VALUE name="kkyet" val="g y eh t"/>
 	<VALUE name="kkwat" val="g w ae t"/>
 	<VALUE name="kkwaet" val="g w eh t"/>
-	<VALUE name="kkoet" val="g w eh t"/>
+	<VALUE name="kkoet" val="g eh t"/>
 	<VALUE name="kkwot" val="g w ah t"/>
 	<VALUE name="kkwet" val="g w eh t"/>
 	<VALUE name="kkwit" val="g w iy t"/>
@@ -1130,7 +1130,7 @@
 	<VALUE name="ttyet" val="d y eh t"/>
 	<VALUE name="ttwat" val="d w ae t"/>
 	<VALUE name="ttwaet" val="d w eh t"/>
-	<VALUE name="ttoet" val="d w eh t"/>
+	<VALUE name="ttoet" val="d eh t"/>
 	<VALUE name="ttwot" val="d w ah t"/>
 	<VALUE name="ttwet" val="d w eh t"/>
 	<VALUE name="ttwit" val="d w iy t"/>
@@ -1151,7 +1151,7 @@
 	<VALUE name="ppyet" val="b y eh t"/>
 	<VALUE name="ppwat" val="b w ae t"/>
 	<VALUE name="ppwaet" val="b w eh t"/>
-	<VALUE name="ppoet" val="b w eh t"/>
+	<VALUE name="ppoet" val="b eh t"/>
 	<VALUE name="ppwot" val="b w ah t"/>
 	<VALUE name="ppwet" val="b w eh t"/>
 	<VALUE name="ppwit" val="b w iy t"/>
@@ -1172,7 +1172,7 @@
 	<VALUE name="ssyet" val="s y eh t"/>
 	<VALUE name="sswat" val="s w ae t"/>
 	<VALUE name="sswaet" val="s w eh t"/>
-	<VALUE name="ssoet" val="s w eh t"/>
+	<VALUE name="ssoet" val="s eh t"/>
 	<VALUE name="sswot" val="s w ah t"/>
 	<VALUE name="sswet" val="s w eh t"/>
 	<VALUE name="sswit" val="s w iy t"/>
@@ -1193,7 +1193,7 @@
 	<VALUE name="jjyet" val="jh y eh t"/>
 	<VALUE name="jjwat" val="jh w ae t"/>
 	<VALUE name="jjwaet" val="jh w eh t"/>
-	<VALUE name="jjoet" val="jh w eh t"/>
+	<VALUE name="jjoet" val="jh eh t"/>
 	<VALUE name="jjwot" val="jh w ah t"/>
 	<VALUE name="jjwet" val="jh w eh t"/>
 	<VALUE name="jjwit" val="jh w iy t"/>
@@ -1214,7 +1214,7 @@
 	<VALUE name="gyep" val="g y eh p"/>
 	<VALUE name="gwap" val="g w ae p"/>
 	<VALUE name="gwaep" val="g w eh p"/>
-	<VALUE name="goep" val="g w eh p"/>
+	<VALUE name="goep" val="g eh p"/>
 	<VALUE name="gwop" val="g w ah p"/>
 	<VALUE name="gwep" val="g w eh p"/>
 	<VALUE name="gwip" val="g w iy p"/>
@@ -1235,7 +1235,7 @@
 	<VALUE name="nyep" val="n y eh p"/>
 	<VALUE name="nwap" val="n w ae p"/>
 	<VALUE name="nwaep" val="n w eh p"/>
-	<VALUE name="noep" val="n w eh p"/>
+	<VALUE name="noep" val="n eh p"/>
 	<VALUE name="nwop" val="n w ah p"/>
 	<VALUE name="nwep" val="n w eh p"/>
 	<VALUE name="nwip" val="n w iy p"/>
@@ -1256,7 +1256,7 @@
 	<VALUE name="dyep" val="d y eh p"/>
 	<VALUE name="dwap" val="d w ae p"/>
 	<VALUE name="dwaep" val="d w eh p"/>
-	<VALUE name="doep" val="d w eh p"/>
+	<VALUE name="doep" val="d eh p"/>
 	<VALUE name="dwop" val="d w ah p"/>
 	<VALUE name="dwep" val="d w eh p"/>
 	<VALUE name="dwip" val="d w iy p"/>
@@ -1277,7 +1277,7 @@
 	<VALUE name="ryep" val="dx y eh p"/>
 	<VALUE name="rwap" val="dx w ae p"/>
 	<VALUE name="rwaep" val="dx w eh p"/>
-	<VALUE name="roep" val="dx w eh p"/>
+	<VALUE name="roep" val="dx eh p"/>
 	<VALUE name="rwop" val="dx w ah p"/>
 	<VALUE name="rwep" val="dx w eh p"/>
 	<VALUE name="rwip" val="dx w iy p"/>
@@ -1298,7 +1298,7 @@
 	<VALUE name="myep" val="m y eh p"/>
 	<VALUE name="mwap" val="m w ae p"/>
 	<VALUE name="mwaep" val="m w eh p"/>
-	<VALUE name="moep" val="m w eh p"/>
+	<VALUE name="moep" val="m eh p"/>
 	<VALUE name="mwop" val="m w ah p"/>
 	<VALUE name="mwep" val="m w eh p"/>
 	<VALUE name="mwip" val="m w iy p"/>
@@ -1319,7 +1319,7 @@
 	<VALUE name="byep" val="b y eh p"/>
 	<VALUE name="bwap" val="b w ae p"/>
 	<VALUE name="bwaep" val="b w eh p"/>
-	<VALUE name="boep" val="b w eh p"/>
+	<VALUE name="boep" val="b eh p"/>
 	<VALUE name="bwop" val="b w ah p"/>
 	<VALUE name="bwep" val="b w eh p"/>
 	<VALUE name="bwip" val="b w iy p"/>
@@ -1340,7 +1340,7 @@
 	<VALUE name="syep" val="s y eh p"/>
 	<VALUE name="swap" val="s w ae p"/>
 	<VALUE name="swaep" val="s w eh p"/>
-	<VALUE name="soep" val="s w eh p"/>
+	<VALUE name="soep" val="s eh p"/>
 	<VALUE name="swop" val="s w ah p"/>
 	<VALUE name="swep" val="s w eh p"/>
 	<VALUE name="swip" val="s w iy p"/>
@@ -1361,7 +1361,7 @@
 	<VALUE name="yep" val="y eh p"/>
 	<VALUE name="wap" val="w ae p"/>
 	<VALUE name="waep" val="w eh p"/>
-	<VALUE name="oep" val="w eh p"/>
+	<VALUE name="oep" val="eh p"/>
 	<VALUE name="wop" val="w ah p"/>
 	<VALUE name="wep" val="w eh p"/>
 	<VALUE name="wip" val="w iy p"/>
@@ -1382,7 +1382,7 @@
 	<VALUE name="jyep" val="ch y eh p"/>
 	<VALUE name="jwap" val="ch w ae p"/>
 	<VALUE name="jwaep" val="ch w eh p"/>
-	<VALUE name="joep" val="ch w eh p"/>
+	<VALUE name="joep" val="ch eh p"/>
 	<VALUE name="jwop" val="ch w ah p"/>
 	<VALUE name="jwep" val="ch w eh p"/>
 	<VALUE name="jwip" val="ch w iy p"/>
@@ -1403,7 +1403,7 @@
 	<VALUE name="chyep" val="ch y eh p"/>
 	<VALUE name="chwap" val="ch w ae p"/>
 	<VALUE name="chwaep" val="ch w eh p"/>
-	<VALUE name="choep" val="ch w eh p"/>
+	<VALUE name="choep" val="ch eh p"/>
 	<VALUE name="chwop" val="ch w ah p"/>
 	<VALUE name="chwep" val="ch w eh p"/>
 	<VALUE name="chwip" val="ch w iy p"/>
@@ -1424,7 +1424,7 @@
 	<VALUE name="kyep" val="k y eh p"/>
 	<VALUE name="kwap" val="k w ae p"/>
 	<VALUE name="kwaep" val="k w eh p"/>
-	<VALUE name="koep" val="k w eh p"/>
+	<VALUE name="koep" val="k eh p"/>
 	<VALUE name="kwop" val="k w ah p"/>
 	<VALUE name="kwep" val="k w eh p"/>
 	<VALUE name="kwip" val="k w iy p"/>
@@ -1445,7 +1445,7 @@
 	<VALUE name="tyep" val="t y eh p"/>
 	<VALUE name="twap" val="t w ae p"/>
 	<VALUE name="twaep" val="t w eh p"/>
-	<VALUE name="toep" val="t w eh p"/>
+	<VALUE name="toep" val="t eh p"/>
 	<VALUE name="twop" val="t w ah p"/>
 	<VALUE name="twep" val="t w eh p"/>
 	<VALUE name="twip" val="t w iy p"/>
@@ -1466,7 +1466,7 @@
 	<VALUE name="pyep" val="p y eh p"/>
 	<VALUE name="pwap" val="p w ae p"/>
 	<VALUE name="pwaep" val="p w eh p"/>
-	<VALUE name="poep" val="p w eh p"/>
+	<VALUE name="poep" val="p eh p"/>
 	<VALUE name="pwop" val="p w ah p"/>
 	<VALUE name="pwep" val="p w eh p"/>
 	<VALUE name="pwip" val="p w iy p"/>
@@ -1487,7 +1487,7 @@
 	<VALUE name="hyep" val="hh y eh p"/>
 	<VALUE name="hwap" val="hh w ae p"/>
 	<VALUE name="hwaep" val="hh w eh p"/>
-	<VALUE name="hoep" val="hh w eh p"/>
+	<VALUE name="hoep" val="hh eh p"/>
 	<VALUE name="hwop" val="hh w ah p"/>
 	<VALUE name="hwep" val="hh w eh p"/>
 	<VALUE name="hwip" val="hh w iy p"/>
@@ -1508,7 +1508,7 @@
 	<VALUE name="kkyep" val="g y eh p"/>
 	<VALUE name="kkwap" val="g w ae p"/>
 	<VALUE name="kkwaep" val="g w eh p"/>
-	<VALUE name="kkoep" val="g w eh p"/>
+	<VALUE name="kkoep" val="g eh p"/>
 	<VALUE name="kkwop" val="g w ah p"/>
 	<VALUE name="kkwep" val="g w eh p"/>
 	<VALUE name="kkwip" val="g w iy p"/>
@@ -1529,7 +1529,7 @@
 	<VALUE name="ttyep" val="d y eh p"/>
 	<VALUE name="ttwap" val="d w ae p"/>
 	<VALUE name="ttwaep" val="d w eh p"/>
-	<VALUE name="ttoep" val="d w eh p"/>
+	<VALUE name="ttoep" val="d eh p"/>
 	<VALUE name="ttwop" val="d w ah p"/>
 	<VALUE name="ttwep" val="d w eh p"/>
 	<VALUE name="ttwip" val="d w iy p"/>
@@ -1550,7 +1550,7 @@
 	<VALUE name="ppyep" val="b y eh p"/>
 	<VALUE name="ppwap" val="b w ae p"/>
 	<VALUE name="ppwaep" val="b w eh p"/>
-	<VALUE name="ppoep" val="b w eh p"/>
+	<VALUE name="ppoep" val="b eh p"/>
 	<VALUE name="ppwop" val="b w ah p"/>
 	<VALUE name="ppwep" val="b w eh p"/>
 	<VALUE name="ppwip" val="b w iy p"/>
@@ -1571,7 +1571,7 @@
 	<VALUE name="ssyep" val="s y eh p"/>
 	<VALUE name="sswap" val="s w ae p"/>
 	<VALUE name="sswaep" val="s w eh p"/>
-	<VALUE name="ssoep" val="s w eh p"/>
+	<VALUE name="ssoep" val="s eh p"/>
 	<VALUE name="sswop" val="s w ah p"/>
 	<VALUE name="sswep" val="s w eh p"/>
 	<VALUE name="sswip" val="s w iy p"/>
@@ -1592,7 +1592,7 @@
 	<VALUE name="jjyep" val="jh y eh p"/>
 	<VALUE name="jjwap" val="jh w ae p"/>
 	<VALUE name="jjwaep" val="jh w eh p"/>
-	<VALUE name="jjoep" val="jh w eh p"/>
+	<VALUE name="jjoep" val="jh eh p"/>
 	<VALUE name="jjwop" val="jh w ah p"/>
 	<VALUE name="jjwep" val="jh w eh p"/>
 	<VALUE name="jjwip" val="jh w iy p"/>
@@ -1613,7 +1613,7 @@
 	<VALUE name="gyel" val="g y eh l"/>
 	<VALUE name="gwal" val="g w ae l"/>
 	<VALUE name="gwael" val="g w eh l"/>
-	<VALUE name="goel" val="g w eh l"/>
+	<VALUE name="goel" val="g eh l"/>
 	<VALUE name="gwol" val="g w ah l"/>
 	<VALUE name="gwel" val="g w eh l"/>
 	<VALUE name="gwil" val="g w iy l"/>
@@ -1634,7 +1634,7 @@
 	<VALUE name="nyel" val="n y eh l"/>
 	<VALUE name="nwal" val="n w ae l"/>
 	<VALUE name="nwael" val="n w eh l"/>
-	<VALUE name="noel" val="n w eh l"/>
+	<VALUE name="noel" val="n eh l"/>
 	<VALUE name="nwol" val="n w ah l"/>
 	<VALUE name="nwel" val="n w eh l"/>
 	<VALUE name="nwil" val="n w iy l"/>
@@ -1655,7 +1655,7 @@
 	<VALUE name="dyel" val="d y eh l"/>
 	<VALUE name="dwal" val="d w ae l"/>
 	<VALUE name="dwael" val="d w eh l"/>
-	<VALUE name="doel" val="d w eh l"/>
+	<VALUE name="doel" val="d eh l"/>
 	<VALUE name="dwol" val="d w ah l"/>
 	<VALUE name="dwel" val="d w eh l"/>
 	<VALUE name="dwil" val="d w iy l"/>
@@ -1676,7 +1676,7 @@
 	<VALUE name="ryel" val="dx y eh l"/>
 	<VALUE name="rwal" val="dx w ae l"/>
 	<VALUE name="rwael" val="dx w eh l"/>
-	<VALUE name="roel" val="dx w eh l"/>
+	<VALUE name="roel" val="dx eh l"/>
 	<VALUE name="rwol" val="dx w ah l"/>
 	<VALUE name="rwel" val="dx w eh l"/>
 	<VALUE name="rwil" val="dx w iy l"/>
@@ -1697,7 +1697,7 @@
 	<VALUE name="myel" val="m y eh l"/>
 	<VALUE name="mwal" val="m w ae l"/>
 	<VALUE name="mwael" val="m w eh l"/>
-	<VALUE name="moel" val="m w eh l"/>
+	<VALUE name="moel" val="m eh l"/>
 	<VALUE name="mwol" val="m w ah l"/>
 	<VALUE name="mwel" val="m w eh l"/>
 	<VALUE name="mwil" val="m w iy l"/>
@@ -1718,7 +1718,7 @@
 	<VALUE name="byel" val="b y eh l"/>
 	<VALUE name="bwal" val="b w ae l"/>
 	<VALUE name="bwael" val="b w eh l"/>
-	<VALUE name="boel" val="b w eh l"/>
+	<VALUE name="boel" val="b eh l"/>
 	<VALUE name="bwol" val="b w ah l"/>
 	<VALUE name="bwel" val="b w eh l"/>
 	<VALUE name="bwil" val="b w iy l"/>
@@ -1739,7 +1739,7 @@
 	<VALUE name="syel" val="s y eh l"/>
 	<VALUE name="swal" val="s w ae l"/>
 	<VALUE name="swael" val="s w eh l"/>
-	<VALUE name="soel" val="s w eh l"/>
+	<VALUE name="soel" val="s eh l"/>
 	<VALUE name="swol" val="s w ah l"/>
 	<VALUE name="swel" val="s w eh l"/>
 	<VALUE name="swil" val="s w iy l"/>
@@ -1760,7 +1760,7 @@
 	<VALUE name="yel" val="y eh l"/>
 	<VALUE name="wal" val="w ae l"/>
 	<VALUE name="wael" val="w eh l"/>
-	<VALUE name="oel" val="w eh l"/>
+	<VALUE name="oel" val="eh l"/>
 	<VALUE name="wol" val="w ah l"/>
 	<VALUE name="wel" val="w eh l"/>
 	<VALUE name="wil" val="w iy l"/>
@@ -1781,7 +1781,7 @@
 	<VALUE name="jyel" val="ch y eh l"/>
 	<VALUE name="jwal" val="ch w ae l"/>
 	<VALUE name="jwael" val="ch w eh l"/>
-	<VALUE name="joel" val="ch w eh l"/>
+	<VALUE name="joel" val="ch eh l"/>
 	<VALUE name="jwol" val="ch w ah l"/>
 	<VALUE name="jwel" val="ch w eh l"/>
 	<VALUE name="jwil" val="ch w iy l"/>
@@ -1802,7 +1802,7 @@
 	<VALUE name="chyel" val="ch y eh l"/>
 	<VALUE name="chwal" val="ch w ae l"/>
 	<VALUE name="chwael" val="ch w eh l"/>
-	<VALUE name="choel" val="ch w eh l"/>
+	<VALUE name="choel" val="ch eh l"/>
 	<VALUE name="chwol" val="ch w ah l"/>
 	<VALUE name="chwel" val="ch w eh l"/>
 	<VALUE name="chwil" val="ch w iy l"/>
@@ -1823,7 +1823,7 @@
 	<VALUE name="kyel" val="k y eh l"/>
 	<VALUE name="kwal" val="k w ae l"/>
 	<VALUE name="kwael" val="k w eh l"/>
-	<VALUE name="koel" val="k w eh l"/>
+	<VALUE name="koel" val="k eh l"/>
 	<VALUE name="kwol" val="k w ah l"/>
 	<VALUE name="kwel" val="k w eh l"/>
 	<VALUE name="kwil" val="k w iy l"/>
@@ -1844,7 +1844,7 @@
 	<VALUE name="tyel" val="t y eh l"/>
 	<VALUE name="twal" val="t w ae l"/>
 	<VALUE name="twael" val="t w eh l"/>
-	<VALUE name="toel" val="t w eh l"/>
+	<VALUE name="toel" val="t eh l"/>
 	<VALUE name="twol" val="t w ah l"/>
 	<VALUE name="twel" val="t w eh l"/>
 	<VALUE name="twil" val="t w iy l"/>
@@ -1865,7 +1865,7 @@
 	<VALUE name="pyel" val="p y eh l"/>
 	<VALUE name="pwal" val="p w ae l"/>
 	<VALUE name="pwael" val="p w eh l"/>
-	<VALUE name="poel" val="p w eh l"/>
+	<VALUE name="poel" val="p eh l"/>
 	<VALUE name="pwol" val="p w ah l"/>
 	<VALUE name="pwel" val="p w eh l"/>
 	<VALUE name="pwil" val="p w iy l"/>
@@ -1886,7 +1886,7 @@
 	<VALUE name="hyel" val="hh y eh l"/>
 	<VALUE name="hwal" val="hh w ae l"/>
 	<VALUE name="hwael" val="hh w eh l"/>
-	<VALUE name="hoel" val="hh w eh l"/>
+	<VALUE name="hoel" val="hh eh l"/>
 	<VALUE name="hwol" val="hh w ah l"/>
 	<VALUE name="hwel" val="hh w eh l"/>
 	<VALUE name="hwil" val="hh w iy l"/>
@@ -1907,7 +1907,7 @@
 	<VALUE name="kkyel" val="g y eh l"/>
 	<VALUE name="kkwal" val="g w ae l"/>
 	<VALUE name="kkwael" val="g w eh l"/>
-	<VALUE name="kkoel" val="g w eh l"/>
+	<VALUE name="kkoel" val="g eh l"/>
 	<VALUE name="kkwol" val="g w ah l"/>
 	<VALUE name="kkwel" val="g w eh l"/>
 	<VALUE name="kkwil" val="g w iy l"/>
@@ -1928,7 +1928,7 @@
 	<VALUE name="ttyel" val="d y eh l"/>
 	<VALUE name="ttwal" val="d w ae l"/>
 	<VALUE name="ttwael" val="d w eh l"/>
-	<VALUE name="ttoel" val="d w eh l"/>
+	<VALUE name="ttoel" val="d eh l"/>
 	<VALUE name="ttwol" val="d w ah l"/>
 	<VALUE name="ttwel" val="d w eh l"/>
 	<VALUE name="ttwil" val="d w iy l"/>
@@ -1949,7 +1949,7 @@
 	<VALUE name="ppyel" val="b y eh l"/>
 	<VALUE name="ppwal" val="b w ae l"/>
 	<VALUE name="ppwael" val="b w eh l"/>
-	<VALUE name="ppoel" val="b w eh l"/>
+	<VALUE name="ppoel" val="b eh l"/>
 	<VALUE name="ppwol" val="b w ah l"/>
 	<VALUE name="ppwel" val="b w eh l"/>
 	<VALUE name="ppwil" val="b w iy l"/>
@@ -1970,7 +1970,7 @@
 	<VALUE name="ssyel" val="s y eh l"/>
 	<VALUE name="sswal" val="s w ae l"/>
 	<VALUE name="sswael" val="s w eh l"/>
-	<VALUE name="ssoel" val="s w eh l"/>
+	<VALUE name="ssoel" val="s eh l"/>
 	<VALUE name="sswol" val="s w ah l"/>
 	<VALUE name="sswel" val="s w eh l"/>
 	<VALUE name="sswil" val="s w iy l"/>
@@ -1991,7 +1991,7 @@
 	<VALUE name="jjyel" val="jh y eh l"/>
 	<VALUE name="jjwal" val="jh w ae l"/>
 	<VALUE name="jjwael" val="jh w eh l"/>
-	<VALUE name="jjoel" val="jh w eh l"/>
+	<VALUE name="jjoel" val="jh eh l"/>
 	<VALUE name="jjwol" val="jh w ah l"/>
 	<VALUE name="jjwel" val="jh w eh l"/>
 	<VALUE name="jjwil" val="jh w iy l"/>
@@ -2012,7 +2012,7 @@
 	<VALUE name="gyem" val="g y eh m"/>
 	<VALUE name="gwam" val="g w ae m"/>
 	<VALUE name="gwaem" val="g w eh m"/>
-	<VALUE name="goem" val="g w eh m"/>
+	<VALUE name="goem" val="g eh m"/>
 	<VALUE name="gwom" val="g w ah m"/>
 	<VALUE name="gwem" val="g w eh m"/>
 	<VALUE name="gwim" val="g w iy m"/>
@@ -2033,7 +2033,7 @@
 	<VALUE name="nyem" val="n y eh m"/>
 	<VALUE name="nwam" val="n w ae m"/>
 	<VALUE name="nwaem" val="n w eh m"/>
-	<VALUE name="noem" val="n w eh m"/>
+	<VALUE name="noem" val="n eh m"/>
 	<VALUE name="nwom" val="n w ah m"/>
 	<VALUE name="nwem" val="n w eh m"/>
 	<VALUE name="nwim" val="n w iy m"/>
@@ -2054,7 +2054,7 @@
 	<VALUE name="dyem" val="d y eh m"/>
 	<VALUE name="dwam" val="d w ae m"/>
 	<VALUE name="dwaem" val="d w eh m"/>
-	<VALUE name="doem" val="d w eh m"/>
+	<VALUE name="doem" val="d eh m"/>
 	<VALUE name="dwom" val="d w ah m"/>
 	<VALUE name="dwem" val="d w eh m"/>
 	<VALUE name="dwim" val="d w iy m"/>
@@ -2075,7 +2075,7 @@
 	<VALUE name="ryem" val="dx y eh m"/>
 	<VALUE name="rwam" val="dx w ae m"/>
 	<VALUE name="rwaem" val="dx w eh m"/>
-	<VALUE name="roem" val="dx w eh m"/>
+	<VALUE name="roem" val="dx eh m"/>
 	<VALUE name="rwom" val="dx w ah m"/>
 	<VALUE name="rwem" val="dx w eh m"/>
 	<VALUE name="rwim" val="dx w iy m"/>
@@ -2096,7 +2096,7 @@
 	<VALUE name="myem" val="m y eh m"/>
 	<VALUE name="mwam" val="m w ae m"/>
 	<VALUE name="mwaem" val="m w eh m"/>
-	<VALUE name="moem" val="m w eh m"/>
+	<VALUE name="moem" val="m eh m"/>
 	<VALUE name="mwom" val="m w ah m"/>
 	<VALUE name="mwem" val="m w eh m"/>
 	<VALUE name="mwim" val="m w iy m"/>
@@ -2117,7 +2117,7 @@
 	<VALUE name="byem" val="b y eh m"/>
 	<VALUE name="bwam" val="b w ae m"/>
 	<VALUE name="bwaem" val="b w eh m"/>
-	<VALUE name="boem" val="b w eh m"/>
+	<VALUE name="boem" val="b eh m"/>
 	<VALUE name="bwom" val="b w ah m"/>
 	<VALUE name="bwem" val="b w eh m"/>
 	<VALUE name="bwim" val="b w iy m"/>
@@ -2138,7 +2138,7 @@
 	<VALUE name="syem" val="s y eh m"/>
 	<VALUE name="swam" val="s w ae m"/>
 	<VALUE name="swaem" val="s w eh m"/>
-	<VALUE name="soem" val="s w eh m"/>
+	<VALUE name="soem" val="s eh m"/>
 	<VALUE name="swom" val="s w ah m"/>
 	<VALUE name="swem" val="s w eh m"/>
 	<VALUE name="swim" val="s w iy m"/>
@@ -2159,7 +2159,7 @@
 	<VALUE name="yem" val="y eh m"/>
 	<VALUE name="wam" val="w ae m"/>
 	<VALUE name="waem" val="w eh m"/>
-	<VALUE name="oem" val="w eh m"/>
+	<VALUE name="oem" val="eh m"/>
 	<VALUE name="wom" val="w ah m"/>
 	<VALUE name="wem" val="w eh m"/>
 	<VALUE name="wim" val="w iy m"/>
@@ -2180,7 +2180,7 @@
 	<VALUE name="jyem" val="ch y eh m"/>
 	<VALUE name="jwam" val="ch w ae m"/>
 	<VALUE name="jwaem" val="ch w eh m"/>
-	<VALUE name="joem" val="ch w eh m"/>
+	<VALUE name="joem" val="ch eh m"/>
 	<VALUE name="jwom" val="ch w ah m"/>
 	<VALUE name="jwem" val="ch w eh m"/>
 	<VALUE name="jwim" val="ch w iy m"/>
@@ -2201,7 +2201,7 @@
 	<VALUE name="chyem" val="ch y eh m"/>
 	<VALUE name="chwam" val="ch w ae m"/>
 	<VALUE name="chwaem" val="ch w eh m"/>
-	<VALUE name="choem" val="ch w eh m"/>
+	<VALUE name="choem" val="ch eh m"/>
 	<VALUE name="chwom" val="ch w ah m"/>
 	<VALUE name="chwem" val="ch w eh m"/>
 	<VALUE name="chwim" val="ch w iy m"/>
@@ -2222,7 +2222,7 @@
 	<VALUE name="kyem" val="k y eh m"/>
 	<VALUE name="kwam" val="k w ae m"/>
 	<VALUE name="kwaem" val="k w eh m"/>
-	<VALUE name="koem" val="k w eh m"/>
+	<VALUE name="koem" val="k eh m"/>
 	<VALUE name="kwom" val="k w ah m"/>
 	<VALUE name="kwem" val="k w eh m"/>
 	<VALUE name="kwim" val="k w iy m"/>
@@ -2243,7 +2243,7 @@
 	<VALUE name="tyem" val="t y eh m"/>
 	<VALUE name="twam" val="t w ae m"/>
 	<VALUE name="twaem" val="t w eh m"/>
-	<VALUE name="toem" val="t w eh m"/>
+	<VALUE name="toem" val="t eh m"/>
 	<VALUE name="twom" val="t w ah m"/>
 	<VALUE name="twem" val="t w eh m"/>
 	<VALUE name="twim" val="t w iy m"/>
@@ -2264,7 +2264,7 @@
 	<VALUE name="pyem" val="p y eh m"/>
 	<VALUE name="pwam" val="p w ae m"/>
 	<VALUE name="pwaem" val="p w eh m"/>
-	<VALUE name="poem" val="p w eh m"/>
+	<VALUE name="poem" val="p eh m"/>
 	<VALUE name="pwom" val="p w ah m"/>
 	<VALUE name="pwem" val="p w eh m"/>
 	<VALUE name="pwim" val="p w iy m"/>
@@ -2285,7 +2285,7 @@
 	<VALUE name="hyem" val="hh y eh m"/>
 	<VALUE name="hwam" val="hh w ae m"/>
 	<VALUE name="hwaem" val="hh w eh m"/>
-	<VALUE name="hoem" val="hh w eh m"/>
+	<VALUE name="hoem" val="hh eh m"/>
 	<VALUE name="hwom" val="hh w ah m"/>
 	<VALUE name="hwem" val="hh w eh m"/>
 	<VALUE name="hwim" val="hh w iy m"/>
@@ -2306,7 +2306,7 @@
 	<VALUE name="kkyem" val="g y eh m"/>
 	<VALUE name="kkwam" val="g w ae m"/>
 	<VALUE name="kkwaem" val="g w eh m"/>
-	<VALUE name="kkoem" val="g w eh m"/>
+	<VALUE name="kkoem" val="g eh m"/>
 	<VALUE name="kkwom" val="g w ah m"/>
 	<VALUE name="kkwem" val="g w eh m"/>
 	<VALUE name="kkwim" val="g w iy m"/>
@@ -2327,7 +2327,7 @@
 	<VALUE name="ttyem" val="d y eh m"/>
 	<VALUE name="ttwam" val="d w ae m"/>
 	<VALUE name="ttwaem" val="d w eh m"/>
-	<VALUE name="ttoem" val="d w eh m"/>
+	<VALUE name="ttoem" val="d eh m"/>
 	<VALUE name="ttwom" val="d w ah m"/>
 	<VALUE name="ttwem" val="d w eh m"/>
 	<VALUE name="ttwim" val="d w iy m"/>
@@ -2348,7 +2348,7 @@
 	<VALUE name="ppyem" val="b y eh m"/>
 	<VALUE name="ppwam" val="b w ae m"/>
 	<VALUE name="ppwaem" val="b w eh m"/>
-	<VALUE name="ppoem" val="b w eh m"/>
+	<VALUE name="ppoem" val="b eh m"/>
 	<VALUE name="ppwom" val="b w ah m"/>
 	<VALUE name="ppwem" val="b w eh m"/>
 	<VALUE name="ppwim" val="b w iy m"/>
@@ -2369,7 +2369,7 @@
 	<VALUE name="ssyem" val="s y eh m"/>
 	<VALUE name="sswam" val="s w ae m"/>
 	<VALUE name="sswaem" val="s w eh m"/>
-	<VALUE name="ssoem" val="s w eh m"/>
+	<VALUE name="ssoem" val="s eh m"/>
 	<VALUE name="sswom" val="s w ah m"/>
 	<VALUE name="sswem" val="s w eh m"/>
 	<VALUE name="sswim" val="s w iy m"/>
@@ -2390,7 +2390,7 @@
 	<VALUE name="jjyem" val="jh y eh m"/>
 	<VALUE name="jjwam" val="jh w ae m"/>
 	<VALUE name="jjwaem" val="jh w eh m"/>
-	<VALUE name="jjoem" val="jh w eh m"/>
+	<VALUE name="jjoem" val="jh eh m"/>
 	<VALUE name="jjwom" val="jh w ah m"/>
 	<VALUE name="jjwem" val="jh w eh m"/>
 	<VALUE name="jjwim" val="jh w iy m"/>
@@ -2411,7 +2411,7 @@
 	<VALUE name="gyen" val="g y eh n"/>
 	<VALUE name="gwan" val="g w ae n"/>
 	<VALUE name="gwaen" val="g w eh n"/>
-	<VALUE name="goen" val="g w eh n"/>
+	<VALUE name="goen" val="g eh n"/>
 	<VALUE name="gwon" val="g w ah n"/>
 	<VALUE name="gwen" val="g w eh n"/>
 	<VALUE name="gwin" val="g w iy n"/>
@@ -2432,7 +2432,7 @@
 	<VALUE name="nyen" val="n y eh n"/>
 	<VALUE name="nwan" val="n w ae n"/>
 	<VALUE name="nwaen" val="n w eh n"/>
-	<VALUE name="noen" val="n w eh n"/>
+	<VALUE name="noen" val="n eh n"/>
 	<VALUE name="nwon" val="n w ah n"/>
 	<VALUE name="nwen" val="n w eh n"/>
 	<VALUE name="nwin" val="n w iy n"/>
@@ -2453,7 +2453,7 @@
 	<VALUE name="dyen" val="d y eh n"/>
 	<VALUE name="dwan" val="d w ae n"/>
 	<VALUE name="dwaen" val="d w eh n"/>
-	<VALUE name="doen" val="d w eh n"/>
+	<VALUE name="doen" val="d eh n"/>
 	<VALUE name="dwon" val="d w ah n"/>
 	<VALUE name="dwen" val="d w eh n"/>
 	<VALUE name="dwin" val="d w iy n"/>
@@ -2474,7 +2474,7 @@
 	<VALUE name="ryen" val="dx y eh n"/>
 	<VALUE name="rwan" val="dx w ae n"/>
 	<VALUE name="rwaen" val="dx w eh n"/>
-	<VALUE name="roen" val="dx w eh n"/>
+	<VALUE name="roen" val="dx eh n"/>
 	<VALUE name="rwon" val="dx w ah n"/>
 	<VALUE name="rwen" val="dx w eh n"/>
 	<VALUE name="rwin" val="dx w iy n"/>
@@ -2495,7 +2495,7 @@
 	<VALUE name="myen" val="m y eh n"/>
 	<VALUE name="mwan" val="m w ae n"/>
 	<VALUE name="mwaen" val="m w eh n"/>
-	<VALUE name="moen" val="m w eh n"/>
+	<VALUE name="moen" val="m eh n"/>
 	<VALUE name="mwon" val="m w ah n"/>
 	<VALUE name="mwen" val="m w eh n"/>
 	<VALUE name="mwin" val="m w iy n"/>
@@ -2516,7 +2516,7 @@
 	<VALUE name="byen" val="b y eh n"/>
 	<VALUE name="bwan" val="b w ae n"/>
 	<VALUE name="bwaen" val="b w eh n"/>
-	<VALUE name="boen" val="b w eh n"/>
+	<VALUE name="boen" val="b eh n"/>
 	<VALUE name="bwon" val="b w ah n"/>
 	<VALUE name="bwen" val="b w eh n"/>
 	<VALUE name="bwin" val="b w iy n"/>
@@ -2537,7 +2537,7 @@
 	<VALUE name="syen" val="s y eh n"/>
 	<VALUE name="swan" val="s w ae n"/>
 	<VALUE name="swaen" val="s w eh n"/>
-	<VALUE name="soen" val="s w eh n"/>
+	<VALUE name="soen" val="s eh n"/>
 	<VALUE name="swon" val="s w ah n"/>
 	<VALUE name="swen" val="s w eh n"/>
 	<VALUE name="swin" val="s w iy n"/>
@@ -2558,7 +2558,7 @@
 	<VALUE name="yen" val="y eh n"/>
 	<VALUE name="wan" val="w ae n"/>
 	<VALUE name="waen" val="w eh n"/>
-	<VALUE name="oen" val="w eh n"/>
+	<VALUE name="oen" val="eh n"/>
 	<VALUE name="won" val="w ah n"/>
 	<VALUE name="wen" val="w eh n"/>
 	<VALUE name="win" val="w iy n"/>
@@ -2579,7 +2579,7 @@
 	<VALUE name="jyen" val="ch y eh n"/>
 	<VALUE name="jwan" val="ch w ae n"/>
 	<VALUE name="jwaen" val="ch w eh n"/>
-	<VALUE name="joen" val="ch w eh n"/>
+	<VALUE name="joen" val="ch eh n"/>
 	<VALUE name="jwon" val="ch w ah n"/>
 	<VALUE name="jwen" val="ch w eh n"/>
 	<VALUE name="jwin" val="ch w iy n"/>
@@ -2600,7 +2600,7 @@
 	<VALUE name="chyen" val="ch y eh n"/>
 	<VALUE name="chwan" val="ch w ae n"/>
 	<VALUE name="chwaen" val="ch w eh n"/>
-	<VALUE name="choen" val="ch w eh n"/>
+	<VALUE name="choen" val="ch eh n"/>
 	<VALUE name="chwon" val="ch w ah n"/>
 	<VALUE name="chwen" val="ch w eh n"/>
 	<VALUE name="chwin" val="ch w iy n"/>
@@ -2621,7 +2621,7 @@
 	<VALUE name="kyen" val="k y eh n"/>
 	<VALUE name="kwan" val="k w ae n"/>
 	<VALUE name="kwaen" val="k w eh n"/>
-	<VALUE name="koen" val="k w eh n"/>
+	<VALUE name="koen" val="k eh n"/>
 	<VALUE name="kwon" val="k w ah n"/>
 	<VALUE name="kwen" val="k w eh n"/>
 	<VALUE name="kwin" val="k w iy n"/>
@@ -2642,7 +2642,7 @@
 	<VALUE name="tyen" val="t y eh n"/>
 	<VALUE name="twan" val="t w ae n"/>
 	<VALUE name="twaen" val="t w eh n"/>
-	<VALUE name="toen" val="t w eh n"/>
+	<VALUE name="toen" val="t eh n"/>
 	<VALUE name="twon" val="t w ah n"/>
 	<VALUE name="twen" val="t w eh n"/>
 	<VALUE name="twin" val="t w iy n"/>
@@ -2663,7 +2663,7 @@
 	<VALUE name="pyen" val="p y eh n"/>
 	<VALUE name="pwan" val="p w ae n"/>
 	<VALUE name="pwaen" val="p w eh n"/>
-	<VALUE name="poen" val="p w eh n"/>
+	<VALUE name="poen" val="p eh n"/>
 	<VALUE name="pwon" val="p w ah n"/>
 	<VALUE name="pwen" val="p w eh n"/>
 	<VALUE name="pwin" val="p w iy n"/>
@@ -2684,7 +2684,7 @@
 	<VALUE name="hyen" val="hh y eh n"/>
 	<VALUE name="hwan" val="hh w ae n"/>
 	<VALUE name="hwaen" val="hh w eh n"/>
-	<VALUE name="hoen" val="hh w eh n"/>
+	<VALUE name="hoen" val="hh eh n"/>
 	<VALUE name="hwon" val="hh w ah n"/>
 	<VALUE name="hwen" val="hh w eh n"/>
 	<VALUE name="hwin" val="hh w iy n"/>
@@ -2705,7 +2705,7 @@
 	<VALUE name="kkyen" val="g y eh n"/>
 	<VALUE name="kkwan" val="g w ae n"/>
 	<VALUE name="kkwaen" val="g w eh n"/>
-	<VALUE name="kkoen" val="g w eh n"/>
+	<VALUE name="kkoen" val="g eh n"/>
 	<VALUE name="kkwon" val="g w ah n"/>
 	<VALUE name="kkwen" val="g w eh n"/>
 	<VALUE name="kkwin" val="g w iy n"/>
@@ -2726,7 +2726,7 @@
 	<VALUE name="ttyen" val="d y eh n"/>
 	<VALUE name="ttwan" val="d w ae n"/>
 	<VALUE name="ttwaen" val="d w eh n"/>
-	<VALUE name="ttoen" val="d w eh n"/>
+	<VALUE name="ttoen" val="d eh n"/>
 	<VALUE name="ttwon" val="d w ah n"/>
 	<VALUE name="ttwen" val="d w eh n"/>
 	<VALUE name="ttwin" val="d w iy n"/>
@@ -2747,7 +2747,7 @@
 	<VALUE name="ppyen" val="b y eh n"/>
 	<VALUE name="ppwan" val="b w ae n"/>
 	<VALUE name="ppwaen" val="b w eh n"/>
-	<VALUE name="ppoen" val="b w eh n"/>
+	<VALUE name="ppoen" val="b eh n"/>
 	<VALUE name="ppwon" val="b w ah n"/>
 	<VALUE name="ppwen" val="b w eh n"/>
 	<VALUE name="ppwin" val="b w iy n"/>
@@ -2768,7 +2768,7 @@
 	<VALUE name="ssyen" val="s y eh n"/>
 	<VALUE name="sswan" val="s w ae n"/>
 	<VALUE name="sswaen" val="s w eh n"/>
-	<VALUE name="ssoen" val="s w eh n"/>
+	<VALUE name="ssoen" val="s eh n"/>
 	<VALUE name="sswon" val="s w ah n"/>
 	<VALUE name="sswen" val="s w eh n"/>
 	<VALUE name="sswin" val="s w iy n"/>
@@ -2789,7 +2789,7 @@
 	<VALUE name="jjyen" val="jh y eh n"/>
 	<VALUE name="jjwan" val="jh w ae n"/>
 	<VALUE name="jjwaen" val="jh w eh n"/>
-	<VALUE name="jjoen" val="jh w eh n"/>
+	<VALUE name="jjoen" val="jh eh n"/>
 	<VALUE name="jjwon" val="jh w ah n"/>
 	<VALUE name="jjwen" val="jh w eh n"/>
 	<VALUE name="jjwin" val="jh w iy n"/>
@@ -2810,7 +2810,7 @@
 	<VALUE name="gyeng" val="g y eh ng"/>
 	<VALUE name="gwang" val="g w ae ng"/>
 	<VALUE name="gwaeng" val="g w eh ng"/>
-	<VALUE name="goeng" val="g w eh ng"/>
+	<VALUE name="goeng" val="g eh ng"/>
 	<VALUE name="gwong" val="g w ah ng"/>
 	<VALUE name="gweng" val="g w eh ng"/>
 	<VALUE name="gwing" val="g w iy ng"/>
@@ -2831,7 +2831,7 @@
 	<VALUE name="nyeng" val="n y eh ng"/>
 	<VALUE name="nwang" val="n w ae ng"/>
 	<VALUE name="nwaeng" val="n w eh ng"/>
-	<VALUE name="noeng" val="n w eh ng"/>
+	<VALUE name="noeng" val="n eh ng"/>
 	<VALUE name="nwong" val="n w ah ng"/>
 	<VALUE name="nweng" val="n w eh ng"/>
 	<VALUE name="nwing" val="n w iy ng"/>
@@ -2852,7 +2852,7 @@
 	<VALUE name="dyeng" val="d y eh ng"/>
 	<VALUE name="dwang" val="d w ae ng"/>
 	<VALUE name="dwaeng" val="d w eh ng"/>
-	<VALUE name="doeng" val="d w eh ng"/>
+	<VALUE name="doeng" val="d eh ng"/>
 	<VALUE name="dwong" val="d w ah ng"/>
 	<VALUE name="dweng" val="d w eh ng"/>
 	<VALUE name="dwing" val="d w iy ng"/>
@@ -2873,7 +2873,7 @@
 	<VALUE name="ryeng" val="dx y eh ng"/>
 	<VALUE name="rwang" val="dx w ae ng"/>
 	<VALUE name="rwaeng" val="dx w eh ng"/>
-	<VALUE name="roeng" val="dx w eh ng"/>
+	<VALUE name="roeng" val="dx eh ng"/>
 	<VALUE name="rwong" val="dx w ah ng"/>
 	<VALUE name="rweng" val="dx w eh ng"/>
 	<VALUE name="rwing" val="dx w iy ng"/>
@@ -2894,7 +2894,7 @@
 	<VALUE name="myeng" val="m y eh ng"/>
 	<VALUE name="mwang" val="m w ae ng"/>
 	<VALUE name="mwaeng" val="m w eh ng"/>
-	<VALUE name="moeng" val="m w eh ng"/>
+	<VALUE name="moeng" val="m eh ng"/>
 	<VALUE name="mwong" val="m w ah ng"/>
 	<VALUE name="mweng" val="m w eh ng"/>
 	<VALUE name="mwing" val="m w iy ng"/>
@@ -2915,7 +2915,7 @@
 	<VALUE name="byeng" val="b y eh ng"/>
 	<VALUE name="bwang" val="b w ae ng"/>
 	<VALUE name="bwaeng" val="b w eh ng"/>
-	<VALUE name="boeng" val="b w eh ng"/>
+	<VALUE name="boeng" val="b eh ng"/>
 	<VALUE name="bwong" val="b w ah ng"/>
 	<VALUE name="bweng" val="b w eh ng"/>
 	<VALUE name="bwing" val="b w iy ng"/>
@@ -2936,7 +2936,7 @@
 	<VALUE name="syeng" val="s y eh ng"/>
 	<VALUE name="swang" val="s w ae ng"/>
 	<VALUE name="swaeng" val="s w eh ng"/>
-	<VALUE name="soeng" val="s w eh ng"/>
+	<VALUE name="soeng" val="s eh ng"/>
 	<VALUE name="swong" val="s w ah ng"/>
 	<VALUE name="sweng" val="s w eh ng"/>
 	<VALUE name="swing" val="s w iy ng"/>
@@ -2957,7 +2957,7 @@
 	<VALUE name="yeng" val="y eh ng"/>
 	<VALUE name="wang" val="w ae ng"/>
 	<VALUE name="waeng" val="w eh ng"/>
-	<VALUE name="oeng" val="w eh ng"/>
+	<VALUE name="oeng" val="eh ng"/>
 	<VALUE name="wong" val="w ah ng"/>
 	<VALUE name="weng" val="w eh ng"/>
 	<VALUE name="wing" val="w iy ng"/>
@@ -2978,7 +2978,7 @@
 	<VALUE name="jyeng" val="ch y eh ng"/>
 	<VALUE name="jwang" val="ch w ae ng"/>
 	<VALUE name="jwaeng" val="ch w eh ng"/>
-	<VALUE name="joeng" val="ch w eh ng"/>
+	<VALUE name="joeng" val="ch eh ng"/>
 	<VALUE name="jwong" val="ch w ah ng"/>
 	<VALUE name="jweng" val="ch w eh ng"/>
 	<VALUE name="jwing" val="ch w iy ng"/>
@@ -2999,7 +2999,7 @@
 	<VALUE name="chyeng" val="ch y eh ng"/>
 	<VALUE name="chwang" val="ch w ae ng"/>
 	<VALUE name="chwaeng" val="ch w eh ng"/>
-	<VALUE name="choeng" val="ch w eh ng"/>
+	<VALUE name="choeng" val="ch eh ng"/>
 	<VALUE name="chwong" val="ch w ah ng"/>
 	<VALUE name="chweng" val="ch w eh ng"/>
 	<VALUE name="chwing" val="ch w iy ng"/>
@@ -3020,7 +3020,7 @@
 	<VALUE name="kyeng" val="k y eh ng"/>
 	<VALUE name="kwang" val="k w ae ng"/>
 	<VALUE name="kwaeng" val="k w eh ng"/>
-	<VALUE name="koeng" val="k w eh ng"/>
+	<VALUE name="koeng" val="k eh ng"/>
 	<VALUE name="kwong" val="k w ah ng"/>
 	<VALUE name="kweng" val="k w eh ng"/>
 	<VALUE name="kwing" val="k w iy ng"/>
@@ -3041,7 +3041,7 @@
 	<VALUE name="tyeng" val="t y eh ng"/>
 	<VALUE name="twang" val="t w ae ng"/>
 	<VALUE name="twaeng" val="t w eh ng"/>
-	<VALUE name="toeng" val="t w eh ng"/>
+	<VALUE name="toeng" val="t eh ng"/>
 	<VALUE name="twong" val="t w ah ng"/>
 	<VALUE name="tweng" val="t w eh ng"/>
 	<VALUE name="twing" val="t w iy ng"/>
@@ -3062,7 +3062,7 @@
 	<VALUE name="pyeng" val="p y eh ng"/>
 	<VALUE name="pwang" val="p w ae ng"/>
 	<VALUE name="pwaeng" val="p w eh ng"/>
-	<VALUE name="poeng" val="p w eh ng"/>
+	<VALUE name="poeng" val="p eh ng"/>
 	<VALUE name="pwong" val="p w ah ng"/>
 	<VALUE name="pweng" val="p w eh ng"/>
 	<VALUE name="pwing" val="p w iy ng"/>
@@ -3083,7 +3083,7 @@
 	<VALUE name="hyeng" val="hh y eh ng"/>
 	<VALUE name="hwang" val="hh w ae ng"/>
 	<VALUE name="hwaeng" val="hh w eh ng"/>
-	<VALUE name="hoeng" val="hh w eh ng"/>
+	<VALUE name="hoeng" val="hh eh ng"/>
 	<VALUE name="hwong" val="hh w ah ng"/>
 	<VALUE name="hweng" val="hh w eh ng"/>
 	<VALUE name="hwing" val="hh w iy ng"/>
@@ -3104,7 +3104,7 @@
 	<VALUE name="kkyeng" val="g y eh ng"/>
 	<VALUE name="kkwang" val="g w ae ng"/>
 	<VALUE name="kkwaeng" val="g w eh ng"/>
-	<VALUE name="kkoeng" val="g w eh ng"/>
+	<VALUE name="kkoeng" val="g eh ng"/>
 	<VALUE name="kkwong" val="g w ah ng"/>
 	<VALUE name="kkweng" val="g w eh ng"/>
 	<VALUE name="kkwing" val="g w iy ng"/>
@@ -3125,7 +3125,7 @@
 	<VALUE name="ttyeng" val="d y eh ng"/>
 	<VALUE name="ttwang" val="d w ae ng"/>
 	<VALUE name="ttwaeng" val="d w eh ng"/>
-	<VALUE name="ttoeng" val="d w eh ng"/>
+	<VALUE name="ttoeng" val="d eh ng"/>
 	<VALUE name="ttwong" val="d w ah ng"/>
 	<VALUE name="ttweng" val="d w eh ng"/>
 	<VALUE name="ttwing" val="d w iy ng"/>
@@ -3146,7 +3146,7 @@
 	<VALUE name="ppyeng" val="b y eh ng"/>
 	<VALUE name="ppwang" val="b w ae ng"/>
 	<VALUE name="ppwaeng" val="b w eh ng"/>
-	<VALUE name="ppoeng" val="b w eh ng"/>
+	<VALUE name="ppoeng" val="b eh ng"/>
 	<VALUE name="ppwong" val="b w ah ng"/>
 	<VALUE name="ppweng" val="b w eh ng"/>
 	<VALUE name="ppwing" val="b w iy ng"/>
@@ -3167,7 +3167,7 @@
 	<VALUE name="ssyeng" val="s y eh ng"/>
 	<VALUE name="sswang" val="s w ae ng"/>
 	<VALUE name="sswaeng" val="s w eh ng"/>
-	<VALUE name="ssoeng" val="s w eh ng"/>
+	<VALUE name="ssoeng" val="s eh ng"/>
 	<VALUE name="sswong" val="s w ah ng"/>
 	<VALUE name="ssweng" val="s w eh ng"/>
 	<VALUE name="sswing" val="s w iy ng"/>
@@ -3188,7 +3188,7 @@
 	<VALUE name="jjyeng" val="jh y eh ng"/>
 	<VALUE name="jjwang" val="jh w ae ng"/>
 	<VALUE name="jjwaeng" val="jh w eh ng"/>
-	<VALUE name="jjoeng" val="jh w eh ng"/>
+	<VALUE name="jjoeng" val="jh eh ng"/>
 	<VALUE name="jjwong" val="jh w ah ng"/>
 	<VALUE name="jjweng" val="jh w eh ng"/>
 	<VALUE name="jjwing" val="jh w iy ng"/>
