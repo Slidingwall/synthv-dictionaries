@@ -66,7 +66,7 @@
     },
     {
       "w": "goe",
-      "p": "g w eh"
+      "p": "g eh"
     },
     {
       "w": "gwo",
@@ -150,7 +150,7 @@
     },
     {
       "w": "noe",
-      "p": "n w eh"
+      "p": "n eh"
     },
     {
       "w": "nwo",
@@ -234,7 +234,7 @@
     },
     {
       "w": "doe",
-      "p": "d w eh"
+      "p": "d eh"
     },
     {
       "w": "dwo",
@@ -254,87 +254,87 @@
     },
     {
       "w": "ra",
-      "p": "r ae"
+      "p": "dx ae"
     },
     {
       "w": "rya",
-      "p": "r y ae"
+      "p": "dx y ae"
     },
     {
       "w": "reo",
-      "p": "r ah"
+      "p": "dx ah"
     },
     {
       "w": "ryeo",
-      "p": "r y ah"
+      "p": "dx y ah"
     },
     {
       "w": "ro",
-      "p": "r ao"
+      "p": "dx ao"
     },
     {
       "w": "ryo",
-      "p": "r y ao"
+      "p": "dx y ao"
     },
     {
       "w": "ru",
-      "p": "r uw"
+      "p": "dx uw"
     },
     {
       "w": "ryu",
-      "p": "r y uw"
+      "p": "dx y uw"
     },
     {
       "w": "reu",
-      "p": "r uh"
+      "p": "dx uh"
     },
     {
       "w": "ri",
-      "p": "r iy"
+      "p": "dx iy"
     },
     {
       "w": "rae",
-      "p": "r eh"
+      "p": "dx eh"
     },
     {
       "w": "ryae",
-      "p": "r y eh"
+      "p": "dx y eh"
     },
     {
       "w": "re",
-      "p": "r eh"
+      "p": "dx eh"
     },
     {
       "w": "rye",
-      "p": "r y eh"
+      "p": "dx y eh"
     },
     {
       "w": "rwa",
-      "p": "r w ae"
+      "p": "dx w ae"
     },
     {
       "w": "rwae",
-      "p": "r w eh"
+      "p": "dx w eh"
     },
     {
       "w": "roe",
-      "p": "r w eh"
+      "p": "dx eh"
     },
     {
       "w": "rwo",
-      "p": "r w ah"
+      "p": "dx w ah"
     },
     {
       "w": "rwe",
-      "p": "r w eh"
+      "p": "dx w eh"
     },
     {
       "w": "rwi",
-      "p": "r w iy"
+      "p": "dx w iy"
     },
     {
       "w": "rui",
-      "p": "r uh iy"
+      "p": "dx uh iy"
     },
     {
       "w": "ma",
@@ -402,7 +402,7 @@
     },
     {
       "w": "moe",
-      "p": "m w eh"
+      "p": "m eh"
     },
     {
       "w": "mwo",
@@ -486,7 +486,7 @@
     },
     {
       "w": "boe",
-      "p": "b w eh"
+      "p": "b eh"
     },
     {
       "w": "bwo",
@@ -570,7 +570,7 @@
     },
     {
       "w": "soe",
-      "p": "s w eh"
+      "p": "s eh"
     },
     {
       "w": "swo",
@@ -654,7 +654,7 @@
     },
     {
       "w": "oe",
-      "p": "w eh"
+      "p": "eh"
     },
     {
       "w": "wo",
@@ -738,7 +738,7 @@
     },
     {
       "w": "joe",
-      "p": "ch w eh"
+      "p": "ch eh"
     },
     {
       "w": "jwo",
@@ -822,7 +822,7 @@
     },
     {
       "w": "choe",
-      "p": "ch w eh"
+      "p": "ch eh"
     },
     {
       "w": "chwo",
@@ -906,7 +906,7 @@
     },
     {
       "w": "koe",
-      "p": "k w eh"
+      "p": "k eh"
     },
     {
       "w": "kwo",
@@ -990,7 +990,7 @@
     },
     {
       "w": "toe",
-      "p": "t w eh"
+      "p": "t eh"
     },
     {
       "w": "two",
@@ -1074,7 +1074,7 @@
     },
     {
       "w": "poe",
-      "p": "p w eh"
+      "p": "p eh"
     },
     {
       "w": "pwo",
@@ -1158,7 +1158,7 @@
     },
     {
       "w": "hoe",
-      "p": "hh w eh"
+      "p": "hh eh"
     },
     {
       "w": "hwo",
@@ -1242,7 +1242,7 @@
     },
     {
       "w": "kkoe",
-      "p": "g w eh"
+      "p": "g eh"
     },
     {
       "w": "kkwo",
@@ -1326,7 +1326,7 @@
     },
     {
       "w": "ttoe",
-      "p": "d w eh"
+      "p": "d eh"
     },
     {
       "w": "ttwo",
@@ -1410,7 +1410,7 @@
     },
     {
       "w": "ppoe",
-      "p": "b w eh"
+      "p": "b eh"
     },
     {
       "w": "ppwo",
@@ -1430,171 +1430,171 @@
     },
     {
       "w": "ssa",
-      "p": "sh ae"
+      "p": "s ae"
     },
     {
       "w": "ssya",
-      "p": "sh y ae"
+      "p": "s y ae"
     },
     {
       "w": "sseo",
-      "p": "sh ah"
+      "p": "s ah"
     },
     {
       "w": "ssyeo",
-      "p": "sh y ah"
+      "p": "s y ah"
     },
     {
       "w": "sso",
-      "p": "sh ao"
+      "p": "s ao"
     },
     {
       "w": "ssyo",
-      "p": "sh y ao"
+      "p": "s y ao"
     },
     {
       "w": "ssu",
-      "p": "sh uw"
+      "p": "s uw"
     },
     {
       "w": "ssyu",
-      "p": "sh y uw"
+      "p": "s y uw"
     },
     {
       "w": "sseu",
-      "p": "sh uh"
+      "p": "s uh"
     },
     {
       "w": "ssi",
-      "p": "sh iy"
+      "p": "s iy"
     },
     {
       "w": "ssae",
-      "p": "sh eh"
+      "p": "s eh"
     },
     {
       "w": "ssyae",
-      "p": "sh y eh"
+      "p": "s y eh"
     },
     {
       "w": "sse",
-      "p": "sh eh"
+      "p": "s eh"
     },
     {
       "w": "ssye",
-      "p": "sh y eh"
+      "p": "s y eh"
     },
     {
       "w": "sswa",
-      "p": "sh w ae"
+      "p": "s w ae"
     },
     {
       "w": "sswae",
-      "p": "sh w eh"
+      "p": "s w eh"
     },
     {
       "w": "ssoe",
-      "p": "sh w eh"
+      "p": "s eh"
     },
     {
       "w": "sswo",
-      "p": "sh w ah"
+      "p": "s w ah"
     },
     {
       "w": "sswe",
-      "p": "sh w eh"
+      "p": "s w eh"
     },
     {
       "w": "sswi",
-      "p": "sh w iy"
+      "p": "s w iy"
     },
     {
       "w": "ssui",
-      "p": "sh uh iy"
+      "p": "s uh iy"
     },
     {
       "w": "jja",
-      "p": "zh ae"
+      "p": "jh ae"
     },
     {
       "w": "jjya",
-      "p": "zh y ae"
+      "p": "jh y ae"
     },
     {
       "w": "jjeo",
-      "p": "zh ah"
+      "p": "jh ah"
     },
     {
       "w": "jjyeo",
-      "p": "zh y ah"
+      "p": "jh y ah"
     },
     {
       "w": "jjo",
-      "p": "zh ao"
+      "p": "jh ao"
     },
     {
       "w": "jjyo",
-      "p": "zh y ao"
+      "p": "jh y ao"
     },
     {
       "w": "jju",
-      "p": "zh uw"
+      "p": "jh uw"
     },
     {
       "w": "jjyu",
-      "p": "zh y uw"
+      "p": "jh y uw"
     },
     {
       "w": "jjeu",
-      "p": "zh uh"
+      "p": "jh uh"
     },
     {
       "w": "jji",
-      "p": "zh iy"
+      "p": "jh iy"
     },
     {
       "w": "jjae",
-      "p": "zh eh"
+      "p": "jh eh"
     },
     {
       "w": "jjyae",
-      "p": "zh y eh"
+      "p": "jh y eh"
     },
     {
       "w": "jje",
-      "p": "zh eh"
+      "p": "jh eh"
     },
     {
       "w": "jjye",
-      "p": "zh y eh"
+      "p": "jh y eh"
     },
     {
       "w": "jjwa",
-      "p": "zh w ae"
+      "p": "jh w ae"
     },
     {
       "w": "jjwae",
-      "p": "zh w eh"
+      "p": "jh w eh"
     },
     {
       "w": "jjoe",
-      "p": "zh w eh"
+      "p": "jh eh"
     },
     {
       "w": "jjwo",
-      "p": "zh w ah"
+      "p": "jh w ah"
     },
     {
       "w": "jjwe",
-      "p": "zh w eh"
+      "p": "jh w eh"
     },
     {
       "w": "jjwi",
-      "p": "zh w iy"
+      "p": "jh w iy"
     },
     {
       "w": "jjui",
-      "p": "zh uh iy"
+      "p": "jh uh iy"
     },
     {
       "w": "gak",
@@ -1662,7 +1662,7 @@
     },
     {
       "w": "goek",
-      "p": "g w eh k"
+      "p": "g eh k"
     },
     {
       "w": "gwok",
@@ -1746,7 +1746,7 @@
     },
     {
       "w": "noek",
-      "p": "n w eh k"
+      "p": "n eh k"
     },
     {
       "w": "nwok",
@@ -1830,7 +1830,7 @@
     },
     {
       "w": "doek",
-      "p": "d w eh k"
+      "p": "d eh k"
     },
     {
       "w": "dwok",
@@ -1850,87 +1850,87 @@
     },
     {
       "w": "rak",
-      "p": "r ae k"
+      "p": "dx ae k"
     },
     {
       "w": "ryak",
-      "p": "r y ae k"
+      "p": "dx y ae k"
     },
     {
       "w": "reok",
-      "p": "r ah k"
+      "p": "dx ah k"
     },
     {
       "w": "ryeok",
-      "p": "r y ah k"
+      "p": "dx y ah k"
     },
     {
       "w": "rok",
-      "p": "r ao k"
+      "p": "dx ao k"
     },
     {
       "w": "ryok",
-      "p": "r y ao k"
+      "p": "dx y ao k"
     },
     {
       "w": "ruk",
-      "p": "r uw k"
+      "p": "dx uw k"
     },
     {
       "w": "ryuk",
-      "p": "r y uw k"
+      "p": "dx y uw k"
     },
     {
       "w": "reuk",
-      "p": "r uh k"
+      "p": "dx uh k"
     },
     {
       "w": "rik",
-      "p": "r iy k"
+      "p": "dx iy k"
     },
     {
       "w": "raek",
-      "p": "r eh k"
+      "p": "dx eh k"
     },
     {
       "w": "ryaek",
-      "p": "r y eh k"
+      "p": "dx y eh k"
     },
     {
       "w": "rek",
-      "p": "r eh k"
+      "p": "dx eh k"
     },
     {
       "w": "ryek",
-      "p": "r y eh k"
+      "p": "dx y eh k"
     },
     {
       "w": "rwak",
-      "p": "r w ae k"
+      "p": "dx w ae k"
     },
     {
       "w": "rwaek",
-      "p": "r w eh k"
+      "p": "dx w eh k"
     },
     {
       "w": "roek",
-      "p": "r w eh k"
+      "p": "dx eh k"
     },
     {
       "w": "rwok",
-      "p": "r w ah k"
+      "p": "dx w ah k"
     },
     {
       "w": "rwek",
-      "p": "r w eh k"
+      "p": "dx w eh k"
     },
     {
       "w": "rwik",
-      "p": "r w iy k"
+      "p": "dx w iy k"
     },
     {
       "w": "ruik",
-      "p": "r uh iy k"
+      "p": "dx uh iy k"
     },
     {
       "w": "mak",
@@ -1998,7 +1998,7 @@
     },
     {
       "w": "moek",
-      "p": "m w eh k"
+      "p": "m eh k"
     },
     {
       "w": "mwok",
@@ -2082,7 +2082,7 @@
     },
     {
       "w": "boek",
-      "p": "b w eh k"
+      "p": "b eh k"
     },
     {
       "w": "bwok",
@@ -2166,7 +2166,7 @@
     },
     {
       "w": "soek",
-      "p": "s w eh k"
+      "p": "s eh k"
     },
     {
       "w": "swok",
@@ -2250,7 +2250,7 @@
     },
     {
       "w": "oek",
-      "p": "w eh k"
+      "p": "eh k"
     },
     {
       "w": "wok",
@@ -2334,7 +2334,7 @@
     },
     {
       "w": "joek",
-      "p": "ch w eh k"
+      "p": "ch eh k"
     },
     {
       "w": "jwok",
@@ -2418,7 +2418,7 @@
     },
     {
       "w": "choek",
-      "p": "ch w eh k"
+      "p": "ch eh k"
     },
     {
       "w": "chwok",
@@ -2502,7 +2502,7 @@
     },
     {
       "w": "koek",
-      "p": "k w eh k"
+      "p": "k eh k"
     },
     {
       "w": "kwok",
@@ -2586,7 +2586,7 @@
     },
     {
       "w": "toek",
-      "p": "t w eh k"
+      "p": "t eh k"
     },
     {
       "w": "twok",
@@ -2670,7 +2670,7 @@
     },
     {
       "w": "poek",
-      "p": "p w eh k"
+      "p": "p eh k"
     },
     {
       "w": "pwok",
@@ -2754,7 +2754,7 @@
     },
     {
       "w": "hoek",
-      "p": "hh w eh k"
+      "p": "hh eh k"
     },
     {
       "w": "hwok",
@@ -2838,7 +2838,7 @@
     },
     {
       "w": "kkoek",
-      "p": "g w eh k"
+      "p": "g eh k"
     },
     {
       "w": "kkwok",
@@ -2922,7 +2922,7 @@
     },
     {
       "w": "ttoek",
-      "p": "d w eh k"
+      "p": "d eh k"
     },
     {
       "w": "ttwok",
@@ -3006,7 +3006,7 @@
     },
     {
       "w": "ppoek",
-      "p": "b w eh k"
+      "p": "b eh k"
     },
     {
       "w": "ppwok",
@@ -3026,171 +3026,171 @@
     },
     {
       "w": "ssak",
-      "p": "sh ae k"
+      "p": "s ae k"
     },
     {
       "w": "ssyak",
-      "p": "sh y ae k"
+      "p": "s y ae k"
     },
     {
       "w": "sseok",
-      "p": "sh ah k"
+      "p": "s ah k"
     },
     {
       "w": "ssyeok",
-      "p": "sh y ah k"
+      "p": "s y ah k"
     },
     {
       "w": "ssok",
-      "p": "sh ao k"
+      "p": "s ao k"
     },
     {
       "w": "ssyok",
-      "p": "sh y ao k"
+      "p": "s y ao k"
     },
     {
       "w": "ssuk",
-      "p": "sh uw k"
+      "p": "s uw k"
     },
     {
       "w": "ssyuk",
-      "p": "sh y uw k"
+      "p": "s y uw k"
     },
     {
       "w": "sseuk",
-      "p": "sh uh k"
+      "p": "s uh k"
     },
     {
       "w": "ssik",
-      "p": "sh iy k"
+      "p": "s iy k"
     },
     {
       "w": "ssaek",
-      "p": "sh eh k"
+      "p": "s eh k"
     },
     {
       "w": "ssyaek",
-      "p": "sh y eh k"
+      "p": "s y eh k"
     },
     {
       "w": "ssek",
-      "p": "sh eh k"
+      "p": "s eh k"
     },
     {
       "w": "ssyek",
-      "p": "sh y eh k"
+      "p": "s y eh k"
     },
     {
       "w": "sswak",
-      "p": "sh w ae k"
+      "p": "s w ae k"
     },
     {
       "w": "sswaek",
-      "p": "sh w eh k"
+      "p": "s w eh k"
     },
     {
       "w": "ssoek",
-      "p": "sh w eh k"
+      "p": "s eh k"
     },
     {
       "w": "sswok",
-      "p": "sh w ah k"
+      "p": "s w ah k"
     },
     {
       "w": "sswek",
-      "p": "sh w eh k"
+      "p": "s w eh k"
     },
     {
       "w": "sswik",
-      "p": "sh w iy k"
+      "p": "s w iy k"
     },
     {
       "w": "ssuik",
-      "p": "sh uh iy k"
+      "p": "s uh iy k"
     },
     {
       "w": "jjak",
-      "p": "zh ae k"
+      "p": "jh ae k"
     },
     {
       "w": "jjyak",
-      "p": "zh y ae k"
+      "p": "jh y ae k"
     },
     {
       "w": "jjeok",
-      "p": "zh ah k"
+      "p": "jh ah k"
     },
     {
       "w": "jjyeok",
-      "p": "zh y ah k"
+      "p": "jh y ah k"
     },
     {
       "w": "jjok",
-      "p": "zh ao k"
+      "p": "jh ao k"
     },
     {
       "w": "jjyok",
-      "p": "zh y ao k"
+      "p": "jh y ao k"
     },
     {
       "w": "jjuk",
-      "p": "zh uw k"
+      "p": "jh uw k"
     },
     {
       "w": "jjyuk",
-      "p": "zh y uw k"
+      "p": "jh y uw k"
     },
     {
       "w": "jjeuk",
-      "p": "zh uh k"
+      "p": "jh uh k"
     },
     {
       "w": "jjik",
-      "p": "zh iy k"
+      "p": "jh iy k"
     },
     {
       "w": "jjaek",
-      "p": "zh eh k"
+      "p": "jh eh k"
     },
     {
       "w": "jjyaek",
-      "p": "zh y eh k"
+      "p": "jh y eh k"
     },
     {
       "w": "jjek",
-      "p": "zh eh k"
+      "p": "jh eh k"
     },
     {
       "w": "jjyek",
-      "p": "zh y eh k"
+      "p": "jh y eh k"
     },
     {
       "w": "jjwak",
-      "p": "zh w ae k"
+      "p": "jh w ae k"
     },
     {
       "w": "jjwaek",
-      "p": "zh w eh k"
+      "p": "jh w eh k"
     },
     {
       "w": "jjoek",
-      "p": "zh w eh k"
+      "p": "jh eh k"
     },
     {
       "w": "jjwok",
-      "p": "zh w ah k"
+      "p": "jh w ah k"
     },
     {
       "w": "jjwek",
-      "p": "zh w eh k"
+      "p": "jh w eh k"
     },
     {
       "w": "jjwik",
-      "p": "zh w iy k"
+      "p": "jh w iy k"
     },
     {
       "w": "jjuik",
-      "p": "zh uh iy k"
+      "p": "jh uh iy k"
     },
     {
       "w": "gat",
@@ -3258,7 +3258,7 @@
     },
     {
       "w": "goet",
-      "p": "g w eh t"
+      "p": "g eh t"
     },
     {
       "w": "gwot",
@@ -3342,7 +3342,7 @@
     },
     {
       "w": "noet",
-      "p": "n w eh t"
+      "p": "n eh t"
     },
     {
       "w": "nwot",
@@ -3426,7 +3426,7 @@
     },
     {
       "w": "doet",
-      "p": "d w eh t"
+      "p": "d eh t"
     },
     {
       "w": "dwot",
@@ -3446,87 +3446,87 @@
     },
     {
       "w": "rat",
-      "p": "r ae t"
+      "p": "dx ae t"
     },
     {
       "w": "ryat",
-      "p": "r y ae t"
+      "p": "dx y ae t"
     },
     {
       "w": "reot",
-      "p": "r ah t"
+      "p": "dx ah t"
     },
     {
       "w": "ryeot",
-      "p": "r y ah t"
+      "p": "dx y ah t"
     },
     {
       "w": "rot",
-      "p": "r ao t"
+      "p": "dx ao t"
     },
     {
       "w": "ryot",
-      "p": "r y ao t"
+      "p": "dx y ao t"
     },
     {
       "w": "rut",
-      "p": "r uw t"
+      "p": "dx uw t"
     },
     {
       "w": "ryut",
-      "p": "r y uw t"
+      "p": "dx y uw t"
     },
     {
       "w": "reut",
-      "p": "r uh t"
+      "p": "dx uh t"
     },
     {
       "w": "rit",
-      "p": "r iy t"
+      "p": "dx iy t"
     },
     {
       "w": "raet",
-      "p": "r eh t"
+      "p": "dx eh t"
     },
     {
       "w": "ryaet",
-      "p": "r y eh t"
+      "p": "dx y eh t"
     },
     {
       "w": "ret",
-      "p": "r eh t"
+      "p": "dx eh t"
     },
     {
       "w": "ryet",
-      "p": "r y eh t"
+      "p": "dx y eh t"
     },
     {
       "w": "rwat",
-      "p": "r w ae t"
+      "p": "dx w ae t"
     },
     {
       "w": "rwaet",
-      "p": "r w eh t"
+      "p": "dx w eh t"
     },
     {
       "w": "roet",
-      "p": "r w eh t"
+      "p": "dx eh t"
     },
     {
       "w": "rwot",
-      "p": "r w ah t"
+      "p": "dx w ah t"
     },
     {
       "w": "rwet",
-      "p": "r w eh t"
+      "p": "dx w eh t"
     },
     {
       "w": "rwit",
-      "p": "r w iy t"
+      "p": "dx w iy t"
     },
     {
       "w": "ruit",
-      "p": "r uh iy t"
+      "p": "dx uh iy t"
     },
     {
       "w": "mat",
@@ -3594,7 +3594,7 @@
     },
     {
       "w": "moet",
-      "p": "m w eh t"
+      "p": "m eh t"
     },
     {
       "w": "mwot",
@@ -3678,7 +3678,7 @@
     },
     {
       "w": "boet",
-      "p": "b w eh t"
+      "p": "b eh t"
     },
     {
       "w": "bwot",
@@ -3762,7 +3762,7 @@
     },
     {
       "w": "soet",
-      "p": "s w eh t"
+      "p": "s eh t"
     },
     {
       "w": "swot",
@@ -3846,7 +3846,7 @@
     },
     {
       "w": "oet",
-      "p": "w eh t"
+      "p": "eh t"
     },
     {
       "w": "wot",
@@ -3930,7 +3930,7 @@
     },
     {
       "w": "joet",
-      "p": "ch w eh t"
+      "p": "ch eh t"
     },
     {
       "w": "jwot",
@@ -4014,7 +4014,7 @@
     },
     {
       "w": "choet",
-      "p": "ch w eh t"
+      "p": "ch eh t"
     },
     {
       "w": "chwot",
@@ -4098,7 +4098,7 @@
     },
     {
       "w": "koet",
-      "p": "k w eh t"
+      "p": "k eh t"
     },
     {
       "w": "kwot",
@@ -4182,7 +4182,7 @@
     },
     {
       "w": "toet",
-      "p": "t w eh t"
+      "p": "t eh t"
     },
     {
       "w": "twot",
@@ -4266,7 +4266,7 @@
     },
     {
       "w": "poet",
-      "p": "p w eh t"
+      "p": "p eh t"
     },
     {
       "w": "pwot",
@@ -4350,7 +4350,7 @@
     },
     {
       "w": "hoet",
-      "p": "hh w eh t"
+      "p": "hh eh t"
     },
     {
       "w": "hwot",
@@ -4434,7 +4434,7 @@
     },
     {
       "w": "kkoet",
-      "p": "g w eh t"
+      "p": "g eh t"
     },
     {
       "w": "kkwot",
@@ -4518,7 +4518,7 @@
     },
     {
       "w": "ttoet",
-      "p": "d w eh t"
+      "p": "d eh t"
     },
     {
       "w": "ttwot",
@@ -4602,7 +4602,7 @@
     },
     {
       "w": "ppoet",
-      "p": "b w eh t"
+      "p": "b eh t"
     },
     {
       "w": "ppwot",
@@ -4622,171 +4622,171 @@
     },
     {
       "w": "ssat",
-      "p": "sh ae t"
+      "p": "s ae t"
     },
     {
       "w": "ssyat",
-      "p": "sh y ae t"
+      "p": "s y ae t"
     },
     {
       "w": "sseot",
-      "p": "sh ah t"
+      "p": "s ah t"
     },
     {
       "w": "ssyeot",
-      "p": "sh y ah t"
+      "p": "s y ah t"
     },
     {
       "w": "ssot",
-      "p": "sh ao t"
+      "p": "s ao t"
     },
     {
       "w": "ssyot",
-      "p": "sh y ao t"
+      "p": "s y ao t"
     },
     {
       "w": "ssut",
-      "p": "sh uw t"
+      "p": "s uw t"
     },
     {
       "w": "ssyut",
-      "p": "sh y uw t"
+      "p": "s y uw t"
     },
     {
       "w": "sseut",
-      "p": "sh uh t"
+      "p": "s uh t"
     },
     {
       "w": "ssit",
-      "p": "sh iy t"
+      "p": "s iy t"
     },
     {
       "w": "ssaet",
-      "p": "sh eh t"
+      "p": "s eh t"
     },
     {
       "w": "ssyaet",
-      "p": "sh y eh t"
+      "p": "s y eh t"
     },
     {
       "w": "sset",
-      "p": "sh eh t"
+      "p": "s eh t"
     },
     {
       "w": "ssyet",
-      "p": "sh y eh t"
+      "p": "s y eh t"
     },
     {
       "w": "sswat",
-      "p": "sh w ae t"
+      "p": "s w ae t"
     },
     {
       "w": "sswaet",
-      "p": "sh w eh t"
+      "p": "s w eh t"
     },
     {
       "w": "ssoet",
-      "p": "sh w eh t"
+      "p": "s eh t"
     },
     {
       "w": "sswot",
-      "p": "sh w ah t"
+      "p": "s w ah t"
     },
     {
       "w": "sswet",
-      "p": "sh w eh t"
+      "p": "s w eh t"
     },
     {
       "w": "sswit",
-      "p": "sh w iy t"
+      "p": "s w iy t"
     },
     {
       "w": "ssuit",
-      "p": "sh uh iy t"
+      "p": "s uh iy t"
     },
     {
       "w": "jjat",
-      "p": "zh ae t"
+      "p": "jh ae t"
     },
     {
       "w": "jjyat",
-      "p": "zh y ae t"
+      "p": "jh y ae t"
     },
     {
       "w": "jjeot",
-      "p": "zh ah t"
+      "p": "jh ah t"
     },
     {
       "w": "jjyeot",
-      "p": "zh y ah t"
+      "p": "jh y ah t"
     },
     {
       "w": "jjot",
-      "p": "zh ao t"
+      "p": "jh ao t"
     },
     {
       "w": "jjyot",
-      "p": "zh y ao t"
+      "p": "jh y ao t"
     },
     {
       "w": "jjut",
-      "p": "zh uw t"
+      "p": "jh uw t"
     },
     {
       "w": "jjyut",
-      "p": "zh y uw t"
+      "p": "jh y uw t"
     },
     {
       "w": "jjeut",
-      "p": "zh uh t"
+      "p": "jh uh t"
     },
     {
       "w": "jjit",
-      "p": "zh iy t"
+      "p": "jh iy t"
     },
     {
       "w": "jjaet",
-      "p": "zh eh t"
+      "p": "jh eh t"
     },
     {
       "w": "jjyaet",
-      "p": "zh y eh t"
+      "p": "jh y eh t"
     },
     {
       "w": "jjet",
-      "p": "zh eh t"
+      "p": "jh eh t"
     },
     {
       "w": "jjyet",
-      "p": "zh y eh t"
+      "p": "jh y eh t"
     },
     {
       "w": "jjwat",
-      "p": "zh w ae t"
+      "p": "jh w ae t"
     },
     {
       "w": "jjwaet",
-      "p": "zh w eh t"
+      "p": "jh w eh t"
     },
     {
       "w": "jjoet",
-      "p": "zh w eh t"
+      "p": "jh eh t"
     },
     {
       "w": "jjwot",
-      "p": "zh w ah t"
+      "p": "jh w ah t"
     },
     {
       "w": "jjwet",
-      "p": "zh w eh t"
+      "p": "jh w eh t"
     },
     {
       "w": "jjwit",
-      "p": "zh w iy t"
+      "p": "jh w iy t"
     },
     {
       "w": "jjuit",
-      "p": "zh uh iy t"
+      "p": "jh uh iy t"
     },
     {
       "w": "gap",
@@ -4854,7 +4854,7 @@
     },
     {
       "w": "goep",
-      "p": "g w eh p"
+      "p": "g eh p"
     },
     {
       "w": "gwop",
@@ -4938,7 +4938,7 @@
     },
     {
       "w": "noep",
-      "p": "n w eh p"
+      "p": "n eh p"
     },
     {
       "w": "nwop",
@@ -5022,7 +5022,7 @@
     },
     {
       "w": "doep",
-      "p": "d w eh p"
+      "p": "d eh p"
     },
     {
       "w": "dwop",
@@ -5042,87 +5042,87 @@
     },
     {
       "w": "rap",
-      "p": "r ae p"
+      "p": "dx ae p"
     },
     {
       "w": "ryap",
-      "p": "r y ae p"
+      "p": "dx y ae p"
     },
     {
       "w": "reop",
-      "p": "r ah p"
+      "p": "dx ah p"
     },
     {
       "w": "ryeop",
-      "p": "r y ah p"
+      "p": "dx y ah p"
     },
     {
       "w": "rop",
-      "p": "r ao p"
+      "p": "dx ao p"
     },
     {
       "w": "ryop",
-      "p": "r y ao p"
+      "p": "dx y ao p"
     },
     {
       "w": "rup",
-      "p": "r uw p"
+      "p": "dx uw p"
     },
     {
       "w": "ryup",
-      "p": "r y uw p"
+      "p": "dx y uw p"
     },
     {
       "w": "reup",
-      "p": "r uh p"
+      "p": "dx uh p"
     },
     {
       "w": "rip",
-      "p": "r iy p"
+      "p": "dx iy p"
     },
     {
       "w": "raep",
-      "p": "r eh p"
+      "p": "dx eh p"
     },
     {
       "w": "ryaep",
-      "p": "r y eh p"
+      "p": "dx y eh p"
     },
     {
       "w": "rep",
-      "p": "r eh p"
+      "p": "dx eh p"
     },
     {
       "w": "ryep",
-      "p": "r y eh p"
+      "p": "dx y eh p"
     },
     {
       "w": "rwap",
-      "p": "r w ae p"
+      "p": "dx w ae p"
     },
     {
       "w": "rwaep",
-      "p": "r w eh p"
+      "p": "dx w eh p"
     },
     {
       "w": "roep",
-      "p": "r w eh p"
+      "p": "dx eh p"
     },
     {
       "w": "rwop",
-      "p": "r w ah p"
+      "p": "dx w ah p"
     },
     {
       "w": "rwep",
-      "p": "r w eh p"
+      "p": "dx w eh p"
     },
     {
       "w": "rwip",
-      "p": "r w iy p"
+      "p": "dx w iy p"
     },
     {
       "w": "ruip",
-      "p": "r uh iy p"
+      "p": "dx uh iy p"
     },
     {
       "w": "map",
@@ -5190,7 +5190,7 @@
     },
     {
       "w": "moep",
-      "p": "m w eh p"
+      "p": "m eh p"
     },
     {
       "w": "mwop",
@@ -5274,7 +5274,7 @@
     },
     {
       "w": "boep",
-      "p": "b w eh p"
+      "p": "b eh p"
     },
     {
       "w": "bwop",
@@ -5358,7 +5358,7 @@
     },
     {
       "w": "soep",
-      "p": "s w eh p"
+      "p": "s eh p"
     },
     {
       "w": "swop",
@@ -5442,7 +5442,7 @@
     },
     {
       "w": "oep",
-      "p": "w eh p"
+      "p": "eh p"
     },
     {
       "w": "wop",
@@ -5526,7 +5526,7 @@
     },
     {
       "w": "joep",
-      "p": "ch w eh p"
+      "p": "ch eh p"
     },
     {
       "w": "jwop",
@@ -5610,7 +5610,7 @@
     },
     {
       "w": "choep",
-      "p": "ch w eh p"
+      "p": "ch eh p"
     },
     {
       "w": "chwop",
@@ -5694,7 +5694,7 @@
     },
     {
       "w": "koep",
-      "p": "k w eh p"
+      "p": "k eh p"
     },
     {
       "w": "kwop",
@@ -5778,7 +5778,7 @@
     },
     {
       "w": "toep",
-      "p": "t w eh p"
+      "p": "t eh p"
     },
     {
       "w": "twop",
@@ -5862,7 +5862,7 @@
     },
     {
       "w": "poep",
-      "p": "p w eh p"
+      "p": "p eh p"
     },
     {
       "w": "pwop",
@@ -5946,7 +5946,7 @@
     },
     {
       "w": "hoep",
-      "p": "hh w eh p"
+      "p": "hh eh p"
     },
     {
       "w": "hwop",
@@ -6030,7 +6030,7 @@
     },
     {
       "w": "kkoep",
-      "p": "g w eh p"
+      "p": "g eh p"
     },
     {
       "w": "kkwop",
@@ -6114,7 +6114,7 @@
     },
     {
       "w": "ttoep",
-      "p": "d w eh p"
+      "p": "d eh p"
     },
     {
       "w": "ttwop",
@@ -6198,7 +6198,7 @@
     },
     {
       "w": "ppoep",
-      "p": "b w eh p"
+      "p": "b eh p"
     },
     {
       "w": "ppwop",
@@ -6218,171 +6218,171 @@
     },
     {
       "w": "ssap",
-      "p": "sh ae p"
+      "p": "s ae p"
     },
     {
       "w": "ssyap",
-      "p": "sh y ae p"
+      "p": "s y ae p"
     },
     {
       "w": "sseop",
-      "p": "sh ah p"
+      "p": "s ah p"
     },
     {
       "w": "ssyeop",
-      "p": "sh y ah p"
+      "p": "s y ah p"
     },
     {
       "w": "ssop",
-      "p": "sh ao p"
+      "p": "s ao p"
     },
     {
       "w": "ssyop",
-      "p": "sh y ao p"
+      "p": "s y ao p"
     },
     {
       "w": "ssup",
-      "p": "sh uw p"
+      "p": "s uw p"
     },
     {
       "w": "ssyup",
-      "p": "sh y uw p"
+      "p": "s y uw p"
     },
     {
       "w": "sseup",
-      "p": "sh uh p"
+      "p": "s uh p"
     },
     {
       "w": "ssip",
-      "p": "sh iy p"
+      "p": "s iy p"
     },
     {
       "w": "ssaep",
-      "p": "sh eh p"
+      "p": "s eh p"
     },
     {
       "w": "ssyaep",
-      "p": "sh y eh p"
+      "p": "s y eh p"
     },
     {
       "w": "ssep",
-      "p": "sh eh p"
+      "p": "s eh p"
     },
     {
       "w": "ssyep",
-      "p": "sh y eh p"
+      "p": "s y eh p"
     },
     {
       "w": "sswap",
-      "p": "sh w ae p"
+      "p": "s w ae p"
     },
     {
       "w": "sswaep",
-      "p": "sh w eh p"
+      "p": "s w eh p"
     },
     {
       "w": "ssoep",
-      "p": "sh w eh p"
+      "p": "s eh p"
     },
     {
       "w": "sswop",
-      "p": "sh w ah p"
+      "p": "s w ah p"
     },
     {
       "w": "sswep",
-      "p": "sh w eh p"
+      "p": "s w eh p"
     },
     {
       "w": "sswip",
-      "p": "sh w iy p"
+      "p": "s w iy p"
     },
     {
       "w": "ssuip",
-      "p": "sh uh iy p"
+      "p": "s uh iy p"
     },
     {
       "w": "jjap",
-      "p": "zh ae p"
+      "p": "jh ae p"
     },
     {
       "w": "jjyap",
-      "p": "zh y ae p"
+      "p": "jh y ae p"
     },
     {
       "w": "jjeop",
-      "p": "zh ah p"
+      "p": "jh ah p"
     },
     {
       "w": "jjyeop",
-      "p": "zh y ah p"
+      "p": "jh y ah p"
     },
     {
       "w": "jjop",
-      "p": "zh ao p"
+      "p": "jh ao p"
     },
     {
       "w": "jjyop",
-      "p": "zh y ao p"
+      "p": "jh y ao p"
     },
     {
       "w": "jjup",
-      "p": "zh uw p"
+      "p": "jh uw p"
     },
     {
       "w": "jjyup",
-      "p": "zh y uw p"
+      "p": "jh y uw p"
     },
     {
       "w": "jjeup",
-      "p": "zh uh p"
+      "p": "jh uh p"
     },
     {
       "w": "jjip",
-      "p": "zh iy p"
+      "p": "jh iy p"
     },
     {
       "w": "jjaep",
-      "p": "zh eh p"
+      "p": "jh eh p"
     },
     {
       "w": "jjyaep",
-      "p": "zh y eh p"
+      "p": "jh y eh p"
     },
     {
       "w": "jjep",
-      "p": "zh eh p"
+      "p": "jh eh p"
     },
     {
       "w": "jjyep",
-      "p": "zh y eh p"
+      "p": "jh y eh p"
     },
     {
       "w": "jjwap",
-      "p": "zh w ae p"
+      "p": "jh w ae p"
     },
     {
       "w": "jjwaep",
-      "p": "zh w eh p"
+      "p": "jh w eh p"
     },
     {
       "w": "jjoep",
-      "p": "zh w eh p"
+      "p": "jh eh p"
     },
     {
       "w": "jjwop",
-      "p": "zh w ah p"
+      "p": "jh w ah p"
     },
     {
       "w": "jjwep",
-      "p": "zh w eh p"
+      "p": "jh w eh p"
     },
     {
       "w": "jjwip",
-      "p": "zh w iy p"
+      "p": "jh w iy p"
     },
     {
       "w": "jjuip",
-      "p": "zh uh iy p"
+      "p": "jh uh iy p"
     },
     {
       "w": "gal",
@@ -6450,7 +6450,7 @@
     },
     {
       "w": "goel",
-      "p": "g w eh l"
+      "p": "g eh l"
     },
     {
       "w": "gwol",
@@ -6534,7 +6534,7 @@
     },
     {
       "w": "noel",
-      "p": "n w eh l"
+      "p": "n eh l"
     },
     {
       "w": "nwol",
@@ -6618,7 +6618,7 @@
     },
     {
       "w": "doel",
-      "p": "d w eh l"
+      "p": "d eh l"
     },
     {
       "w": "dwol",
@@ -6638,87 +6638,87 @@
     },
     {
       "w": "ral",
-      "p": "r ae l"
+      "p": "dx ae l"
     },
     {
       "w": "ryal",
-      "p": "r y ae l"
+      "p": "dx y ae l"
     },
     {
       "w": "reol",
-      "p": "r ah l"
+      "p": "dx ah l"
     },
     {
       "w": "ryeol",
-      "p": "r y ah l"
+      "p": "dx y ah l"
     },
     {
       "w": "rol",
-      "p": "r ao l"
+      "p": "dx ao l"
     },
     {
       "w": "ryol",
-      "p": "r y ao l"
+      "p": "dx y ao l"
     },
     {
       "w": "rul",
-      "p": "r uw l"
+      "p": "dx uw l"
     },
     {
       "w": "ryul",
-      "p": "r y uw l"
+      "p": "dx y uw l"
     },
     {
       "w": "reul",
-      "p": "r uh l"
+      "p": "dx uh l"
     },
     {
       "w": "ril",
-      "p": "r iy l"
+      "p": "dx iy l"
     },
     {
       "w": "rael",
-      "p": "r eh l"
+      "p": "dx eh l"
     },
     {
       "w": "ryael",
-      "p": "r y eh l"
+      "p": "dx y eh l"
     },
     {
       "w": "rel",
-      "p": "r eh l"
+      "p": "dx eh l"
     },
     {
       "w": "ryel",
-      "p": "r y eh l"
+      "p": "dx y eh l"
     },
     {
       "w": "rwal",
-      "p": "r w ae l"
+      "p": "dx w ae l"
     },
     {
       "w": "rwael",
-      "p": "r w eh l"
+      "p": "dx w eh l"
     },
     {
       "w": "roel",
-      "p": "r w eh l"
+      "p": "dx eh l"
     },
     {
       "w": "rwol",
-      "p": "r w ah l"
+      "p": "dx w ah l"
     },
     {
       "w": "rwel",
-      "p": "r w eh l"
+      "p": "dx w eh l"
     },
     {
       "w": "rwil",
-      "p": "r w iy l"
+      "p": "dx w iy l"
     },
     {
       "w": "ruil",
-      "p": "r uh iy l"
+      "p": "dx uh iy l"
     },
     {
       "w": "mal",
@@ -6786,7 +6786,7 @@
     },
     {
       "w": "moel",
-      "p": "m w eh l"
+      "p": "m eh l"
     },
     {
       "w": "mwol",
@@ -6870,7 +6870,7 @@
     },
     {
       "w": "boel",
-      "p": "b w eh l"
+      "p": "b eh l"
     },
     {
       "w": "bwol",
@@ -6954,7 +6954,7 @@
     },
     {
       "w": "soel",
-      "p": "s w eh l"
+      "p": "s eh l"
     },
     {
       "w": "swol",
@@ -7038,7 +7038,7 @@
     },
     {
       "w": "oel",
-      "p": "w eh l"
+      "p": "eh l"
     },
     {
       "w": "wol",
@@ -7122,7 +7122,7 @@
     },
     {
       "w": "joel",
-      "p": "ch w eh l"
+      "p": "ch eh l"
     },
     {
       "w": "jwol",
@@ -7206,7 +7206,7 @@
     },
     {
       "w": "choel",
-      "p": "ch w eh l"
+      "p": "ch eh l"
     },
     {
       "w": "chwol",
@@ -7290,7 +7290,7 @@
     },
     {
       "w": "koel",
-      "p": "k w eh l"
+      "p": "k eh l"
     },
     {
       "w": "kwol",
@@ -7374,7 +7374,7 @@
     },
     {
       "w": "toel",
-      "p": "t w eh l"
+      "p": "t eh l"
     },
     {
       "w": "twol",
@@ -7458,7 +7458,7 @@
     },
     {
       "w": "poel",
-      "p": "p w eh l"
+      "p": "p eh l"
     },
     {
       "w": "pwol",
@@ -7542,7 +7542,7 @@
     },
     {
       "w": "hoel",
-      "p": "hh w eh l"
+      "p": "hh eh l"
     },
     {
       "w": "hwol",
@@ -7626,7 +7626,7 @@
     },
     {
       "w": "kkoel",
-      "p": "g w eh l"
+      "p": "g eh l"
     },
     {
       "w": "kkwol",
@@ -7710,7 +7710,7 @@
     },
     {
       "w": "ttoel",
-      "p": "d w eh l"
+      "p": "d eh l"
     },
     {
       "w": "ttwol",
@@ -7794,7 +7794,7 @@
     },
     {
       "w": "ppoel",
-      "p": "b w eh l"
+      "p": "b eh l"
     },
     {
       "w": "ppwol",
@@ -7814,171 +7814,171 @@
     },
     {
       "w": "ssal",
-      "p": "sh ae l"
+      "p": "s ae l"
     },
     {
       "w": "ssyal",
-      "p": "sh y ae l"
+      "p": "s y ae l"
     },
     {
       "w": "sseol",
-      "p": "sh ah l"
+      "p": "s ah l"
     },
     {
       "w": "ssyeol",
-      "p": "sh y ah l"
+      "p": "s y ah l"
     },
     {
       "w": "ssol",
-      "p": "sh ao l"
+      "p": "s ao l"
     },
     {
       "w": "ssyol",
-      "p": "sh y ao l"
+      "p": "s y ao l"
     },
     {
       "w": "ssul",
-      "p": "sh uw l"
+      "p": "s uw l"
     },
     {
       "w": "ssyul",
-      "p": "sh y uw l"
+      "p": "s y uw l"
     },
     {
       "w": "sseul",
-      "p": "sh uh l"
+      "p": "s uh l"
     },
     {
       "w": "ssil",
-      "p": "sh iy l"
+      "p": "s iy l"
     },
     {
       "w": "ssael",
-      "p": "sh eh l"
+      "p": "s eh l"
     },
     {
       "w": "ssyael",
-      "p": "sh y eh l"
+      "p": "s y eh l"
     },
     {
       "w": "ssel",
-      "p": "sh eh l"
+      "p": "s eh l"
     },
     {
       "w": "ssyel",
-      "p": "sh y eh l"
+      "p": "s y eh l"
     },
     {
       "w": "sswal",
-      "p": "sh w ae l"
+      "p": "s w ae l"
     },
     {
       "w": "sswael",
-      "p": "sh w eh l"
+      "p": "s w eh l"
     },
     {
       "w": "ssoel",
-      "p": "sh w eh l"
+      "p": "s eh l"
     },
     {
       "w": "sswol",
-      "p": "sh w ah l"
+      "p": "s w ah l"
     },
     {
       "w": "sswel",
-      "p": "sh w eh l"
+      "p": "s w eh l"
     },
     {
       "w": "sswil",
-      "p": "sh w iy l"
+      "p": "s w iy l"
     },
     {
       "w": "ssuil",
-      "p": "sh uh iy l"
+      "p": "s uh iy l"
     },
     {
       "w": "jjal",
-      "p": "zh ae l"
+      "p": "jh ae l"
     },
     {
       "w": "jjyal",
-      "p": "zh y ae l"
+      "p": "jh y ae l"
     },
     {
       "w": "jjeol",
-      "p": "zh ah l"
+      "p": "jh ah l"
     },
     {
       "w": "jjyeol",
-      "p": "zh y ah l"
+      "p": "jh y ah l"
     },
     {
       "w": "jjol",
-      "p": "zh ao l"
+      "p": "jh ao l"
     },
     {
       "w": "jjyol",
-      "p": "zh y ao l"
+      "p": "jh y ao l"
     },
     {
       "w": "jjul",
-      "p": "zh uw l"
+      "p": "jh uw l"
     },
     {
       "w": "jjyul",
-      "p": "zh y uw l"
+      "p": "jh y uw l"
     },
     {
       "w": "jjeul",
-      "p": "zh uh l"
+      "p": "jh uh l"
     },
     {
       "w": "jjil",
-      "p": "zh iy l"
+      "p": "jh iy l"
     },
     {
       "w": "jjael",
-      "p": "zh eh l"
+      "p": "jh eh l"
     },
     {
       "w": "jjyael",
-      "p": "zh y eh l"
+      "p": "jh y eh l"
     },
     {
       "w": "jjel",
-      "p": "zh eh l"
+      "p": "jh eh l"
     },
     {
       "w": "jjyel",
-      "p": "zh y eh l"
+      "p": "jh y eh l"
     },
     {
       "w": "jjwal",
-      "p": "zh w ae l"
+      "p": "jh w ae l"
     },
     {
       "w": "jjwael",
-      "p": "zh w eh l"
+      "p": "jh w eh l"
     },
     {
       "w": "jjoel",
-      "p": "zh w eh l"
+      "p": "jh eh l"
     },
     {
       "w": "jjwol",
-      "p": "zh w ah l"
+      "p": "jh w ah l"
     },
     {
       "w": "jjwel",
-      "p": "zh w eh l"
+      "p": "jh w eh l"
     },
     {
       "w": "jjwil",
-      "p": "zh w iy l"
+      "p": "jh w iy l"
     },
     {
       "w": "jjuil",
-      "p": "zh uh iy l"
+      "p": "jh uh iy l"
     },
     {
       "w": "gam",
@@ -8046,7 +8046,7 @@
     },
     {
       "w": "goem",
-      "p": "g w eh m"
+      "p": "g eh m"
     },
     {
       "w": "gwom",
@@ -8130,7 +8130,7 @@
     },
     {
       "w": "noem",
-      "p": "n w eh m"
+      "p": "n eh m"
     },
     {
       "w": "nwom",
@@ -8214,7 +8214,7 @@
     },
     {
       "w": "doem",
-      "p": "d w eh m"
+      "p": "d eh m"
     },
     {
       "w": "dwom",
@@ -8234,87 +8234,87 @@
     },
     {
       "w": "ram",
-      "p": "r ae m"
+      "p": "dx ae m"
     },
     {
       "w": "ryam",
-      "p": "r y ae m"
+      "p": "dx y ae m"
     },
     {
       "w": "reom",
-      "p": "r ah m"
+      "p": "dx ah m"
     },
     {
       "w": "ryeom",
-      "p": "r y ah m"
+      "p": "dx y ah m"
     },
     {
       "w": "rom",
-      "p": "r ao m"
+      "p": "dx ao m"
     },
     {
       "w": "ryom",
-      "p": "r y ao m"
+      "p": "dx y ao m"
     },
     {
       "w": "rum",
-      "p": "r uw m"
+      "p": "dx uw m"
     },
     {
       "w": "ryum",
-      "p": "r y uw m"
+      "p": "dx y uw m"
     },
     {
       "w": "reum",
-      "p": "r uh m"
+      "p": "dx uh m"
     },
     {
       "w": "rim",
-      "p": "r iy m"
+      "p": "dx iy m"
     },
     {
       "w": "raem",
-      "p": "r eh m"
+      "p": "dx eh m"
     },
     {
       "w": "ryaem",
-      "p": "r y eh m"
+      "p": "dx y eh m"
     },
     {
       "w": "rem",
-      "p": "r eh m"
+      "p": "dx eh m"
     },
     {
       "w": "ryem",
-      "p": "r y eh m"
+      "p": "dx y eh m"
     },
     {
       "w": "rwam",
-      "p": "r w ae m"
+      "p": "dx w ae m"
     },
     {
       "w": "rwaem",
-      "p": "r w eh m"
+      "p": "dx w eh m"
     },
     {
       "w": "roem",
-      "p": "r w eh m"
+      "p": "dx eh m"
     },
     {
       "w": "rwom",
-      "p": "r w ah m"
+      "p": "dx w ah m"
     },
     {
       "w": "rwem",
-      "p": "r w eh m"
+      "p": "dx w eh m"
     },
     {
       "w": "rwim",
-      "p": "r w iy m"
+      "p": "dx w iy m"
     },
     {
       "w": "ruim",
-      "p": "r uh iy m"
+      "p": "dx uh iy m"
     },
     {
       "w": "mam",
@@ -8382,7 +8382,7 @@
     },
     {
       "w": "moem",
-      "p": "m w eh m"
+      "p": "m eh m"
     },
     {
       "w": "mwom",
@@ -8466,7 +8466,7 @@
     },
     {
       "w": "boem",
-      "p": "b w eh m"
+      "p": "b eh m"
     },
     {
       "w": "bwom",
@@ -8550,7 +8550,7 @@
     },
     {
       "w": "soem",
-      "p": "s w eh m"
+      "p": "s eh m"
     },
     {
       "w": "swom",
@@ -8634,7 +8634,7 @@
     },
     {
       "w": "oem",
-      "p": "w eh m"
+      "p": "eh m"
     },
     {
       "w": "wom",
@@ -8718,7 +8718,7 @@
     },
     {
       "w": "joem",
-      "p": "ch w eh m"
+      "p": "ch eh m"
     },
     {
       "w": "jwom",
@@ -8802,7 +8802,7 @@
     },
     {
       "w": "choem",
-      "p": "ch w eh m"
+      "p": "ch eh m"
     },
     {
       "w": "chwom",
@@ -8886,7 +8886,7 @@
     },
     {
       "w": "koem",
-      "p": "k w eh m"
+      "p": "k eh m"
     },
     {
       "w": "kwom",
@@ -8970,7 +8970,7 @@
     },
     {
       "w": "toem",
-      "p": "t w eh m"
+      "p": "t eh m"
     },
     {
       "w": "twom",
@@ -9054,7 +9054,7 @@
     },
     {
       "w": "poem",
-      "p": "p w eh m"
+      "p": "p eh m"
     },
     {
       "w": "pwom",
@@ -9138,7 +9138,7 @@
     },
     {
       "w": "hoem",
-      "p": "hh w eh m"
+      "p": "hh eh m"
     },
     {
       "w": "hwom",
@@ -9222,7 +9222,7 @@
     },
     {
       "w": "kkoem",
-      "p": "g w eh m"
+      "p": "g eh m"
     },
     {
       "w": "kkwom",
@@ -9306,7 +9306,7 @@
     },
     {
       "w": "ttoem",
-      "p": "d w eh m"
+      "p": "d eh m"
     },
     {
       "w": "ttwom",
@@ -9390,7 +9390,7 @@
     },
     {
       "w": "ppoem",
-      "p": "b w eh m"
+      "p": "b eh m"
     },
     {
       "w": "ppwom",
@@ -9410,171 +9410,171 @@
     },
     {
       "w": "ssam",
-      "p": "sh ae m"
+      "p": "s ae m"
     },
     {
       "w": "ssyam",
-      "p": "sh y ae m"
+      "p": "s y ae m"
     },
     {
       "w": "sseom",
-      "p": "sh ah m"
+      "p": "s ah m"
     },
     {
       "w": "ssyeom",
-      "p": "sh y ah m"
+      "p": "s y ah m"
     },
     {
       "w": "ssom",
-      "p": "sh ao m"
+      "p": "s ao m"
     },
     {
       "w": "ssyom",
-      "p": "sh y ao m"
+      "p": "s y ao m"
     },
     {
       "w": "ssum",
-      "p": "sh uw m"
+      "p": "s uw m"
     },
     {
       "w": "ssyum",
-      "p": "sh y uw m"
+      "p": "s y uw m"
     },
     {
       "w": "sseum",
-      "p": "sh uh m"
+      "p": "s uh m"
     },
     {
       "w": "ssim",
-      "p": "sh iy m"
+      "p": "s iy m"
     },
     {
       "w": "ssaem",
-      "p": "sh eh m"
+      "p": "s eh m"
     },
     {
       "w": "ssyaem",
-      "p": "sh y eh m"
+      "p": "s y eh m"
     },
     {
       "w": "ssem",
-      "p": "sh eh m"
+      "p": "s eh m"
     },
     {
       "w": "ssyem",
-      "p": "sh y eh m"
+      "p": "s y eh m"
     },
     {
       "w": "sswam",
-      "p": "sh w ae m"
+      "p": "s w ae m"
     },
     {
       "w": "sswaem",
-      "p": "sh w eh m"
+      "p": "s w eh m"
     },
     {
       "w": "ssoem",
-      "p": "sh w eh m"
+      "p": "s eh m"
     },
     {
       "w": "sswom",
-      "p": "sh w ah m"
+      "p": "s w ah m"
     },
     {
       "w": "sswem",
-      "p": "sh w eh m"
+      "p": "s w eh m"
     },
     {
       "w": "sswim",
-      "p": "sh w iy m"
+      "p": "s w iy m"
     },
     {
       "w": "ssuim",
-      "p": "sh uh iy m"
+      "p": "s uh iy m"
     },
     {
       "w": "jjam",
-      "p": "zh ae m"
+      "p": "jh ae m"
     },
     {
       "w": "jjyam",
-      "p": "zh y ae m"
+      "p": "jh y ae m"
     },
     {
       "w": "jjeom",
-      "p": "zh ah m"
+      "p": "jh ah m"
     },
     {
       "w": "jjyeom",
-      "p": "zh y ah m"
+      "p": "jh y ah m"
     },
     {
       "w": "jjom",
-      "p": "zh ao m"
+      "p": "jh ao m"
     },
     {
       "w": "jjyom",
-      "p": "zh y ao m"
+      "p": "jh y ao m"
     },
     {
       "w": "jjum",
-      "p": "zh uw m"
+      "p": "jh uw m"
     },
     {
       "w": "jjyum",
-      "p": "zh y uw m"
+      "p": "jh y uw m"
     },
     {
       "w": "jjeum",
-      "p": "zh uh m"
+      "p": "jh uh m"
     },
     {
       "w": "jjim",
-      "p": "zh iy m"
+      "p": "jh iy m"
     },
     {
       "w": "jjaem",
-      "p": "zh eh m"
+      "p": "jh eh m"
     },
     {
       "w": "jjyaem",
-      "p": "zh y eh m"
+      "p": "jh y eh m"
     },
     {
       "w": "jjem",
-      "p": "zh eh m"
+      "p": "jh eh m"
     },
     {
       "w": "jjyem",
-      "p": "zh y eh m"
+      "p": "jh y eh m"
     },
     {
       "w": "jjwam",
-      "p": "zh w ae m"
+      "p": "jh w ae m"
     },
     {
       "w": "jjwaem",
-      "p": "zh w eh m"
+      "p": "jh w eh m"
     },
     {
       "w": "jjoem",
-      "p": "zh w eh m"
+      "p": "jh eh m"
     },
     {
       "w": "jjwom",
-      "p": "zh w ah m"
+      "p": "jh w ah m"
     },
     {
       "w": "jjwem",
-      "p": "zh w eh m"
+      "p": "jh w eh m"
     },
     {
       "w": "jjwim",
-      "p": "zh w iy m"
+      "p": "jh w iy m"
     },
     {
       "w": "jjuim",
-      "p": "zh uh iy m"
+      "p": "jh uh iy m"
     },
     {
       "w": "gan",
@@ -9642,7 +9642,7 @@
     },
     {
       "w": "goen",
-      "p": "g w eh n"
+      "p": "g eh n"
     },
     {
       "w": "gwon",
@@ -9726,7 +9726,7 @@
     },
     {
       "w": "noen",
-      "p": "n w eh n"
+      "p": "n eh n"
     },
     {
       "w": "nwon",
@@ -9810,7 +9810,7 @@
     },
     {
       "w": "doen",
-      "p": "d w eh n"
+      "p": "d eh n"
     },
     {
       "w": "dwon",
@@ -9830,87 +9830,87 @@
     },
     {
       "w": "ran",
-      "p": "r ae n"
+      "p": "dx ae n"
     },
     {
       "w": "ryan",
-      "p": "r y ae n"
+      "p": "dx y ae n"
     },
     {
       "w": "reon",
-      "p": "r ah n"
+      "p": "dx ah n"
     },
     {
       "w": "ryeon",
-      "p": "r y ah n"
+      "p": "dx y ah n"
     },
     {
       "w": "ron",
-      "p": "r ao n"
+      "p": "dx ao n"
     },
     {
       "w": "ryon",
-      "p": "r y ao n"
+      "p": "dx y ao n"
     },
     {
       "w": "run",
-      "p": "r uw n"
+      "p": "dx uw n"
     },
     {
       "w": "ryun",
-      "p": "r y uw n"
+      "p": "dx y uw n"
     },
     {
       "w": "reun",
-      "p": "r uh n"
+      "p": "dx uh n"
     },
     {
       "w": "rin",
-      "p": "r iy n"
+      "p": "dx iy n"
     },
     {
       "w": "raen",
-      "p": "r eh n"
+      "p": "dx eh n"
     },
     {
       "w": "ryaen",
-      "p": "r y eh n"
+      "p": "dx y eh n"
     },
     {
       "w": "ren",
-      "p": "r eh n"
+      "p": "dx eh n"
     },
     {
       "w": "ryen",
-      "p": "r y eh n"
+      "p": "dx y eh n"
     },
     {
       "w": "rwan",
-      "p": "r w ae n"
+      "p": "dx w ae n"
     },
     {
       "w": "rwaen",
-      "p": "r w eh n"
+      "p": "dx w eh n"
     },
     {
       "w": "roen",
-      "p": "r w eh n"
+      "p": "dx eh n"
     },
     {
       "w": "rwon",
-      "p": "r w ah n"
+      "p": "dx w ah n"
     },
     {
       "w": "rwen",
-      "p": "r w eh n"
+      "p": "dx w eh n"
     },
     {
       "w": "rwin",
-      "p": "r w iy n"
+      "p": "dx w iy n"
     },
     {
       "w": "ruin",
-      "p": "r uh iy n"
+      "p": "dx uh iy n"
     },
     {
       "w": "man",
@@ -9978,7 +9978,7 @@
     },
     {
       "w": "moen",
-      "p": "m w eh n"
+      "p": "m eh n"
     },
     {
       "w": "mwon",
@@ -10062,7 +10062,7 @@
     },
     {
       "w": "boen",
-      "p": "b w eh n"
+      "p": "b eh n"
     },
     {
       "w": "bwon",
@@ -10146,7 +10146,7 @@
     },
     {
       "w": "soen",
-      "p": "s w eh n"
+      "p": "s eh n"
     },
     {
       "w": "swon",
@@ -10230,7 +10230,7 @@
     },
     {
       "w": "oen",
-      "p": "w eh n"
+      "p": "eh n"
     },
     {
       "w": "won",
@@ -10314,7 +10314,7 @@
     },
     {
       "w": "joen",
-      "p": "ch w eh n"
+      "p": "ch eh n"
     },
     {
       "w": "jwon",
@@ -10398,7 +10398,7 @@
     },
     {
       "w": "choen",
-      "p": "ch w eh n"
+      "p": "ch eh n"
     },
     {
       "w": "chwon",
@@ -10482,7 +10482,7 @@
     },
     {
       "w": "koen",
-      "p": "k w eh n"
+      "p": "k eh n"
     },
     {
       "w": "kwon",
@@ -10566,7 +10566,7 @@
     },
     {
       "w": "toen",
-      "p": "t w eh n"
+      "p": "t eh n"
     },
     {
       "w": "twon",
@@ -10650,7 +10650,7 @@
     },
     {
       "w": "poen",
-      "p": "p w eh n"
+      "p": "p eh n"
     },
     {
       "w": "pwon",
@@ -10734,7 +10734,7 @@
     },
     {
       "w": "hoen",
-      "p": "hh w eh n"
+      "p": "hh eh n"
     },
     {
       "w": "hwon",
@@ -10818,7 +10818,7 @@
     },
     {
       "w": "kkoen",
-      "p": "g w eh n"
+      "p": "g eh n"
     },
     {
       "w": "kkwon",
@@ -10902,7 +10902,7 @@
     },
     {
       "w": "ttoen",
-      "p": "d w eh n"
+      "p": "d eh n"
     },
     {
       "w": "ttwon",
@@ -10986,7 +10986,7 @@
     },
     {
       "w": "ppoen",
-      "p": "b w eh n"
+      "p": "b eh n"
     },
     {
       "w": "ppwon",
@@ -11006,171 +11006,171 @@
     },
     {
       "w": "ssan",
-      "p": "sh ae n"
+      "p": "s ae n"
     },
     {
       "w": "ssyan",
-      "p": "sh y ae n"
+      "p": "s y ae n"
     },
     {
       "w": "sseon",
-      "p": "sh ah n"
+      "p": "s ah n"
     },
     {
       "w": "ssyeon",
-      "p": "sh y ah n"
+      "p": "s y ah n"
     },
     {
       "w": "sson",
-      "p": "sh ao n"
+      "p": "s ao n"
     },
     {
       "w": "ssyon",
-      "p": "sh y ao n"
+      "p": "s y ao n"
     },
     {
       "w": "ssun",
-      "p": "sh uw n"
+      "p": "s uw n"
     },
     {
       "w": "ssyun",
-      "p": "sh y uw n"
+      "p": "s y uw n"
     },
     {
       "w": "sseun",
-      "p": "sh uh n"
+      "p": "s uh n"
     },
     {
       "w": "ssin",
-      "p": "sh iy n"
+      "p": "s iy n"
     },
     {
       "w": "ssaen",
-      "p": "sh eh n"
+      "p": "s eh n"
     },
     {
       "w": "ssyaen",
-      "p": "sh y eh n"
+      "p": "s y eh n"
     },
     {
       "w": "ssen",
-      "p": "sh eh n"
+      "p": "s eh n"
     },
     {
       "w": "ssyen",
-      "p": "sh y eh n"
+      "p": "s y eh n"
     },
     {
       "w": "sswan",
-      "p": "sh w ae n"
+      "p": "s w ae n"
     },
     {
       "w": "sswaen",
-      "p": "sh w eh n"
+      "p": "s w eh n"
     },
     {
       "w": "ssoen",
-      "p": "sh w eh n"
+      "p": "s eh n"
     },
     {
       "w": "sswon",
-      "p": "sh w ah n"
+      "p": "s w ah n"
     },
     {
       "w": "sswen",
-      "p": "sh w eh n"
+      "p": "s w eh n"
     },
     {
       "w": "sswin",
-      "p": "sh w iy n"
+      "p": "s w iy n"
     },
     {
       "w": "ssuin",
-      "p": "sh uh iy n"
+      "p": "s uh iy n"
     },
     {
       "w": "jjan",
-      "p": "zh ae n"
+      "p": "jh ae n"
     },
     {
       "w": "jjyan",
-      "p": "zh y ae n"
+      "p": "jh y ae n"
     },
     {
       "w": "jjeon",
-      "p": "zh ah n"
+      "p": "jh ah n"
     },
     {
       "w": "jjyeon",
-      "p": "zh y ah n"
+      "p": "jh y ah n"
     },
     {
       "w": "jjon",
-      "p": "zh ao n"
+      "p": "jh ao n"
     },
     {
       "w": "jjyon",
-      "p": "zh y ao n"
+      "p": "jh y ao n"
     },
     {
       "w": "jjun",
-      "p": "zh uw n"
+      "p": "jh uw n"
     },
     {
       "w": "jjyun",
-      "p": "zh y uw n"
+      "p": "jh y uw n"
     },
     {
       "w": "jjeun",
-      "p": "zh uh n"
+      "p": "jh uh n"
     },
     {
       "w": "jjin",
-      "p": "zh iy n"
+      "p": "jh iy n"
     },
     {
       "w": "jjaen",
-      "p": "zh eh n"
+      "p": "jh eh n"
     },
     {
       "w": "jjyaen",
-      "p": "zh y eh n"
+      "p": "jh y eh n"
     },
     {
       "w": "jjen",
-      "p": "zh eh n"
+      "p": "jh eh n"
     },
     {
       "w": "jjyen",
-      "p": "zh y eh n"
+      "p": "jh y eh n"
     },
     {
       "w": "jjwan",
-      "p": "zh w ae n"
+      "p": "jh w ae n"
     },
     {
       "w": "jjwaen",
-      "p": "zh w eh n"
+      "p": "jh w eh n"
     },
     {
       "w": "jjoen",
-      "p": "zh w eh n"
+      "p": "jh eh n"
     },
     {
       "w": "jjwon",
-      "p": "zh w ah n"
+      "p": "jh w ah n"
     },
     {
       "w": "jjwen",
-      "p": "zh w eh n"
+      "p": "jh w eh n"
     },
     {
       "w": "jjwin",
-      "p": "zh w iy n"
+      "p": "jh w iy n"
     },
     {
       "w": "jjuin",
-      "p": "zh uh iy n"
+      "p": "jh uh iy n"
     },
     {
       "w": "gang",
@@ -11238,7 +11238,7 @@
     },
     {
       "w": "goeng",
-      "p": "g w eh ng"
+      "p": "g eh ng"
     },
     {
       "w": "gwong",
@@ -11322,7 +11322,7 @@
     },
     {
       "w": "noeng",
-      "p": "n w eh ng"
+      "p": "n eh ng"
     },
     {
       "w": "nwong",
@@ -11406,7 +11406,7 @@
     },
     {
       "w": "doeng",
-      "p": "d w eh ng"
+      "p": "d eh ng"
     },
     {
       "w": "dwong",
@@ -11426,87 +11426,87 @@
     },
     {
       "w": "rang",
-      "p": "r ae ng"
+      "p": "dx ae ng"
     },
     {
       "w": "ryang",
-      "p": "r y ae ng"
+      "p": "dx y ae ng"
     },
     {
       "w": "reong",
-      "p": "r ah ng"
+      "p": "dx ah ng"
     },
     {
       "w": "ryeong",
-      "p": "r y ah ng"
+      "p": "dx y ah ng"
     },
     {
       "w": "rong",
-      "p": "r ao ng"
+      "p": "dx ao ng"
     },
     {
       "w": "ryong",
-      "p": "r y ao ng"
+      "p": "dx y ao ng"
     },
     {
       "w": "rung",
-      "p": "r uw ng"
+      "p": "dx uw ng"
     },
     {
       "w": "ryung",
-      "p": "r y uw ng"
+      "p": "dx y uw ng"
     },
     {
       "w": "reung",
-      "p": "r uh ng"
+      "p": "dx uh ng"
     },
     {
       "w": "ring",
-      "p": "r iy ng"
+      "p": "dx iy ng"
     },
     {
       "w": "raeng",
-      "p": "r eh ng"
+      "p": "dx eh ng"
     },
     {
       "w": "ryaeng",
-      "p": "r y eh ng"
+      "p": "dx y eh ng"
     },
     {
       "w": "reng",
-      "p": "r eh ng"
+      "p": "dx eh ng"
     },
     {
       "w": "ryeng",
-      "p": "r y eh ng"
+      "p": "dx y eh ng"
     },
     {
       "w": "rwang",
-      "p": "r w ae ng"
+      "p": "dx w ae ng"
     },
     {
       "w": "rwaeng",
-      "p": "r w eh ng"
+      "p": "dx w eh ng"
     },
     {
       "w": "roeng",
-      "p": "r w eh ng"
+      "p": "dx eh ng"
     },
     {
       "w": "rwong",
-      "p": "r w ah ng"
+      "p": "dx w ah ng"
     },
     {
       "w": "rweng",
-      "p": "r w eh ng"
+      "p": "dx w eh ng"
     },
     {
       "w": "rwing",
-      "p": "r w iy ng"
+      "p": "dx w iy ng"
     },
     {
       "w": "ruing",
-      "p": "r uh iy ng"
+      "p": "dx uh iy ng"
     },
     {
       "w": "mang",
@@ -11574,7 +11574,7 @@
     },
     {
       "w": "moeng",
-      "p": "m w eh ng"
+      "p": "m eh ng"
     },
     {
       "w": "mwong",
@@ -11658,7 +11658,7 @@
     },
     {
       "w": "boeng",
-      "p": "b w eh ng"
+      "p": "b eh ng"
     },
     {
       "w": "bwong",
@@ -11742,7 +11742,7 @@
     },
     {
       "w": "soeng",
-      "p": "s w eh ng"
+      "p": "s eh ng"
     },
     {
       "w": "swong",
@@ -11826,7 +11826,7 @@
     },
     {
       "w": "oeng",
-      "p": "w eh ng"
+      "p": "eh ng"
     },
     {
       "w": "wong",
@@ -11910,7 +11910,7 @@
     },
     {
       "w": "joeng",
-      "p": "ch w eh ng"
+      "p": "ch eh ng"
     },
     {
       "w": "jwong",
@@ -11994,7 +11994,7 @@
     },
     {
       "w": "choeng",
-      "p": "ch w eh ng"
+      "p": "ch eh ng"
     },
     {
       "w": "chwong",
@@ -12078,7 +12078,7 @@
     },
     {
       "w": "koeng",
-      "p": "k w eh ng"
+      "p": "k eh ng"
     },
     {
       "w": "kwong",
@@ -12162,7 +12162,7 @@
     },
     {
       "w": "toeng",
-      "p": "t w eh ng"
+      "p": "t eh ng"
     },
     {
       "w": "twong",
@@ -12246,7 +12246,7 @@
     },
     {
       "w": "poeng",
-      "p": "p w eh ng"
+      "p": "p eh ng"
     },
     {
       "w": "pwong",
@@ -12330,7 +12330,7 @@
     },
     {
       "w": "hoeng",
-      "p": "hh w eh ng"
+      "p": "hh eh ng"
     },
     {
       "w": "hwong",
@@ -12414,7 +12414,7 @@
     },
     {
       "w": "kkoeng",
-      "p": "g w eh ng"
+      "p": "g eh ng"
     },
     {
       "w": "kkwong",
@@ -12498,7 +12498,7 @@
     },
     {
       "w": "ttoeng",
-      "p": "d w eh ng"
+      "p": "d eh ng"
     },
     {
       "w": "ttwong",
@@ -12582,7 +12582,7 @@
     },
     {
       "w": "ppoeng",
-      "p": "b w eh ng"
+      "p": "b eh ng"
     },
     {
       "w": "ppwong",
@@ -12602,171 +12602,171 @@
     },
     {
       "w": "ssang",
-      "p": "sh ae ng"
+      "p": "s ae ng"
     },
     {
       "w": "ssyang",
-      "p": "sh y ae ng"
+      "p": "s y ae ng"
     },
     {
       "w": "sseong",
-      "p": "sh ah ng"
+      "p": "s ah ng"
     },
     {
       "w": "ssyeong",
-      "p": "sh y ah ng"
+      "p": "s y ah ng"
     },
     {
       "w": "ssong",
-      "p": "sh ao ng"
+      "p": "s ao ng"
     },
     {
       "w": "ssyong",
-      "p": "sh y ao ng"
+      "p": "s y ao ng"
     },
     {
       "w": "ssung",
-      "p": "sh uw ng"
+      "p": "s uw ng"
     },
     {
       "w": "ssyung",
-      "p": "sh y uw ng"
+      "p": "s y uw ng"
     },
     {
       "w": "sseung",
-      "p": "sh uh ng"
+      "p": "s uh ng"
     },
     {
       "w": "ssing",
-      "p": "sh iy ng"
+      "p": "s iy ng"
     },
     {
       "w": "ssaeng",
-      "p": "sh eh ng"
+      "p": "s eh ng"
     },
     {
       "w": "ssyaeng",
-      "p": "sh y eh ng"
+      "p": "s y eh ng"
     },
     {
       "w": "sseng",
-      "p": "sh eh ng"
+      "p": "s eh ng"
     },
     {
       "w": "ssyeng",
-      "p": "sh y eh ng"
+      "p": "s y eh ng"
     },
     {
       "w": "sswang",
-      "p": "sh w ae ng"
+      "p": "s w ae ng"
     },
     {
       "w": "sswaeng",
-      "p": "sh w eh ng"
+      "p": "s w eh ng"
     },
     {
       "w": "ssoeng",
-      "p": "sh w eh ng"
+      "p": "s eh ng"
     },
     {
       "w": "sswong",
-      "p": "sh w ah ng"
+      "p": "s w ah ng"
     },
     {
       "w": "ssweng",
-      "p": "sh w eh ng"
+      "p": "s w eh ng"
     },
     {
       "w": "sswing",
-      "p": "sh w iy ng"
+      "p": "s w iy ng"
     },
     {
       "w": "ssuing",
-      "p": "sh uh iy ng"
+      "p": "s uh iy ng"
     },
     {
       "w": "jjang",
-      "p": "zh ae ng"
+      "p": "jh ae ng"
     },
     {
       "w": "jjyang",
-      "p": "zh y ae ng"
+      "p": "jh y ae ng"
     },
     {
       "w": "jjeong",
-      "p": "zh ah ng"
+      "p": "jh ah ng"
     },
     {
       "w": "jjyeong",
-      "p": "zh y ah ng"
+      "p": "jh y ah ng"
     },
     {
       "w": "jjong",
-      "p": "zh ao ng"
+      "p": "jh ao ng"
     },
     {
       "w": "jjyong",
-      "p": "zh y ao ng"
+      "p": "jh y ao ng"
     },
     {
       "w": "jjung",
-      "p": "zh uw ng"
+      "p": "jh uw ng"
     },
     {
       "w": "jjyung",
-      "p": "zh y uw ng"
+      "p": "jh y uw ng"
     },
     {
       "w": "jjeung",
-      "p": "zh uh ng"
+      "p": "jh uh ng"
     },
     {
       "w": "jjing",
-      "p": "zh iy ng"
+      "p": "jh iy ng"
     },
     {
       "w": "jjaeng",
-      "p": "zh eh ng"
+      "p": "jh eh ng"
     },
     {
       "w": "jjyaeng",
-      "p": "zh y eh ng"
+      "p": "jh y eh ng"
     },
     {
       "w": "jjeng",
-      "p": "zh eh ng"
+      "p": "jh eh ng"
     },
     {
       "w": "jjyeng",
-      "p": "zh y eh ng"
+      "p": "jh y eh ng"
     },
     {
       "w": "jjwang",
-      "p": "zh w ae ng"
+      "p": "jh w ae ng"
     },
     {
       "w": "jjwaeng",
-      "p": "zh w eh ng"
+      "p": "jh w eh ng"
     },
     {
       "w": "jjoeng",
-      "p": "zh w eh ng"
+      "p": "jh eh ng"
     },
     {
       "w": "jjwong",
-      "p": "zh w ah ng"
+      "p": "jh w ah ng"
     },
     {
       "w": "jjweng",
-      "p": "zh w eh ng"
+      "p": "jh w eh ng"
     },
     {
       "w": "jjwing",
-      "p": "zh w iy ng"
+      "p": "jh w iy ng"
     },
     {
       "w": "jjuing",
-      "p": "zh uh iy ng"
+      "p": "jh uh iy ng"
     }
   ]
 }
