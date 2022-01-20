@@ -66,14 +66,14 @@
 	<VALUE name="bip" val="b i p"/>
 	<VALUE name="bit" val="b i t"/>
 	<VALUE name="bo" val="b o"/>
-	<VALUE name="boe" val="b w e"/>
-	<VALUE name="boek" val="b w e k"/>
-	<VALUE name="boel" val="b w e r"/>
-	<VALUE name="boem" val="b w e m"/>
-	<VALUE name="boen" val="b w e n"/>
-	<VALUE name="boeng" val="b w e N"/>
-	<VALUE name="boep" val="b w e p"/>
-	<VALUE name="boet" val="b w e t"/>
+	<VALUE name="boe" val="b e"/>
+	<VALUE name="boek" val="b e k"/>
+	<VALUE name="boel" val="b e r"/>
+	<VALUE name="boem" val="b e m"/>
+	<VALUE name="boen" val="b e n"/>
+	<VALUE name="boeng" val="b e N"/>
+	<VALUE name="boep" val="b e p"/>
+	<VALUE name="boet" val="b e t"/>
 	<VALUE name="bok" val="b o k"/>
 	<VALUE name="bol" val="b o r"/>
 	<VALUE name="bom" val="b o m"/>
@@ -234,14 +234,14 @@
 	<VALUE name="chip" val="ch i p"/>
 	<VALUE name="chit" val="ch i t"/>
 	<VALUE name="cho" val="ch o"/>
-	<VALUE name="choe" val="ch w e"/>
-	<VALUE name="choek" val="ch w e k"/>
-	<VALUE name="choel" val="ch w e r"/>
-	<VALUE name="choem" val="ch w e m"/>
-	<VALUE name="choen" val="ch w e n"/>
-	<VALUE name="choeng" val="ch w e N"/>
-	<VALUE name="choep" val="ch w e p"/>
-	<VALUE name="choet" val="ch w e t"/>
+	<VALUE name="choe" val="ch e"/>
+	<VALUE name="choek" val="ch e k"/>
+	<VALUE name="choel" val="ch e r"/>
+	<VALUE name="choem" val="ch e m"/>
+	<VALUE name="choen" val="ch e n"/>
+	<VALUE name="choeng" val="ch e N"/>
+	<VALUE name="choep" val="ch e p"/>
+	<VALUE name="choet" val="ch e t"/>
 	<VALUE name="chok" val="ch o k"/>
 	<VALUE name="chol" val="ch o r"/>
 	<VALUE name="chom" val="ch o m"/>
@@ -402,14 +402,14 @@
 	<VALUE name="dip" val="d i p"/>
 	<VALUE name="dit" val="d i t"/>
 	<VALUE name="do" val="d o"/>
-	<VALUE name="doe" val="d w e"/>
-	<VALUE name="doek" val="d w e k"/>
-	<VALUE name="doel" val="d w e r"/>
-	<VALUE name="doem" val="d w e m"/>
-	<VALUE name="doen" val="d w e n"/>
-	<VALUE name="doeng" val="d w e N"/>
-	<VALUE name="doep" val="d w e p"/>
-	<VALUE name="doet" val="d w e t"/>
+	<VALUE name="doe" val="d e"/>
+	<VALUE name="doek" val="d e k"/>
+	<VALUE name="doel" val="d e r"/>
+	<VALUE name="doem" val="d e m"/>
+	<VALUE name="doen" val="d e n"/>
+	<VALUE name="doeng" val="d e N"/>
+	<VALUE name="doep" val="d e p"/>
+	<VALUE name="doet" val="d e t"/>
 	<VALUE name="dok" val="d o k"/>
 	<VALUE name="dol" val="d o r"/>
 	<VALUE name="dom" val="d o m"/>
@@ -594,14 +594,14 @@
 	<VALUE name="gip" val="g i p"/>
 	<VALUE name="git" val="g i t"/>
 	<VALUE name="go" val="g o"/>
-	<VALUE name="goe" val="g w e"/>
-	<VALUE name="goek" val="g w e k"/>
-	<VALUE name="goel" val="g w e r"/>
-	<VALUE name="goem" val="g w e m"/>
-	<VALUE name="goen" val="g w e n"/>
-	<VALUE name="goeng" val="g w e N"/>
-	<VALUE name="goep" val="g w e p"/>
-	<VALUE name="goet" val="g w e t"/>
+	<VALUE name="goe" val="g e"/>
+	<VALUE name="goek" val="g e k"/>
+	<VALUE name="goel" val="g e r"/>
+	<VALUE name="goem" val="g e m"/>
+	<VALUE name="goen" val="g e n"/>
+	<VALUE name="goeng" val="g e N"/>
+	<VALUE name="goep" val="g e p"/>
+	<VALUE name="goet" val="g e t"/>
 	<VALUE name="gok" val="g o k"/>
 	<VALUE name="gol" val="g o r"/>
 	<VALUE name="gom" val="g o m"/>
@@ -762,14 +762,14 @@
 	<VALUE name="hip" val="h i p"/>
 	<VALUE name="hit" val="h i t"/>
 	<VALUE name="ho" val="h o"/>
-	<VALUE name="hoe" val="h w e"/>
-	<VALUE name="hoek" val="h w e k"/>
-	<VALUE name="hoel" val="h w e r"/>
-	<VALUE name="hoem" val="h w e m"/>
-	<VALUE name="hoen" val="h w e n"/>
-	<VALUE name="hoeng" val="h w e N"/>
-	<VALUE name="hoep" val="h w e p"/>
-	<VALUE name="hoet" val="h w e t"/>
+	<VALUE name="hoe" val="h e"/>
+	<VALUE name="hoek" val="h e k"/>
+	<VALUE name="hoel" val="h e r"/>
+	<VALUE name="hoem" val="h e m"/>
+	<VALUE name="hoen" val="h e n"/>
+	<VALUE name="hoeng" val="h e N"/>
+	<VALUE name="hoep" val="h e p"/>
+	<VALUE name="hoet" val="h e t"/>
 	<VALUE name="hok" val="h o k"/>
 	<VALUE name="hol" val="h o r"/>
 	<VALUE name="hom" val="h o m"/>
@@ -986,14 +986,14 @@
 	<VALUE name="jjip" val="ch i p"/>
 	<VALUE name="jjit" val="ch i t"/>
 	<VALUE name="jjo" val="ch o"/>
-	<VALUE name="jjoe" val="ch w e"/>
-	<VALUE name="jjoek" val="ch w e k"/>
-	<VALUE name="jjoel" val="ch w e r"/>
-	<VALUE name="jjoem" val="ch w e m"/>
-	<VALUE name="jjoen" val="ch w e n"/>
-	<VALUE name="jjoeng" val="ch w e N"/>
-	<VALUE name="jjoep" val="ch w e p"/>
-	<VALUE name="jjoet" val="ch w e t"/>
+	<VALUE name="jjoe" val="ch e"/>
+	<VALUE name="jjoek" val="ch e k"/>
+	<VALUE name="jjoel" val="ch e r"/>
+	<VALUE name="jjoem" val="ch e m"/>
+	<VALUE name="jjoen" val="ch e n"/>
+	<VALUE name="jjoeng" val="ch e N"/>
+	<VALUE name="jjoep" val="ch e p"/>
+	<VALUE name="jjoet" val="ch e t"/>
 	<VALUE name="jjok" val="ch o k"/>
 	<VALUE name="jjol" val="ch o r"/>
 	<VALUE name="jjom" val="ch o m"/>
@@ -1106,14 +1106,14 @@
 	<VALUE name="jjyup" val="ch y u p"/>
 	<VALUE name="jjyut" val="ch y u t"/>
 	<VALUE name="jo" val="ch o"/>
-	<VALUE name="joe" val="ch w e"/>
-	<VALUE name="joek" val="ch w e k"/>
-	<VALUE name="joel" val="ch w e r"/>
-	<VALUE name="joem" val="ch w e m"/>
-	<VALUE name="joen" val="ch w e n"/>
-	<VALUE name="joeng" val="ch w e N"/>
-	<VALUE name="joep" val="ch w e p"/>
-	<VALUE name="joet" val="ch w e t"/>
+	<VALUE name="joe" val="ch e"/>
+	<VALUE name="joek" val="ch e k"/>
+	<VALUE name="joel" val="ch e r"/>
+	<VALUE name="joem" val="ch e m"/>
+	<VALUE name="joen" val="ch e n"/>
+	<VALUE name="joeng" val="ch e N"/>
+	<VALUE name="joep" val="ch e p"/>
+	<VALUE name="joet" val="ch e t"/>
 	<VALUE name="jok" val="ch o k"/>
 	<VALUE name="jol" val="ch o r"/>
 	<VALUE name="jom" val="ch o m"/>
@@ -1322,14 +1322,14 @@
 	<VALUE name="kkip" val="g i p"/>
 	<VALUE name="kkit" val="g i t"/>
 	<VALUE name="kko" val="g o"/>
-	<VALUE name="kkoe" val="g w e"/>
-	<VALUE name="kkoek" val="g w e k"/>
-	<VALUE name="kkoel" val="g w e r"/>
-	<VALUE name="kkoem" val="g w e m"/>
-	<VALUE name="kkoen" val="g w e n"/>
-	<VALUE name="kkoeng" val="g w e N"/>
-	<VALUE name="kkoep" val="g w e p"/>
-	<VALUE name="kkoet" val="g w e t"/>
+	<VALUE name="kkoe" val="g e"/>
+	<VALUE name="kkoek" val="g e k"/>
+	<VALUE name="kkoel" val="g e r"/>
+	<VALUE name="kkoem" val="g e m"/>
+	<VALUE name="kkoen" val="g e n"/>
+	<VALUE name="kkoeng" val="g e N"/>
+	<VALUE name="kkoep" val="g e p"/>
+	<VALUE name="kkoet" val="g e t"/>
 	<VALUE name="kkok" val="g o k"/>
 	<VALUE name="kkol" val="g o r"/>
 	<VALUE name="kkom" val="g o m"/>
@@ -1442,14 +1442,14 @@
 	<VALUE name="kkyup" val="g y u p"/>
 	<VALUE name="kkyut" val="g y u t"/>
 	<VALUE name="ko" val="k o"/>
-	<VALUE name="koe" val="k w e"/>
-	<VALUE name="koek" val="k w e k"/>
-	<VALUE name="koel" val="k w e r"/>
-	<VALUE name="koem" val="k w e m"/>
-	<VALUE name="koen" val="k w e n"/>
-	<VALUE name="koeng" val="k w e N"/>
-	<VALUE name="koep" val="k w e p"/>
-	<VALUE name="koet" val="k w e t"/>
+	<VALUE name="koe" val="k e"/>
+	<VALUE name="koek" val="k e k"/>
+	<VALUE name="koel" val="k e r"/>
+	<VALUE name="koem" val="k e m"/>
+	<VALUE name="koen" val="k e n"/>
+	<VALUE name="koeng" val="k e N"/>
+	<VALUE name="koep" val="k e p"/>
+	<VALUE name="koet" val="k e t"/>
 	<VALUE name="kok" val="k o k"/>
 	<VALUE name="kol" val="k o r"/>
 	<VALUE name="kom" val="k o m"/>
@@ -1610,14 +1610,14 @@
 	<VALUE name="mip" val="m i p"/>
 	<VALUE name="mit" val="m i t"/>
 	<VALUE name="mo" val="m o"/>
-	<VALUE name="moe" val="m w e"/>
-	<VALUE name="moek" val="m w e k"/>
-	<VALUE name="moel" val="m w e r"/>
-	<VALUE name="moem" val="m w e m"/>
-	<VALUE name="moen" val="m w e n"/>
-	<VALUE name="moeng" val="m w e N"/>
-	<VALUE name="moep" val="m w e p"/>
-	<VALUE name="moet" val="m w e t"/>
+	<VALUE name="moe" val="m e"/>
+	<VALUE name="moek" val="m e k"/>
+	<VALUE name="moel" val="m e r"/>
+	<VALUE name="moem" val="m e m"/>
+	<VALUE name="moen" val="m e n"/>
+	<VALUE name="moeng" val="m e N"/>
+	<VALUE name="moep" val="m e p"/>
+	<VALUE name="moet" val="m e t"/>
 	<VALUE name="mok" val="m o k"/>
 	<VALUE name="mol" val="m o r"/>
 	<VALUE name="mom" val="m o m"/>
@@ -1778,14 +1778,14 @@
 	<VALUE name="nip" val="n i p"/>
 	<VALUE name="nit" val="n i t"/>
 	<VALUE name="no" val="n o"/>
-	<VALUE name="noe" val="n w e"/>
-	<VALUE name="noek" val="n w e k"/>
-	<VALUE name="noel" val="n w e r"/>
-	<VALUE name="noem" val="n w e m"/>
-	<VALUE name="noen" val="n w e n"/>
-	<VALUE name="noeng" val="n w e N"/>
-	<VALUE name="noep" val="n w e p"/>
-	<VALUE name="noet" val="n w e t"/>
+	<VALUE name="noe" val="n e"/>
+	<VALUE name="noek" val="n e k"/>
+	<VALUE name="noel" val="n e r"/>
+	<VALUE name="noem" val="n e m"/>
+	<VALUE name="noen" val="n e n"/>
+	<VALUE name="noeng" val="n e N"/>
+	<VALUE name="noep" val="n e p"/>
+	<VALUE name="noet" val="n e t"/>
 	<VALUE name="nok" val="n o k"/>
 	<VALUE name="nol" val="n o r"/>
 	<VALUE name="nom" val="n o m"/>
@@ -1898,14 +1898,14 @@
 	<VALUE name="nyup" val="n y u p"/>
 	<VALUE name="nyut" val="n y u t"/>
 	<VALUE name="o" val="o"/>
-	<VALUE name="oe" val="w e"/>
-	<VALUE name="oek" val="w e k"/>
-	<VALUE name="oel" val="w e r"/>
-	<VALUE name="oem" val="w e m"/>
-	<VALUE name="oen" val="w e n"/>
-	<VALUE name="oeng" val="w e N"/>
-	<VALUE name="oep" val="w e p"/>
-	<VALUE name="oet" val="w e t"/>
+	<VALUE name="oe" val="e"/>
+	<VALUE name="oek" val="e k"/>
+	<VALUE name="oel" val="e r"/>
+	<VALUE name="oem" val="e m"/>
+	<VALUE name="oen" val="e n"/>
+	<VALUE name="oeng" val="e N"/>
+	<VALUE name="oep" val="e p"/>
+	<VALUE name="oet" val="e t"/>
 	<VALUE name="ok" val="o k"/>
 	<VALUE name="ol" val="o r"/>
 	<VALUE name="om" val="o m"/>
@@ -1962,14 +1962,14 @@
 	<VALUE name="pip" val="p i p"/>
 	<VALUE name="pit" val="p i t"/>
 	<VALUE name="po" val="p o"/>
-	<VALUE name="poe" val="p w e"/>
-	<VALUE name="poek" val="p w e k"/>
-	<VALUE name="poel" val="p w e r"/>
-	<VALUE name="poem" val="p w e m"/>
-	<VALUE name="poen" val="p w e n"/>
-	<VALUE name="poeng" val="p w e N"/>
-	<VALUE name="poep" val="p w e p"/>
-	<VALUE name="poet" val="p w e t"/>
+	<VALUE name="poe" val="p e"/>
+	<VALUE name="poek" val="p e k"/>
+	<VALUE name="poel" val="p e r"/>
+	<VALUE name="poem" val="p e m"/>
+	<VALUE name="poen" val="p e n"/>
+	<VALUE name="poeng" val="p e N"/>
+	<VALUE name="poep" val="p e p"/>
+	<VALUE name="poet" val="p e t"/>
 	<VALUE name="pok" val="p o k"/>
 	<VALUE name="pol" val="p o r"/>
 	<VALUE name="pom" val="p o m"/>
@@ -2026,14 +2026,14 @@
 	<VALUE name="ppip" val="b i p"/>
 	<VALUE name="ppit" val="b i t"/>
 	<VALUE name="ppo" val="b o"/>
-	<VALUE name="ppoe" val="b w e"/>
-	<VALUE name="ppoek" val="b w e k"/>
-	<VALUE name="ppoel" val="b w e r"/>
-	<VALUE name="ppoem" val="b w e m"/>
-	<VALUE name="ppoen" val="b w e n"/>
-	<VALUE name="ppoeng" val="b w e N"/>
-	<VALUE name="ppoep" val="b w e p"/>
-	<VALUE name="ppoet" val="b w e t"/>
+	<VALUE name="ppoe" val="b e"/>
+	<VALUE name="ppoek" val="b e k"/>
+	<VALUE name="ppoel" val="b e r"/>
+	<VALUE name="ppoem" val="b e m"/>
+	<VALUE name="ppoen" val="b e n"/>
+	<VALUE name="ppoeng" val="b e N"/>
+	<VALUE name="ppoep" val="b e p"/>
+	<VALUE name="ppoet" val="b e t"/>
 	<VALUE name="ppok" val="b o k"/>
 	<VALUE name="ppol" val="b o r"/>
 	<VALUE name="ppom" val="b o m"/>
@@ -2298,14 +2298,14 @@
 	<VALUE name="rip" val="r i p"/>
 	<VALUE name="rit" val="r i t"/>
 	<VALUE name="ro" val="r o"/>
-	<VALUE name="roe" val="r w e"/>
-	<VALUE name="roek" val="r w e k"/>
-	<VALUE name="roel" val="r w e r"/>
-	<VALUE name="roem" val="r w e m"/>
-	<VALUE name="roen" val="r w e n"/>
-	<VALUE name="roeng" val="r w e N"/>
-	<VALUE name="roep" val="r w e p"/>
-	<VALUE name="roet" val="r w e t"/>
+	<VALUE name="roe" val="r e"/>
+	<VALUE name="roek" val="r e k"/>
+	<VALUE name="roel" val="r e r"/>
+	<VALUE name="roem" val="r e m"/>
+	<VALUE name="roen" val="r e n"/>
+	<VALUE name="roeng" val="r e N"/>
+	<VALUE name="roep" val="r e p"/>
+	<VALUE name="roet" val="r e t"/>
 	<VALUE name="rok" val="r o k"/>
 	<VALUE name="rol" val="r o r"/>
 	<VALUE name="rom" val="r o m"/>
@@ -2466,14 +2466,14 @@
 	<VALUE name="sip" val="s i p"/>
 	<VALUE name="sit" val="s i t"/>
 	<VALUE name="so" val="s o"/>
-	<VALUE name="soe" val="s w e"/>
-	<VALUE name="soek" val="s w e k"/>
-	<VALUE name="soel" val="s w e r"/>
-	<VALUE name="soem" val="s w e m"/>
-	<VALUE name="soen" val="s w e n"/>
-	<VALUE name="soeng" val="s w e N"/>
-	<VALUE name="soep" val="s w e p"/>
-	<VALUE name="soet" val="s w e t"/>
+	<VALUE name="soe" val="s e"/>
+	<VALUE name="soek" val="s e k"/>
+	<VALUE name="soel" val="s e r"/>
+	<VALUE name="soem" val="s e m"/>
+	<VALUE name="soen" val="s e n"/>
+	<VALUE name="soeng" val="s e N"/>
+	<VALUE name="soep" val="s e p"/>
+	<VALUE name="soet" val="s e t"/>
 	<VALUE name="sok" val="s o k"/>
 	<VALUE name="sol" val="s o r"/>
 	<VALUE name="som" val="s o m"/>
@@ -2530,14 +2530,14 @@
 	<VALUE name="ssip" val="s i p"/>
 	<VALUE name="ssit" val="s i t"/>
 	<VALUE name="sso" val="s o"/>
-	<VALUE name="ssoe" val="s w e"/>
-	<VALUE name="ssoek" val="s w e k"/>
-	<VALUE name="ssoel" val="s w e r"/>
-	<VALUE name="ssoem" val="s w e m"/>
-	<VALUE name="ssoen" val="s w e n"/>
-	<VALUE name="ssoeng" val="s w e N"/>
-	<VALUE name="ssoep" val="s w e p"/>
-	<VALUE name="ssoet" val="s w e t"/>
+	<VALUE name="ssoe" val="s e"/>
+	<VALUE name="ssoek" val="s e k"/>
+	<VALUE name="ssoel" val="s e r"/>
+	<VALUE name="ssoem" val="s e m"/>
+	<VALUE name="ssoen" val="s e n"/>
+	<VALUE name="ssoeng" val="s e N"/>
+	<VALUE name="ssoep" val="s e p"/>
+	<VALUE name="ssoet" val="s e t"/>
 	<VALUE name="ssok" val="s o k"/>
 	<VALUE name="ssol" val="s o r"/>
 	<VALUE name="ssom" val="s o m"/>
@@ -2802,14 +2802,14 @@
 	<VALUE name="tip" val="t i p"/>
 	<VALUE name="tit" val="t i t"/>
 	<VALUE name="to" val="t o"/>
-	<VALUE name="toe" val="t w e"/>
-	<VALUE name="toek" val="t w e k"/>
-	<VALUE name="toel" val="t w e r"/>
-	<VALUE name="toem" val="t w e m"/>
-	<VALUE name="toen" val="t w e n"/>
-	<VALUE name="toeng" val="t w e N"/>
-	<VALUE name="toep" val="t w e p"/>
-	<VALUE name="toet" val="t w e t"/>
+	<VALUE name="toe" val="t e"/>
+	<VALUE name="toek" val="t e k"/>
+	<VALUE name="toel" val="t e r"/>
+	<VALUE name="toem" val="t e m"/>
+	<VALUE name="toen" val="t e n"/>
+	<VALUE name="toeng" val="t e N"/>
+	<VALUE name="toep" val="t e p"/>
+	<VALUE name="toet" val="t e t"/>
 	<VALUE name="tok" val="t o k"/>
 	<VALUE name="tol" val="t o r"/>
 	<VALUE name="tom" val="t o m"/>
@@ -2866,14 +2866,14 @@
 	<VALUE name="ttip" val="d i p"/>
 	<VALUE name="ttit" val="d i t"/>
 	<VALUE name="tto" val="d o"/>
-	<VALUE name="ttoe" val="d w e"/>
-	<VALUE name="ttoek" val="d w e k"/>
-	<VALUE name="ttoel" val="d w e r"/>
-	<VALUE name="ttoem" val="d w e m"/>
-	<VALUE name="ttoen" val="d w e n"/>
-	<VALUE name="ttoeng" val="d w e N"/>
-	<VALUE name="ttoep" val="d w e p"/>
-	<VALUE name="ttoet" val="d w e t"/>
+	<VALUE name="ttoe" val="d e"/>
+	<VALUE name="ttoek" val="d e k"/>
+	<VALUE name="ttoel" val="d e r"/>
+	<VALUE name="ttoem" val="d e m"/>
+	<VALUE name="ttoen" val="d e n"/>
+	<VALUE name="ttoeng" val="d e N"/>
+	<VALUE name="ttoep" val="d e p"/>
+	<VALUE name="ttoet" val="d e t"/>
 	<VALUE name="ttok" val="d o k"/>
 	<VALUE name="ttol" val="d o r"/>
 	<VALUE name="ttom" val="d o m"/>
