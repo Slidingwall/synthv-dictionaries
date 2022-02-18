@@ -476,9 +476,9 @@
 	<VALUE name="guan" val="g w ae n"/>
 	<VALUE name="kuan" val="k w ae n"/>
 	<VALUE name="huan" val="hh w ae n"/>
-	<VALUE name="juan" val="ch iy eh n"/>
-	<VALUE name="quan" val="ch iy eh n"/>
-	<VALUE name="xuan" val="sh iy eh n"/>
+	<VALUE name="juan" val="ch iy ae n"/>
+	<VALUE name="quan" val="ch iy ae n"/>
+	<VALUE name="xuan" val="sh iy ae n"/>
 	<VALUE name="zhuan" val="jh w ae n"/>
 	<VALUE name="chuan" val="ch w ae n"/>
 	<VALUE name="shuan" val="sh w ae n"/>
@@ -497,9 +497,9 @@
 	<VALUE name="gun" val="g w ax n"/>
 	<VALUE name="kun" val="k w ax n"/>
 	<VALUE name="hun" val="hh w ax n"/>
-	<VALUE name="jun" val="ch iy ae n"/>
-	<VALUE name="qun" val="ch iy ae n"/>
-	<VALUE name="xun" val="sh iy ae n"/>
+	<VALUE name="jun" val="ch iy eh n"/>
+	<VALUE name="qun" val="ch iy eh n"/>
+	<VALUE name="xun" val="sh iy eh n"/>
 	<VALUE name="zhun" val="jh w ax n"/>
 	<VALUE name="chun" val="ch w ax n"/>
 	<VALUE name="shun" val="sh w ax n"/>
@@ -588,48 +588,48 @@
 	<VALUE name="cyu" val="t s iy"/>
 	<VALUE name="sv" val="s iy"/>
 	<VALUE name="syu" val="s iy"/>
-	<VALUE name="bve" val="b iy ae"/>
-	<VALUE name="bue" val="b iy ae"/>
-	<VALUE name="pve" val="p iy ae"/>
-	<VALUE name="pue" val="p iy ae"/>
-	<VALUE name="mve" val="m iy ae"/>
-	<VALUE name="mue" val="m iy ae"/>
-	<VALUE name="fve" val="f iy ae"/>
-	<VALUE name="fue" val="f iy ae"/>
-	<VALUE name="dve" val="d iy ae"/>
-	<VALUE name="due" val="d iy ae"/>
-	<VALUE name="tve" val="t iy ae"/>
-	<VALUE name="tue" val="t iy ae"/>
-	<VALUE name="nve" val="n iy ae"/>
-	<VALUE name="nue" val="n iy ae"/>
-	<VALUE name="lve" val="l iy ae"/>
-	<VALUE name="lue" val="l iy ae"/>
-	<VALUE name="gve" val="g iy ae"/>
-	<VALUE name="gue" val="g iy ae"/>
-	<VALUE name="kve" val="k iy ae"/>
-	<VALUE name="kue" val="k iy ae"/>
-	<VALUE name="hve" val="hh iy ae"/>
-	<VALUE name="hue" val="hh iy ae"/>
-	<VALUE name="jve" val="ch iy ae"/>
-	<VALUE name="jue" val="ch iy ae"/>
-	<VALUE name="qve" val="ch iy ae"/>
-	<VALUE name="que" val="ch iy ae"/>
-	<VALUE name="xve" val="sh iy ae"/>
-	<VALUE name="xue" val="sh iy ae"/>
-	<VALUE name="zhve" val="jh iy ae"/>
-	<VALUE name="zhue" val="jh iy ae"/>
-	<VALUE name="chve" val="ch iy ae"/>
-	<VALUE name="chue" val="ch iy ae"/>
-	<VALUE name="shve" val="sh iy ae"/>
-	<VALUE name="shue" val="sh iy ae"/>
-	<VALUE name="rve" val="zh iy ae"/>
-	<VALUE name="rue" val="zh iy ae"/>
-	<VALUE name="zve" val="z iy ae"/>
-	<VALUE name="zue" val="z iy ae"/>
-	<VALUE name="cve" val="t s iy ae"/>
-	<VALUE name="cue" val="t s iy ae"/>
-	<VALUE name="sve" val="s iy ae"/>
-	<VALUE name="sue" val="s iy ae"/>
+	<VALUE name="bve" val="b iy eh"/>
+	<VALUE name="bue" val="b iy eh"/>
+	<VALUE name="pve" val="p iy eh"/>
+	<VALUE name="pue" val="p iy eh"/>
+	<VALUE name="mve" val="m iy eh"/>
+	<VALUE name="mue" val="m iy eh"/>
+	<VALUE name="fve" val="f iy eh"/>
+	<VALUE name="fue" val="f iy eh"/>
+	<VALUE name="dve" val="d iy eh"/>
+	<VALUE name="due" val="d iy eh"/>
+	<VALUE name="tve" val="t iy eh"/>
+	<VALUE name="tue" val="t iy eh"/>
+	<VALUE name="nve" val="n iy eh"/>
+	<VALUE name="nue" val="n iy eh"/>
+	<VALUE name="lve" val="l iy eh"/>
+	<VALUE name="lue" val="l iy eh"/>
+	<VALUE name="gve" val="g iy eh"/>
+	<VALUE name="gue" val="g iy eh"/>
+	<VALUE name="kve" val="k iy eh"/>
+	<VALUE name="kue" val="k iy eh"/>
+	<VALUE name="hve" val="hh iy eh"/>
+	<VALUE name="hue" val="hh iy eh"/>
+	<VALUE name="jve" val="ch iy eh"/>
+	<VALUE name="jue" val="ch iy eh"/>
+	<VALUE name="qve" val="ch iy eh"/>
+	<VALUE name="que" val="ch iy eh"/>
+	<VALUE name="xve" val="sh iy eh"/>
+	<VALUE name="xue" val="sh iy eh"/>
+	<VALUE name="zhve" val="jh iy eh"/>
+	<VALUE name="zhue" val="jh iy eh"/>
+	<VALUE name="chve" val="ch iy eh"/>
+	<VALUE name="chue" val="ch iy eh"/>
+	<VALUE name="shve" val="sh iy eh"/>
+	<VALUE name="shue" val="sh iy eh"/>
+	<VALUE name="rve" val="zh iy eh"/>
+	<VALUE name="rue" val="zh iy eh"/>
+	<VALUE name="zve" val="z iy eh"/>
+	<VALUE name="zue" val="z iy eh"/>
+	<VALUE name="cve" val="t s iy eh"/>
+	<VALUE name="cue" val="t s iy eh"/>
+	<VALUE name="sve" val="s iy eh"/>
+	<VALUE name="sue" val="s iy eh"/>
 	<VALUE name="biong" val="b y uh ng"/>
 	<VALUE name="piong" val="p y uh ng"/>
 	<VALUE name="miong" val="m y uh ng"/>
@@ -707,14 +707,14 @@
 	<VALUE name="uang" val="w aa ng"/>
 	<VALUE name="weng" val="w ax ng"/>
 	<VALUE name="wong" val="w uh ng"/>
-	<VALUE name="yue" val="y iy ae"/>
-	<VALUE name="ue" val="y iy ae"/>
-	<VALUE name="yve" val="y iy ae"/>
-	<VALUE name="ve" val="y iy ae"/>
-	<VALUE name="yuan" val="y iy eh n"/>
-	<VALUE name="van" val="y iy ae n"/>
-	<VALUE name="yun" val="y iy ae n"/>
-	<VALUE name="vn" val="y iy ae n"/>
+	<VALUE name="yue" val="y iy eh"/>
+	<VALUE name="ue" val="y iy eh"/>
+	<VALUE name="yve" val="y iy eh"/>
+	<VALUE name="ve" val="y iy eh"/>
+	<VALUE name="yuan" val="y iy ae n"/>
+	<VALUE name="van" val="y iy eh n"/>
+	<VALUE name="yun" val="y iy eh n"/>
+	<VALUE name="vn" val="y iy eh n"/>
 	<VALUE name="yong" val="y uh ng"/>
 	<VALUE name="iong" val="y uh ng"/>
 </PROPERTIES>
