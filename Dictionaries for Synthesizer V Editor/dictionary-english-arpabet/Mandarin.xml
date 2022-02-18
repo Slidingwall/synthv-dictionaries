@@ -304,20 +304,20 @@
 	<VALUE name="jiu" val="ch y ax uh"/>
 	<VALUE name="qiu" val="ch y ax uh"/>
 	<VALUE name="xiu" val="sh y ax uh"/>
-	<VALUE name="bian" val="b y ae n"/>
-	<VALUE name="pian" val="p y ae n"/>
-	<VALUE name="mian" val="m y ae n"/>
-	<VALUE name="fian" val="f y ae n"/>
-	<VALUE name="dian" val="d y ae n"/>
-	<VALUE name="tian" val="t y ae n"/>
-	<VALUE name="nian" val="n y ae n"/>
-	<VALUE name="lian" val="l y ae n"/>
-	<VALUE name="gian" val="g y ae n"/>
-	<VALUE name="kian" val="k y ae n"/>
-	<VALUE name="hian" val="hh y ae n"/>
-	<VALUE name="jian" val="ch y ae n"/>
-	<VALUE name="qian" val="ch y ae n"/>
-	<VALUE name="xian" val="sh y ae n"/>
+	<VALUE name="bian" val="b y eh n"/>
+	<VALUE name="pian" val="p y eh n"/>
+	<VALUE name="mian" val="m y eh n"/>
+	<VALUE name="fian" val="f y eh n"/>
+	<VALUE name="dian" val="d y eh n"/>
+	<VALUE name="tian" val="t y eh n"/>
+	<VALUE name="nian" val="n y eh n"/>
+	<VALUE name="lian" val="l y eh n"/>
+	<VALUE name="gian" val="g y eh n"/>
+	<VALUE name="kian" val="k y eh n"/>
+	<VALUE name="hian" val="hh y eh n"/>
+	<VALUE name="jian" val="ch y eh n"/>
+	<VALUE name="qian" val="ch y eh n"/>
+	<VALUE name="xian" val="sh y eh n"/>
 	<VALUE name="bin" val="b iy n"/>
 	<VALUE name="pin" val="p iy n"/>
 	<VALUE name="min" val="m iy n"/>
@@ -476,9 +476,9 @@
 	<VALUE name="guan" val="g w ae n"/>
 	<VALUE name="kuan" val="k w ae n"/>
 	<VALUE name="huan" val="hh w ae n"/>
-	<VALUE name="juan" val="ch iy ae n"/>
-	<VALUE name="quan" val="ch iy ae n"/>
-	<VALUE name="xuan" val="sh iy ae n"/>
+	<VALUE name="juan" val="ch iy eh n"/>
+	<VALUE name="quan" val="ch iy eh n"/>
+	<VALUE name="xuan" val="sh iy eh n"/>
 	<VALUE name="zhuan" val="jh w ae n"/>
 	<VALUE name="chuan" val="ch w ae n"/>
 	<VALUE name="shuan" val="sh w ae n"/>
@@ -683,7 +683,7 @@
 	<VALUE name="you" val="y ax uh"/>
 	<VALUE name="iou" val="y ax uh"/>
 	<VALUE name="yan" val="y ae n"/>
-	<VALUE name="ian" val="y ae n"/>
+	<VALUE name="ian" val="y eh n"/>
 	<VALUE name="yin" val="y iy n"/>
 	<VALUE name="in" val="y iy n"/>
 	<VALUE name="yang" val="y aa ng"/>
@@ -711,7 +711,7 @@
 	<VALUE name="ue" val="y iy ae"/>
 	<VALUE name="yve" val="y iy ae"/>
 	<VALUE name="ve" val="y iy ae"/>
-	<VALUE name="yuan" val="y iy ae n"/>
+	<VALUE name="yuan" val="y iy eh n"/>
 	<VALUE name="van" val="y iy ae n"/>
 	<VALUE name="yun" val="y iy ae n"/>
 	<VALUE name="vn" val="y iy ae n"/>
