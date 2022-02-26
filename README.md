@@ -30,9 +30,9 @@ All these dictionaries' demos and examples are on [GitHub Pages](https://sliding
 | Japanese 日语                                             | Korean 韩语 *                                 | Still in developing. 仍在开发中。 |
 | English 英语                                              | Korean 韩语 *                                 | Still in developing. 仍在开发中。 |
 
-> **Note*: For Korean, *Revised Romanization of Korean* is used for input, and the phonetic change when the final sound and the initial sound are combined is not supported during input.
+> **Note*: For Korean, Hangul included in *KS X 1001* and *Revised Romanization of Korean* is used for input, and the phonetic change when the final sound and the initial sound are combined is not supported during input. Please replace consonant `r` by `l` while inputing.
 
-> **注意*：对于朝鲜语，采用《文化观光部2000年式（国语罗马字表记法）》进行输入，暂不支持终声和初声组合时的转写变化。
+> **注意*：对于朝鲜语，采用《KS X 1001》包含的谚文及《文化观光部2000年式（国语罗马字表记法）》进行输入，暂不支持终声和初声组合时的转写变化。输入时，请将辅音`r`用`l`代替。
 
 ## Notes 附注
 
