@@ -18734,12 +18734,16 @@
     },
     {
       "w": "heus",
-      "p": "hh",
-      "uh" "t",
-      "}, {
+      "p": "hh uh t"
+      }, 
+      {
         "w": "heung",
         "p": "hh uh ng"
       },
+      {
+        "w": "heut",
+        "p": "hh uh t"
+        }, 
       {
         "w": "hui",
         "p": "hh uh iy"
