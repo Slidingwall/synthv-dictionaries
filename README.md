@@ -1,22 +1,24 @@
 # synthv-dictionaries
 
-Interlingual user dictionary of Synthesizer V.   
+Interlingual user dictionary of Synthesizer V.
 Synthesizer V的跨语言用户词典。
 
-Visit our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries), or see the companion repository [for Vocaloid! (Still in develpoment)](https://github.com/Slidingwall/vocaloid-dictionaries)   
-访问我们的[GitHub 页面](https://slidingwall.github.io/synthv-dictionaries)，或是看看适用于Vocaloid的[姐妹项目](https://github.com/Slidingwall/vocaloid-dictionaries)！  
+Visit our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries), or see the companion repository [for Vocaloid! (Still in develpoment)](https://github.com/Slidingwall/vocaloid-dictionaries)
+访问我们的[GitHub 页面](https://slidingwall.github.io/synthv-dictionaries)，或是看看适用于Vocaloid的[姐妹项目](https://github.com/Slidingwall/vocaloid-dictionaries)！
 
 ## How to use 如何使用
-Floder's name means the generation of Synthesizer V and the language of your voicebank. For example, `dictionary-japanese-romaji` means Japanese voicebanks for Synthesizer V Editor, `english-arpabet` means English voicebank for Synthesier V Studio.  
-文件夹的名称代表 Synthesizer V 编辑器的版本和语音库的语言。例如，`dictionary-japanese-romaji` 是指 Synthesizer V Editor的日语语音库， `english-arpabet` 是指Synthesier V Studio的英语语音库。  
-The file name means the language you want to sing from the voicebank. For example, `Mandarin.json` or `Mandarin.xml` means this dictionary will let the voicebank singing Mandarin.  
+
+Floder's name means the generation of Synthesizer V and the language of your voicebank. For example, `dictionary-japanese-romaji` means Japanese voicebanks for Synthesizer V Editor, `english-arpabet` means English voicebank for Synthesier V Studio.
+文件夹的名称代表 Synthesizer V 编辑器的版本和语音库的语言。例如，`dictionary-japanese-romaji` 是指 Synthesizer V Editor的日语语音库， `english-arpabet` 是指Synthesier V Studio的英语语音库。
+The file name means the language you want to sing from the voicebank. For example, `Mandarin.json` or `Mandarin.xml` means this dictionary will let the voicebank singing Mandarin.
 文件的名称代表你想让语音库唱出的语言，例如，`Mandarin.json` 或者 `Mandarin.xml`意味着这个字典将会让您的语音库唱出普通话。
 
-For detail instruction, please see the manual on our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/manual).  
-详细教程，请查看[GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/manual)。  
+For detail instruction, please see the manual on our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/manual).
+详细教程，请查看[GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/manual)。
 
 ## Released dictionaries 已公开字典
-All these dictionaries' demos and examples are on [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo.html), including before and after comparisons and some sample songs.   
+
+All these dictionaries' demos and examples are on [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo.html), including before and after comparisons and some sample songs.
 这些字典的演示和用例都在 [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo.html) 中，包括使用前后的对比和一些歌曲样本。
 
 | Oringinal Language (Voice library)<br />原始语言 (语音库) | Target Language (Lyrics)<br />目标语言 (歌词) | Notes<br />备注                   |
@@ -30,9 +32,9 @@ All these dictionaries' demos and examples are on [GitHub Pages](https://sliding
 | Japanese 日语                                             | Korean 韩语 *                                 | Still in developing. 仍在开发中。 |
 | English 英语                                              | Korean 韩语 *                                 | Still in developing. 仍在开发中。 |
 
-> **Note*: For Korean, Hangul included in *KS X 1001* and *Revised Romanization of Korean* is used for input, and the phonetic change when the final sound and the initial sound are combined is not supported during input. Please replace consonant `r` by `l` while inputing.
+> **Note*: For Korean, Hangul included in *[KS X 1001](https://en.wikipedia.org/wiki/KS_X_1001)* and *[Revised Romanization of Korean](https://en.wikipedia.org/wiki/Revised_Romanization_of_Korean)* is used for input, and consonant assimilation is not supported during Hangul input, you can use the revised romanation which transcribed the phonetic changes instead. Please replace consonant `r` by `l` while inputing.
 
-> **注意*：对于朝鲜语，采用《KS X 1001》包含的谚文及《文化观光部2000年式（国语罗马字表记法）》进行输入，暂不支持终声和初声组合时的转写变化。输入时，请将辅音`r`用`l`代替。
+> **注意*：对于朝鲜语，采用[KS X 1001](https://zh.wikipedia.org/wiki/KS_X_1001)包含的谚文及 [文化观光部2000年式（国语罗马字表记法）](https://zh.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E8%A7%82%E5%85%89%E9%83%A82000%E5%B9%B4%E5%BC%8F) 进行输入，使用谚文输入时，不支持转换辅音音变，您可以用记录下音变的罗马字来代替。输入时，请将辅音 `r`用 `l`代替。
 
 ## Notes 附注
 
@@ -50,9 +52,9 @@ As all characters included in Synthesizer V Editor have received sound library u
 
 #### Any contributions are welcome.  欢迎任何形式的贡献。`
 
-***
+---
 
-Author: Slidingwall ([Bilibili](https://space.bilibili.com/141232009))  
-作者：Slidingwall（[哔哩哔哩](https://space.bilibili.com/141232009)）  
+Author: Slidingwall ([Bilibili](https://space.bilibili.com/141232009))
+作者：Slidingwall（[哔哩哔哩](https://space.bilibili.com/141232009)）
 
-***
+---
