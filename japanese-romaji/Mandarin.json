@@ -866,7 +866,7 @@
     },
     {
       "w": "ji",
-      "p": "ch i"
+      "p": "j i"
     },
     {
       "w": "qi",
@@ -922,11 +922,11 @@
     },
     {
       "w": "jia",
-      "p": "ch i a"
+      "p": "j y a"
     },
     {
       "w": "qia",
-      "p": "ch i a"
+      "p": "ch y a"
     },
     {
       "w": "xia",
@@ -978,11 +978,11 @@
     },
     {
       "w": "jio",
-      "p": "ch i a w"
+      "p": "j y a w"
     },
     {
       "w": "qio",
-      "p": "ch i a w"
+      "p": "ch y a w"
     },
     {
       "w": "xio",
@@ -1034,11 +1034,11 @@
     },
     {
       "w": "jie",
-      "p": "ch i e"
+      "p": "j y e"
     },
     {
       "w": "qie",
-      "p": "ch i e"
+      "p": "ch y e"
     },
     {
       "w": "xie",
@@ -1090,11 +1090,11 @@
     },
     {
       "w": "jiai",
-      "p": "ch i a e i"
+      "p": "j y a e i"
     },
     {
       "w": "qiai",
-      "p": "ch i a e i"
+      "p": "ch y a e i"
     },
     {
       "w": "xiai",
@@ -1146,11 +1146,11 @@
     },
     {
       "w": "jiao",
-      "p": "ch i a w"
+      "p": "j y a w"
     },
     {
       "w": "qiao",
-      "p": "ch i a w"
+      "p": "ch y a w"
     },
     {
       "w": "xiao",
@@ -1202,11 +1202,11 @@
     },
     {
       "w": "jiu",
-      "p": "ch i o w"
+      "p": "j y o w"
     },
     {
       "w": "qiu",
-      "p": "ch i o w"
+      "p": "ch y o w"
     },
     {
       "w": "xiu",
@@ -1258,11 +1258,11 @@
     },
     {
       "w": "jian",
-      "p": "ch i e n"
+      "p": "j y e n"
     },
     {
       "w": "qian",
-      "p": "ch i e n"
+      "p": "ch y e n"
     },
     {
       "w": "xian",
@@ -1314,7 +1314,7 @@
     },
     {
       "w": "jin",
-      "p": "ch i n"
+      "p": "j i n"
     },
     {
       "w": "qin",
@@ -1370,11 +1370,11 @@
     },
     {
       "w": "jiang",
-      "p": "ch i a N"
+      "p": "j y a N"
     },
     {
       "w": "qiang",
-      "p": "ch i a N"
+      "p": "ch y a N"
     },
     {
       "w": "xiang",
@@ -1426,7 +1426,7 @@
     },
     {
       "w": "jing",
-      "p": "ch i N"
+      "p": "j i N"
     },
     {
       "w": "qing",
@@ -1482,11 +1482,11 @@
     },
     {
       "w": "ju",
-      "p": "ch i u"
+      "p": "j y u"
     },
     {
       "w": "qu",
-      "p": "ch i u"
+      "p": "ch y u"
     },
     {
       "w": "xu",
@@ -1566,7 +1566,7 @@
     },
     {
       "w": "jua",
-      "p": "ch w a"
+      "p": "j w a"
     },
     {
       "w": "qua",
@@ -1650,7 +1650,7 @@
     },
     {
       "w": "juo",
-      "p": "ch w o"
+      "p": "j w o"
     },
     {
       "w": "quo",
@@ -1734,7 +1734,7 @@
     },
     {
       "w": "juai",
-      "p": "ch w a e i"
+      "p": "j w a e i"
     },
     {
       "w": "quai",
@@ -1818,7 +1818,7 @@
     },
     {
       "w": "jui",
-      "p": "ch w e i"
+      "p": "j w e i"
     },
     {
       "w": "qui",
@@ -1902,11 +1902,11 @@
     },
     {
       "w": "juan",
-      "p": "ch i u e n"
+      "p": "j y u e n"
     },
     {
       "w": "quan",
-      "p": "ch i u e n"
+      "p": "ch y u e n"
     },
     {
       "w": "xuan",
@@ -1986,11 +1986,11 @@
     },
     {
       "w": "jun",
-      "p": "ch i u n"
+      "p": "j y u n"
     },
     {
       "w": "qun",
-      "p": "ch i u n"
+      "p": "ch y u n"
     },
     {
       "w": "xun",
@@ -2070,7 +2070,7 @@
     },
     {
       "w": "juang",
-      "p": "ch w a N"
+      "p": "j w a N"
     },
     {
       "w": "quang",
@@ -2110,75 +2110,75 @@
     },
     {
       "w": "bong",
-      "p": "b o N"
+      "p": "b u N"
     },
     {
       "w": "pong",
-      "p": "p o N"
+      "p": "p u N"
     },
     {
       "w": "mong",
-      "p": "m o N"
+      "p": "m u N"
     },
     {
       "w": "fong",
-      "p": "f o N"
+      "p": "f u N"
     },
     {
       "w": "dong",
-      "p": "d o N"
+      "p": "d u N"
     },
     {
       "w": "tong",
-      "p": "t o N"
+      "p": "t u N"
     },
     {
       "w": "nong",
-      "p": "n o N"
+      "p": "n u N"
     },
     {
       "w": "long",
-      "p": "r o N"
+      "p": "r u N"
     },
     {
       "w": "gong",
-      "p": "g o N"
+      "p": "g u N"
     },
     {
       "w": "kong",
-      "p": "k o N"
+      "p": "k u N"
     },
     {
       "w": "hong",
-      "p": "h o N"
+      "p": "h u N"
     },
     {
       "w": "zhong",
-      "p": "j o N"
+      "p": "j u N"
     },
     {
       "w": "chong",
-      "p": "ch o N"
+      "p": "ch u N"
     },
     {
       "w": "shong",
-      "p": "sh o N"
+      "p": "sh u N"
     },
     {
       "w": "rong",
-      "p": "j o N"
+      "p": "j u N"
     },
     {
       "w": "zong",
-      "p": "z o N"
+      "p": "z u N"
     },
     {
       "w": "cong",
-      "p": "ts o N"
+      "p": "ts u N"
     },
     {
       "w": "song",
-      "p": "s o N"
+      "p": "s u N"
     },
     {
       "w": "bv",
@@ -2270,19 +2270,19 @@
     },
     {
       "w": "jv",
-      "p": "ch i u"
+      "p": "j y u"
     },
     {
       "w": "jyu",
-      "p": "ch i u"
+      "p": "j y u"
     },
     {
       "w": "qv",
-      "p": "ch i u"
+      "p": "ch y u"
     },
     {
       "w": "qyu",
-      "p": "ch i u"
+      "p": "ch y u"
     },
     {
       "w": "xv",
@@ -2302,11 +2302,11 @@
     },
     {
       "w": "chv",
-      "p": "ch i u"
+      "p": "ch y u"
     },
     {
       "w": "chyu",
-      "p": "ch i u"
+      "p": "ch y u"
     },
     {
       "w": "shv",
@@ -2438,19 +2438,19 @@
     },
     {
       "w": "jve",
-      "p": "ch i u e"
+      "p": "j y u e"
     },
     {
       "w": "jue",
-      "p": "ch i u e"
+      "p": "j y u e"
     },
     {
       "w": "qve",
-      "p": "ch i u e"
+      "p": "ch y u e"
     },
     {
       "w": "que",
-      "p": "ch i u e"
+      "p": "ch y u e"
     },
     {
       "w": "xve",
@@ -2470,11 +2470,11 @@
     },
     {
       "w": "chve",
-      "p": "ch i u e"
+      "p": "ch y u e"
     },
     {
       "w": "chue",
-      "p": "ch i u e"
+      "p": "ch y u e"
     },
     {
       "w": "shve",
@@ -2518,87 +2518,87 @@
     },
     {
       "w": "biong",
-      "p": "b y o N"
+      "p": "b y u N"
     },
     {
       "w": "piong",
-      "p": "p y o N"
+      "p": "p y u N"
     },
     {
       "w": "miong",
-      "p": "m y o N"
+      "p": "m y u N"
     },
     {
       "w": "fiong",
-      "p": "f y o N"
+      "p": "f y u N"
     },
     {
       "w": "diong",
-      "p": "d y o N"
+      "p": "d y u N"
     },
     {
       "w": "tiong",
-      "p": "t y o N"
+      "p": "t y u N"
     },
     {
       "w": "niong",
-      "p": "n y o N"
+      "p": "n y u N"
     },
     {
       "w": "liong",
-      "p": "r y o N"
+      "p": "r y u N"
     },
     {
       "w": "giong",
-      "p": "g y o N"
+      "p": "g y u N"
     },
     {
       "w": "kiong",
-      "p": "k y o N"
+      "p": "k y u N"
     },
     {
       "w": "hiong",
-      "p": "h y o N"
+      "p": "h y u N"
     },
     {
       "w": "jiong",
-      "p": "ch i o N"
+      "p": "j y u N"
     },
     {
       "w": "qiong",
-      "p": "ch i o N"
+      "p": "ch y u N"
     },
     {
       "w": "xiong",
-      "p": "sh y o N"
+      "p": "sh y u N"
     },
     {
       "w": "zhiong",
-      "p": "j y o N"
+      "p": "j y u N"
     },
     {
       "w": "chiong",
-      "p": "ch i o N"
+      "p": "ch y u N"
     },
     {
       "w": "shiong",
-      "p": "sh y o N"
+      "p": "sh y u N"
     },
     {
       "w": "riong",
-      "p": "j y o N"
+      "p": "j y u N"
     },
     {
       "w": "ziong",
-      "p": "z y o N"
+      "p": "z y u N"
     },
     {
       "w": "ciong",
-      "p": "ts y o N"
+      "p": "ts y u N"
     },
     {
       "w": "siong",
-      "p": "s y o N"
+      "p": "s y u N"
     },
     {
       "w": "a",
@@ -2642,7 +2642,7 @@
     },
     {
       "w": "ong",
-      "p": "o N"
+      "p": "u N"
     },
     {
       "w": "eng",
@@ -2822,7 +2822,7 @@
     },
     {
       "w": "wong",
-      "p": "w o N"
+      "p": "w u N"
     },
     {
       "w": "yue",
@@ -2858,11 +2858,11 @@
     },
     {
       "w": "yong",
-      "p": "y o N"
+      "p": "y u N"
     },
     {
       "w": "iong",
-      "p": "y o N"
+      "p": "y u N"
     }
   ]
 }
