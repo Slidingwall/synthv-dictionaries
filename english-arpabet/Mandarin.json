@@ -866,7 +866,7 @@
     },
     {
       "w": "ji",
-      "p": "ch iy"
+      "p": "jh iy"
     },
     {
       "w": "qi",
@@ -922,7 +922,7 @@
     },
     {
       "w": "jia",
-      "p": "ch y ae"
+      "p": "jh y ae"
     },
     {
       "w": "qia",
@@ -978,7 +978,7 @@
     },
     {
       "w": "jio",
-      "p": "ch y aa uh"
+      "p": "jh y aa uh"
     },
     {
       "w": "qio",
@@ -1034,7 +1034,7 @@
     },
     {
       "w": "jie",
-      "p": "ch y eh"
+      "p": "jh y eh"
     },
     {
       "w": "qie",
@@ -1090,7 +1090,7 @@
     },
     {
       "w": "jiai",
-      "p": "ch y ae ih"
+      "p": "jh y ae ih"
     },
     {
       "w": "qiai",
@@ -1146,7 +1146,7 @@
     },
     {
       "w": "jiao",
-      "p": "ch y aa uh"
+      "p": "jh y aa uh"
     },
     {
       "w": "qiao",
@@ -1202,7 +1202,7 @@
     },
     {
       "w": "jiu",
-      "p": "ch y ax uh"
+      "p": "jh y ax uh"
     },
     {
       "w": "qiu",
@@ -1258,7 +1258,7 @@
     },
     {
       "w": "jian",
-      "p": "ch y eh n"
+      "p": "jh y eh n"
     },
     {
       "w": "qian",
@@ -1314,7 +1314,7 @@
     },
     {
       "w": "jin",
-      "p": "ch iy n"
+      "p": "jh iy n"
     },
     {
       "w": "qin",
@@ -1370,7 +1370,7 @@
     },
     {
       "w": "jiang",
-      "p": "ch y aa ng"
+      "p": "jh y aa ng"
     },
     {
       "w": "qiang",
@@ -1426,7 +1426,7 @@
     },
     {
       "w": "jing",
-      "p": "ch iy ng"
+      "p": "jh iy ng"
     },
     {
       "w": "qing",
@@ -1482,7 +1482,7 @@
     },
     {
       "w": "ju",
-      "p": "ch iy"
+      "p": "jh iy"
     },
     {
       "w": "qu",
@@ -1566,7 +1566,7 @@
     },
     {
       "w": "jua",
-      "p": "ch w ae"
+      "p": "jh w ae"
     },
     {
       "w": "qua",
@@ -1650,7 +1650,7 @@
     },
     {
       "w": "juo",
-      "p": "ch w ao"
+      "p": "jh w ao"
     },
     {
       "w": "quo",
@@ -1734,7 +1734,7 @@
     },
     {
       "w": "juai",
-      "p": "ch w ae ih"
+      "p": "jh w ae ih"
     },
     {
       "w": "quai",
@@ -1818,7 +1818,7 @@
     },
     {
       "w": "jui",
-      "p": "ch w eh ih"
+      "p": "jh w eh ih"
     },
     {
       "w": "qui",
@@ -1902,15 +1902,15 @@
     },
     {
       "w": "juan",
-      "p": "ch iy ae n"
+      "p": "jh iy eh n"
     },
     {
       "w": "quan",
-      "p": "ch iy ae n"
+      "p": "ch iy eh n"
     },
     {
       "w": "xuan",
-      "p": "sh iy ae n"
+      "p": "sh iy eh n"
     },
     {
       "w": "zhuan",
@@ -1986,15 +1986,15 @@
     },
     {
       "w": "jun",
-      "p": "ch iy eh n"
+      "p": "jh iy ae n"
     },
     {
       "w": "qun",
-      "p": "ch iy eh n"
+      "p": "ch iy ae n"
     },
     {
       "w": "xun",
-      "p": "sh iy eh n"
+      "p": "sh iy ae n"
     },
     {
       "w": "zhun",
@@ -2070,7 +2070,7 @@
     },
     {
       "w": "juang",
-      "p": "ch w aa ng"
+      "p": "jh w aa ng"
     },
     {
       "w": "quang",
@@ -2270,11 +2270,11 @@
     },
     {
       "w": "jv",
-      "p": "ch iy"
+      "p": "jh iy"
     },
     {
       "w": "jyu",
-      "p": "ch iy"
+      "p": "jh iy"
     },
     {
       "w": "qv",
@@ -2350,171 +2350,171 @@
     },
     {
       "w": "bve",
-      "p": "b iy eh"
+      "p": "b iy ae"
     },
     {
       "w": "bue",
-      "p": "b iy eh"
+      "p": "b iy ae"
     },
     {
       "w": "pve",
-      "p": "p iy eh"
+      "p": "p iy ae"
     },
     {
       "w": "pue",
-      "p": "p iy eh"
+      "p": "p iy ae"
     },
     {
       "w": "mve",
-      "p": "m iy eh"
+      "p": "m iy ae"
     },
     {
       "w": "mue",
-      "p": "m iy eh"
+      "p": "m iy ae"
     },
     {
       "w": "fve",
-      "p": "f iy eh"
+      "p": "f iy ae"
     },
     {
       "w": "fue",
-      "p": "f iy eh"
+      "p": "f iy ae"
     },
     {
       "w": "dve",
-      "p": "d iy eh"
+      "p": "d iy ae"
     },
     {
       "w": "due",
-      "p": "d iy eh"
+      "p": "d iy ae"
     },
     {
       "w": "tve",
-      "p": "t iy eh"
+      "p": "t iy ae"
     },
     {
       "w": "tue",
-      "p": "t iy eh"
+      "p": "t iy ae"
     },
     {
       "w": "nve",
-      "p": "n iy eh"
+      "p": "n iy ae"
     },
     {
       "w": "nue",
-      "p": "n iy eh"
+      "p": "n iy ae"
     },
     {
       "w": "lve",
-      "p": "l iy eh"
+      "p": "l iy ae"
     },
     {
       "w": "lue",
-      "p": "l iy eh"
+      "p": "l iy ae"
     },
     {
       "w": "gve",
-      "p": "g iy eh"
+      "p": "g iy ae"
     },
     {
       "w": "gue",
-      "p": "g iy eh"
+      "p": "g iy ae"
     },
     {
       "w": "kve",
-      "p": "k iy eh"
+      "p": "k iy ae"
     },
     {
       "w": "kue",
-      "p": "k iy eh"
+      "p": "k iy ae"
     },
     {
       "w": "hve",
-      "p": "hh iy eh"
+      "p": "hh iy ae"
     },
     {
       "w": "hue",
-      "p": "hh iy eh"
+      "p": "hh iy ae"
     },
     {
       "w": "jve",
-      "p": "ch iy eh"
+      "p": "jh iy ae"
     },
     {
       "w": "jue",
-      "p": "ch iy eh"
+      "p": "jh iy ae"
     },
     {
       "w": "qve",
-      "p": "ch iy eh"
+      "p": "ch iy ae"
     },
     {
       "w": "que",
-      "p": "ch iy eh"
+      "p": "ch iy ae"
     },
     {
       "w": "xve",
-      "p": "sh iy eh"
+      "p": "sh iy ae"
     },
     {
       "w": "xue",
-      "p": "sh iy eh"
+      "p": "sh iy ae"
     },
     {
       "w": "zhve",
-      "p": "jh iy eh"
+      "p": "jh iy ae"
     },
     {
       "w": "zhue",
-      "p": "jh iy eh"
+      "p": "jh iy ae"
     },
     {
       "w": "chve",
-      "p": "ch iy eh"
+      "p": "ch iy ae"
     },
     {
       "w": "chue",
-      "p": "ch iy eh"
+      "p": "ch iy ae"
     },
     {
       "w": "shve",
-      "p": "sh iy eh"
+      "p": "sh iy ae"
     },
     {
       "w": "shue",
-      "p": "sh iy eh"
+      "p": "sh iy ae"
     },
     {
       "w": "rve",
-      "p": "zh iy eh"
+      "p": "zh iy ae"
     },
     {
       "w": "rue",
-      "p": "zh iy eh"
+      "p": "zh iy ae"
     },
     {
       "w": "zve",
-      "p": "z iy eh"
+      "p": "z iy ae"
     },
     {
       "w": "zue",
-      "p": "z iy eh"
+      "p": "z iy ae"
     },
     {
       "w": "cve",
-      "p": "t s iy eh"
+      "p": "t s iy ae"
     },
     {
       "w": "cue",
-      "p": "t s iy eh"
+      "p": "t s iy ae"
     },
     {
       "w": "sve",
-      "p": "s iy eh"
+      "p": "s iy ae"
     },
     {
       "w": "sue",
-      "p": "s iy eh"
+      "p": "s iy ae"
     },
     {
       "w": "biong",
@@ -2562,7 +2562,7 @@
     },
     {
       "w": "jiong",
-      "p": "ch y uh ng"
+      "p": "jh y uh ng"
     },
     {
       "w": "qiong",
@@ -2826,35 +2826,35 @@
     },
     {
       "w": "yue",
-      "p": "y iy eh"
+      "p": "y iy ae"
     },
     {
       "w": "ue",
-      "p": "y iy eh"
+      "p": "y iy ae"
     },
     {
       "w": "yve",
-      "p": "y iy eh"
+      "p": "y iy ae"
     },
     {
       "w": "ve",
-      "p": "y iy eh"
+      "p": "y iy ae"
     },
     {
       "w": "yuan",
-      "p": "y iy ae n"
+      "p": "y iy eh n"
     },
     {
       "w": "van",
-      "p": "y iy eh n"
+      "p": "y iy ae n"
     },
     {
       "w": "yun",
-      "p": "y iy eh n"
+      "p": "y iy ae n"
     },
     {
       "w": "vn",
-      "p": "y iy eh n"
+      "p": "y iy ae n"
     },
     {
       "w": "yong",
