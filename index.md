@@ -9,8 +9,9 @@ Finding Job plugins for Vocaloid? Visit our [companion repository](/vocaloid-dic
 ## [Phoneme 音素表](/synthv-dictionaries/phoneme) 
 
 ## Downloads 下载  
-| Surpported Lyric Language<br />支持的歌词语言 | English Voicebank<br />英语语音库 | Chinese Voicebank<br />中文语音库 |Japanese Voicebank<br />日语语音库 |  
-| ---- | ---- | ---- | ---- |
+
+| Surpported Lyric Language<br />支持的歌词语言 | English Voicebank<br />英语语音库 | Chinese Voicebank<br />中文语音库 |Japanese Voicebank<br />日语语音库 |
+| ---------- | ---------- | ---------- | ---------- |
 | English 英语 | N/A | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/mandarin-xsampa/English.json) | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/japanese-romaji/English.json) |
 | Chinese 中文 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/english-arpabet/Mandarin.json) | N/A | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/japanese-romaji/Mandarin.json) |
 | Japanese 日语 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/english-arpabet/Japanese.json) |  | N/A |
