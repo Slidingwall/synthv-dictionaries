@@ -317,3 +317,5 @@ You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svs
 |:p_}|Coda|汁 za<u>p</u>|p|p|p|
 |:t_}|Coda|雪 syu<u>t</u>|t|t|t|
 |:k_}|Coda|责 zaa<u>k</u>|k|k|k|
+
+[Back to home](/synthv-dictionaries/)
