@@ -64,7 +64,7 @@ You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svs
 |**k**|Stop|给 <u>g</u>ei|g|g||**kh**|Stop|开 <u>k</u>ai|k|k|
 |**ts\\** |Affricate|几 <u>j</u>i|jh|j||**ts\h**|Fricative|七 <u>q</u>i|ch|ch|
 |**ts**|Affricate|子 <u>z</u>i|z|z||**tsh**|Affricate|从 <u>c</u>ong|t s|ts|
-|**ts`**|Affricate|只 <u>zh</u>i|jh|j||**ts`h**|Affricate|尘 <u>ch</u>en|ch|ch|
+|**ts\`**|Affricate|只 <u>zh</u>i|jh|j||**ts\`h**|Affricate|尘 <u>ch</u>en|ch|ch|
 |**x**|Aspirate|好 <u>h</u>ao|hh|h||**f**|Fricative|风 <u>f</u>eng|f|f|
 |**s**|Fricative|三 <u>s</u>an|s|s||**s`**|Fricative|是 <u>sh</u>i|sh|sh|
 |**s\\** |Fricative|星 <u>x</u>ing|sh|sh||**l**|Liquid|来 <u>l</u>ai|l|l|
