@@ -3,7 +3,7 @@
 You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svstudio-resources/)  
 您可以参考[官方音素一览表](https://www.dreamtonics.com.cn/zh-CN/svstudio-resources/)  
 
-[Former Version is avaliable here. ](/synthv-dictionaries/phonemes)  
+[Former Version is avaliable here.](/synthv-dictionaries/phonemes)  
 [之前的版本在此处提供。](/synthv-dictionaries/phonemes)
 
 > `MAN` = Mandarin X-SAMPA  
@@ -15,20 +15,10 @@ You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svs
 
 - [Phoneme / 音素表](#phoneme--音素表)
   - [Chinese 中文](#chinese-中文)
-    - [Vowels, Semivowels and Diphthongs](#vowels-semivowels-and-diphthongs)
-    - [Consonants and Codas](#consonants-and-codas)
   - [English \& UST Import 英语与UST导入](#english--ust-import-英语与ust导入)
-    - [Vowels](#vowels)
-    - [Consonants](#consonants)
   - [Japanese 日语](#japanese-日语)
-    - [Vowels and Semivowels](#vowels-and-semivowels)
-    - [Consonants](#consonants-1)
   - [Korean 韩语](#korean-韩语)
-    - [Vowels](#vowels-1)
-    - [Consonants](#consonants-2)
   - [Yue 粤方言](#yue-粤方言)
-    - [Vowels and Semivowels](#vowels-and-semivowels-1)
-    - [Consonants and Codas](#consonants-and-codas-1)
 
 ## Chinese 中文
 
@@ -64,7 +54,7 @@ You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svs
 |**k**|Stop|给 <u>g</u>ei|g|g||**kh**|Stop|开 <u>k</u>ai|k|k|
 |**ts\\** |Affricate|几 <u>j</u>i|jh|j||**ts\h**|Fricative|七 <u>q</u>i|ch|ch|
 |**ts**|Affricate|子 <u>z</u>i|z|z||**tsh**|Affricate|从 <u>c</u>ong|t s|ts|
-|**ts\`**|Affricate|只 <u>zh</u>i|jh|j||**ts\`h**|Affricate|尘 <u>ch</u>en|ch|ch|
+|**ts&#96;**|Affricate|只 <u>zh</u>i|jh|j||**ts&#96;h**|Affricate|尘 <u>ch</u>en|ch|ch|
 |**x**|Aspirate|好 <u>h</u>ao|hh|h||**f**|Fricative|风 <u>f</u>eng|f|f|
 |**s**|Fricative|三 <u>s</u>an|s|s||**s`**|Fricative|是 <u>sh</u>i|sh|sh|
 |**s\\** |Fricative|星 <u>x</u>ing|sh|sh||**l**|Liquid|来 <u>l</u>ai|l|l|
@@ -152,7 +142,6 @@ You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svs
 |**ㅟ / wi**|u :\i|w iy|w i||**ㅠ / yu**|j u|y uw|y u|
 |**ㅡ / eu**|U|uh|u||**ㅣ / i**|i|iy|i|
 |**ㅢ / ui<br />(Initial)**|U :\i|uh iy|u i||**ㅢ / ui<br />(Non-initial)**|i|iy|i|
-
 
 ### Consonants
 
