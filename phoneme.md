@@ -17,7 +17,7 @@ You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svs
   - [Chinese 中文](#chinese-中文)
     - [Vowels, Semivowels and Diphthongs](#vowels-semivowels-and-diphthongs)
     - [Consonants and Codas](#consonants-and-codas)
-  - [English \& UST Import 英语与UST导入](#english--ust-import-英语与ust导入)
+  - [English & UST Import 英语与UST导入](#english--ust-import-英语与ust导入)
     - [Vowels](#vowels)
     - [Consonants](#consonants)
   - [Japanese 日语](#japanese-日语)
