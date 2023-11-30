@@ -40,7 +40,7 @@ You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svs
 |**y{**|Diphthong|元 y<u>ua</u>n|iy ae|i a||**yE**|Diphthong|学 x<u>ue</u>|iy eh|i e|
 |**ua**|Diphthong|花 h<u>ua</u>|w ae|w a||**uA**|Diphthong|黄 h<u>ua</u>ng|w aa|w a|
 |**u@**|Diphthong|顺 sh<u>u</u>n|w ax|w e||**ue**|Diphthong|对 d<u>u</u>i|w eh|w e|
-|**w**|**Semivowel|网 <u>w</u>ang|w|w||**j**|Semivowel|用 <u>y</u>ong|y|y|
+|**w**|Semivowel|网 <u>w</u>ang|w|w||**j**|Semivowel|用 <u>y</u>ong|y|y|
 |**z`**|Semivowel|日 <u>r</u>i|zh|j|
 
 ### Consonants and Codas
