@@ -1,10 +1,7 @@
 # Phoneme / 音素表
 
-You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svstudio-resources/)  
-您可以参考[官方音素一览表](https://www.dreamtonics.com.cn/zh-CN/svstudio-resources/)  
-
-[Former Version is avaliable here.](/synthv-dictionaries/phonemes)  
-[之前的版本在此处提供。](/synthv-dictionaries/phonemes)
+You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svstudio-resources/)or[Former Version.](/synthv-dictionaries/phonemes)  
+您可以参考[官方音素一览表](https://www.dreamtonics.com.cn/zh-CN/svstudio-resources/)或[之前的版本。](/synthv-dictionaries/phonemes)  
 
 > `MAN` = Mandarin X-SAMPA  
 > `ARP` = English Arpabet & Arpasing  
@@ -12,13 +9,15 @@ You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svs
 > `RMJ` = Japanese Romaji  
 > `KOR` = Korean  
 > `YUE` = Yue Dialect X-SAMPA  
+> `ESP` = Spanish X-SAMPA  
 
 - [Phoneme / 音素表](#phoneme--音素表)
   - [Chinese 中文](#chinese-中文)
-  - [English \& UST Import 英语与UST导入](#english--ust-import-英语与ust导入)
+  - [English & UST Import 英语与UST导入](#english--ust-import-英语与ust导入)
   - [Japanese 日语](#japanese-日语)
   - [Korean 韩语](#korean-韩语)
   - [Yue 粤方言](#yue-粤方言)
+  - [Spanish 西班牙语](#spanish-西班牙语)
 
 ## Chinese 中文
 
@@ -84,7 +83,7 @@ You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svs
 |**dr**|Affricate|<u>dr</u>ive|ts` w|dr|j w||**dh**|Fricative|rhy<u>th</u>m|ts|dh|z|
 |**f**|Fricative|<u>f</u>right|f|f|f||**g**|Stop|<u>g</u>lock|k|g|g|
 |**hh**|Aspirate|<u>h</u>ay|x|h|h||**jh**|Affricate|<u>j</u>ust|ts`|j|j|
-|**k**|Stop|ro<u>ck</u>|kh|k|k||**l**|Liquid|<u>l</u>ife|l|l|l|
+|**k**|Stop|ro<u>ck</u>|kh|k|k||**l**|Liquid|<u>l</u>ife|l|l|r|
 |**m**|Nasal|<u>m</u>ight|m|m|m||**n**|Nasal|<u>n</u>ight|n|n|n|
 |**ng**|Nasal|si<u>ng</u>er|N|ng|N||**p**|Stop|<u>p</u>en|ph|p|p|
 |**r**|Semivowel|<u>r</u>oad|r\\`|r|r||**s**|Fricative|<u>s</u>teel|s|s|s|
@@ -196,5 +195,33 @@ You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svs
 |**:i**|Coda|女 neo<u>i</u>|:\i|ih|i||**:u**|Coda|好 ho<u>u</u>|u|uh|u|
 |**:p_}**|Coda|汁 za<u>p</u>|p|p|p||**:t_}**|Coda|雪 syu<u>t</u>|t|t|t|
 |**:k_}**|Coda|责 zaa<u>k</u>|k|k|k|
+
+## Spanish 西班牙语
+
+### Vowels and Semivowels
+
+|ESP|Category|Example|MAN|ARP|RMJ||ESP|Category|Example|MAN|ARP|RMJ|
+|:----:|:----:|:----:|:----:|:----:|:----:|:-:|:----:|:----:|:----:|:----:|:----:|:----:|
+|**a**|vowel||a|ae|a||**e**|vowel||e|eh|e|
+|**i**|vowel||i|iy|i||**o**|vowel||o|ao|o|
+|**u**|vowel||u|uh|u||**U**|semivowel||U|uw|u|
+|**I**|semivowel||:\i|ih|i||**y**|semivowel||j|y|y|
+|**ll**|semivowel||j|y|y|
+
+### Consotants
+
+|ESP|Category|Example|MAN|ARP|RMJ||ESP|Category|Example|MAN|ARP|RMJ|
+|:----:|:----:|:----:|:----:|:----:|:----:|:-:|:----:|:----:|:----:|:----:|:----:|:----:|
+|**b**|stop||p|b|b||**B**|stop||w|v|v|
+|**d**|stop||t|d|d||**D**|stop||ts|dh|z|
+|**g**|stop||k|g|g||**k**|stop||kh|k|k|
+|**p**|stop||ph|p|p||**t**|stop||th|t|t|
+|**l**|liquid||l|l|r||**rr**|liquid||r\\`|r|r|
+|**r**|liquid||**r\\`**|r|r||m|nasal||m|m|m|
+|**n**|nasal||n|n|n||**N**|nasal||N|ng|N|
+|**J**|nasal||n j|n y|ny||**f**|fricative||f|f|f|
+|**s**|fricative||s|s|s||**C**|fricative||s|th|s|
+|**sh**|fricative||s`|sh|sh||**ch**|affricate||ts`h|ch|ch|
+|**x**|fricative||x|hh|h|
 
 [Back to home](/synthv-dictionaries/)
