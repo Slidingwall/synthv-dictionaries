@@ -1,0 +1,2732 @@
+{
+    "data": [
+        {
+            "w": "cl",
+            "p": "cl"
+        },
+        {
+            "w": "a",
+            "p": "ae"
+        },
+        {
+            "w": "u",
+            "p": "uh"
+        },
+        {
+            "w": "e",
+            "p": "eh"
+        },
+        {
+            "w": "o",
+            "p": "ao"
+        },
+        {
+            "w": "á",
+            "p": "ae"
+        },
+        {
+            "w": "é",
+            "p": "eh"
+        },
+        {
+            "w": "í",
+            "p": "iy"
+        },
+        {
+            "w": "ó",
+            "p": "ao"
+        },
+        {
+            "w": "ü",
+            "p": "uw"
+        },
+        {
+            "w": "ú",
+            "p": "uh"
+        },
+        {
+            "w": "f",
+            "p": "f"
+        },
+        {
+            "w": "k",
+            "p": "k"
+        },
+        {
+            "w": "l",
+            "p": "l"
+        },
+        {
+            "w": "ll",
+            "p": "y"
+        },
+        {
+            "w": "m",
+            "p": "m"
+        },
+        {
+            "w": "ñ",
+            "p": "n y"
+        },
+        {
+            "w": "p",
+            "p": "p"
+        },
+        {
+            "w": "q",
+            "p": "k"
+        },
+        {
+            "w": "t",
+            "p": "t"
+        },
+        {
+            "w": "z",
+            "p": "s"
+        },
+        {
+            "w": "rr",
+            "p": "r"
+        },
+        {
+            "w": "lr",
+            "p": "l r"
+        },
+        {
+            "w": "nr",
+            "p": "n r"
+        },
+        {
+            "w": "sr",
+            "p": "s r"
+        },
+        {
+            "w": "r",
+            "p": "r"
+        },
+        {
+            "w": "ch",
+            "p": "ch"
+        },
+        {
+            "w": "cu",
+            "p": "k uw"
+        },
+        {
+            "w": "c",
+            "p": "s"
+        },
+        {
+            "w": "ab",
+            "p": "ae v"
+        },
+        {
+            "w": "eb",
+            "p": "eh v"
+        },
+        {
+            "w": "ib",
+            "p": "iy v"
+        },
+        {
+            "w": "ob",
+            "p": "ao v"
+        },
+        {
+            "w": "ub",
+            "p": "uh v"
+        },
+        {
+            "w": "áb",
+            "p": "ae v"
+        },
+        {
+            "w": "éb",
+            "p": "eh v"
+        },
+        {
+            "w": "íb",
+            "p": "iy v"
+        },
+        {
+            "w": "ób",
+            "p": "ao v"
+        },
+        {
+            "w": "úb",
+            "p": "uh v"
+        },
+        {
+            "w": "b",
+            "p": "b"
+        },
+        {
+            "w": "ad",
+            "p": "ae dh"
+        },
+        {
+            "w": "ed",
+            "p": "eh dh"
+        },
+        {
+            "w": "id",
+            "p": "iy dh"
+        },
+        {
+            "w": "od",
+            "p": "ao dh"
+        },
+        {
+            "w": "ud",
+            "p": "uh dh"
+        },
+        {
+            "w": "ád",
+            "p": "ae dh"
+        },
+        {
+            "w": "éd",
+            "p": "eh dh"
+        },
+        {
+            "w": "íd",
+            "p": "iy dh"
+        },
+        {
+            "w": "ód",
+            "p": "ao dh"
+        },
+        {
+            "w": "úd",
+            "p": "uh dh"
+        },
+        {
+            "w": "d",
+            "p": "d"
+        },
+        {
+            "w": "ge",
+            "p": "hh eh"
+        },
+        {
+            "w": "gi",
+            "p": "hh iy"
+        },
+        {
+            "w": "g",
+            "p": "g"
+        },
+        {
+            "w": "gu",
+            "p": "g"
+        },
+        {
+            "w": "qu",
+            "p": "k"
+        },
+        {
+            "w": "nv",
+            "p": "m b"
+        },
+        {
+            "w": "av",
+            "p": "ae v"
+        },
+        {
+            "w": "ev",
+            "p": "eh v"
+        },
+        {
+            "w": "iv",
+            "p": "iy v"
+        },
+        {
+            "w": "ov",
+            "p": "ao v"
+        },
+        {
+            "w": "uv",
+            "p": "uh v"
+        },
+        {
+            "w": "áv",
+            "p": "ae v"
+        },
+        {
+            "w": "év",
+            "p": "eh v"
+        },
+        {
+            "w": "ív",
+            "p": "iy v"
+        },
+        {
+            "w": "óv",
+            "p": "ao v"
+        },
+        {
+            "w": "úv",
+            "p": "uh v"
+        },
+        {
+            "w": "v",
+            "p": "b"
+        },
+        {
+            "w": "sb",
+            "p": "z b"
+        },
+        {
+            "w": "sd",
+            "p": "z d"
+        },
+        {
+            "w": "sg",
+            "p": "z g"
+        },
+        {
+            "w": "sll",
+            "p": "s y"
+        },
+        {
+            "w": "sl",
+            "p": "z l"
+        },
+        {
+            "w": "sm",
+            "p": "z m"
+        },
+        {
+            "w": "sn",
+            "p": "z n"
+        },
+        {
+            "w": "snv",
+            "p": "s m b"
+        },
+        {
+            "w": "s",
+            "p": "s"
+        },
+        {
+            "w": "uw",
+            "p": "uh v"
+        },
+        {
+            "w": "w",
+            "p": "uw"
+        },
+        {
+            "w": "Mexico",
+            "p": "m eh hh iy k ao"
+        },
+        {
+            "w": "mexico",
+            "p": "m eh hh iy k ao"
+        },
+        {
+            "w": "texas",
+            "p": "t eh hh ae s"
+        },
+        {
+            "w": "Texas",
+            "p": "t eh hh ae s"
+        },
+        {
+            "w": "Oaxaca",
+            "p": "uw ae hh ae c ae"
+        },
+        {
+            "w": "oaxaca",
+            "p": "uw ae hh ae c ae"
+        },
+        {
+            "w": "Xela",
+            "p": "sh eh l ae"
+        },
+        {
+            "w": "xela",
+            "p": "sh eh l ae"
+        },
+        {
+            "w": "axa",
+            "p": "ae k s ae"
+        },
+        {
+            "w": "exa",
+            "p": "eh k s ae"
+        },
+        {
+            "w": "ixa",
+            "p": "iy k s ae"
+        },
+        {
+            "w": "aixa",
+            "p": "ae ih k s ae"
+        },
+        {
+            "w": "eixa",
+            "p": "eh ih k s ae"
+        },
+        {
+            "w": "oixa",
+            "p": "ao ih k s ae"
+        },
+        {
+            "w": "oxa",
+            "p": "ao k s ae"
+        },
+        {
+            "w": "uxa",
+            "p": "uh k s ae"
+        },
+        {
+            "w": "auxa",
+            "p": "ae uw k s ae"
+        },
+        {
+            "w": "ouxa",
+            "p": "ao uw k s ae"
+        },
+        {
+            "w": "euxa",
+            "p": "eh uw k s ae"
+        },
+        {
+            "w": "áxa",
+            "p": "ae k s ae"
+        },
+        {
+            "w": "éxa",
+            "p": "eh k s ae"
+        },
+        {
+            "w": "íxa",
+            "p": "iy k s ae"
+        },
+        {
+            "w": "óxa",
+            "p": "ao k s ae"
+        },
+        {
+            "w": "úxa",
+            "p": "uh k s ae"
+        },
+        {
+            "w": "axe",
+            "p": "ae k s eh"
+        },
+        {
+            "w": "exe",
+            "p": "eh k s eh"
+        },
+        {
+            "w": "ixe",
+            "p": "iy k s eh"
+        },
+        {
+            "w": "aixe",
+            "p": "ae ih k s eh"
+        },
+        {
+            "w": "eixe",
+            "p": "eh ih k s eh"
+        },
+        {
+            "w": "oixe",
+            "p": "ao ih k s eh"
+        },
+        {
+            "w": "oxe",
+            "p": "ao k s eh"
+        },
+        {
+            "w": "uxe",
+            "p": "uh k s eh"
+        },
+        {
+            "w": "auxe",
+            "p": "ae uw k s eh"
+        },
+        {
+            "w": "ouxe",
+            "p": "ao uw k s eh"
+        },
+        {
+            "w": "euxe",
+            "p": "eh uw k s eh"
+        },
+        {
+            "w": "áxe",
+            "p": "ae k s eh"
+        },
+        {
+            "w": "éxe",
+            "p": "eh k s eh"
+        },
+        {
+            "w": "íxe",
+            "p": "iy k s eh"
+        },
+        {
+            "w": "óxe",
+            "p": "ao k s eh"
+        },
+        {
+            "w": "úxe",
+            "p": "uh k s eh"
+        },
+        {
+            "w": "axi",
+            "p": "ae k s iy"
+        },
+        {
+            "w": "exi",
+            "p": "eh k s iy"
+        },
+        {
+            "w": "ixi",
+            "p": "iy k s iy"
+        },
+        {
+            "w": "aixi",
+            "p": "ae ih k s iy"
+        },
+        {
+            "w": "eixi",
+            "p": "eh ih k s iy"
+        },
+        {
+            "w": "oixi",
+            "p": "ao ih k s iy"
+        },
+        {
+            "w": "oxi",
+            "p": "ao k s iy"
+        },
+        {
+            "w": "uxi",
+            "p": "uh k s iy"
+        },
+        {
+            "w": "auxi",
+            "p": "ae uw k s iy"
+        },
+        {
+            "w": "ouxi",
+            "p": "ao uw k s iy"
+        },
+        {
+            "w": "euxi",
+            "p": "eh uw k s iy"
+        },
+        {
+            "w": "áxi",
+            "p": "ae k s iy"
+        },
+        {
+            "w": "éxi",
+            "p": "eh k s iy"
+        },
+        {
+            "w": "íxi",
+            "p": "iy k s iy"
+        },
+        {
+            "w": "óxi",
+            "p": "ao k s iy"
+        },
+        {
+            "w": "úxi",
+            "p": "uh k s iy"
+        },
+        {
+            "w": "axo",
+            "p": "ae k s ao"
+        },
+        {
+            "w": "exo",
+            "p": "eh k s ao"
+        },
+        {
+            "w": "ixo",
+            "p": "iy k s ao"
+        },
+        {
+            "w": "aixo",
+            "p": "ae ih k s ao"
+        },
+        {
+            "w": "eixo",
+            "p": "eh ih k s ao"
+        },
+        {
+            "w": "oixo",
+            "p": "ao ih k s ao"
+        },
+        {
+            "w": "oxo",
+            "p": "ao k s ao"
+        },
+        {
+            "w": "uxo",
+            "p": "uh k s ao"
+        },
+        {
+            "w": "auxo",
+            "p": "ae uw k s ao"
+        },
+        {
+            "w": "ouxo",
+            "p": "ao uw k s ao"
+        },
+        {
+            "w": "euxo",
+            "p": "eh uw k s ao"
+        },
+        {
+            "w": "áxo",
+            "p": "ae k s ao"
+        },
+        {
+            "w": "éxo",
+            "p": "eh k s ao"
+        },
+        {
+            "w": "íxo",
+            "p": "iy k s ao"
+        },
+        {
+            "w": "óxo",
+            "p": "ao k s ao"
+        },
+        {
+            "w": "úxo",
+            "p": "uh k s ao"
+        },
+        {
+            "w": "axu",
+            "p": "ae k s uh"
+        },
+        {
+            "w": "exu",
+            "p": "eh k s uh"
+        },
+        {
+            "w": "ixu",
+            "p": "iy k s uh"
+        },
+        {
+            "w": "aixu",
+            "p": "ae ih k s uh"
+        },
+        {
+            "w": "eixu",
+            "p": "eh ih k s uh"
+        },
+        {
+            "w": "oixu",
+            "p": "ao ih k s uh"
+        },
+        {
+            "w": "oxu",
+            "p": "ao k s uh"
+        },
+        {
+            "w": "uxu",
+            "p": "uh k s uh"
+        },
+        {
+            "w": "auxu",
+            "p": "ae uw k s uh"
+        },
+        {
+            "w": "ouxu",
+            "p": "ao uw k s uh"
+        },
+        {
+            "w": "euxu",
+            "p": "eh uw k s uh"
+        },
+        {
+            "w": "áxu",
+            "p": "ae k s uh"
+        },
+        {
+            "w": "éxu",
+            "p": "eh k s uh"
+        },
+        {
+            "w": "íxu",
+            "p": "iy k s uh"
+        },
+        {
+            "w": "óxu",
+            "p": "ao k s uh"
+        },
+        {
+            "w": "úxu",
+            "p": "uh k s uh"
+        },
+        {
+            "w": "axú",
+            "p": "ae k s uh"
+        },
+        {
+            "w": "exú",
+            "p": "eh k s uh"
+        },
+        {
+            "w": "ixú",
+            "p": "iy k s uh"
+        },
+        {
+            "w": "aixú",
+            "p": "ae ih k s uh"
+        },
+        {
+            "w": "eixú",
+            "p": "eh ih k s uh"
+        },
+        {
+            "w": "oixú",
+            "p": "ao ih k s uh"
+        },
+        {
+            "w": "oxú",
+            "p": "ao k s uh"
+        },
+        {
+            "w": "uxú",
+            "p": "uh k s uh"
+        },
+        {
+            "w": "auxú",
+            "p": "ae uw k s uh"
+        },
+        {
+            "w": "ouxú",
+            "p": "ao uw k s uh"
+        },
+        {
+            "w": "euxú",
+            "p": "eh uw k s uh"
+        },
+        {
+            "w": "áxú",
+            "p": "ae k s uh"
+        },
+        {
+            "w": "éxú",
+            "p": "eh k s uh"
+        },
+        {
+            "w": "íxú",
+            "p": "iy k s uh"
+        },
+        {
+            "w": "óxú",
+            "p": "ao k s uh"
+        },
+        {
+            "w": "úxú",
+            "p": "uh k s uh"
+        },
+        {
+            "w": "axó",
+            "p": "ae k s ao"
+        },
+        {
+            "w": "exó",
+            "p": "eh k s ao"
+        },
+        {
+            "w": "ixó",
+            "p": "iy k s ao"
+        },
+        {
+            "w": "aixó",
+            "p": "ae ih k s ao"
+        },
+        {
+            "w": "eixó",
+            "p": "eh ih k s ao"
+        },
+        {
+            "w": "oixó",
+            "p": "ao ih k s ao"
+        },
+        {
+            "w": "oxó",
+            "p": "ao k s ao"
+        },
+        {
+            "w": "uxó",
+            "p": "uh k s ao"
+        },
+        {
+            "w": "auxó",
+            "p": "ae uw k s ao"
+        },
+        {
+            "w": "ouxó",
+            "p": "ao uw k s ao"
+        },
+        {
+            "w": "euxó",
+            "p": "eh uw k s ao"
+        },
+        {
+            "w": "áxó",
+            "p": "ae k s ao"
+        },
+        {
+            "w": "éxó",
+            "p": "eh k s ao"
+        },
+        {
+            "w": "íxó",
+            "p": "iy k s ao"
+        },
+        {
+            "w": "óxó",
+            "p": "ao k s ao"
+        },
+        {
+            "w": "úxó",
+            "p": "uh k s ao"
+        },
+        {
+            "w": "axá",
+            "p": "ae k s ae"
+        },
+        {
+            "w": "exá",
+            "p": "eh k s ae"
+        },
+        {
+            "w": "ixá",
+            "p": "iy k s ae"
+        },
+        {
+            "w": "aixá",
+            "p": "ae ih k s ae"
+        },
+        {
+            "w": "eixá",
+            "p": "eh ih k s ae"
+        },
+        {
+            "w": "oixá",
+            "p": "ao ih k s ae"
+        },
+        {
+            "w": "oxá",
+            "p": "ao k s ae"
+        },
+        {
+            "w": "uxá",
+            "p": "uh k s ae"
+        },
+        {
+            "w": "auxá",
+            "p": "ae uw k s ae"
+        },
+        {
+            "w": "ouxá",
+            "p": "ao uw k s ae"
+        },
+        {
+            "w": "euxá",
+            "p": "eh uw k s ae"
+        },
+        {
+            "w": "áxá",
+            "p": "ae k s ae"
+        },
+        {
+            "w": "éxá",
+            "p": "eh k s ae"
+        },
+        {
+            "w": "íxá",
+            "p": "iy k s ae"
+        },
+        {
+            "w": "óxá",
+            "p": "ao k s ae"
+        },
+        {
+            "w": "úxá",
+            "p": "uh k s ae"
+        },
+        {
+            "w": "axé",
+            "p": "ae k s eh"
+        },
+        {
+            "w": "exé",
+            "p": "eh k s eh"
+        },
+        {
+            "w": "ixé",
+            "p": "iy k s eh"
+        },
+        {
+            "w": "aixé",
+            "p": "ae ih k s eh"
+        },
+        {
+            "w": "eixé",
+            "p": "eh ih k s eh"
+        },
+        {
+            "w": "oixé",
+            "p": "ao ih k s eh"
+        },
+        {
+            "w": "oxé",
+            "p": "ao k s eh"
+        },
+        {
+            "w": "uxé",
+            "p": "uh k s eh"
+        },
+        {
+            "w": "auxé",
+            "p": "ae uw k s eh"
+        },
+        {
+            "w": "ouxé",
+            "p": "ao uw k s eh"
+        },
+        {
+            "w": "euxé",
+            "p": "eh uw k s eh"
+        },
+        {
+            "w": "áxé",
+            "p": "ae k s eh"
+        },
+        {
+            "w": "éxé",
+            "p": "eh k s eh"
+        },
+        {
+            "w": "íxé",
+            "p": "iy k s eh"
+        },
+        {
+            "w": "óxé",
+            "p": "ao k s eh"
+        },
+        {
+            "w": "úxé",
+            "p": "uh k s eh"
+        },
+        {
+            "w": "axí",
+            "p": "ae k s iy"
+        },
+        {
+            "w": "exí",
+            "p": "eh k s iy"
+        },
+        {
+            "w": "ixí",
+            "p": "iy k s iy"
+        },
+        {
+            "w": "així",
+            "p": "ae ih k s iy"
+        },
+        {
+            "w": "eixí",
+            "p": "eh ih k s iy"
+        },
+        {
+            "w": "oixí",
+            "p": "ao ih k s iy"
+        },
+        {
+            "w": "oxí",
+            "p": "ao k s iy"
+        },
+        {
+            "w": "uxí",
+            "p": "uh k s iy"
+        },
+        {
+            "w": "auxí",
+            "p": "ae uw k s iy"
+        },
+        {
+            "w": "ouxí",
+            "p": "ao uw k s iy"
+        },
+        {
+            "w": "euxí",
+            "p": "eh uw k s iy"
+        },
+        {
+            "w": "áxí",
+            "p": "ae k s iy"
+        },
+        {
+            "w": "éxí",
+            "p": "eh k s iy"
+        },
+        {
+            "w": "íxí",
+            "p": "iy k s iy"
+        },
+        {
+            "w": "óxí",
+            "p": "ao k s iy"
+        },
+        {
+            "w": "úxí",
+            "p": "uh k s iy"
+        },
+        {
+            "w": "axiu",
+            "p": "ae k s ih uh"
+        },
+        {
+            "w": "exiu",
+            "p": "eh k s ih uh"
+        },
+        {
+            "w": "ixiu",
+            "p": "iy k s ih uh"
+        },
+        {
+            "w": "aixiu",
+            "p": "ae ih k s ih uh"
+        },
+        {
+            "w": "eixiu",
+            "p": "eh ih k s ih uh"
+        },
+        {
+            "w": "oixiu",
+            "p": "ao ih k s ih uh"
+        },
+        {
+            "w": "oxiu",
+            "p": "ao k s ih uh"
+        },
+        {
+            "w": "uxiu",
+            "p": "uh k s ih uh"
+        },
+        {
+            "w": "auxiu",
+            "p": "ae uw k s ih uh"
+        },
+        {
+            "w": "ouxiu",
+            "p": "ao uw k s ih uh"
+        },
+        {
+            "w": "euxiu",
+            "p": "eh uw k s ih uh"
+        },
+        {
+            "w": "áxiu",
+            "p": "ae k s ih uh"
+        },
+        {
+            "w": "éxiu",
+            "p": "eh k s ih uh"
+        },
+        {
+            "w": "íxiu",
+            "p": "iy k s ih uh"
+        },
+        {
+            "w": "óxiu",
+            "p": "ao k s ih uh"
+        },
+        {
+            "w": "úxiu",
+            "p": "uh k s ih uh"
+        },
+        {
+            "w": "axia",
+            "p": "ae k s ih ae"
+        },
+        {
+            "w": "exia",
+            "p": "eh k s ih ae"
+        },
+        {
+            "w": "ixia",
+            "p": "iy k s ih ae"
+        },
+        {
+            "w": "aixia",
+            "p": "ae ih k s ih ae"
+        },
+        {
+            "w": "eixia",
+            "p": "eh ih k s ih ae"
+        },
+        {
+            "w": "oixia",
+            "p": "ao ih k s ih ae"
+        },
+        {
+            "w": "oxia",
+            "p": "ao k s ih ae"
+        },
+        {
+            "w": "uxia",
+            "p": "uh k s ih ae"
+        },
+        {
+            "w": "auxia",
+            "p": "ae uw k s ih ae"
+        },
+        {
+            "w": "ouxia",
+            "p": "ao uw k s ih ae"
+        },
+        {
+            "w": "euxia",
+            "p": "eh uw k s ih ae"
+        },
+        {
+            "w": "áxia",
+            "p": "ae k s ih ae"
+        },
+        {
+            "w": "éxia",
+            "p": "eh k s ih ae"
+        },
+        {
+            "w": "íxia",
+            "p": "iy k s ih ae"
+        },
+        {
+            "w": "óxia",
+            "p": "ao k s ih ae"
+        },
+        {
+            "w": "úxia",
+            "p": "uh k s ih ae"
+        },
+        {
+            "w": "axie",
+            "p": "ae k s ih eh"
+        },
+        {
+            "w": "exie",
+            "p": "eh k s ih eh"
+        },
+        {
+            "w": "ixie",
+            "p": "iy k s ih eh"
+        },
+        {
+            "w": "aixie",
+            "p": "ae ih k s ih eh"
+        },
+        {
+            "w": "eixie",
+            "p": "eh ih k s ih eh"
+        },
+        {
+            "w": "oixie",
+            "p": "ao ih k s ih eh"
+        },
+        {
+            "w": "oxie",
+            "p": "ao k s ih eh"
+        },
+        {
+            "w": "uxie",
+            "p": "uh k s ih eh"
+        },
+        {
+            "w": "auxie",
+            "p": "ae uw k s ih eh"
+        },
+        {
+            "w": "ouxie",
+            "p": "ao uw k s ih eh"
+        },
+        {
+            "w": "euxie",
+            "p": "eh uw k s ih eh"
+        },
+        {
+            "w": "áxie",
+            "p": "ae k s ih eh"
+        },
+        {
+            "w": "éxie",
+            "p": "eh k s ih eh"
+        },
+        {
+            "w": "íxie",
+            "p": "iy k s ih eh"
+        },
+        {
+            "w": "óxie",
+            "p": "ao k s ih eh"
+        },
+        {
+            "w": "úxie",
+            "p": "uh k s ih eh"
+        },
+        {
+            "w": "axio",
+            "p": "ae k s ih ao"
+        },
+        {
+            "w": "exio",
+            "p": "eh k s ih ao"
+        },
+        {
+            "w": "ixio",
+            "p": "iy k s ih ao"
+        },
+        {
+            "w": "aixio",
+            "p": "ae ih k s ih ao"
+        },
+        {
+            "w": "eixio",
+            "p": "eh ih k s ih ao"
+        },
+        {
+            "w": "oixio",
+            "p": "ao ih k s ih ao"
+        },
+        {
+            "w": "oxio",
+            "p": "ao k s ih ao"
+        },
+        {
+            "w": "uxio",
+            "p": "uh k s ih ao"
+        },
+        {
+            "w": "auxio",
+            "p": "ae uw k s ih ao"
+        },
+        {
+            "w": "ouxio",
+            "p": "ao uw k s ih ao"
+        },
+        {
+            "w": "euxio",
+            "p": "eh uw k s ih ao"
+        },
+        {
+            "w": "áxio",
+            "p": "ae k s ih ao"
+        },
+        {
+            "w": "éxio",
+            "p": "eh k s ih ao"
+        },
+        {
+            "w": "íxio",
+            "p": "iy k s ih ao"
+        },
+        {
+            "w": "óxio",
+            "p": "ao k s ih ao"
+        },
+        {
+            "w": "úxio",
+            "p": "uh k s ih ao"
+        },
+        {
+            "w": "axau",
+            "p": "ae k s ae uw"
+        },
+        {
+            "w": "exau",
+            "p": "eh k s ae uw"
+        },
+        {
+            "w": "ixau",
+            "p": "iy k s ae uw"
+        },
+        {
+            "w": "aixau",
+            "p": "ae ih k s ae uw"
+        },
+        {
+            "w": "eixau",
+            "p": "eh ih k s ae uw"
+        },
+        {
+            "w": "oixau",
+            "p": "ao ih k s ae uw"
+        },
+        {
+            "w": "oxau",
+            "p": "ao k s ae uw"
+        },
+        {
+            "w": "uxau",
+            "p": "uh k s ae uw"
+        },
+        {
+            "w": "auxau",
+            "p": "ae uw k s ae uw"
+        },
+        {
+            "w": "ouxau",
+            "p": "ao uw k s ae uw"
+        },
+        {
+            "w": "euxau",
+            "p": "eh uw k s ae uw"
+        },
+        {
+            "w": "áxau",
+            "p": "ae k s ae uw"
+        },
+        {
+            "w": "éxau",
+            "p": "eh k s ae uw"
+        },
+        {
+            "w": "íuxau",
+            "p": "iy k s ae uw"
+        },
+        {
+            "w": "óxau",
+            "p": "ao k s ae uw"
+        },
+        {
+            "w": "úxau",
+            "p": "uh k s ae uw"
+        },
+        {
+            "w": "axeu",
+            "p": "ae k s eh uw"
+        },
+        {
+            "w": "exeu",
+            "p": "eh k s eh uw"
+        },
+        {
+            "w": "ixeu",
+            "p": "iy k s eh uw"
+        },
+        {
+            "w": "aixeu",
+            "p": "ae ih k s eh uw"
+        },
+        {
+            "w": "eixeu",
+            "p": "eh ih k s eh uw"
+        },
+        {
+            "w": "oixeu",
+            "p": "ao ih k s eh uw"
+        },
+        {
+            "w": "oxeu",
+            "p": "ao k s eh uw"
+        },
+        {
+            "w": "uxeu",
+            "p": "uh k s eh uw"
+        },
+        {
+            "w": "auxeu",
+            "p": "ae uw k s eh uw"
+        },
+        {
+            "w": "ouxeu",
+            "p": "ao uw k s eh uw"
+        },
+        {
+            "w": "euxeu",
+            "p": "eh uw k s eh uw"
+        },
+        {
+            "w": "áxeu",
+            "p": "ae k s eh uw"
+        },
+        {
+            "w": "éxeu",
+            "p": "eh k s eh uw"
+        },
+        {
+            "w": "íuxeu",
+            "p": "iy k s eh uw"
+        },
+        {
+            "w": "óxeu",
+            "p": "ao k s eh uw"
+        },
+        {
+            "w": "úxeu",
+            "p": "uh k s eh uw"
+        },
+        {
+            "w": "axou",
+            "p": "ae k s ao uw"
+        },
+        {
+            "w": "exou",
+            "p": "eh k s ao uw"
+        },
+        {
+            "w": "ixou",
+            "p": "iy k s ao uw"
+        },
+        {
+            "w": "aixou",
+            "p": "ae ih k s ao uw"
+        },
+        {
+            "w": "eixou",
+            "p": "eh ih k s ao uw"
+        },
+        {
+            "w": "oixou",
+            "p": "ao ih k s ao uw"
+        },
+        {
+            "w": "oxou",
+            "p": "ao k s ao uw"
+        },
+        {
+            "w": "uxou",
+            "p": "uh k s ao uw"
+        },
+        {
+            "w": "auxou",
+            "p": "ae uw k s ao uw"
+        },
+        {
+            "w": "ouxou",
+            "p": "ao uw k s ao uw"
+        },
+        {
+            "w": "euxou",
+            "p": "eh uw k s ao uw"
+        },
+        {
+            "w": "áxou",
+            "p": "ae k s ao uw"
+        },
+        {
+            "w": "éxou",
+            "p": "eh k s ao uw"
+        },
+        {
+            "w": "íuxou",
+            "p": "iy k s ao uw"
+        },
+        {
+            "w": "óxou",
+            "p": "ao k s ao uw"
+        },
+        {
+            "w": "úxou",
+            "p": "uh k s ao uw"
+        },
+        {
+            "w": "ay",
+            "p": "ae ih"
+        },
+        {
+            "w": "ey",
+            "p": "eh ih"
+        },
+        {
+            "w": "iy",
+            "p": "iy ih"
+        },
+        {
+            "w": "oy",
+            "p": "ao ih"
+        },
+        {
+            "w": "uy",
+            "p": "uh ih"
+        },
+        {
+            "w": "áy",
+            "p": "ae ih"
+        },
+        {
+            "w": "éy",
+            "p": "eh ih"
+        },
+        {
+            "w": "íy",
+            "p": "iy ih"
+        },
+        {
+            "w": "óy",
+            "p": "ao ih"
+        },
+        {
+            "w": "úy",
+            "p": "uh ih"
+        },
+        {
+            "w": "y",
+            "p": "ih"
+        },
+        {
+            "w": "ya",
+            "p": "y ae"
+        },
+        {
+            "w": "ye",
+            "p": "y eh"
+        },
+        {
+            "w": "yi",
+            "p": "y iy"
+        },
+        {
+            "w": "yo",
+            "p": "y ao"
+        },
+        {
+            "w": "yu",
+            "p": "y uh"
+        },
+        {
+            "w": "yá",
+            "p": "y ae"
+        },
+        {
+            "w": "yé",
+            "p": "y eh"
+        },
+        {
+            "w": "yí",
+            "p": "y iy"
+        },
+        {
+            "w": "yó",
+            "p": "y ao"
+        },
+        {
+            "w": "yú",
+            "p": "y uh"
+        },
+        {
+            "w": "aya",
+            "p": "ae y ae"
+        },
+        {
+            "w": "eya",
+            "p": "eh y ae"
+        },
+        {
+            "w": "iya",
+            "p": "iy y ae"
+        },
+        {
+            "w": "aiya",
+            "p": "ae ih y ae"
+        },
+        {
+            "w": "eiya",
+            "p": "eh ih y ae"
+        },
+        {
+            "w": "oiya",
+            "p": "ao ih y ae"
+        },
+        {
+            "w": "oya",
+            "p": "ao y ae"
+        },
+        {
+            "w": "uya",
+            "p": "uh y ae"
+        },
+        {
+            "w": "auya",
+            "p": "ae uw y ae"
+        },
+        {
+            "w": "ouya",
+            "p": "ao uw y ae"
+        },
+        {
+            "w": "euya",
+            "p": "eh uw y ae"
+        },
+        {
+            "w": "áya",
+            "p": "ae y ae"
+        },
+        {
+            "w": "éya",
+            "p": "eh y ae"
+        },
+        {
+            "w": "íya",
+            "p": "iy y ae"
+        },
+        {
+            "w": "óya",
+            "p": "ao y ae"
+        },
+        {
+            "w": "úya",
+            "p": "uh y ae"
+        },
+        {
+            "w": "aye",
+            "p": "ae y eh"
+        },
+        {
+            "w": "eye",
+            "p": "eh y eh"
+        },
+        {
+            "w": "iye",
+            "p": "iy y eh"
+        },
+        {
+            "w": "aiye",
+            "p": "ae ih y eh"
+        },
+        {
+            "w": "eiye",
+            "p": "eh ih y eh"
+        },
+        {
+            "w": "oiye",
+            "p": "ao ih y eh"
+        },
+        {
+            "w": "oye",
+            "p": "ao y eh"
+        },
+        {
+            "w": "uye",
+            "p": "uh y eh"
+        },
+        {
+            "w": "auye",
+            "p": "ae uw y eh"
+        },
+        {
+            "w": "ouye",
+            "p": "ao uw y eh"
+        },
+        {
+            "w": "euye",
+            "p": "eh uw y eh"
+        },
+        {
+            "w": "áye",
+            "p": "ae y eh"
+        },
+        {
+            "w": "éye",
+            "p": "eh y eh"
+        },
+        {
+            "w": "íye",
+            "p": "iy y eh"
+        },
+        {
+            "w": "óye",
+            "p": "ao y eh"
+        },
+        {
+            "w": "úye",
+            "p": "uh y eh"
+        },
+        {
+            "w": "ayi",
+            "p": "ae y iy"
+        },
+        {
+            "w": "eyi",
+            "p": "eh y iy"
+        },
+        {
+            "w": "iyi",
+            "p": "iy y iy"
+        },
+        {
+            "w": "aiyi",
+            "p": "ae ih y iy"
+        },
+        {
+            "w": "eiyi",
+            "p": "eh ih y iy"
+        },
+        {
+            "w": "oiyi",
+            "p": "ao ih y iy"
+        },
+        {
+            "w": "oyi",
+            "p": "ao y iy"
+        },
+        {
+            "w": "uyi",
+            "p": "uh y iy"
+        },
+        {
+            "w": "auyi",
+            "p": "ae uw y iy"
+        },
+        {
+            "w": "ouyi",
+            "p": "ao uw y iy"
+        },
+        {
+            "w": "euyi",
+            "p": "eh uw y iy"
+        },
+        {
+            "w": "áyi",
+            "p": "ae y iy"
+        },
+        {
+            "w": "éyi",
+            "p": "eh y iy"
+        },
+        {
+            "w": "íyi",
+            "p": "iy y iy"
+        },
+        {
+            "w": "óyi",
+            "p": "ao y iy"
+        },
+        {
+            "w": "úyi",
+            "p": "uh y iy"
+        },
+        {
+            "w": "ayo",
+            "p": "ae y ao"
+        },
+        {
+            "w": "eyo",
+            "p": "eh y ao"
+        },
+        {
+            "w": "iyo",
+            "p": "iy y ao"
+        },
+        {
+            "w": "aiyo",
+            "p": "ae ih y ao"
+        },
+        {
+            "w": "eiyo",
+            "p": "eh ih y ao"
+        },
+        {
+            "w": "oiyo",
+            "p": "ao ih y ao"
+        },
+        {
+            "w": "oyo",
+            "p": "ao y ao"
+        },
+        {
+            "w": "uyo",
+            "p": "uh y ao"
+        },
+        {
+            "w": "auyo",
+            "p": "ae uw y ao"
+        },
+        {
+            "w": "ouyo",
+            "p": "ao uw y ao"
+        },
+        {
+            "w": "euyo",
+            "p": "eh uw y ao"
+        },
+        {
+            "w": "áyo",
+            "p": "ae y ao"
+        },
+        {
+            "w": "éyo",
+            "p": "eh y ao"
+        },
+        {
+            "w": "íyo",
+            "p": "iy y ao"
+        },
+        {
+            "w": "óyo",
+            "p": "ao y ao"
+        },
+        {
+            "w": "úyo",
+            "p": "uh y ao"
+        },
+        {
+            "w": "ayu",
+            "p": "ae y uh"
+        },
+        {
+            "w": "eyu",
+            "p": "eh y uh"
+        },
+        {
+            "w": "iyu",
+            "p": "iy y uh"
+        },
+        {
+            "w": "aiyu",
+            "p": "ae ih y uh"
+        },
+        {
+            "w": "eiyu",
+            "p": "eh ih y uh"
+        },
+        {
+            "w": "oiyu",
+            "p": "ao ih y uh"
+        },
+        {
+            "w": "oyu",
+            "p": "ao y uh"
+        },
+        {
+            "w": "uyu",
+            "p": "uh y uh"
+        },
+        {
+            "w": "auyu",
+            "p": "ae uw y uh"
+        },
+        {
+            "w": "ouyu",
+            "p": "ao uw y uh"
+        },
+        {
+            "w": "euyu",
+            "p": "eh uw y uh"
+        },
+        {
+            "w": "áyu",
+            "p": "ae y uh"
+        },
+        {
+            "w": "éyu",
+            "p": "eh y uh"
+        },
+        {
+            "w": "íyu",
+            "p": "iy y uh"
+        },
+        {
+            "w": "óyu",
+            "p": "ao y uh"
+        },
+        {
+            "w": "úyu",
+            "p": "uh y uh"
+        },
+        {
+            "w": "ayú",
+            "p": "ae y uh"
+        },
+        {
+            "w": "eyú",
+            "p": "eh y uh"
+        },
+        {
+            "w": "iyú",
+            "p": "iy y uh"
+        },
+        {
+            "w": "aiyú",
+            "p": "ae ih y uh"
+        },
+        {
+            "w": "eiyú",
+            "p": "eh ih y uh"
+        },
+        {
+            "w": "oiyú",
+            "p": "ao ih y uh"
+        },
+        {
+            "w": "oyú",
+            "p": "ao y uh"
+        },
+        {
+            "w": "uyú",
+            "p": "uh y uh"
+        },
+        {
+            "w": "auyú",
+            "p": "ae uw y uh"
+        },
+        {
+            "w": "ouyú",
+            "p": "ao uw y uh"
+        },
+        {
+            "w": "euyú",
+            "p": "eh uw y uh"
+        },
+        {
+            "w": "áyú",
+            "p": "ae y uh"
+        },
+        {
+            "w": "éyú",
+            "p": "eh y uh"
+        },
+        {
+            "w": "íyú",
+            "p": "iy y uh"
+        },
+        {
+            "w": "óyú",
+            "p": "ao y uh"
+        },
+        {
+            "w": "úyú",
+            "p": "uh y uh"
+        },
+        {
+            "w": "ayó",
+            "p": "ae y ao"
+        },
+        {
+            "w": "eyó",
+            "p": "eh y ao"
+        },
+        {
+            "w": "iyó",
+            "p": "iy y ao"
+        },
+        {
+            "w": "aiyó",
+            "p": "ae ih y ao"
+        },
+        {
+            "w": "eiyó",
+            "p": "eh ih y ao"
+        },
+        {
+            "w": "oiyó",
+            "p": "ao ih y ao"
+        },
+        {
+            "w": "oyó",
+            "p": "ao y ao"
+        },
+        {
+            "w": "uyó",
+            "p": "uh y ao"
+        },
+        {
+            "w": "auyó",
+            "p": "ae uw y ao"
+        },
+        {
+            "w": "ouyó",
+            "p": "ao uw y ao"
+        },
+        {
+            "w": "euyó",
+            "p": "eh uw y ao"
+        },
+        {
+            "w": "áyó",
+            "p": "ae y ao"
+        },
+        {
+            "w": "éyó",
+            "p": "eh y ao"
+        },
+        {
+            "w": "íyó",
+            "p": "iy y ao"
+        },
+        {
+            "w": "óyó",
+            "p": "ao y ao"
+        },
+        {
+            "w": "úyó",
+            "p": "uh y ao"
+        },
+        {
+            "w": "ayá",
+            "p": "ae y ae"
+        },
+        {
+            "w": "eyá",
+            "p": "eh y ae"
+        },
+        {
+            "w": "iyá",
+            "p": "iy y ae"
+        },
+        {
+            "w": "aiyá",
+            "p": "ae ih y ae"
+        },
+        {
+            "w": "eiyá",
+            "p": "eh ih y ae"
+        },
+        {
+            "w": "oiyá",
+            "p": "ao ih y ae"
+        },
+        {
+            "w": "oyá",
+            "p": "ao y ae"
+        },
+        {
+            "w": "uyá",
+            "p": "uh y ae"
+        },
+        {
+            "w": "auyá",
+            "p": "ae uw y ae"
+        },
+        {
+            "w": "ouyá",
+            "p": "ao uw y ae"
+        },
+        {
+            "w": "euyá",
+            "p": "eh uw y ae"
+        },
+        {
+            "w": "áyá",
+            "p": "ae y ae"
+        },
+        {
+            "w": "éyá",
+            "p": "eh y ae"
+        },
+        {
+            "w": "íyá",
+            "p": "iy y ae"
+        },
+        {
+            "w": "óyá",
+            "p": "ao y ae"
+        },
+        {
+            "w": "úyá",
+            "p": "uh y ae"
+        },
+        {
+            "w": "ayé",
+            "p": "ae y eh"
+        },
+        {
+            "w": "eyé",
+            "p": "eh y eh"
+        },
+        {
+            "w": "iyé",
+            "p": "iy y eh"
+        },
+        {
+            "w": "aiyé",
+            "p": "ae ih y eh"
+        },
+        {
+            "w": "eiyé",
+            "p": "eh ih y eh"
+        },
+        {
+            "w": "oiyé",
+            "p": "ao ih y eh"
+        },
+        {
+            "w": "oyé",
+            "p": "ao y eh"
+        },
+        {
+            "w": "uyé",
+            "p": "uh y eh"
+        },
+        {
+            "w": "auyé",
+            "p": "ae uw y eh"
+        },
+        {
+            "w": "ouyé",
+            "p": "ao uw y eh"
+        },
+        {
+            "w": "euyé",
+            "p": "eh uw y eh"
+        },
+        {
+            "w": "áyé",
+            "p": "ae y eh"
+        },
+        {
+            "w": "éyé",
+            "p": "eh y eh"
+        },
+        {
+            "w": "íyé",
+            "p": "iy y eh"
+        },
+        {
+            "w": "óyé",
+            "p": "ao y eh"
+        },
+        {
+            "w": "úyé",
+            "p": "uh y eh"
+        },
+        {
+            "w": "ayí",
+            "p": "ae y iy"
+        },
+        {
+            "w": "eyí",
+            "p": "eh y iy"
+        },
+        {
+            "w": "iyí",
+            "p": "iy y iy"
+        },
+        {
+            "w": "aiyí",
+            "p": "ae ih y iy"
+        },
+        {
+            "w": "eiyí",
+            "p": "eh ih y iy"
+        },
+        {
+            "w": "oiyí",
+            "p": "ao ih y iy"
+        },
+        {
+            "w": "oyí",
+            "p": "ao y iy"
+        },
+        {
+            "w": "uyí",
+            "p": "uh y iy"
+        },
+        {
+            "w": "auyí",
+            "p": "ae uw y iy"
+        },
+        {
+            "w": "ouyí",
+            "p": "ao uw y iy"
+        },
+        {
+            "w": "euyí",
+            "p": "eh uw y iy"
+        },
+        {
+            "w": "áyí",
+            "p": "ae y iy"
+        },
+        {
+            "w": "éyí",
+            "p": "eh y iy"
+        },
+        {
+            "w": "íyí",
+            "p": "iy y iy"
+        },
+        {
+            "w": "óyí",
+            "p": "ao y iy"
+        },
+        {
+            "w": "úyí",
+            "p": "uh y iy"
+        },
+        {
+            "w": "ayiu",
+            "p": "ae y ih uh"
+        },
+        {
+            "w": "eyiu",
+            "p": "eh y ih uh"
+        },
+        {
+            "w": "iyiu",
+            "p": "iy y ih uh"
+        },
+        {
+            "w": "aiyiu",
+            "p": "ae ih y ih uh"
+        },
+        {
+            "w": "eiyiu",
+            "p": "eh ih y ih uh"
+        },
+        {
+            "w": "oiyiu",
+            "p": "ao ih y ih uh"
+        },
+        {
+            "w": "oyiu",
+            "p": "ao y ih uh"
+        },
+        {
+            "w": "uyiu",
+            "p": "uh y ih uh"
+        },
+        {
+            "w": "auyiu",
+            "p": "ae uw y ih uh"
+        },
+        {
+            "w": "ouyiu",
+            "p": "ao uw y ih uh"
+        },
+        {
+            "w": "euyiu",
+            "p": "eh uw y ih uh"
+        },
+        {
+            "w": "áyiu",
+            "p": "ae y ih uh"
+        },
+        {
+            "w": "éyiu",
+            "p": "eh y ih uh"
+        },
+        {
+            "w": "íyiu",
+            "p": "iy y ih uh"
+        },
+        {
+            "w": "óyiu",
+            "p": "ao y ih uh"
+        },
+        {
+            "w": "úyiu",
+            "p": "uh y ih uh"
+        },
+        {
+            "w": "ayia",
+            "p": "ae y ih ae"
+        },
+        {
+            "w": "eyia",
+            "p": "eh y ih ae"
+        },
+        {
+            "w": "iyia",
+            "p": "iy y ih ae"
+        },
+        {
+            "w": "aiyia",
+            "p": "ae ih y ih ae"
+        },
+        {
+            "w": "eiyia",
+            "p": "eh ih y ih ae"
+        },
+        {
+            "w": "oiyia",
+            "p": "ao ih y ih ae"
+        },
+        {
+            "w": "oyia",
+            "p": "ao y ih ae"
+        },
+        {
+            "w": "uyia",
+            "p": "uh y ih ae"
+        },
+        {
+            "w": "auyia",
+            "p": "ae uw y ih ae"
+        },
+        {
+            "w": "ouyia",
+            "p": "ao uw y ih ae"
+        },
+        {
+            "w": "euyia",
+            "p": "eh uw y ih ae"
+        },
+        {
+            "w": "áyia",
+            "p": "ae y ih ae"
+        },
+        {
+            "w": "éyia",
+            "p": "eh y ih ae"
+        },
+        {
+            "w": "íyia",
+            "p": "iy y ih ae"
+        },
+        {
+            "w": "óyia",
+            "p": "ao y ih ae"
+        },
+        {
+            "w": "úyia",
+            "p": "uh y ih ae"
+        },
+        {
+            "w": "ayie",
+            "p": "ae y ih eh"
+        },
+        {
+            "w": "eyie",
+            "p": "eh y ih eh"
+        },
+        {
+            "w": "iyie",
+            "p": "iy y ih eh"
+        },
+        {
+            "w": "aiyie",
+            "p": "ae ih y ih eh"
+        },
+        {
+            "w": "eiyie",
+            "p": "eh ih y ih eh"
+        },
+        {
+            "w": "oiyie",
+            "p": "ao ih y ih eh"
+        },
+        {
+            "w": "oyie",
+            "p": "ao y ih eh"
+        },
+        {
+            "w": "uyie",
+            "p": "uh y ih eh"
+        },
+        {
+            "w": "auyie",
+            "p": "ae uw y ih eh"
+        },
+        {
+            "w": "ouyie",
+            "p": "ao uw y ih eh"
+        },
+        {
+            "w": "euyie",
+            "p": "eh uw y ih eh"
+        },
+        {
+            "w": "áyie",
+            "p": "ae y ih eh"
+        },
+        {
+            "w": "éyie",
+            "p": "eh y ih eh"
+        },
+        {
+            "w": "íyie",
+            "p": "iy y ih eh"
+        },
+        {
+            "w": "óyie",
+            "p": "ao y ih eh"
+        },
+        {
+            "w": "úyie",
+            "p": "uh y ih eh"
+        },
+        {
+            "w": "ayio",
+            "p": "ae y ih ao"
+        },
+        {
+            "w": "eyio",
+            "p": "eh y ih ao"
+        },
+        {
+            "w": "iyio",
+            "p": "iy y ih ao"
+        },
+        {
+            "w": "aiyio",
+            "p": "ae ih y ih ao"
+        },
+        {
+            "w": "eiyio",
+            "p": "eh ih y ih ao"
+        },
+        {
+            "w": "oiyio",
+            "p": "ao ih y ih ao"
+        },
+        {
+            "w": "oyio",
+            "p": "ao y ih ao"
+        },
+        {
+            "w": "uyio",
+            "p": "uh y ih ao"
+        },
+        {
+            "w": "auyio",
+            "p": "ae uw y ih ao"
+        },
+        {
+            "w": "ouyio",
+            "p": "ao uw y ih ao"
+        },
+        {
+            "w": "euyio",
+            "p": "eh uw y ih ao"
+        },
+        {
+            "w": "áyio",
+            "p": "ae y ih ao"
+        },
+        {
+            "w": "éyio",
+            "p": "eh y ih ao"
+        },
+        {
+            "w": "íyio",
+            "p": "iy y ih ao"
+        },
+        {
+            "w": "óyio",
+            "p": "ao y ih ao"
+        },
+        {
+            "w": "úyio",
+            "p": "uh y ih ao"
+        },
+        {
+            "w": "ayau",
+            "p": "ae y ae uw"
+        },
+        {
+            "w": "eyau",
+            "p": "eh y ae uw"
+        },
+        {
+            "w": "iyau",
+            "p": "iy y ae uw"
+        },
+        {
+            "w": "aiyau",
+            "p": "ae ih y ae uw"
+        },
+        {
+            "w": "eiyau",
+            "p": "eh ih y ae uw"
+        },
+        {
+            "w": "oiyau",
+            "p": "ao ih y ae uw"
+        },
+        {
+            "w": "oyau",
+            "p": "ao y ae uw"
+        },
+        {
+            "w": "uyau",
+            "p": "uh y ae uw"
+        },
+        {
+            "w": "auyau",
+            "p": "ae uw y ae uw"
+        },
+        {
+            "w": "ouyau",
+            "p": "ao uw y ae uw"
+        },
+        {
+            "w": "euyau",
+            "p": "eh uw y ae uw"
+        },
+        {
+            "w": "áyau",
+            "p": "ae y ae uw"
+        },
+        {
+            "w": "éyau",
+            "p": "eh y ae uw"
+        },
+        {
+            "w": "íuyau",
+            "p": "iy y ae uw"
+        },
+        {
+            "w": "óyau",
+            "p": "ao y ae uw"
+        },
+        {
+            "w": "úyau",
+            "p": "uh y ae uw"
+        },
+        {
+            "w": "ayeu",
+            "p": "ae y eh uw"
+        },
+        {
+            "w": "eyeu",
+            "p": "eh y eh uw"
+        },
+        {
+            "w": "iyeu",
+            "p": "iy y eh uw"
+        },
+        {
+            "w": "aiyeu",
+            "p": "ae ih y eh uw"
+        },
+        {
+            "w": "eiyeu",
+            "p": "eh ih y eh uw"
+        },
+        {
+            "w": "oiyeu",
+            "p": "ao ih y eh uw"
+        },
+        {
+            "w": "oyeu",
+            "p": "ao y eh uw"
+        },
+        {
+            "w": "uyeu",
+            "p": "uh y eh uw"
+        },
+        {
+            "w": "auyeu",
+            "p": "ae uw y eh uw"
+        },
+        {
+            "w": "ouyeu",
+            "p": "ao uw y eh uw"
+        },
+        {
+            "w": "euyeu",
+            "p": "eh uw y eh uw"
+        },
+        {
+            "w": "áyeu",
+            "p": "ae y eh uw"
+        },
+        {
+            "w": "éyeu",
+            "p": "eh y eh uw"
+        },
+        {
+            "w": "íuyeu",
+            "p": "iy y eh uw"
+        },
+        {
+            "w": "óyeu",
+            "p": "ao y eh uw"
+        },
+        {
+            "w": "úyeu",
+            "p": "uh y eh uw"
+        },
+        {
+            "w": "ayou",
+            "p": "ae y ao uw"
+        },
+        {
+            "w": "eyou",
+            "p": "eh y ao uw"
+        },
+        {
+            "w": "iyou",
+            "p": "iy y ao uw"
+        },
+        {
+            "w": "aiyou",
+            "p": "ae ih y ao uw"
+        },
+        {
+            "w": "eiyou",
+            "p": "eh ih y ao uw"
+        },
+        {
+            "w": "oiyou",
+            "p": "ao ih y ao uw"
+        },
+        {
+            "w": "oyou",
+            "p": "ao y ao uw"
+        },
+        {
+            "w": "uyou",
+            "p": "uh y ao uw"
+        },
+        {
+            "w": "auyou",
+            "p": "ae uw y ao uw"
+        },
+        {
+            "w": "ouyou",
+            "p": "ao uw y ao uw"
+        },
+        {
+            "w": "euyou",
+            "p": "eh uw y ao uw"
+        },
+        {
+            "w": "áyou",
+            "p": "ae y ao uw"
+        },
+        {
+            "w": "éyou",
+            "p": "eh y ao uw"
+        },
+        {
+            "w": "íuyou",
+            "p": "iy y ao uw"
+        },
+        {
+            "w": "óyou",
+            "p": "ao y ao uw"
+        },
+        {
+            "w": "úyou",
+            "p": "uh y ao uw"
+        },
+        {
+            "w": "ia",
+            "p": "ih ae"
+        },
+        {
+            "w": "ie",
+            "p": "ih eh"
+        },
+        {
+            "w": "io",
+            "p": "ih ao"
+        },
+        {
+            "w": "iu",
+            "p": "ih uh"
+        },
+        {
+            "w": "ei",
+            "p": "eh ih"
+        },
+        {
+            "w": "oi",
+            "p": "ao ih"
+        },
+        {
+            "w": "ai",
+            "p": "ae ih"
+        },
+        {
+            "w": "iá",
+            "p": "ih ae"
+        },
+        {
+            "w": "ié",
+            "p": "ih eh"
+        },
+        {
+            "w": "ió",
+            "p": "ih ao"
+        },
+        {
+            "w": "iú",
+            "p": "ih uh"
+        },
+        {
+            "w": "éi",
+            "p": "eh ih"
+        },
+        {
+            "w": "ói",
+            "p": "ao ih"
+        },
+        {
+            "w": "ái",
+            "p": "ae ih"
+        },
+        {
+            "w": "úi",
+            "p": "uh ih"
+        },
+        {
+            "w": "i",
+            "p": "iy"
+        },
+        {
+            "w": "u",
+            "p": "uh"
+        },
+        {
+            "w": "ua",
+            "p": "uw ae"
+        },
+        {
+            "w": "ue",
+            "p": "uw eh"
+        },
+        {
+            "w": "ui",
+            "p": "uw iy"
+        },
+        {
+            "w": "uo",
+            "p": "uw ao"
+        },
+        {
+            "w": "uá",
+            "p": "uw ae"
+        },
+        {
+            "w": "ué",
+            "p": "uw eh"
+        },
+        {
+            "w": "uó",
+            "p": "uw ao"
+        },
+        {
+            "w": "uí",
+            "p": "uw iy"
+        },
+        {
+            "w": "nk",
+            "p": "ng k"
+        },
+        {
+            "w": "nco",
+            "p": "ng k ao"
+        },
+        {
+            "w": "nca",
+            "p": "ng k ae"
+        },
+        {
+            "w": "nce",
+            "p": "ng k eh"
+        },
+        {
+            "w": "nku",
+            "p": "ng k uh"
+        }
+    ]
+}

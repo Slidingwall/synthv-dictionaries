@@ -1,0 +1,2732 @@
+{
+    "data": [
+        {
+            "w": "cl",
+            "p": "cl"
+        },
+        {
+            "w": "a",
+            "p": "a"
+        },
+        {
+            "w": "u",
+            "p": "u"
+        },
+        {
+            "w": "e",
+            "p": "e"
+        },
+        {
+            "w": "o",
+            "p": "o"
+        },
+        {
+            "w": "á",
+            "p": "a"
+        },
+        {
+            "w": "é",
+            "p": "e"
+        },
+        {
+            "w": "í",
+            "p": "i"
+        },
+        {
+            "w": "ó",
+            "p": "o"
+        },
+        {
+            "w": "ü",
+            "p": "U"
+        },
+        {
+            "w": "ú",
+            "p": "u"
+        },
+        {
+            "w": "f",
+            "p": "f"
+        },
+        {
+            "w": "k",
+            "p": "kh"
+        },
+        {
+            "w": "l",
+            "p": "l"
+        },
+        {
+            "w": "ll",
+            "p": "j"
+        },
+        {
+            "w": "m",
+            "p": "m"
+        },
+        {
+            "w": "ñ",
+            "p": "n j"
+        },
+        {
+            "w": "p",
+            "p": "ph"
+        },
+        {
+            "w": "q",
+            "p": "kh"
+        },
+        {
+            "w": "t",
+            "p": "th"
+        },
+        {
+            "w": "z",
+            "p": "s"
+        },
+        {
+            "w": "rr",
+            "p": "r\\`"
+        },
+        {
+            "w": "lr",
+            "p": "l r\\`"
+        },
+        {
+            "w": "nr",
+            "p": "n r\\`"
+        },
+        {
+            "w": "sr",
+            "p": "s r\\`"
+        },
+        {
+            "w": "r",
+            "p": "r\\`"
+        },
+        {
+            "w": "ch",
+            "p": "ts`h"
+        },
+        {
+            "w": "cu",
+            "p": "kh U"
+        },
+        {
+            "w": "c",
+            "p": "s"
+        },
+        {
+            "w": "ab",
+            "p": "a w"
+        },
+        {
+            "w": "eb",
+            "p": "e w"
+        },
+        {
+            "w": "ib",
+            "p": "i w"
+        },
+        {
+            "w": "ob",
+            "p": "o w"
+        },
+        {
+            "w": "ub",
+            "p": "u w"
+        },
+        {
+            "w": "áb",
+            "p": "a w"
+        },
+        {
+            "w": "éb",
+            "p": "e w"
+        },
+        {
+            "w": "íb",
+            "p": "i w"
+        },
+        {
+            "w": "ób",
+            "p": "o w"
+        },
+        {
+            "w": "úb",
+            "p": "u w"
+        },
+        {
+            "w": "b",
+            "p": "p"
+        },
+        {
+            "w": "ad",
+            "p": "a ts"
+        },
+        {
+            "w": "ed",
+            "p": "e ts"
+        },
+        {
+            "w": "id",
+            "p": "i ts"
+        },
+        {
+            "w": "od",
+            "p": "o ts"
+        },
+        {
+            "w": "ud",
+            "p": "u ts"
+        },
+        {
+            "w": "ád",
+            "p": "a ts"
+        },
+        {
+            "w": "éd",
+            "p": "e ts"
+        },
+        {
+            "w": "íd",
+            "p": "i ts"
+        },
+        {
+            "w": "ód",
+            "p": "o ts"
+        },
+        {
+            "w": "úd",
+            "p": "u ts"
+        },
+        {
+            "w": "d",
+            "p": "t"
+        },
+        {
+            "w": "ge",
+            "p": "x e"
+        },
+        {
+            "w": "gi",
+            "p": "x i"
+        },
+        {
+            "w": "g",
+            "p": "k"
+        },
+        {
+            "w": "gu",
+            "p": "k"
+        },
+        {
+            "w": "qu",
+            "p": "kh"
+        },
+        {
+            "w": "nv",
+            "p": "m p"
+        },
+        {
+            "w": "av",
+            "p": "a w"
+        },
+        {
+            "w": "ev",
+            "p": "e w"
+        },
+        {
+            "w": "iv",
+            "p": "i w"
+        },
+        {
+            "w": "ov",
+            "p": "o w"
+        },
+        {
+            "w": "uv",
+            "p": "u w"
+        },
+        {
+            "w": "áv",
+            "p": "a w"
+        },
+        {
+            "w": "év",
+            "p": "e w"
+        },
+        {
+            "w": "ív",
+            "p": "i w"
+        },
+        {
+            "w": "óv",
+            "p": "o w"
+        },
+        {
+            "w": "úv",
+            "p": "u w"
+        },
+        {
+            "w": "v",
+            "p": "p"
+        },
+        {
+            "w": "sb",
+            "p": "z p"
+        },
+        {
+            "w": "sd",
+            "p": "z t"
+        },
+        {
+            "w": "sg",
+            "p": "z k"
+        },
+        {
+            "w": "sll",
+            "p": "s j"
+        },
+        {
+            "w": "sl",
+            "p": "z l"
+        },
+        {
+            "w": "sm",
+            "p": "z m"
+        },
+        {
+            "w": "sn",
+            "p": "z n"
+        },
+        {
+            "w": "snv",
+            "p": "s m p"
+        },
+        {
+            "w": "s",
+            "p": "s"
+        },
+        {
+            "w": "uw",
+            "p": "u w"
+        },
+        {
+            "w": "w",
+            "p": "U"
+        },
+        {
+            "w": "Mexico",
+            "p": "m e x i kh o"
+        },
+        {
+            "w": "mexico",
+            "p": "m e x i kh o"
+        },
+        {
+            "w": "texas",
+            "p": "th e x a s"
+        },
+        {
+            "w": "Texas",
+            "p": "th e x a s"
+        },
+        {
+            "w": "Oaxaca",
+            "p": "ua x a c a"
+        },
+        {
+            "w": "oaxaca",
+            "p": "ua x a c a"
+        },
+        {
+            "w": "Xela",
+            "p": "s` e l a"
+        },
+        {
+            "w": "xela",
+            "p": "s` e l a"
+        },
+        {
+            "w": "axa",
+            "p": "a kh s a"
+        },
+        {
+            "w": "exa",
+            "p": "e kh s a"
+        },
+        {
+            "w": "ixa",
+            "p": "i kh s a"
+        },
+        {
+            "w": "aixa",
+            "p": "a :\\i kh s a"
+        },
+        {
+            "w": "eixa",
+            "p": "e :\\i kh s a"
+        },
+        {
+            "w": "oixa",
+            "p": "o :\\i kh s a"
+        },
+        {
+            "w": "oxa",
+            "p": "o kh s a"
+        },
+        {
+            "w": "uxa",
+            "p": "u kh s a"
+        },
+        {
+            "w": "auxa",
+            "p": "AU kh s a"
+        },
+        {
+            "w": "ouxa",
+            "p": "@U kh s a"
+        },
+        {
+            "w": "euxa",
+            "p": "@U kh s a"
+        },
+        {
+            "w": "áxa",
+            "p": "a kh s a"
+        },
+        {
+            "w": "éxa",
+            "p": "e kh s a"
+        },
+        {
+            "w": "íxa",
+            "p": "i kh s a"
+        },
+        {
+            "w": "óxa",
+            "p": "o kh s a"
+        },
+        {
+            "w": "úxa",
+            "p": "u kh s a"
+        },
+        {
+            "w": "axe",
+            "p": "a kh s e"
+        },
+        {
+            "w": "exe",
+            "p": "e kh s e"
+        },
+        {
+            "w": "ixe",
+            "p": "i kh s e"
+        },
+        {
+            "w": "aixe",
+            "p": "a :\\i kh s e"
+        },
+        {
+            "w": "eixe",
+            "p": "e :\\i kh s e"
+        },
+        {
+            "w": "oixe",
+            "p": "o :\\i kh s e"
+        },
+        {
+            "w": "oxe",
+            "p": "o kh s e"
+        },
+        {
+            "w": "uxe",
+            "p": "u kh s e"
+        },
+        {
+            "w": "auxe",
+            "p": "AU kh s e"
+        },
+        {
+            "w": "ouxe",
+            "p": "@U kh s e"
+        },
+        {
+            "w": "euxe",
+            "p": "@U kh s e"
+        },
+        {
+            "w": "áxe",
+            "p": "a kh s e"
+        },
+        {
+            "w": "éxe",
+            "p": "e kh s e"
+        },
+        {
+            "w": "íxe",
+            "p": "i kh s e"
+        },
+        {
+            "w": "óxe",
+            "p": "o kh s e"
+        },
+        {
+            "w": "úxe",
+            "p": "u kh s e"
+        },
+        {
+            "w": "axi",
+            "p": "a kh s i"
+        },
+        {
+            "w": "exi",
+            "p": "e kh s i"
+        },
+        {
+            "w": "ixi",
+            "p": "i kh s i"
+        },
+        {
+            "w": "aixi",
+            "p": "a :\\i kh s i"
+        },
+        {
+            "w": "eixi",
+            "p": "e :\\i kh s i"
+        },
+        {
+            "w": "oixi",
+            "p": "o :\\i kh s i"
+        },
+        {
+            "w": "oxi",
+            "p": "o kh s i"
+        },
+        {
+            "w": "uxi",
+            "p": "u kh s i"
+        },
+        {
+            "w": "auxi",
+            "p": "AU kh s i"
+        },
+        {
+            "w": "ouxi",
+            "p": "@U kh s i"
+        },
+        {
+            "w": "euxi",
+            "p": "@U kh s i"
+        },
+        {
+            "w": "áxi",
+            "p": "a kh s i"
+        },
+        {
+            "w": "éxi",
+            "p": "e kh s i"
+        },
+        {
+            "w": "íxi",
+            "p": "i kh s i"
+        },
+        {
+            "w": "óxi",
+            "p": "o kh s i"
+        },
+        {
+            "w": "úxi",
+            "p": "u kh s i"
+        },
+        {
+            "w": "axo",
+            "p": "a kh s o"
+        },
+        {
+            "w": "exo",
+            "p": "e kh s o"
+        },
+        {
+            "w": "ixo",
+            "p": "i kh s o"
+        },
+        {
+            "w": "aixo",
+            "p": "a :\\i kh s o"
+        },
+        {
+            "w": "eixo",
+            "p": "e :\\i kh s o"
+        },
+        {
+            "w": "oixo",
+            "p": "o :\\i kh s o"
+        },
+        {
+            "w": "oxo",
+            "p": "o kh s o"
+        },
+        {
+            "w": "uxo",
+            "p": "u kh s o"
+        },
+        {
+            "w": "auxo",
+            "p": "AU kh s o"
+        },
+        {
+            "w": "ouxo",
+            "p": "@U kh s o"
+        },
+        {
+            "w": "euxo",
+            "p": "@U kh s o"
+        },
+        {
+            "w": "áxo",
+            "p": "a kh s o"
+        },
+        {
+            "w": "éxo",
+            "p": "e kh s o"
+        },
+        {
+            "w": "íxo",
+            "p": "i kh s o"
+        },
+        {
+            "w": "óxo",
+            "p": "o kh s o"
+        },
+        {
+            "w": "úxo",
+            "p": "u kh s o"
+        },
+        {
+            "w": "axu",
+            "p": "a kh s u"
+        },
+        {
+            "w": "exu",
+            "p": "e kh s u"
+        },
+        {
+            "w": "ixu",
+            "p": "i kh s u"
+        },
+        {
+            "w": "aixu",
+            "p": "a :\\i kh s u"
+        },
+        {
+            "w": "eixu",
+            "p": "e :\\i kh s u"
+        },
+        {
+            "w": "oixu",
+            "p": "o :\\i kh s u"
+        },
+        {
+            "w": "oxu",
+            "p": "o kh s u"
+        },
+        {
+            "w": "uxu",
+            "p": "u kh s u"
+        },
+        {
+            "w": "auxu",
+            "p": "AU kh s u"
+        },
+        {
+            "w": "ouxu",
+            "p": "@U kh s u"
+        },
+        {
+            "w": "euxu",
+            "p": "@U kh s u"
+        },
+        {
+            "w": "áxu",
+            "p": "a kh s u"
+        },
+        {
+            "w": "éxu",
+            "p": "e kh s u"
+        },
+        {
+            "w": "íxu",
+            "p": "i kh s u"
+        },
+        {
+            "w": "óxu",
+            "p": "o kh s u"
+        },
+        {
+            "w": "úxu",
+            "p": "u kh s u"
+        },
+        {
+            "w": "axú",
+            "p": "a kh s u"
+        },
+        {
+            "w": "exú",
+            "p": "e kh s u"
+        },
+        {
+            "w": "ixú",
+            "p": "i kh s u"
+        },
+        {
+            "w": "aixú",
+            "p": "a :\\i kh s u"
+        },
+        {
+            "w": "eixú",
+            "p": "e :\\i kh s u"
+        },
+        {
+            "w": "oixú",
+            "p": "o :\\i kh s u"
+        },
+        {
+            "w": "oxú",
+            "p": "o kh s u"
+        },
+        {
+            "w": "uxú",
+            "p": "u kh s u"
+        },
+        {
+            "w": "auxú",
+            "p": "AU kh s u"
+        },
+        {
+            "w": "ouxú",
+            "p": "@U kh s u"
+        },
+        {
+            "w": "euxú",
+            "p": "@U kh s u"
+        },
+        {
+            "w": "áxú",
+            "p": "a kh s u"
+        },
+        {
+            "w": "éxú",
+            "p": "e kh s u"
+        },
+        {
+            "w": "íxú",
+            "p": "i kh s u"
+        },
+        {
+            "w": "óxú",
+            "p": "o kh s u"
+        },
+        {
+            "w": "úxú",
+            "p": "u kh s u"
+        },
+        {
+            "w": "axó",
+            "p": "a kh s o"
+        },
+        {
+            "w": "exó",
+            "p": "e kh s o"
+        },
+        {
+            "w": "ixó",
+            "p": "i kh s o"
+        },
+        {
+            "w": "aixó",
+            "p": "a :\\i kh s o"
+        },
+        {
+            "w": "eixó",
+            "p": "e :\\i kh s o"
+        },
+        {
+            "w": "oixó",
+            "p": "o :\\i kh s o"
+        },
+        {
+            "w": "oxó",
+            "p": "o kh s o"
+        },
+        {
+            "w": "uxó",
+            "p": "u kh s o"
+        },
+        {
+            "w": "auxó",
+            "p": "AU kh s o"
+        },
+        {
+            "w": "ouxó",
+            "p": "@U kh s o"
+        },
+        {
+            "w": "euxó",
+            "p": "@U kh s o"
+        },
+        {
+            "w": "áxó",
+            "p": "a kh s o"
+        },
+        {
+            "w": "éxó",
+            "p": "e kh s o"
+        },
+        {
+            "w": "íxó",
+            "p": "i kh s o"
+        },
+        {
+            "w": "óxó",
+            "p": "o kh s o"
+        },
+        {
+            "w": "úxó",
+            "p": "u kh s o"
+        },
+        {
+            "w": "axá",
+            "p": "a kh s a"
+        },
+        {
+            "w": "exá",
+            "p": "e kh s a"
+        },
+        {
+            "w": "ixá",
+            "p": "i kh s a"
+        },
+        {
+            "w": "aixá",
+            "p": "a :\\i kh s a"
+        },
+        {
+            "w": "eixá",
+            "p": "e :\\i kh s a"
+        },
+        {
+            "w": "oixá",
+            "p": "o :\\i kh s a"
+        },
+        {
+            "w": "oxá",
+            "p": "o kh s a"
+        },
+        {
+            "w": "uxá",
+            "p": "u kh s a"
+        },
+        {
+            "w": "auxá",
+            "p": "AU kh s a"
+        },
+        {
+            "w": "ouxá",
+            "p": "@U kh s a"
+        },
+        {
+            "w": "euxá",
+            "p": "@U kh s a"
+        },
+        {
+            "w": "áxá",
+            "p": "a kh s a"
+        },
+        {
+            "w": "éxá",
+            "p": "e kh s a"
+        },
+        {
+            "w": "íxá",
+            "p": "i kh s a"
+        },
+        {
+            "w": "óxá",
+            "p": "o kh s a"
+        },
+        {
+            "w": "úxá",
+            "p": "u kh s a"
+        },
+        {
+            "w": "axé",
+            "p": "a kh s e"
+        },
+        {
+            "w": "exé",
+            "p": "e kh s e"
+        },
+        {
+            "w": "ixé",
+            "p": "i kh s e"
+        },
+        {
+            "w": "aixé",
+            "p": "a :\\i kh s e"
+        },
+        {
+            "w": "eixé",
+            "p": "e :\\i kh s e"
+        },
+        {
+            "w": "oixé",
+            "p": "o :\\i kh s e"
+        },
+        {
+            "w": "oxé",
+            "p": "o kh s e"
+        },
+        {
+            "w": "uxé",
+            "p": "u kh s e"
+        },
+        {
+            "w": "auxé",
+            "p": "AU kh s e"
+        },
+        {
+            "w": "ouxé",
+            "p": "@U kh s e"
+        },
+        {
+            "w": "euxé",
+            "p": "@U kh s e"
+        },
+        {
+            "w": "áxé",
+            "p": "a kh s e"
+        },
+        {
+            "w": "éxé",
+            "p": "e kh s e"
+        },
+        {
+            "w": "íxé",
+            "p": "i kh s e"
+        },
+        {
+            "w": "óxé",
+            "p": "o kh s e"
+        },
+        {
+            "w": "úxé",
+            "p": "u kh s e"
+        },
+        {
+            "w": "axí",
+            "p": "a kh s i"
+        },
+        {
+            "w": "exí",
+            "p": "e kh s i"
+        },
+        {
+            "w": "ixí",
+            "p": "i kh s i"
+        },
+        {
+            "w": "així",
+            "p": "a :\\i kh s i"
+        },
+        {
+            "w": "eixí",
+            "p": "e :\\i kh s i"
+        },
+        {
+            "w": "oixí",
+            "p": "o :\\i kh s i"
+        },
+        {
+            "w": "oxí",
+            "p": "o kh s i"
+        },
+        {
+            "w": "uxí",
+            "p": "u kh s i"
+        },
+        {
+            "w": "auxí",
+            "p": "AU kh s i"
+        },
+        {
+            "w": "ouxí",
+            "p": "@U kh s i"
+        },
+        {
+            "w": "euxí",
+            "p": "@U kh s i"
+        },
+        {
+            "w": "áxí",
+            "p": "a kh s i"
+        },
+        {
+            "w": "éxí",
+            "p": "e kh s i"
+        },
+        {
+            "w": "íxí",
+            "p": "i kh s i"
+        },
+        {
+            "w": "óxí",
+            "p": "o kh s i"
+        },
+        {
+            "w": "úxí",
+            "p": "u kh s i"
+        },
+        {
+            "w": "axiu",
+            "p": "a kh s iU"
+        },
+        {
+            "w": "exiu",
+            "p": "e kh s iU"
+        },
+        {
+            "w": "ixiu",
+            "p": "i kh s iU"
+        },
+        {
+            "w": "aixiu",
+            "p": "a :\\i kh s iU"
+        },
+        {
+            "w": "eixiu",
+            "p": "e :\\i kh s iU"
+        },
+        {
+            "w": "oixiu",
+            "p": "o :\\i kh s iU"
+        },
+        {
+            "w": "oxiu",
+            "p": "o kh s iU"
+        },
+        {
+            "w": "uxiu",
+            "p": "u kh s iU"
+        },
+        {
+            "w": "auxiu",
+            "p": "AU kh s iU"
+        },
+        {
+            "w": "ouxiu",
+            "p": "@U kh s iU"
+        },
+        {
+            "w": "euxiu",
+            "p": "@U kh s iU"
+        },
+        {
+            "w": "áxiu",
+            "p": "a kh s iU"
+        },
+        {
+            "w": "éxiu",
+            "p": "e kh s iU"
+        },
+        {
+            "w": "íxiu",
+            "p": "i kh s iU"
+        },
+        {
+            "w": "óxiu",
+            "p": "o kh s iU"
+        },
+        {
+            "w": "úxiu",
+            "p": "u kh s iU"
+        },
+        {
+            "w": "axia",
+            "p": "a kh s ia"
+        },
+        {
+            "w": "exia",
+            "p": "e kh s ia"
+        },
+        {
+            "w": "ixia",
+            "p": "i kh s ia"
+        },
+        {
+            "w": "aixia",
+            "p": "a :\\i kh s ia"
+        },
+        {
+            "w": "eixia",
+            "p": "e :\\i kh s ia"
+        },
+        {
+            "w": "oixia",
+            "p": "o :\\i kh s ia"
+        },
+        {
+            "w": "oxia",
+            "p": "o kh s ia"
+        },
+        {
+            "w": "uxia",
+            "p": "u kh s ia"
+        },
+        {
+            "w": "auxia",
+            "p": "AU kh s ia"
+        },
+        {
+            "w": "ouxia",
+            "p": "@U kh s ia"
+        },
+        {
+            "w": "euxia",
+            "p": "@U kh s ia"
+        },
+        {
+            "w": "áxia",
+            "p": "a kh s ia"
+        },
+        {
+            "w": "éxia",
+            "p": "e kh s ia"
+        },
+        {
+            "w": "íxia",
+            "p": "i kh s ia"
+        },
+        {
+            "w": "óxia",
+            "p": "o kh s ia"
+        },
+        {
+            "w": "úxia",
+            "p": "u kh s ia"
+        },
+        {
+            "w": "axie",
+            "p": "a kh s ie"
+        },
+        {
+            "w": "exie",
+            "p": "e kh s ie"
+        },
+        {
+            "w": "ixie",
+            "p": "i kh s ie"
+        },
+        {
+            "w": "aixie",
+            "p": "a :\\i kh s ie"
+        },
+        {
+            "w": "eixie",
+            "p": "e :\\i kh s ie"
+        },
+        {
+            "w": "oixie",
+            "p": "o :\\i kh s ie"
+        },
+        {
+            "w": "oxie",
+            "p": "o kh s ie"
+        },
+        {
+            "w": "uxie",
+            "p": "u kh s ie"
+        },
+        {
+            "w": "auxie",
+            "p": "AU kh s ie"
+        },
+        {
+            "w": "ouxie",
+            "p": "@U kh s ie"
+        },
+        {
+            "w": "euxie",
+            "p": "@U kh s ie"
+        },
+        {
+            "w": "áxie",
+            "p": "a kh s ie"
+        },
+        {
+            "w": "éxie",
+            "p": "e kh s ie"
+        },
+        {
+            "w": "íxie",
+            "p": "i kh s ie"
+        },
+        {
+            "w": "óxie",
+            "p": "o kh s ie"
+        },
+        {
+            "w": "úxie",
+            "p": "u kh s ie"
+        },
+        {
+            "w": "axio",
+            "p": "a kh s i o"
+        },
+        {
+            "w": "exio",
+            "p": "e kh s i o"
+        },
+        {
+            "w": "ixio",
+            "p": "i kh s i o"
+        },
+        {
+            "w": "aixio",
+            "p": "a :\\i kh s i o"
+        },
+        {
+            "w": "eixio",
+            "p": "e :\\i kh s i o"
+        },
+        {
+            "w": "oixio",
+            "p": "o :\\i kh s i o"
+        },
+        {
+            "w": "oxio",
+            "p": "o kh s i o"
+        },
+        {
+            "w": "uxio",
+            "p": "u kh s i o"
+        },
+        {
+            "w": "auxio",
+            "p": "AU kh s i o"
+        },
+        {
+            "w": "ouxio",
+            "p": "@U kh s i o"
+        },
+        {
+            "w": "euxio",
+            "p": "@U kh s i o"
+        },
+        {
+            "w": "áxio",
+            "p": "a kh s i o"
+        },
+        {
+            "w": "éxio",
+            "p": "e kh s i o"
+        },
+        {
+            "w": "íxio",
+            "p": "i kh s i o"
+        },
+        {
+            "w": "óxio",
+            "p": "o kh s i o"
+        },
+        {
+            "w": "úxio",
+            "p": "u kh s i o"
+        },
+        {
+            "w": "axau",
+            "p": "a kh s AU"
+        },
+        {
+            "w": "exau",
+            "p": "e kh s AU"
+        },
+        {
+            "w": "ixau",
+            "p": "i kh s AU"
+        },
+        {
+            "w": "aixau",
+            "p": "a :\\i kh s AU"
+        },
+        {
+            "w": "eixau",
+            "p": "e :\\i kh s AU"
+        },
+        {
+            "w": "oixau",
+            "p": "o :\\i kh s AU"
+        },
+        {
+            "w": "oxau",
+            "p": "o kh s AU"
+        },
+        {
+            "w": "uxau",
+            "p": "u kh s AU"
+        },
+        {
+            "w": "auxau",
+            "p": "AU kh s AU"
+        },
+        {
+            "w": "ouxau",
+            "p": "@U kh s AU"
+        },
+        {
+            "w": "euxau",
+            "p": "@U kh s AU"
+        },
+        {
+            "w": "áxau",
+            "p": "a kh s AU"
+        },
+        {
+            "w": "éxau",
+            "p": "e kh s AU"
+        },
+        {
+            "w": "íuxau",
+            "p": "i kh s AU"
+        },
+        {
+            "w": "óxau",
+            "p": "o kh s AU"
+        },
+        {
+            "w": "úxau",
+            "p": "u kh s AU"
+        },
+        {
+            "w": "axeu",
+            "p": "a kh s @U"
+        },
+        {
+            "w": "exeu",
+            "p": "e kh s @U"
+        },
+        {
+            "w": "ixeu",
+            "p": "i kh s @U"
+        },
+        {
+            "w": "aixeu",
+            "p": "a :\\i kh s @U"
+        },
+        {
+            "w": "eixeu",
+            "p": "e :\\i kh s @U"
+        },
+        {
+            "w": "oixeu",
+            "p": "o :\\i kh s @U"
+        },
+        {
+            "w": "oxeu",
+            "p": "o kh s @U"
+        },
+        {
+            "w": "uxeu",
+            "p": "u kh s @U"
+        },
+        {
+            "w": "auxeu",
+            "p": "AU kh s @U"
+        },
+        {
+            "w": "ouxeu",
+            "p": "@U kh s @U"
+        },
+        {
+            "w": "euxeu",
+            "p": "@U kh s @U"
+        },
+        {
+            "w": "áxeu",
+            "p": "a kh s @U"
+        },
+        {
+            "w": "éxeu",
+            "p": "e kh s @U"
+        },
+        {
+            "w": "íuxeu",
+            "p": "i kh s @U"
+        },
+        {
+            "w": "óxeu",
+            "p": "o kh s @U"
+        },
+        {
+            "w": "úxeu",
+            "p": "u kh s @U"
+        },
+        {
+            "w": "axou",
+            "p": "a kh s @U"
+        },
+        {
+            "w": "exou",
+            "p": "e kh s @U"
+        },
+        {
+            "w": "ixou",
+            "p": "i kh s @U"
+        },
+        {
+            "w": "aixou",
+            "p": "a :\\i kh s @U"
+        },
+        {
+            "w": "eixou",
+            "p": "e :\\i kh s @U"
+        },
+        {
+            "w": "oixou",
+            "p": "o :\\i kh s @U"
+        },
+        {
+            "w": "oxou",
+            "p": "o kh s @U"
+        },
+        {
+            "w": "uxou",
+            "p": "u kh s @U"
+        },
+        {
+            "w": "auxou",
+            "p": "AU kh s @U"
+        },
+        {
+            "w": "ouxou",
+            "p": "@U kh s @U"
+        },
+        {
+            "w": "euxou",
+            "p": "@U kh s @U"
+        },
+        {
+            "w": "áxou",
+            "p": "a kh s @U"
+        },
+        {
+            "w": "éxou",
+            "p": "e kh s @U"
+        },
+        {
+            "w": "íuxou",
+            "p": "i kh s @U"
+        },
+        {
+            "w": "óxou",
+            "p": "o kh s @U"
+        },
+        {
+            "w": "úxou",
+            "p": "u kh s @U"
+        },
+        {
+            "w": "ay",
+            "p": "a :\\i"
+        },
+        {
+            "w": "ey",
+            "p": "e :\\i"
+        },
+        {
+            "w": "iy",
+            "p": "i :\\i"
+        },
+        {
+            "w": "oy",
+            "p": "o :\\i"
+        },
+        {
+            "w": "uy",
+            "p": "u :\\i"
+        },
+        {
+            "w": "áy",
+            "p": "a :\\i"
+        },
+        {
+            "w": "éy",
+            "p": "e :\\i"
+        },
+        {
+            "w": "íy",
+            "p": "i :\\i"
+        },
+        {
+            "w": "óy",
+            "p": "o :\\i"
+        },
+        {
+            "w": "úy",
+            "p": "u :\\i"
+        },
+        {
+            "w": "y",
+            "p": "i"
+        },
+        {
+            "w": "ya",
+            "p": "j a"
+        },
+        {
+            "w": "ye",
+            "p": "j e"
+        },
+        {
+            "w": "yi",
+            "p": "j i"
+        },
+        {
+            "w": "yo",
+            "p": "j o"
+        },
+        {
+            "w": "yu",
+            "p": "j u"
+        },
+        {
+            "w": "yá",
+            "p": "j a"
+        },
+        {
+            "w": "yé",
+            "p": "j e"
+        },
+        {
+            "w": "yí",
+            "p": "j i"
+        },
+        {
+            "w": "yó",
+            "p": "j o"
+        },
+        {
+            "w": "yú",
+            "p": "j u"
+        },
+        {
+            "w": "aya",
+            "p": "a j a"
+        },
+        {
+            "w": "eya",
+            "p": "e j a"
+        },
+        {
+            "w": "iya",
+            "p": "i j a"
+        },
+        {
+            "w": "aiya",
+            "p": "a :\\i j a"
+        },
+        {
+            "w": "eiya",
+            "p": "e :\\i j a"
+        },
+        {
+            "w": "oiya",
+            "p": "o :\\i j a"
+        },
+        {
+            "w": "oya",
+            "p": "o j a"
+        },
+        {
+            "w": "uya",
+            "p": "u j a"
+        },
+        {
+            "w": "auya",
+            "p": "AU j a"
+        },
+        {
+            "w": "ouya",
+            "p": "@U j a"
+        },
+        {
+            "w": "euya",
+            "p": "@U j a"
+        },
+        {
+            "w": "áya",
+            "p": "a j a"
+        },
+        {
+            "w": "éya",
+            "p": "e j a"
+        },
+        {
+            "w": "íya",
+            "p": "i j a"
+        },
+        {
+            "w": "óya",
+            "p": "o j a"
+        },
+        {
+            "w": "úya",
+            "p": "u j a"
+        },
+        {
+            "w": "aye",
+            "p": "a j e"
+        },
+        {
+            "w": "eye",
+            "p": "e j e"
+        },
+        {
+            "w": "iye",
+            "p": "i j e"
+        },
+        {
+            "w": "aiye",
+            "p": "a :\\i j e"
+        },
+        {
+            "w": "eiye",
+            "p": "e :\\i j e"
+        },
+        {
+            "w": "oiye",
+            "p": "o :\\i j e"
+        },
+        {
+            "w": "oye",
+            "p": "o j e"
+        },
+        {
+            "w": "uye",
+            "p": "u j e"
+        },
+        {
+            "w": "auye",
+            "p": "AU j e"
+        },
+        {
+            "w": "ouye",
+            "p": "@U j e"
+        },
+        {
+            "w": "euye",
+            "p": "@U j e"
+        },
+        {
+            "w": "áye",
+            "p": "a j e"
+        },
+        {
+            "w": "éye",
+            "p": "e j e"
+        },
+        {
+            "w": "íye",
+            "p": "i j e"
+        },
+        {
+            "w": "óye",
+            "p": "o j e"
+        },
+        {
+            "w": "úye",
+            "p": "u j e"
+        },
+        {
+            "w": "ayi",
+            "p": "a j i"
+        },
+        {
+            "w": "eyi",
+            "p": "e j i"
+        },
+        {
+            "w": "iyi",
+            "p": "i j i"
+        },
+        {
+            "w": "aiyi",
+            "p": "a :\\i j i"
+        },
+        {
+            "w": "eiyi",
+            "p": "e :\\i j i"
+        },
+        {
+            "w": "oiyi",
+            "p": "o :\\i j i"
+        },
+        {
+            "w": "oyi",
+            "p": "o j i"
+        },
+        {
+            "w": "uyi",
+            "p": "u j i"
+        },
+        {
+            "w": "auyi",
+            "p": "AU j i"
+        },
+        {
+            "w": "ouyi",
+            "p": "@U j i"
+        },
+        {
+            "w": "euyi",
+            "p": "@U j i"
+        },
+        {
+            "w": "áyi",
+            "p": "a j i"
+        },
+        {
+            "w": "éyi",
+            "p": "e j i"
+        },
+        {
+            "w": "íyi",
+            "p": "i j i"
+        },
+        {
+            "w": "óyi",
+            "p": "o j i"
+        },
+        {
+            "w": "úyi",
+            "p": "u j i"
+        },
+        {
+            "w": "ayo",
+            "p": "a j o"
+        },
+        {
+            "w": "eyo",
+            "p": "e j o"
+        },
+        {
+            "w": "iyo",
+            "p": "i j o"
+        },
+        {
+            "w": "aiyo",
+            "p": "a :\\i j o"
+        },
+        {
+            "w": "eiyo",
+            "p": "e :\\i j o"
+        },
+        {
+            "w": "oiyo",
+            "p": "o :\\i j o"
+        },
+        {
+            "w": "oyo",
+            "p": "o j o"
+        },
+        {
+            "w": "uyo",
+            "p": "u j o"
+        },
+        {
+            "w": "auyo",
+            "p": "AU j o"
+        },
+        {
+            "w": "ouyo",
+            "p": "@U j o"
+        },
+        {
+            "w": "euyo",
+            "p": "@U j o"
+        },
+        {
+            "w": "áyo",
+            "p": "a j o"
+        },
+        {
+            "w": "éyo",
+            "p": "e j o"
+        },
+        {
+            "w": "íyo",
+            "p": "i j o"
+        },
+        {
+            "w": "óyo",
+            "p": "o j o"
+        },
+        {
+            "w": "úyo",
+            "p": "u j o"
+        },
+        {
+            "w": "ayu",
+            "p": "a j u"
+        },
+        {
+            "w": "eyu",
+            "p": "e j u"
+        },
+        {
+            "w": "iyu",
+            "p": "i j u"
+        },
+        {
+            "w": "aiyu",
+            "p": "a :\\i j u"
+        },
+        {
+            "w": "eiyu",
+            "p": "e :\\i j u"
+        },
+        {
+            "w": "oiyu",
+            "p": "o :\\i j u"
+        },
+        {
+            "w": "oyu",
+            "p": "o j u"
+        },
+        {
+            "w": "uyu",
+            "p": "u j u"
+        },
+        {
+            "w": "auyu",
+            "p": "AU j u"
+        },
+        {
+            "w": "ouyu",
+            "p": "@U j u"
+        },
+        {
+            "w": "euyu",
+            "p": "@U j u"
+        },
+        {
+            "w": "áyu",
+            "p": "a j u"
+        },
+        {
+            "w": "éyu",
+            "p": "e j u"
+        },
+        {
+            "w": "íyu",
+            "p": "i j u"
+        },
+        {
+            "w": "óyu",
+            "p": "o j u"
+        },
+        {
+            "w": "úyu",
+            "p": "u j u"
+        },
+        {
+            "w": "ayú",
+            "p": "a j u"
+        },
+        {
+            "w": "eyú",
+            "p": "e j u"
+        },
+        {
+            "w": "iyú",
+            "p": "i j u"
+        },
+        {
+            "w": "aiyú",
+            "p": "a :\\i j u"
+        },
+        {
+            "w": "eiyú",
+            "p": "e :\\i j u"
+        },
+        {
+            "w": "oiyú",
+            "p": "o :\\i j u"
+        },
+        {
+            "w": "oyú",
+            "p": "o j u"
+        },
+        {
+            "w": "uyú",
+            "p": "u j u"
+        },
+        {
+            "w": "auyú",
+            "p": "AU j u"
+        },
+        {
+            "w": "ouyú",
+            "p": "@U j u"
+        },
+        {
+            "w": "euyú",
+            "p": "@U j u"
+        },
+        {
+            "w": "áyú",
+            "p": "a j u"
+        },
+        {
+            "w": "éyú",
+            "p": "e j u"
+        },
+        {
+            "w": "íyú",
+            "p": "i j u"
+        },
+        {
+            "w": "óyú",
+            "p": "o j u"
+        },
+        {
+            "w": "úyú",
+            "p": "u j u"
+        },
+        {
+            "w": "ayó",
+            "p": "a j o"
+        },
+        {
+            "w": "eyó",
+            "p": "e j o"
+        },
+        {
+            "w": "iyó",
+            "p": "i j o"
+        },
+        {
+            "w": "aiyó",
+            "p": "a :\\i j o"
+        },
+        {
+            "w": "eiyó",
+            "p": "e :\\i j o"
+        },
+        {
+            "w": "oiyó",
+            "p": "o :\\i j o"
+        },
+        {
+            "w": "oyó",
+            "p": "o j o"
+        },
+        {
+            "w": "uyó",
+            "p": "u j o"
+        },
+        {
+            "w": "auyó",
+            "p": "AU j o"
+        },
+        {
+            "w": "ouyó",
+            "p": "@U j o"
+        },
+        {
+            "w": "euyó",
+            "p": "@U j o"
+        },
+        {
+            "w": "áyó",
+            "p": "a j o"
+        },
+        {
+            "w": "éyó",
+            "p": "e j o"
+        },
+        {
+            "w": "íyó",
+            "p": "i j o"
+        },
+        {
+            "w": "óyó",
+            "p": "o j o"
+        },
+        {
+            "w": "úyó",
+            "p": "u j o"
+        },
+        {
+            "w": "ayá",
+            "p": "a j a"
+        },
+        {
+            "w": "eyá",
+            "p": "e j a"
+        },
+        {
+            "w": "iyá",
+            "p": "i j a"
+        },
+        {
+            "w": "aiyá",
+            "p": "a :\\i j a"
+        },
+        {
+            "w": "eiyá",
+            "p": "e :\\i j a"
+        },
+        {
+            "w": "oiyá",
+            "p": "o :\\i j a"
+        },
+        {
+            "w": "oyá",
+            "p": "o j a"
+        },
+        {
+            "w": "uyá",
+            "p": "u j a"
+        },
+        {
+            "w": "auyá",
+            "p": "AU j a"
+        },
+        {
+            "w": "ouyá",
+            "p": "@U j a"
+        },
+        {
+            "w": "euyá",
+            "p": "@U j a"
+        },
+        {
+            "w": "áyá",
+            "p": "a j a"
+        },
+        {
+            "w": "éyá",
+            "p": "e j a"
+        },
+        {
+            "w": "íyá",
+            "p": "i j a"
+        },
+        {
+            "w": "óyá",
+            "p": "o j a"
+        },
+        {
+            "w": "úyá",
+            "p": "u j a"
+        },
+        {
+            "w": "ayé",
+            "p": "a j e"
+        },
+        {
+            "w": "eyé",
+            "p": "e j e"
+        },
+        {
+            "w": "iyé",
+            "p": "i j e"
+        },
+        {
+            "w": "aiyé",
+            "p": "a :\\i j e"
+        },
+        {
+            "w": "eiyé",
+            "p": "e :\\i j e"
+        },
+        {
+            "w": "oiyé",
+            "p": "o :\\i j e"
+        },
+        {
+            "w": "oyé",
+            "p": "o j e"
+        },
+        {
+            "w": "uyé",
+            "p": "u j e"
+        },
+        {
+            "w": "auyé",
+            "p": "AU j e"
+        },
+        {
+            "w": "ouyé",
+            "p": "@U j e"
+        },
+        {
+            "w": "euyé",
+            "p": "@U j e"
+        },
+        {
+            "w": "áyé",
+            "p": "a j e"
+        },
+        {
+            "w": "éyé",
+            "p": "e j e"
+        },
+        {
+            "w": "íyé",
+            "p": "i j e"
+        },
+        {
+            "w": "óyé",
+            "p": "o j e"
+        },
+        {
+            "w": "úyé",
+            "p": "u j e"
+        },
+        {
+            "w": "ayí",
+            "p": "a j i"
+        },
+        {
+            "w": "eyí",
+            "p": "e j i"
+        },
+        {
+            "w": "iyí",
+            "p": "i j i"
+        },
+        {
+            "w": "aiyí",
+            "p": "a :\\i j i"
+        },
+        {
+            "w": "eiyí",
+            "p": "e :\\i j i"
+        },
+        {
+            "w": "oiyí",
+            "p": "o :\\i j i"
+        },
+        {
+            "w": "oyí",
+            "p": "o j i"
+        },
+        {
+            "w": "uyí",
+            "p": "u j i"
+        },
+        {
+            "w": "auyí",
+            "p": "AU j i"
+        },
+        {
+            "w": "ouyí",
+            "p": "@U j i"
+        },
+        {
+            "w": "euyí",
+            "p": "@U j i"
+        },
+        {
+            "w": "áyí",
+            "p": "a j i"
+        },
+        {
+            "w": "éyí",
+            "p": "e j i"
+        },
+        {
+            "w": "íyí",
+            "p": "i j i"
+        },
+        {
+            "w": "óyí",
+            "p": "o j i"
+        },
+        {
+            "w": "úyí",
+            "p": "u j i"
+        },
+        {
+            "w": "ayiu",
+            "p": "a j iU"
+        },
+        {
+            "w": "eyiu",
+            "p": "e j iU"
+        },
+        {
+            "w": "iyiu",
+            "p": "i j iU"
+        },
+        {
+            "w": "aiyiu",
+            "p": "a :\\i j iU"
+        },
+        {
+            "w": "eiyiu",
+            "p": "e :\\i j iU"
+        },
+        {
+            "w": "oiyiu",
+            "p": "o :\\i j iU"
+        },
+        {
+            "w": "oyiu",
+            "p": "o j iU"
+        },
+        {
+            "w": "uyiu",
+            "p": "u j iU"
+        },
+        {
+            "w": "auyiu",
+            "p": "AU j iU"
+        },
+        {
+            "w": "ouyiu",
+            "p": "@U j iU"
+        },
+        {
+            "w": "euyiu",
+            "p": "@U j iU"
+        },
+        {
+            "w": "áyiu",
+            "p": "a j iU"
+        },
+        {
+            "w": "éyiu",
+            "p": "e j iU"
+        },
+        {
+            "w": "íyiu",
+            "p": "i j iU"
+        },
+        {
+            "w": "óyiu",
+            "p": "o j iU"
+        },
+        {
+            "w": "úyiu",
+            "p": "u j iU"
+        },
+        {
+            "w": "ayia",
+            "p": "a j ia"
+        },
+        {
+            "w": "eyia",
+            "p": "e j ia"
+        },
+        {
+            "w": "iyia",
+            "p": "i j ia"
+        },
+        {
+            "w": "aiyia",
+            "p": "a :\\i j ia"
+        },
+        {
+            "w": "eiyia",
+            "p": "e :\\i j ia"
+        },
+        {
+            "w": "oiyia",
+            "p": "o :\\i j ia"
+        },
+        {
+            "w": "oyia",
+            "p": "o j ia"
+        },
+        {
+            "w": "uyia",
+            "p": "u j ia"
+        },
+        {
+            "w": "auyia",
+            "p": "AU j ia"
+        },
+        {
+            "w": "ouyia",
+            "p": "@U j ia"
+        },
+        {
+            "w": "euyia",
+            "p": "@U j ia"
+        },
+        {
+            "w": "áyia",
+            "p": "a j ia"
+        },
+        {
+            "w": "éyia",
+            "p": "e j ia"
+        },
+        {
+            "w": "íyia",
+            "p": "i j ia"
+        },
+        {
+            "w": "óyia",
+            "p": "o j ia"
+        },
+        {
+            "w": "úyia",
+            "p": "u j ia"
+        },
+        {
+            "w": "ayie",
+            "p": "a j ie"
+        },
+        {
+            "w": "eyie",
+            "p": "e j ie"
+        },
+        {
+            "w": "iyie",
+            "p": "i j ie"
+        },
+        {
+            "w": "aiyie",
+            "p": "a :\\i j ie"
+        },
+        {
+            "w": "eiyie",
+            "p": "e :\\i j ie"
+        },
+        {
+            "w": "oiyie",
+            "p": "o :\\i j ie"
+        },
+        {
+            "w": "oyie",
+            "p": "o j ie"
+        },
+        {
+            "w": "uyie",
+            "p": "u j ie"
+        },
+        {
+            "w": "auyie",
+            "p": "AU j ie"
+        },
+        {
+            "w": "ouyie",
+            "p": "@U j ie"
+        },
+        {
+            "w": "euyie",
+            "p": "@U j ie"
+        },
+        {
+            "w": "áyie",
+            "p": "a j ie"
+        },
+        {
+            "w": "éyie",
+            "p": "e j ie"
+        },
+        {
+            "w": "íyie",
+            "p": "i j ie"
+        },
+        {
+            "w": "óyie",
+            "p": "o j ie"
+        },
+        {
+            "w": "úyie",
+            "p": "u j ie"
+        },
+        {
+            "w": "ayio",
+            "p": "a j i o"
+        },
+        {
+            "w": "eyio",
+            "p": "e j i o"
+        },
+        {
+            "w": "iyio",
+            "p": "i j i o"
+        },
+        {
+            "w": "aiyio",
+            "p": "a :\\i j i o"
+        },
+        {
+            "w": "eiyio",
+            "p": "e :\\i j i o"
+        },
+        {
+            "w": "oiyio",
+            "p": "o :\\i j i o"
+        },
+        {
+            "w": "oyio",
+            "p": "o j i o"
+        },
+        {
+            "w": "uyio",
+            "p": "u j i o"
+        },
+        {
+            "w": "auyio",
+            "p": "AU j i o"
+        },
+        {
+            "w": "ouyio",
+            "p": "@U j i o"
+        },
+        {
+            "w": "euyio",
+            "p": "@U j i o"
+        },
+        {
+            "w": "áyio",
+            "p": "a j i o"
+        },
+        {
+            "w": "éyio",
+            "p": "e j i o"
+        },
+        {
+            "w": "íyio",
+            "p": "i j i o"
+        },
+        {
+            "w": "óyio",
+            "p": "o j i o"
+        },
+        {
+            "w": "úyio",
+            "p": "u j i o"
+        },
+        {
+            "w": "ayau",
+            "p": "a j AU"
+        },
+        {
+            "w": "eyau",
+            "p": "e j AU"
+        },
+        {
+            "w": "iyau",
+            "p": "i j AU"
+        },
+        {
+            "w": "aiyau",
+            "p": "a :\\i j AU"
+        },
+        {
+            "w": "eiyau",
+            "p": "e :\\i j AU"
+        },
+        {
+            "w": "oiyau",
+            "p": "o :\\i j AU"
+        },
+        {
+            "w": "oyau",
+            "p": "o j AU"
+        },
+        {
+            "w": "uyau",
+            "p": "u j AU"
+        },
+        {
+            "w": "auyau",
+            "p": "AU j AU"
+        },
+        {
+            "w": "ouyau",
+            "p": "@U j AU"
+        },
+        {
+            "w": "euyau",
+            "p": "@U j AU"
+        },
+        {
+            "w": "áyau",
+            "p": "a j AU"
+        },
+        {
+            "w": "éyau",
+            "p": "e j AU"
+        },
+        {
+            "w": "íuyau",
+            "p": "i j AU"
+        },
+        {
+            "w": "óyau",
+            "p": "o j AU"
+        },
+        {
+            "w": "úyau",
+            "p": "u j AU"
+        },
+        {
+            "w": "ayeu",
+            "p": "a j @U"
+        },
+        {
+            "w": "eyeu",
+            "p": "e j @U"
+        },
+        {
+            "w": "iyeu",
+            "p": "i j @U"
+        },
+        {
+            "w": "aiyeu",
+            "p": "a :\\i j @U"
+        },
+        {
+            "w": "eiyeu",
+            "p": "e :\\i j @U"
+        },
+        {
+            "w": "oiyeu",
+            "p": "o :\\i j @U"
+        },
+        {
+            "w": "oyeu",
+            "p": "o j @U"
+        },
+        {
+            "w": "uyeu",
+            "p": "u j @U"
+        },
+        {
+            "w": "auyeu",
+            "p": "AU j @U"
+        },
+        {
+            "w": "ouyeu",
+            "p": "@U j @U"
+        },
+        {
+            "w": "euyeu",
+            "p": "@U j @U"
+        },
+        {
+            "w": "áyeu",
+            "p": "a j @U"
+        },
+        {
+            "w": "éyeu",
+            "p": "e j @U"
+        },
+        {
+            "w": "íuyeu",
+            "p": "i j @U"
+        },
+        {
+            "w": "óyeu",
+            "p": "o j @U"
+        },
+        {
+            "w": "úyeu",
+            "p": "u j @U"
+        },
+        {
+            "w": "ayou",
+            "p": "a j @U"
+        },
+        {
+            "w": "eyou",
+            "p": "e j @U"
+        },
+        {
+            "w": "iyou",
+            "p": "i j @U"
+        },
+        {
+            "w": "aiyou",
+            "p": "a :\\i j @U"
+        },
+        {
+            "w": "eiyou",
+            "p": "e :\\i j @U"
+        },
+        {
+            "w": "oiyou",
+            "p": "o :\\i j @U"
+        },
+        {
+            "w": "oyou",
+            "p": "o j @U"
+        },
+        {
+            "w": "uyou",
+            "p": "u j @U"
+        },
+        {
+            "w": "auyou",
+            "p": "AU j @U"
+        },
+        {
+            "w": "ouyou",
+            "p": "@U j @U"
+        },
+        {
+            "w": "euyou",
+            "p": "@U j @U"
+        },
+        {
+            "w": "áyou",
+            "p": "a j @U"
+        },
+        {
+            "w": "éyou",
+            "p": "e j @U"
+        },
+        {
+            "w": "íuyou",
+            "p": "i j @U"
+        },
+        {
+            "w": "óyou",
+            "p": "o j @U"
+        },
+        {
+            "w": "úyou",
+            "p": "u j @U"
+        },
+        {
+            "w": "ia",
+            "p": "ia"
+        },
+        {
+            "w": "ie",
+            "p": "ie"
+        },
+        {
+            "w": "io",
+            "p": "i o"
+        },
+        {
+            "w": "iu",
+            "p": "iU"
+        },
+        {
+            "w": "ei",
+            "p": "e :\\i"
+        },
+        {
+            "w": "oi",
+            "p": "o :\\i"
+        },
+        {
+            "w": "ai",
+            "p": "a :\\i"
+        },
+        {
+            "w": "iá",
+            "p": "ia"
+        },
+        {
+            "w": "ié",
+            "p": "ie"
+        },
+        {
+            "w": "ió",
+            "p": "i o"
+        },
+        {
+            "w": "iú",
+            "p": "iU"
+        },
+        {
+            "w": "éi",
+            "p": "e :\\i"
+        },
+        {
+            "w": "ói",
+            "p": "o :\\i"
+        },
+        {
+            "w": "ái",
+            "p": "a :\\i"
+        },
+        {
+            "w": "úi",
+            "p": "u :\\i"
+        },
+        {
+            "w": "i",
+            "p": "i"
+        },
+        {
+            "w": "u",
+            "p": "u"
+        },
+        {
+            "w": "ua",
+            "p": "ua"
+        },
+        {
+            "w": "ue",
+            "p": "ue"
+        },
+        {
+            "w": "ui",
+            "p": "U i"
+        },
+        {
+            "w": "uo",
+            "p": "uo"
+        },
+        {
+            "w": "uá",
+            "p": "ua"
+        },
+        {
+            "w": "ué",
+            "p": "ue"
+        },
+        {
+            "w": "uó",
+            "p": "uo"
+        },
+        {
+            "w": "uí",
+            "p": "U i"
+        },
+        {
+            "w": "nk",
+            "p": "N kh"
+        },
+        {
+            "w": "nco",
+            "p": "N kh o"
+        },
+        {
+            "w": "nca",
+            "p": "N kh a"
+        },
+        {
+            "w": "nce",
+            "p": "N kh e"
+        },
+        {
+            "w": "nku",
+            "p": "N kh u"
+        }
+    ]
+}
