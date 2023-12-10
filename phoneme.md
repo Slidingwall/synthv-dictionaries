@@ -1,7 +1,7 @@
 # Phoneme / 音素表
 
-You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svstudio-resources/)or[Former Version.](/synthv-dictionaries/phonemes)  
-您可以参考[官方音素一览表](https://www.dreamtonics.com.cn/zh-CN/svstudio-resources/)或[之前的版本。](/synthv-dictionaries/phonemes)  
+You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svstudio-resources/), [Symbol Charts](/vocaloid-dictionaries/symbol-charts/) or[Former Version.](/synthv-dictionaries/phonemes)  
+您可以参考[官方音素一览表](https://www.dreamtonics.com.cn/zh-CN/svstudio-resources/)、[发音记号表](/vocaloid-dictionaries/symbol-charts/)或[之前的版本。](/synthv-dictionaries/phonemes)  
 
 > `MAN` = Mandarin X-SAMPA  
 > `ARP` = English Arpabet & Arpasing  
