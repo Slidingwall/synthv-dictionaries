@@ -41,7 +41,20 @@ Finding Job plugins for Vocaloid? Visit our [companion repository](/vocaloid-dic
 Interlingual user dictionary of Synthesizer V, Oringinally started in August 2020.  
 Synthesizer V的跨语言用户词典，最初开始于2020年8月。  
 
+### Synthesizer V Studio
+
+We note the new native cross-lingual synthesis support in Synthesizer V Studio 1.5.0. As a result, our development goals will probably shift gradually to languages and dialects other than Mandarin, Japanese and English. However, as this new technology is only available for the AI voice bank and the Pro version of the editor, we will still be optimising the existing dictionaries to better support the Standard voice bank and the Basic version of the editor. This is our main task at the moment.
+
+我们注意到Synthesizer V Studio 1.5.0新推出的原生跨语种合成支持。因此，我们的开发目标可能将转逐渐转向普通话、日语、英语之外的语言和方言。不过，因为这项新技术只能用于AI语音库，以及Pro版本的编辑器，我们仍旧会在现有字典的基础上进行优化，以便更好地支持Standard语音库和Basic版本的编辑器。这是我们目前的主要任务。
+
+### Synthesizer V Editor
+
+As all characters included in Synthesizer V Editor have received sound library updates as of 25 October 2021, the dictionaries in the Synthesizer V Editor version will no longer be kept up to date with the Synthesizer V Studio version, perhaps updating it when there is a major breakthrough in the dictionary's synthesis effects. They are, however, still available [here](https://github.com/Slidingwall/synthv-dictionaries/tree/main/Dictionaries%20for%20Synthesizer%20V%20Editor).
+
+由于所有包含在Synthesizer V Editor中的角色截止至2021年10月25日都获得了声库更新，因此Synthesizer V Editor版本的字典将不再与Synthesizer V Studio版本保持同步更新，或许当字典的合成效果有重大突破时会更新它。不过，它们仍然在[这里](https://github.com/Slidingwall/synthv-dictionaries/tree/main/Dictionaries%20for%20Synthesizer%20V%20Editor)
+
 ---
+
 This project maintained by Slidingwall. To contact me, you can [PM me on Bilibili](https://space.bilibili.com/141232009) or [E-mail me](mailto:slidingwall@outlook.com).  
 这是一个由Slidingwall维护的项目。您可以通过[哔哩哔哩](https://space.bilibili.com/141232009)或者[电子邮件](mailto:slidingwall@outlook.com)联系我。  
 
