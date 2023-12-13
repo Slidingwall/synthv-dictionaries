@@ -221,7 +221,7 @@ You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svs
 |**n**|nasal||n|n|n||**N**|nasal||N|ng|N|
 |**J**|nasal||n j|n y|ny||**f**|fricative||f|f|f|
 |**s**|fricative||s|s|s||**C**|fricative||s|th|s|
-|**sh**|fricative||s`|sh|sh||**ch**|affricate||ts`h|ch|ch|
+|**sh**|fricative||s&#96;|sh|sh||**ch**|affricate||ts&#96;h|ch|ch|
 |**x**|fricative||x|hh|h|
 
 [Back to home](/synthv-dictionaries/)
