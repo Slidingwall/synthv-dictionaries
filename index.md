@@ -7,6 +7,10 @@
 Finding Job plugins for Vocaloid? Visit our [companion repository](/vocaloid-dictionaries/)!  
 在找Vocaloid的插件吗？快来看看我们的[姐妹项目](/vocaloid-dictionaries/)！
 
+Official sites: [Dreamtonics](https://dreamtonics.com/) [Synthesizer V Forum](https://forum.synthesizerv.com/)  
+My Projects:    [vocaloid-dictionaries](/vocaloid-dictionaries/)    [mandarin-reclist](/mandarin-reclist/)  
+See also: [SynthV Resources & Guides](https://synthv.info/)
+
 ## [How to use 如何使用](/synthv-dictionaries/manual)  
 
 ## [Demos and Examples 演示和用例](/synthv-dictionaries/demo)
@@ -59,8 +63,3 @@ This project maintained by Slidingwall. To contact me, you can [PM me on Bilibil
 这是一个由Slidingwall维护的项目。您可以通过[哔哩哔哩](https://space.bilibili.com/141232009)或者[电子邮件](mailto:slidingwall@outlook.com)联系我。  
 
 ---
-
-## Link 链接
-
-Official sites:    [Dreamtonics](https://dreamtonics.com/)    [Synthesizer V Forum](https://forum.synthesizerv.com/)  
-My Projects:    [vocaloid-dictionaries](/vocaloid-dictionaries/)    [mandarin-reclist](/mandarin-reclist/)
