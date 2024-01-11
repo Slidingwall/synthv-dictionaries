@@ -14,7 +14,7 @@ Floder's name means the generation of Synthesizer V and the language of your voi
 The file name means the language you want to sing from the voicebank. For example, `Mandarin.json` means this dictionary will let the voicebank singing Mandarin.  
 文件的名称代表你想让语音库唱出的语言，例如，`Mandarin.json` 意味着这个字典将会让您的语音库唱出普通话。
 
-For detail instruction, please see the manual on our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/manual).
+For detail instruction, please see the manual on our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/manual).  
 详细教程，请查看[GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/manual)。
 
 ## Released dictionaries 已公开字典
