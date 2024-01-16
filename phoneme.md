@@ -31,11 +31,11 @@ You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svs
 |**U**|Vowel|从 c<u>o</u>ng|uh|u||**u**|Vowel|无 <u>wu</u>|uw|u|
 |**i**|Vowel|伊 y<u>i</u>|iy|i||**i\\** |Vowel|丝 s<u>i</u>|ih|i|
 |**i`**|Vowel|是 sh<u>i</u>|uh|u||**y**|Vowel|雨 <u>yu</u>|iy|i|
-|**AU**|Diphthong|好 h<u>ao</u>|aa uh|a w||**@U**|Diphthong|都 d<u>ou</u>|ax uh|o w|
+|**AU**|Diphthong|好 h<u>ao</u>|aw|a w||**@U**|Diphthong|都 d<u>ou</u>|ow|o w|
 |**ia**|Diphthong|家 j<u>ia</u>|y ae|y a||**iA**|Diphthong|将 j<u>ia</u>ng|y aa|y a|
-|**iAU**|Diphthong|小 x<u>iao</u>|y aa uh|y a w||**uo**|Diphthong|多 d<u>uo</u>|w ao|w o|
+|**iAU**|Diphthong|小 x<u>iao</u>|y aw|y a w||**uo**|Diphthong|多 d<u>uo</u>|w ao|w o|
 |**ie**|Diphthong|谢 x<u>ie</u>|y eh|y e||**iE**|Diphthong|先 x<u>ia</u>n|y eh|y a|
-|**iU**|Diphthong|穹 q<u>io</u>ng|y uh|y u||**i@U**|Diphthong|袖 x<u>iu</u>|y ax uh|y o w|
+|**iU**|Diphthong|穹 q<u>io</u>ng|y uh|y u||**i@U**|Diphthong|袖 x<u>iu</u>|y ow|y o w|
 |**y{**|Diphthong|元 y<u>ua</u>n|iy ae|i a||**yE**|Diphthong|学 x<u>ue</u>|iy eh|i e|
 |**ua**|Diphthong|花 h<u>ua</u>|w ae|w a||**uA**|Diphthong|黄 h<u>ua</u>ng|w aa|w a|
 |**u@**|Diphthong|顺 sh<u>u</u>n|w ax|w e||**ue**|Diphthong|对 d<u>u</u>i|w eh|w e|
