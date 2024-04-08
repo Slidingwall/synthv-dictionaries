@@ -1,5 +1,5 @@
 ---
-parent: Phoneme / 音素表
+parent: UI Components
 ---
 
 
@@ -410,8 +410,11 @@ parent: Phoneme / 音素表
 </tr>
 </table>
 </details>
+
+
 <details>
 <summary>
+
 <h2>English</h2>
 </summary>
 <table>
