@@ -1,9 +1,9 @@
 ---
-parent: UI Components
+parent: Phoneme / 音素表
 ---
 
 
-<h1>Phoneme (Former Version) / 音素表 (旧版)</h1>
+# Phoneme (Former Version) / 音素表 (旧版)
 <details>
 <summary>
 <h2>Chinese</h2>
