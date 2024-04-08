@@ -6,13 +6,14 @@ nav_order: 1
 # Make Interlingual tuning easier  
 {: .fs-9 }
 让跨语种更简单
+{: .fs-9 }
 
 {: .fs-6 .fw-300 } 
 "synthv-dictionaries" is a project devoted to make those single-language voicebanks of Synthesizer V can singing another language precisely. 
-{: .fs-6 .fw-300 } 
 "synthv-dictionaries"项目致力于让单语言Synthesizer V语音库能够地道的唱出另一种语言。 
+{: .fs-6 .fw-300 } 
 
-[View on Github]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  
+[View on Github](https://github.com/Slidingwall/synthv-dictionaries/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  
 
 Finding Job plugins for Vocaloid? Visit our [companion repository](/vocaloid-dictionaries/)!  
 在找Vocaloid的插件吗？快来看看我们的[姐妹项目](/vocaloid-dictionaries/)！
@@ -35,7 +36,8 @@ See also: [SynthV Resources & Guides](https://synthv.info/){: .btn }
 | VCCV UST^ | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/english-arpabet/UST-VCCV.json) | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/mandarin-xsampa/UST-VCCV.json) | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/japanese-romaji/UST-VCCV.json) |
 
 {: .note-title }
-> 注意
+> 注意NOTICE:  
+> 
 > *: **[Experimental Function]**For Korean, Hangul included in _[KS X 1001](https://en.wikipedia.org/wiki/KS_X_1001)_ and _[Revised Romanization of Korean](https://en.wikipedia.org/wiki/Revised_Romanization_of_Korean)_ is used for input, and consonant assimilation is not supported during Hangul input, you can use the revised romanation which transcribed the phonetic changes instead. Please replace consonant `r` by `l` while inputing.  
 > *：**[实验功能]**对于韩语，采用[KS X 1001](https://zh.wikipedia.org/wiki/KS_X_1001)包含的谚文及 [文化观光部2000年式（国语罗马字表记法）](https://zh.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E8%A7%82%E5%85%89%E9%83%A82000%E5%B9%B4%E5%BC%8F) 进行输入，使用谚文输入时，不支持转换辅音音变，您可以用记录下音变的罗马字来代替。输入时，请将辅音 `r`用 `l`代替。
 >
@@ -67,6 +69,6 @@ As all characters included in Synthesizer V Editor have received sound library u
 This project maintained by Slidingwall.
 这是一个由Slidingwall维护的项目。
 
-[Bilibili](https://space.bilibili.com/141232009){: .btn .btn-purple .mr-2 }  [E=mail](mailto:slidingwall@outlook.com){: .btn .btn-green }
+[Bilibili](https://space.bilibili.com/141232009){: .btn .btn-purple .mr-2 }  [E-mail](mailto:slidingwall@outlook.com){: .btn .btn-green }
 
 ---

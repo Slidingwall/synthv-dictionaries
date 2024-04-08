@@ -1,5 +1,5 @@
 ---
-parent: UI Components
+parent: Phoneme / 音素表
 ---
 
 
