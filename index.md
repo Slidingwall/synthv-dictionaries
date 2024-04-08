@@ -5,11 +5,10 @@ nav_order: 1
 
 # Make Interlingual tuning easier  
 {: .fs-9 }
-让跨语种更简单
+让跨语种更简单  
 {: .fs-9 }
-
 {: .fs-6 .fw-300 } 
-"synthv-dictionaries" is a project devoted to make those single-language voicebanks of Synthesizer V can singing another language precisely. 
+"synthv-dictionaries" is a project devoted to make those single-language voicebanks of Synthesizer V can singing another language precisely.  
 "synthv-dictionaries"项目致力于让单语言Synthesizer V语音库能够地道的唱出另一种语言。 
 {: .fs-6 .fw-300 } 
 
@@ -47,6 +46,8 @@ See also: [SynthV Resources & Guides](https://synthv.info/){: .btn }
 > ^:**[Experimental Function]**UST Importing is still in development.  
 > ^：**[实验功能]**UST导入仍在开发中。
 >
+{: .note-title }
+
 ## About 关于
 
 Interlingual user dictionary of Synthesizer V, Oringinally started in August 2020.  
