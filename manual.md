@@ -1,3 +1,8 @@
+---
+nav_order: 2
+---
+
+
 ## How to use / 如何使用
 ### Synthesizer V Studio
 Put the folder in `Documents\Dreamtonics\Synthesizer V Studio\dicts\[language]-[phoneme format]`, then you'll see the dictionary in Dictionary Panel.  
@@ -19,4 +24,4 @@ Choose the dictionary in the Dictionary Editor
 **WARNING: Dictionaries are not universal between Synthesizer V Editor and Synthesizer V Studio.**  
 **警告：用户词典在Synthesizer V Editor 和 Synthesizer V Studio 之间并不通用。**   
   
-  [Back to home](/synthv-dictionaries/index)
+

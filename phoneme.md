@@ -1,3 +1,8 @@
+---
+nav_order: 4
+has_children: true
+---
+
 # Phoneme / 音素表
 
 You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svstudio-resources/), [Symbol Charts](/vocaloid-dictionaries/symbol-charts) or[Former Version.](/synthv-dictionaries/phonemes)  
@@ -13,11 +18,23 @@ You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svs
 
 - [Phoneme / 音素表](#phoneme--音素表)
   - [Chinese 中文](#chinese-中文)
-  - [English & UST Import 英语与UST导入](#english--ust-import-英语与ust导入)
+    - [Vowels, Semivowels and Diphthongs](#vowels-semivowels-and-diphthongs)
+    - [Consonants and Codas](#consonants-and-codas)
+  - [English \& UST Import 英语与UST导入](#english--ust-import-英语与ust导入)
+    - [Vowels](#vowels)
+    - [Consonants](#consonants)
   - [Japanese 日语](#japanese-日语)
+    - [Vowels and Semivowels](#vowels-and-semivowels)
+    - [Consonants](#consonants-1)
   - [Korean 韩语](#korean-韩语)
+    - [Vowels](#vowels-1)
+    - [Consonants](#consonants-2)
   - [Yue 粤方言](#yue-粤方言)
+    - [Vowels and Semivowels](#vowels-and-semivowels-1)
+    - [Consonants and Codas](#consonants-and-codas-1)
   - [Spanish 西班牙语](#spanish-西班牙语)
+    - [Vowels and Semivowels](#vowels-and-semivowels-2)
+    - [Consotants](#consotants)
 
 ## Chinese 中文
 
@@ -224,4 +241,4 @@ You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svs
 |**sh**|fricative||s&#96;|sh|sh||**ch**|affricate||ts&#96;h|ch|ch|
 |**x**|fricative||x|hh|h|
 
-[Back to home](/synthv-dictionaries/)
+
