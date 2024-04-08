@@ -4,12 +4,12 @@ nav_order: 1
 ---
 
 # Make Interlingual tuning easier  
-让跨语种更简单{: .fs-9 }
+让跨语种更简单 {: .fs-9 }
 
-"synthv-dictionaries" is a project devoted to make those single-language voicebanks of Synthesizer V can singing another language precisely.{: .fs-6 .fw-300 }  
-"synthv-dictionaries"项目致力于让单语言Synthesizer V语音库能够地道的唱出另一种语言。{: .fs-6 .fw-300 }  
+"synthv-dictionaries" is a project devoted to make those single-language voicebanks of Synthesizer V can singing another language precisely. {: .fs-6 .fw-300 }  
+"synthv-dictionaries"项目致力于让单语言Synthesizer V语音库能够地道的唱出另一种语言。 {: .fs-6 .fw-300 }  
 
-[View on Github]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  
+[View on Github](https://github.com/Slidingwall/synthv-dictionaries/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  
 
 Finding Job plugins for Vocaloid? Visit our [companion repository](/vocaloid-dictionaries/)!  
 在找Vocaloid的插件吗？快来看看我们的[姐妹项目](/vocaloid-dictionaries/)！
