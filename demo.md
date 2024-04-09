@@ -5,7 +5,7 @@ nav_order: 3
 
 # Demos and Examples / 演示和用例 
 
-  <summary><h2>Sample Music</h2></summary>
+## Sample Music
 <details>
   <summary><h3>Lightyears Away - G.E.M &nbsp;&nbsp;&nbsp;&nbsp; 光年之外 - 邓紫棋</h3> <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Koharu Rikka AI (Lite) 小春六花AI (Lite) &nbsp;&nbsp;&nbsp;&nbsp; SVR2 Jpn2Man</summary>
 <iframe src="https://player.bilibili.com/player.html?aid=289822128&bvid=BV1sf4y1x7Ea&cid=314977694&page=1high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="700" height="480" scrolling="no" frameborder="0"sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
@@ -28,68 +28,17 @@ nav_order: 3
 </details>
 </details>
 
-<h2>Dictionary Demo (Synthesizer V Studio)</h2>
-<table>
-    <tr><th> </th><th>From Chinese 从中文</th><th>From English 从英语</th><th>From Japanese 从日语 </th></tr></thead>
-    <tbody>
-        <tr>
-        <td>To Chinese 到中文</td>
-        <td>N/A</td>
-        <td>
-            <audio controls>
-                <source src="/synthv-dictionaries/assets/E2M.ogg" type="audio/ogg">
-            </audio>
-        </td>
-        <td>
-            <audio controls>
-                <source src="/synthv-dictionaries/assets/J2M.ogg" type="audio/ogg">
-            </audio>
-        </td>
-        </tr>
-        <tr>
-        <td>To English 到英语</td>
-        <td>
-            <audio controls>
-                <source src="/synthv-dictionaries/assets/M2E.ogg" type="audio/ogg">
-            </audio>
-        </td>
-        <td>N/A</td>
-        <td>
-            <audio controls>
-                <source src="/synthv-dictionaries/assets/J2E.ogg" type="audio/ogg">
-            </audio>
-        </td>
-        </tr>
-        <tr>
-        <td>To Japanese 到日语</td>
-        <td>N/A*</td>
-        <td>
-            <audio controls>
-                <source src="/synthv-dictionaries/assets/E2J.ogg" type="audio/ogg">
-            </audio>
-        </td>
-        <td>N/A</td>
-        </tr>
-        <tr>
-        <td>To Korean 到韩语</td>
-        <td>
-            <audio controls>
-                <source src="/synthv-dictionaries/assets/M2K.ogg" type="audio/ogg">
-            </audio>
-        </td>
-        <td>
-            <audio controls>
-                <source src="/synthv-dictionaries/assets/E2K.ogg" type="audio/ogg">
-            </audio>
-        </td>
-        <td>
-            <audio controls>
-                <source src="/synthv-dictionaries/assets/J2K.ogg" type="audio/ogg">
-            </audio>
-        </td>
-        </tr>
-</table>
-      <p>*: This dictionary has been done by others.<br />*：这个字典已经由其他人完成。</p>
-<a href="/synthv-dictionaries/index">Back to home</a>
-  </section>
-    </div>
+## Dictionary Demo (Synthesizer V Studio)
+
+|   | From Chinese 从中文 | From English 从英语 | From Japanese 从日语  |
+|:---:|:---:|:---:|:---:|
+| To Chinese 到中文 | N/A |<audio controls><source src="/synthv-dictionaries/assets/E2M.ogg" type="audio/ogg"></audio>|<audio controls><source src="/synthv-dictionaries/assets/J2M.ogg" type="audio/ogg"></audio>|
+| To English 到英语 |<audio controls><source src="/synthv-dictionaries/assets/M2E.ogg" type="audio/ogg"></audio>| N/A |<audio controls><source src="/synthv-dictionaries/assets/J2E.ogg" type="audio/ogg"></audio>|
+| To Japanese 到日语 | N/A* |<audio controls><source src="/synthv-dictionaries/assets/E2J.ogg" type="audio/ogg"></audio>| N/A |
+| To Korean 到韩语 |<audio controls><source src="/synthv-dictionaries/assets/M2K.ogg" type="audio/ogg"></audio>|<audio controls><source src="/synthv-dictionaries/assets/E2K.ogg" type="audio/ogg"></audio>|<audio controls><source src="/synthv-dictionaries/assets/J2K.ogg" type="audio/ogg"></audio>|
+
+{: .note } 
+> *: This dictionary has been done by others.  
+> *：这个字典已经由其他人完成。
+
+

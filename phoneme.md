@@ -117,7 +117,7 @@ You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svs
 |RMJ|Category|Example|ARP||RMJ|Category|Example|ARP|
 |:----:|:----:|:----:|:----:|:-:|:----:|:----:|:----:|:----:|
 |**a**|Vowel|あ <u>a</u>|ae||**i**|Vowel|い <u>i</u>|iy|
-|**u**|Vowel|う <u>u</u>|uw||**e**|Vowel|え <u>e</u>|eh|
+|**u**|Vowel|う <u>u</u>|uh||**e**|Vowel|え <u>e</u>|eh|
 |**o**|Vowel|お <u>o</u>|ao||**N**|Vowel|ん <u>n</u>|ng|
 |**w**|Semivowel|わ <u>w</u>a|w||**v**|Semivowel|ヴァ <u>v</u>a|v|
 |**y**|Semivowel|や <u>y</u>a|y|
@@ -155,9 +155,9 @@ You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svs
 |**ㅙ / wae**|ue|w eh|w e||**ㅚ / oe**|ue|w eh|w e|
 |**ㅛ / yo**|j o|y ao|y o||**ㅜ / u**|u|uw|u|
 |**ㅝ / wo**|uA|w ah|w o||**ㅞ / we**|ue|w eh|w e|
-|**ㅟ / wi**|u :\i|w iy|w i||**ㅠ / yu**|j u|y uw|y u|
+|**ㅟ / wi**|y|w iy|w i||**ㅠ / yu**|j u|y uw|y u|
 |**ㅡ / eu**|U|uh|u||**ㅣ / i**|i|iy|i|
-|**ㅢ / ui<br />(Initial)**|U :\i|uh iy|u i||**ㅢ / ui<br />(Non-initial)**|i|iy|i|
+|**ㅢ / ui<br />(Initial)**|U i|uh iy|u i||**ㅢ / ui<br />(Non-initial)**|i|iy|i|
 
 ### Consonants
 
@@ -189,7 +189,7 @@ You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svs
 |**E**|Vowel|些 s<u>e</u>|e|eh|e||**e**|Vowel|伾 p<u>e</u>i|e|e|eh|
 |**i**|Vowel|兒 j<u>i</u>|i|iy|i||**I**|Vowel|升 s<u>i</u>ng|i\\ |ih|i|
 |**O**|Vowel|开 h<u>o</u>i|o|ao|o||**o**|Vowel|數 s<u>o</u>u|o|ao|o|
-|**u**|Vowel|潰 k<u>u</u>i|u|uh|u||**U**|Vowel|用 j<u>u</u>ng|U|uw|u|
+|**u**|Vowel|潰 k<u>u</u>i|u|uw|u||**U**|Vowel|用 j<u>u</u>ng|U|uh|u|
 |**9**|Vowel|约 j<u>oe</u>k|e|eh|e||**8**|Vowel|摔 s<u>eo</u>t|@|ax|e|
 |**m=**|Vowel|唔 <u>m</u>|m|m|m||**N=**|Vowel|五 <u>ng</u>|N|ng|N|
 |**w**|Semivowel|泳 <u>w</u>ing|w|w|w||**j**|Semivowel|一 <u>j</u>at|j|y|y|
@@ -221,7 +221,7 @@ You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svs
 |:----:|:----:|:----:|:----:|:----:|:----:|:-:|:----:|:----:|:----:|:----:|:----:|:----:|
 |**a**|vowel||a|ae|a||**e**|vowel||e|eh|e|
 |**i**|vowel||i|iy|i||**o**|vowel||o|ao|o|
-|**u**|vowel||u|uh|u||**U**|semivowel||U|uw|u|
+|**u**|vowel||u|uw|u||**U**|semivowel||U|uh|u|
 |**I**|semivowel||:\i|ih|i||**y**|semivowel||j|y|y|
 |**ll**|semivowel||j|y|y|
 

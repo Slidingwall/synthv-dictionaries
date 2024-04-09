@@ -1,8 +1,25 @@
-title: synthv-dictionaries
+title: SynthV Dictionaries
 description: Interlingual user dictionary of Synthesizer V.
 remote_theme: just-the-docs/just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  View on Github: https://github.com/Slidingwall/synthv-dictionaries/
+  Back to my works: https://slidingwall.github.io/works/
+
+callouts:
+  warning:
+    title: Warning / 注意
+    color: red
+  highlight:
+    title: 
+    color: yellow
+  new:
+    title: New / 新功能
+    color: yellow
+  note:
+    title: Note / 注记
+    color: purple
+  important:
+    title: Important / 重要
+    color: purple
