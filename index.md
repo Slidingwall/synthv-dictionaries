@@ -14,11 +14,8 @@ nav_order: 1
 
 [View on Github](https://github.com/Slidingwall/synthv-dictionaries/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  [vocaloid-dictionaries](/vocaloid-dictionaries/){: .btn .fs-5 .mb-4 .mb-md-0 }    [mandarin-reclist](/mandarin-reclist/){: .btn .fs-5 .mb-4 .mb-md-0 }  
 
-Finding Job plugins for Vocaloid? Visit our [companion repository](/vocaloid-dictionaries/)!  
-在找Vocaloid的插件吗？快来看看我们的[姐妹项目](/vocaloid-dictionaries/)！
 
-Official sites: [Dreamtonics](https://dreamtonics.com/){: .btn } [Synthesizer V Forum](https://forum.synthesizerv.com/){: .btn }  
-See also: [SynthV Resources & Guides](https://synthv.info/){: .btn }
+Links: [Dreamtonics](https://dreamtonics.com/){: .btn } [Synthesizer V Forum](https://forum.synthesizerv.com/){: .btn } [SynthV Resources & Guides](https://synthv.info/){: .btn }
 
 
 

@@ -9,6 +9,7 @@ parent: Phoneme / 音素表
 > 自2023年11月30日弃用。
 
 ## Chinese
+
 | MAN | Type | Example | ARP | RMJ |
 |:---:|:---:|:---:|:---:|:---:|
 | a | vowel | 啊 <u>a</u>而 <u>e</u>r | ae | a |
@@ -21,7 +22,7 @@ parent: Phoneme / 音素表
 | u | vowel | 无 w<u>u</u>  | uw | u |
 | i | vowel | 一 y<u>i</u>  | iy | i |
 | i\\ | vowel | 四 s<u>i</u>  | ih | i |
-| i` | vowel | 十 sh<u>i</u>  | uh | u |
+| i\` | vowel | 十 sh<u>i</u>  | uh | u |
 | y | vowel | 与 y<u>ü</u>  | iy | i |
 | AU | diphthong | 好 h<u>ao</u>  | aa uh | a w |
 | @U | diphthong | 欧 <u>ou</u>  | ax uh | o w |
@@ -40,7 +41,7 @@ parent: Phoneme / 音素表
 | ue | diphthong | 对 d<u>u</u>i  | w eh | w e |
 | uo | diphthong | 多 d<u>uo</u>  | w ao | w o |
 | :\\i | semivowel | 还 ha<u>i</u>北 be<u>i</u> | ih | e i |
-| r\\` | semivowel | 而 e<u>r</u>  | er | r |
+| r\\\` | semivowel | 而 e<u>r</u>  | er | r |
 | :n | semivowel | 安 a<u>n</u>恩 e<u>n<u> | n | n |
 | N | semivowel | 横 he<u>ng</u>  | ng | N |
 | p | stop | 波 <u>b</u>o  | b | b |
@@ -52,24 +53,25 @@ parent: Phoneme / 音素表
 | ts\\ | affricate | 几 <u>j</u>i  | jh | j |
 | ts | affricate | 字 <u>z</u>i  | z | z |
 | tsh | affricate | 次 <u>c</u>i  | t s | ts |
-| ts` | affricate | 只 <u>zh</u>i  | jh | j |
-| ts`h | affricate | 吃 <u>ch</u>i  | ch | ch |
+| ts\` | affricate | 只 <u>zh</u>i  | jh | j |
+| ts\`h | affricate | 吃 <u>ch</u>i  | ch | ch |
 | ts\\h | affricate(SV R1)<br>fricative(SV R2) | 七 <u>q</u>i  | ch | ch |
 | x | aspirate | 和 <u>h</u>e  | hh | h |
 | f | fricative | 佛 <u>f</u>o  | f | f |
 | s | fricative | 四 <u>s</u>i  | s | s |
-| s` | fricative | 十 <u>sh</u>i  | sh | sh |
+| s\` | fricative | 十 <u>sh</u>i  | sh | sh |
 | s\\ | fricative | 西 <u>x</u>i  | sh | sh |
 | m | nasal | 末 <u>m</u>o  | m | m |
 | n | nasal | 呢 <u>n</u>e  | n | n |
 | l | liquid | 了 <u>l</u>e  | l | r |
-| z` | semivowel | 日 <u>r</u>i  | zh | j |
+| z\` | semivowel | 日 <u>r</u>i  | zh | j |
 | w | semivowel | 哇 <u>w</u>a  | w | w |
 | j | semivowel | 亚 <u>y</u>a  | y | y |
 | sil | silence |
 
 
 ## English
+
 | Arpabet | Type | Example | MAN | RMJ |
 |:---:|:---:|:---:|:---:|:---:|
 | aa | vowel | p<u>al</u>m | A | a |
@@ -80,20 +82,20 @@ parent: Phoneme / 音素表
 | ax | vowel | rent<u>a</u>l | @ | e |
 | ay | diphthong | b<u>i</u>te | a :\\i | a e i |
 | b | stop | <u>b</u>uy | p | b |
-| ch | affricate | <u>ch</u>ina | ts`h | ch |
+| ch | affricate | <u>ch</u>ina | ts\`h | ch |
 | d | stop | <u>d</u>ie | t | d |
 | dx | stop | bu<u>tt</u>er | l | r |
-| dr | affricate | <u>dr</u>ive | ts` | j |
+| dr | affricate | <u>dr</u>ive | ts\` | j |
 | dh | fricative | <u>th</u>e | ts | z |
 | eh | vowel | b<u>e</u>t | e | e |
-| er | vowel | b<u>ir</u>d | @ r\\` | e r |
+| er | vowel | b<u>ir</u>d | @ r\\\` | e r |
 | ey | diphthong | h<u>ey</u> | e :\\i | e i |
 | f | fricative | <u>f</u>ight | f | f |
 | g | stop | <u>g</u>uy | k | g |
 | hh | aspirate | <u>h</u>igh | x | h |
 | ih | vowel | b<u>i</u>t | i\\ | i |
 | iy | vowel | b<u>ea</u>t | i | i |
-| jh | affricate | <u>j</u>ust | ts` | j |
+| jh | affricate | <u>j</u>ust | ts\` | j |
 | k | stop | <u>k</u>ite | kh | k |
 | l | liquid | <u>l</u>ie | l | r |
 | m | nasal | <u>m</u>y | m | m |
@@ -102,11 +104,11 @@ parent: Phoneme / 音素表
 | ow | diphthong | b<u>oa</u>t | @U | o u |
 | oy | diphthong | b<u>oy</u> | o :\\i | o i |
 | p | stop | <u>p</u>ie | ph | p |
-| r | semivowel | <u>r</u>isk | r\\` | r |
+| r | semivowel | <u>r</u>isk | r\\\` | r |
 | s | fricative | <u>s</u>ay | s | s |
-| sh | fricative | <u>sh</u>y | s` | sh |
+| sh | fricative | <u>sh</u>y | s\` | sh |
 | t | stop | <u>t</u>ie | th | t |
-| tr | affricate | <u>tr</u>ee | ts`h | ch |
+| tr | affricate | <u>tr</u>ee | ts\`h | ch |
 | th | fricative | <u>th</u>ing | s | s |
 | uh | vowel | b<u>oo</u>k | U | u |
 | uw | vowel | b<u>oo</u>t | u | u |
@@ -114,11 +116,12 @@ parent: Phoneme / 音素表
 | w | semivowel | <u>w</u>ise | w | w |
 | y | semivowel | <u>y</u>es | j | y |
 | z | fricative | <u>z</u>oo | ts | z |
-| zh | fricative | mea<u>s</u>ure | z`  | j |
+| zh | fricative | mea<u>s</u>ure | z\`  | j |
 | sil | silence | ... |
 
 
 ## Japanese
+
 | RMJ | Type | Example | ARP |
 |:---:|:---:|:---:|:---:|
 | a | vowel | あ <u>a</u> | ae |
@@ -194,7 +197,7 @@ parent: Phoneme / 音素表
 | ㄷ(Final) / t | t | d | d |
 | ㄸ / tt | cl t | cl d | cl d |
 | ㄹ / r | l | dx | r |
-| ㄹ(Final) / l | r\\` | l | r |
+| ㄹ(Final) / l | r\\\` | l | r |
 | ㅁ / m | m | m | m |
 | ㅂ / b | p | b | b |
 | ㅂ(Final) / p | p | b | b |
