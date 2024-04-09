@@ -14,8 +14,10 @@ nav_order: 1
 
 [View on Github](https://github.com/Slidingwall/synthv-dictionaries/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  [vocaloid-dictionaries](/vocaloid-dictionaries/){: .btn .fs-5 .mb-4 .mb-md-0 }    [mandarin-reclist](/mandarin-reclist/){: .btn .fs-5 .mb-4 .mb-md-0 }  
 
-
-Links: [Dreamtonics](https://dreamtonics.com/){: .btn } [Synthesizer V Forum](https://forum.synthesizerv.com/){: .btn } [SynthV Resources & Guides](https://synthv.info/){: .btn }
+{: .important-title }
+> See also / 参见: 
+> 
+> [Dreamtonics](https://dreamtonics.com/){: .btn .btn-blue .mr-2 } [Synthesizer V Forum](https://forum.synthesizerv.com/){: .btn .btn-blue .mr-2 } [SynthV Resources & Guides](https://synthv.info/){: .btn .btn-blue }
 
 
 

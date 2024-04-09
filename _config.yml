@@ -16,10 +16,10 @@ callouts:
     color: yellow
   new:
     title: New / 新功能
-    color: yellow
+    color: green
   note:
     title: Note / 注记
     color: purple
   important:
     title: Important / 重要
-    color: purple
+    color: blue

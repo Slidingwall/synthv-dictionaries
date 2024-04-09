@@ -185,8 +185,8 @@ parent: Phoneme / 音素表
 | ㅟ / wi | u :\\i | w iy | w i |
 | ㅠ / yu | j u | y uw | y u |
 | ㅡ / eu | U | uh | u  |
-| ㅢ(Single) / ui | U :\\i | uh iy | u i |
-| ㅢ(After Consonant) / ui | i | iy | i |
+| ㅢ(Initial) / ui | U :\\i | uh iy | u i |
+| ㅢ(Non-initial) / ui | i | iy | i |
 | ㅣ / i | i | iy | i |
 | ㄱ / g | k | g | g |
 | ㄱ(Final) / k | k | g | g |
