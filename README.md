@@ -19,8 +19,8 @@ For detail instruction, please see the manual on our [GitHub Pages](https://slid
 
 ## Released dictionaries 已公开字典
 
-All these dictionaries' demos and examples are on [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo.html), including before and after comparisons and some sample songs.  
-这些字典的演示和用例都在 [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo.html) 中，包括使用前后的对比和一些歌曲样本。
+All these dictionaries' demos and examples are on [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo), including before and after comparisons and some sample songs.  
+这些字典的演示和用例都在 [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo) 中，包括使用前后的对比和一些歌曲样本。
 
 | Surpported Lyric Language<br />支持的歌词语言 | English Voicebank<br />英语语音库 | Chinese Voicebank<br />中文语音库 | Japanese Voicebank<br />日语语音库 |
 |:----:|:----:|:----:|:----:|
