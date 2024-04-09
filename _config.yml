@@ -5,7 +5,7 @@ remote_theme: just-the-docs/just-the-docs
 url: https://just-the-docs.github.io
 
 aux_links:
-  Back to my works: https://slidingwall.github.io/works/
+  Back to my works: https://slidingwall.github.io/works
 
 callouts:
   warning:
