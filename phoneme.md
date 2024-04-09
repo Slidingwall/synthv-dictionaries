@@ -5,9 +5,14 @@ has_children: true
 
 # Phoneme / 音素表
 
-You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svstudio-resources/), [Symbol Charts](/vocaloid-dictionaries/symbol-charts) or[Former Version.](/synthv-dictionaries/phonemes)  
-您可以参考[官方音素一览表](https://www.dreamtonics.com.cn/zh-CN/svstudio-resources/)、[发音记号表](/vocaloid-dictionaries/symbol-charts)或[之前的版本。](/synthv-dictionaries/phonemes)  
+{: .important-title }
+> See also / 参见
+> 
+> [Official Phoneme Reference 官方音素一览表](https://www.dreamtonics.com.cn/svstudio-resources/){: .btn .btn-blue .mr-2 } [Symbol Charts 发音记号表](/vocaloid-dictionaries/symbol-charts){: .btn .btn-blue .mr-2 }[Former Version 之前的版本](/synthv-dictionaries/phonemes){: .btn .btn-blue .mr-2 }  
 
+{: .new-title }
+> List of Abbreviations / 简称列表
+>
 > `MAN` = Mandarin X-SAMPA  
 > `ARP` = English Arpabet & Arpasing  
 > `PCZ` = Phonemes from PaintedCz's VCCV English  
@@ -237,8 +242,8 @@ You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svs
 |**ㅠ / yu**|j u|y uw|y u|
 |**ㅡ / eu**|U|uh|u|
 |**ㅣ / i**|i|iy|i|
-|**ㅢ / ui<br />(Initial)**|U i|uh iy|u i|
-|**ㅢ / ui<br />(Non-initial)**|i|iy|i|
+|**ㅢ / ui (Initial)**|U i|uh iy|u i|
+|**ㅢ / ui (Non-initial)**|i|iy|i|
 
 ### Consonants
 
@@ -247,30 +252,30 @@ You can refer to [Official Phoneme Reference](https://www.dreamtonics.com.cn/svs
 |:----:|:----:|:----:|:----:|
 |**ㄱ / g**|k|g|g|
 |**ㄲ / kk**|cl k|cl g|cl g|
-|**ㄱ / k<br />(Final)**|k|g|g|
-|**ㄲ / k<br />(Final)**|k|g|g|
+|**ㄱ / k (Final)**|k|g|g|
+|**ㄲ / k (Final)**|k|g|g|
 |**ㄴ / n**|:n|n|n|
 |**ㅁ / m**|m|m|m|
 |**ㄷ / d**|t|d|d|
 |**ㄸ / tt**|cl t|cl d|cl d|
-|**ㄷ / t<br />(Final)**|t|d|d|
-|**ㅂ / p<br />(Final)**|p|b|b|
+|**ㄷ / t (Final)**|t|d|d|
+|**ㅂ / p (Final)**|p|b|b|
 |**ㅂ / b**|p|b|b|
 |**ㅃ / pp**|cl p|cl b|cl b|
 |**ㄹ / r**|l|dx|r|
-|**ㄹ / l<br />(Final)**|r\`|l|r|
+|**ㄹ / l (Final)**|r\`|l|r|
 |**ㅅ / s**|s|s|s|
 |**ㅆ / ss**|s|s|s|
-|**ㅅ / s<br />(Before i/y)**|s\\ |sh|sh|
-|**ㅅ / t<br />(Final)**|t|d|d|
-|**ㅆ / ss<br />(Before i/y)**|cl s\\ |cl sh|cl sh|
-|**ㅆ / t<br />(Final)**|t|d|d|
+|**ㅅ / s (Before i/y)**|s\\ |sh|sh|
+|**ㅅ / t (Final)**|t|d|d|
+|**ㅆ / ss (Before i/y)**|cl s\\ |cl sh|cl sh|
+|**ㅆ / t (Final)**|t|d|d|
 |**ㅈ / j**|ts\\ |jh|j|
 |**ㅊ / ch**|ts\h|ch|ch|
-|**ㅈ / t<br />(Final)**|t|d|d|
-|**ㅊ / t<br />(Final)**|t|d|d|
+|**ㅈ / t (Final)**|t|d|d|
+|**ㅊ / t (Final)**|t|d|d|
 |**ㅉ / jj**|cl ts\\ |cl jh|cl j|
-|**ㅇ / ng<br />(Final)**|N|ng|N|
+|**ㅇ / ng (Final)**|N|ng|N|
 |**ㅋ / k**|kh|k|k|
 |**ㅌ / t**|th|t|t|
 |**ㅍ / p**|ph|p|p|
