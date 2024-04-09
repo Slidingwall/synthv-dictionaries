@@ -554,31 +554,31 @@
     },
     {
       "w": "귀",
-      "p": "k u :\\i"
+      "p": "k y"
     },
     {
       "w": "귁",
-      "p": "k u :\\i k"
+      "p": "k y k"
     },
     {
       "w": "귄",
-      "p": "k u :\\i :n"
+      "p": "k y :n"
     },
     {
       "w": "귈",
-      "p": "k u :\\i r\\`"
+      "p": "k y r\\`"
     },
     {
       "w": "귐",
-      "p": "k u :\\i m"
+      "p": "k y m"
     },
     {
       "w": "귑",
-      "p": "k u :\\i p"
+      "p": "k y p"
     },
     {
       "w": "귓",
-      "p": "k u :\\i t"
+      "p": "k y t"
     },
     {
       "w": "규",
@@ -1062,23 +1062,23 @@
     },
     {
       "w": "뀌",
-      "p": "cl k u :\\i"
+      "p": "cl k y"
     },
     {
       "w": "뀐",
-      "p": "cl k u :\\i :n"
+      "p": "cl k y :n"
     },
     {
       "w": "뀔",
-      "p": "cl k u :\\i r\\`"
+      "p": "cl k y r\\`"
     },
     {
       "w": "뀜",
-      "p": "cl k u :\\i m"
+      "p": "cl k y m"
     },
     {
       "w": "뀝",
-      "p": "cl k u :\\i p"
+      "p": "cl k y p"
     },
     {
       "w": "뀨",
@@ -1586,23 +1586,23 @@
     },
     {
       "w": "뉘",
-      "p": "n u :\\i"
+      "p": "n y"
     },
     {
       "w": "뉜",
-      "p": "n u :\\i :n"
+      "p": "n y :n"
     },
     {
       "w": "뉠",
-      "p": "n u :\\i r\\`"
+      "p": "n y r\\`"
     },
     {
       "w": "뉨",
-      "p": "n u :\\i m"
+      "p": "n y m"
     },
     {
       "w": "뉩",
-      "p": "n u :\\i p"
+      "p": "n y p"
     },
     {
       "w": "뉴",
@@ -2110,27 +2110,27 @@
     },
     {
       "w": "뒤",
-      "p": "t u :\\i"
+      "p": "t y"
     },
     {
       "w": "뒨",
-      "p": "t u :\\i :n"
+      "p": "t y :n"
     },
     {
       "w": "뒬",
-      "p": "t u :\\i r\\`"
+      "p": "t y r\\`"
     },
     {
       "w": "뒵",
-      "p": "t u :\\i p"
+      "p": "t y p"
     },
     {
       "w": "뒷",
-      "p": "t u :\\i t"
+      "p": "t y t"
     },
     {
       "w": "뒹",
-      "p": "t u :\\i N"
+      "p": "t y N"
     },
     {
       "w": "듀",
@@ -2482,27 +2482,27 @@
     },
     {
       "w": "뛰",
-      "p": "cl t u :\\i"
+      "p": "cl t y"
     },
     {
       "w": "뛴",
-      "p": "cl t u :\\i :n"
+      "p": "cl t y :n"
     },
     {
       "w": "뛸",
-      "p": "cl t u :\\i r\\`"
+      "p": "cl t y r\\`"
     },
     {
       "w": "뜀",
-      "p": "cl t u :\\i m"
+      "p": "cl t y m"
     },
     {
       "w": "뜁",
-      "p": "cl t u :\\i p"
+      "p": "cl t y p"
     },
     {
       "w": "뜅",
-      "p": "cl t u :\\i N"
+      "p": "cl t y N"
     },
     {
       "w": "뜨",
@@ -2958,31 +2958,31 @@
     },
     {
       "w": "뤼",
-      "p": "l u :\\i"
+      "p": "l y"
     },
     {
       "w": "뤽",
-      "p": "l u :\\i k"
+      "p": "l y k"
     },
     {
       "w": "륀",
-      "p": "l u :\\i :n"
+      "p": "l y :n"
     },
     {
       "w": "륄",
-      "p": "l u :\\i r\\`"
+      "p": "l y r\\`"
     },
     {
       "w": "륌",
-      "p": "l u :\\i m"
+      "p": "l y m"
     },
     {
       "w": "륏",
-      "p": "l u :\\i t"
+      "p": "l y t"
     },
     {
       "w": "륑",
-      "p": "l u :\\i N"
+      "p": "l y N"
     },
     {
       "w": "류",
@@ -3506,15 +3506,15 @@
     },
     {
       "w": "뮈",
-      "p": "m u :\\i"
+      "p": "m y"
     },
     {
       "w": "뮌",
-      "p": "m u :\\i :n"
+      "p": "m y :n"
     },
     {
       "w": "뮐",
-      "p": "m u :\\i r\\`"
+      "p": "m y r\\`"
     },
     {
       "w": "뮤",
@@ -4010,23 +4010,23 @@
     },
     {
       "w": "뷔",
-      "p": "p u :\\i"
+      "p": "p y"
     },
     {
       "w": "뷕",
-      "p": "p u :\\i k"
+      "p": "p y k"
     },
     {
       "w": "뷘",
-      "p": "p u :\\i :n"
+      "p": "p y :n"
     },
     {
       "w": "뷜",
-      "p": "p u :\\i r\\`"
+      "p": "p y r\\`"
     },
     {
       "w": "뷩",
-      "p": "p u :\\i N"
+      "p": "p y N"
     },
     {
       "w": "뷰",
@@ -4934,35 +4934,35 @@
     },
     {
       "w": "쉬",
-      "p": "s u :\\i"
+      "p": "s y"
     },
     {
       "w": "쉭",
-      "p": "s u :\\i k"
+      "p": "s y k"
     },
     {
       "w": "쉰",
-      "p": "s u :\\i :n"
+      "p": "s y :n"
     },
     {
       "w": "쉴",
-      "p": "s u :\\i r\\`"
+      "p": "s y r\\`"
     },
     {
       "w": "쉼",
-      "p": "s u :\\i m"
+      "p": "s y m"
     },
     {
       "w": "쉽",
-      "p": "s u :\\i p"
+      "p": "s y p"
     },
     {
       "w": "쉿",
-      "p": "s u :\\i t"
+      "p": "s y t"
     },
     {
       "w": "슁",
-      "p": "s u :\\i N"
+      "p": "s y N"
     },
     {
       "w": "슈",
@@ -5322,11 +5322,11 @@
     },
     {
       "w": "쒸",
-      "p": "cl s u :\\i"
+      "p": "cl s y"
     },
     {
       "w": "쒼",
-      "p": "cl s u :\\i :n"
+      "p": "cl s y :n"
     },
     {
       "w": "쓩",
@@ -6042,35 +6042,35 @@
     },
     {
       "w": "위",
-      "p": "u :\\i"
+      "p": "y"
     },
     {
       "w": "윅",
-      "p": "u :\\i k"
+      "p": "y k"
     },
     {
       "w": "윈",
-      "p": "u :\\i :n"
+      "p": "y :n"
     },
     {
       "w": "윌",
-      "p": "u :\\i r\\`"
+      "p": "y r\\`"
     },
     {
       "w": "윔",
-      "p": "u :\\i m"
+      "p": "y m"
     },
     {
       "w": "윕",
-      "p": "u :\\i p"
+      "p": "y p"
     },
     {
       "w": "윗",
-      "p": "u :\\i t"
+      "p": "y t"
     },
     {
       "w": "윙",
-      "p": "u :\\i N"
+      "p": "y N"
     },
     {
       "w": "유",
@@ -6170,23 +6170,23 @@
     },
     {
       "w": "의",
-      "p": "U :\\i"
+      "p": "U i"
     },
     {
       "w": "읜",
-      "p": "U :\\i :n"
+      "p": "U i :n"
     },
     {
       "w": "읠",
-      "p": "U :\\i r\\`"
+      "p": "U i r\\`"
     },
     {
       "w": "읨",
-      "p": "U :\\i m"
+      "p": "U i m"
     },
     {
       "w": "읫",
-      "p": "U :\\i t"
+      "p": "U i t"
     },
     {
       "w": "이",
@@ -6658,31 +6658,31 @@
     },
     {
       "w": "쥐",
-      "p": "ts\\ u :\\i"
+      "p": "ts\\ y"
     },
     {
       "w": "쥑",
-      "p": "ts\\ u :\\i k"
+      "p": "ts\\ y k"
     },
     {
       "w": "쥔",
-      "p": "ts\\ u :\\i :n"
+      "p": "ts\\ y :n"
     },
     {
       "w": "쥘",
-      "p": "ts\\ u :\\i r\\`"
+      "p": "ts\\ y r\\`"
     },
     {
       "w": "쥠",
-      "p": "ts\\ u :\\i m"
+      "p": "ts\\ y m"
     },
     {
       "w": "쥡",
-      "p": "ts\\ u :\\i p"
+      "p": "ts\\ y p"
     },
     {
       "w": "쥣",
-      "p": "ts\\ u :\\i t"
+      "p": "ts\\ y t"
     },
     {
       "w": "쥬",
@@ -7054,7 +7054,7 @@
     },
     {
       "w": "쮜",
-      "p": "cl ts\\ u :\\i"
+      "p": "cl ts\\ y"
     },
     {
       "w": "쮸",
@@ -7442,31 +7442,31 @@
     },
     {
       "w": "취",
-      "p": "ts\\h u :\\i"
+      "p": "ts\\h y"
     },
     {
       "w": "췬",
-      "p": "ts\\h u :\\i :n"
+      "p": "ts\\h y :n"
     },
     {
       "w": "췰",
-      "p": "ts\\h u :\\i r\\`"
+      "p": "ts\\h y r\\`"
     },
     {
       "w": "췸",
-      "p": "ts\\h u :\\i m"
+      "p": "ts\\h y m"
     },
     {
       "w": "췹",
-      "p": "ts\\h u :\\i p"
+      "p": "ts\\h y p"
     },
     {
       "w": "췻",
-      "p": "ts\\h u :\\i t"
+      "p": "ts\\h y t"
     },
     {
       "w": "췽",
-      "p": "ts\\h u :\\i N"
+      "p": "ts\\h y N"
     },
     {
       "w": "츄",
@@ -7882,35 +7882,35 @@
     },
     {
       "w": "퀴",
-      "p": "kh u :\\i"
+      "p": "kh y"
     },
     {
       "w": "퀵",
-      "p": "kh u :\\i k"
+      "p": "kh y k"
     },
     {
       "w": "퀸",
-      "p": "kh u :\\i :n"
+      "p": "kh y :n"
     },
     {
       "w": "퀼",
-      "p": "kh u :\\i r\\`"
+      "p": "kh y r\\`"
     },
     {
       "w": "큄",
-      "p": "kh u :\\i m"
+      "p": "kh y m"
     },
     {
       "w": "큅",
-      "p": "kh u :\\i p"
+      "p": "kh y p"
     },
     {
       "w": "큇",
-      "p": "kh u :\\i t"
+      "p": "kh y t"
     },
     {
       "w": "큉",
-      "p": "kh u :\\i N"
+      "p": "kh y N"
     },
     {
       "w": "큐",
@@ -8278,31 +8278,31 @@
     },
     {
       "w": "튀",
-      "p": "th u :\\i"
+      "p": "th y"
     },
     {
       "w": "튁",
-      "p": "th u :\\i k"
+      "p": "th y k"
     },
     {
       "w": "튄",
-      "p": "th u :\\i :n"
+      "p": "th y :n"
     },
     {
       "w": "튈",
-      "p": "th u :\\i r\\`"
+      "p": "th y r\\`"
     },
     {
       "w": "튐",
-      "p": "th u :\\i m"
+      "p": "th y m"
     },
     {
       "w": "튑",
-      "p": "th u :\\i p"
+      "p": "th y p"
     },
     {
       "w": "튕",
-      "p": "th u :\\i N"
+      "p": "th y N"
     },
     {
       "w": "튜",
@@ -8734,23 +8734,23 @@
     },
     {
       "w": "퓌",
-      "p": "ph u :\\i"
+      "p": "ph y"
     },
     {
       "w": "퓐",
-      "p": "ph u :\\i :n"
+      "p": "ph y :n"
     },
     {
       "w": "퓔",
-      "p": "ph u :\\i r\\`"
+      "p": "ph y r\\`"
     },
     {
       "w": "퓜",
-      "p": "ph u :\\i m"
+      "p": "ph y m"
     },
     {
       "w": "퓟",
-      "p": "ph u :\\i t"
+      "p": "ph y t"
     },
     {
       "w": "퓨",
@@ -9238,35 +9238,35 @@
     },
     {
       "w": "휘",
-      "p": "x u :\\i"
+      "p": "x y"
     },
     {
       "w": "휙",
-      "p": "x u :\\i k"
+      "p": "x y k"
     },
     {
       "w": "휜",
-      "p": "x u :\\i :n"
+      "p": "x y :n"
     },
     {
       "w": "휠",
-      "p": "x u :\\i r\\`"
+      "p": "x y r\\`"
     },
     {
       "w": "휨",
-      "p": "x u :\\i m"
+      "p": "x y m"
     },
     {
       "w": "휩",
-      "p": "x u :\\i p"
+      "p": "x y p"
     },
     {
       "w": "휫",
-      "p": "x u :\\i t"
+      "p": "x y t"
     },
     {
       "w": "휭",
-      "p": "x u :\\i N"
+      "p": "x y N"
     },
     {
       "w": "휴",
@@ -9882,35 +9882,35 @@
     },
     {
       "w": "bwi",
-      "p": "p u :\\i"
+      "p": "p y"
     },
     {
       "w": "bwik",
-      "p": "p u :\\i k"
+      "p": "p y k"
     },
     {
       "w": "bwil",
-      "p": "p u :\\i r\\`"
+      "p": "p y r\\`"
     },
     {
       "w": "bwim",
-      "p": "p u :\\i m"
+      "p": "p y m"
     },
     {
       "w": "bwin",
-      "p": "p u :\\i n"
+      "p": "p y n"
     },
     {
       "w": "bwing",
-      "p": "p u :\\i N"
+      "p": "p y N"
     },
     {
       "w": "bwip",
-      "p": "p u :\\i p"
+      "p": "p y p"
     },
     {
       "w": "bwit",
-      "p": "p u :\\i t"
+      "p": "p y t"
     },
     {
       "w": "bwo",
@@ -10554,35 +10554,35 @@
     },
     {
       "w": "chwi",
-      "p": "ts\\h u :\\i"
+      "p": "ts\\h y"
     },
     {
       "w": "chwik",
-      "p": "ts\\h u :\\i k"
+      "p": "ts\\h y k"
     },
     {
       "w": "chwil",
-      "p": "ts\\h u :\\i r\\`"
+      "p": "ts\\h y r\\`"
     },
     {
       "w": "chwim",
-      "p": "ts\\h u :\\i m"
+      "p": "ts\\h y m"
     },
     {
       "w": "chwin",
-      "p": "ts\\h u :\\i n"
+      "p": "ts\\h y n"
     },
     {
       "w": "chwing",
-      "p": "ts\\h u :\\i N"
+      "p": "ts\\h y N"
     },
     {
       "w": "chwip",
-      "p": "ts\\h u :\\i p"
+      "p": "ts\\h y p"
     },
     {
       "w": "chwit",
-      "p": "ts\\h u :\\i t"
+      "p": "ts\\h y t"
     },
     {
       "w": "chwo",
@@ -11226,35 +11226,35 @@
     },
     {
       "w": "dwi",
-      "p": "t u :\\i"
+      "p": "t y"
     },
     {
       "w": "dwik",
-      "p": "t u :\\i k"
+      "p": "t y k"
     },
     {
       "w": "dwil",
-      "p": "t u :\\i r\\`"
+      "p": "t y r\\`"
     },
     {
       "w": "dwim",
-      "p": "t u :\\i m"
+      "p": "t y m"
     },
     {
       "w": "dwin",
-      "p": "t u :\\i n"
+      "p": "t y n"
     },
     {
       "w": "dwing",
-      "p": "t u :\\i N"
+      "p": "t y N"
     },
     {
       "w": "dwip",
-      "p": "t u :\\i p"
+      "p": "t y p"
     },
     {
       "w": "dwit",
-      "p": "t u :\\i t"
+      "p": "t y t"
     },
     {
       "w": "dwo",
@@ -11994,35 +11994,35 @@
     },
     {
       "w": "gwi",
-      "p": "k u :\\i"
+      "p": "k y"
     },
     {
       "w": "gwik",
-      "p": "k u :\\i k"
+      "p": "k y k"
     },
     {
       "w": "gwil",
-      "p": "k u :\\i r\\`"
+      "p": "k y r\\`"
     },
     {
       "w": "gwim",
-      "p": "k u :\\i m"
+      "p": "k y m"
     },
     {
       "w": "gwin",
-      "p": "k u :\\i n"
+      "p": "k y n"
     },
     {
       "w": "gwing",
-      "p": "k u :\\i N"
+      "p": "k y N"
     },
     {
       "w": "gwip",
-      "p": "k u :\\i p"
+      "p": "k y p"
     },
     {
       "w": "gwit",
-      "p": "k u :\\i t"
+      "p": "k y t"
     },
     {
       "w": "gwo",
@@ -12666,35 +12666,35 @@
     },
     {
       "w": "hwi",
-      "p": "x u :\\i"
+      "p": "x y"
     },
     {
       "w": "hwik",
-      "p": "x u :\\i k"
+      "p": "x y k"
     },
     {
       "w": "hwil",
-      "p": "x u :\\i r\\`"
+      "p": "x y r\\`"
     },
     {
       "w": "hwim",
-      "p": "x u :\\i m"
+      "p": "x y m"
     },
     {
       "w": "hwin",
-      "p": "x u :\\i n"
+      "p": "x y n"
     },
     {
       "w": "hwing",
-      "p": "x u :\\i N"
+      "p": "x y N"
     },
     {
       "w": "hwip",
-      "p": "x u :\\i p"
+      "p": "x y p"
     },
     {
       "w": "hwit",
-      "p": "x u :\\i t"
+      "p": "x y t"
     },
     {
       "w": "hwo",
@@ -13562,35 +13562,35 @@
     },
     {
       "w": "jjwi",
-      "p": "cl ts\\ u :\\i"
+      "p": "cl ts\\ y"
     },
     {
       "w": "jjwik",
-      "p": "cl ts\\ u :\\i k"
+      "p": "cl ts\\ y k"
     },
     {
       "w": "jjwil",
-      "p": "cl ts\\ u :\\i r\\`"
+      "p": "cl ts\\ y r\\`"
     },
     {
       "w": "jjwim",
-      "p": "cl ts\\ u :\\i m"
+      "p": "cl ts\\ y m"
     },
     {
       "w": "jjwin",
-      "p": "cl ts\\ u :\\i n"
+      "p": "cl ts\\ y n"
     },
     {
       "w": "jjwing",
-      "p": "cl ts\\ u :\\i N"
+      "p": "cl ts\\ y N"
     },
     {
       "w": "jjwip",
-      "p": "cl ts\\ u :\\i p"
+      "p": "cl ts\\ y p"
     },
     {
       "w": "jjwit",
-      "p": "cl ts\\ u :\\i t"
+      "p": "cl ts\\ y t"
     },
     {
       "w": "jjwo",
@@ -14042,35 +14042,35 @@
     },
     {
       "w": "jwi",
-      "p": "ts\\ u :\\i"
+      "p": "ts\\ y"
     },
     {
       "w": "jwik",
-      "p": "ts\\ u :\\i k"
+      "p": "ts\\ y k"
     },
     {
       "w": "jwil",
-      "p": "ts\\ u :\\i r\\`"
+      "p": "ts\\ y r\\`"
     },
     {
       "w": "jwim",
-      "p": "ts\\ u :\\i m"
+      "p": "ts\\ y m"
     },
     {
       "w": "jwin",
-      "p": "ts\\ u :\\i n"
+      "p": "ts\\ y n"
     },
     {
       "w": "jwing",
-      "p": "ts\\ u :\\i N"
+      "p": "ts\\ y N"
     },
     {
       "w": "jwip",
-      "p": "ts\\ u :\\i p"
+      "p": "ts\\ y p"
     },
     {
       "w": "jwit",
-      "p": "ts\\ u :\\i t"
+      "p": "ts\\ y t"
     },
     {
       "w": "jwo",
@@ -14906,35 +14906,35 @@
     },
     {
       "w": "kkwi",
-      "p": "cl k u :\\i"
+      "p": "cl k y"
     },
     {
       "w": "kkwik",
-      "p": "cl k u :\\i k"
+      "p": "cl k y k"
     },
     {
       "w": "kkwil",
-      "p": "cl k u :\\i r\\`"
+      "p": "cl k y r\\`"
     },
     {
       "w": "kkwim",
-      "p": "cl k u :\\i m"
+      "p": "cl k y m"
     },
     {
       "w": "kkwin",
-      "p": "cl k u :\\i n"
+      "p": "cl k y n"
     },
     {
       "w": "kkwing",
-      "p": "cl k u :\\i N"
+      "p": "cl k y N"
     },
     {
       "w": "kkwip",
-      "p": "cl k u :\\i p"
+      "p": "cl k y p"
     },
     {
       "w": "kkwit",
-      "p": "cl k u :\\i t"
+      "p": "cl k y t"
     },
     {
       "w": "kkwo",
@@ -15386,35 +15386,35 @@
     },
     {
       "w": "kwi",
-      "p": "kh u :\\i"
+      "p": "kh y"
     },
     {
       "w": "kwik",
-      "p": "kh u :\\i k"
+      "p": "kh y k"
     },
     {
       "w": "kwil",
-      "p": "kh u :\\i r\\`"
+      "p": "kh y r\\`"
     },
     {
       "w": "kwim",
-      "p": "kh u :\\i m"
+      "p": "kh y m"
     },
     {
       "w": "kwin",
-      "p": "kh u :\\i n"
+      "p": "kh y n"
     },
     {
       "w": "kwing",
-      "p": "kh u :\\i N"
+      "p": "kh y N"
     },
     {
       "w": "kwip",
-      "p": "kh u :\\i p"
+      "p": "kh y p"
     },
     {
       "w": "kwit",
-      "p": "kh u :\\i t"
+      "p": "kh y t"
     },
     {
       "w": "kwo",
@@ -16058,35 +16058,35 @@
     },
     {
       "w": "mwi",
-      "p": "m u :\\i"
+      "p": "m y"
     },
     {
       "w": "mwik",
-      "p": "m u :\\i k"
+      "p": "m y k"
     },
     {
       "w": "mwil",
-      "p": "m u :\\i r\\`"
+      "p": "m y r\\`"
     },
     {
       "w": "mwim",
-      "p": "m u :\\i m"
+      "p": "m y m"
     },
     {
       "w": "mwin",
-      "p": "m u :\\i n"
+      "p": "m y n"
     },
     {
       "w": "mwing",
-      "p": "m u :\\i N"
+      "p": "m y N"
     },
     {
       "w": "mwip",
-      "p": "m u :\\i p"
+      "p": "m y p"
     },
     {
       "w": "mwit",
-      "p": "m u :\\i t"
+      "p": "m y t"
     },
     {
       "w": "mwo",
@@ -16730,35 +16730,35 @@
     },
     {
       "w": "nwi",
-      "p": "n u :\\i"
+      "p": "n y"
     },
     {
       "w": "nwik",
-      "p": "n u :\\i k"
+      "p": "n y k"
     },
     {
       "w": "nwil",
-      "p": "n u :\\i r\\`"
+      "p": "n y r\\`"
     },
     {
       "w": "nwim",
-      "p": "n u :\\i m"
+      "p": "n y m"
     },
     {
       "w": "nwin",
-      "p": "n u :\\i n"
+      "p": "n y n"
     },
     {
       "w": "nwing",
-      "p": "n u :\\i N"
+      "p": "n y N"
     },
     {
       "w": "nwip",
-      "p": "n u :\\i p"
+      "p": "n y p"
     },
     {
       "w": "nwit",
-      "p": "n u :\\i t"
+      "p": "n y t"
     },
     {
       "w": "nwo",
@@ -17722,35 +17722,35 @@
     },
     {
       "w": "ppwi",
-      "p": "cl p u :\\i"
+      "p": "cl p y"
     },
     {
       "w": "ppwik",
-      "p": "cl p u :\\i k"
+      "p": "cl p y k"
     },
     {
       "w": "ppwil",
-      "p": "cl p u :\\i r\\`"
+      "p": "cl p y r\\`"
     },
     {
       "w": "ppwim",
-      "p": "cl p u :\\i m"
+      "p": "cl p y m"
     },
     {
       "w": "ppwin",
-      "p": "cl p u :\\i n"
+      "p": "cl p y n"
     },
     {
       "w": "ppwing",
-      "p": "cl p u :\\i N"
+      "p": "cl p y N"
     },
     {
       "w": "ppwip",
-      "p": "cl p u :\\i p"
+      "p": "cl p y p"
     },
     {
       "w": "ppwit",
-      "p": "cl p u :\\i t"
+      "p": "cl p y t"
     },
     {
       "w": "ppwo",
@@ -18138,35 +18138,35 @@
     },
     {
       "w": "pwi",
-      "p": "ph u :\\i"
+      "p": "ph y"
     },
     {
       "w": "pwik",
-      "p": "ph u :\\i k"
+      "p": "ph y k"
     },
     {
       "w": "pwil",
-      "p": "ph u :\\i r\\`"
+      "p": "ph y r\\`"
     },
     {
       "w": "pwim",
-      "p": "ph u :\\i m"
+      "p": "ph y m"
     },
     {
       "w": "pwin",
-      "p": "ph u :\\i n"
+      "p": "ph y n"
     },
     {
       "w": "pwing",
-      "p": "ph u :\\i N"
+      "p": "ph y N"
     },
     {
       "w": "pwip",
-      "p": "ph u :\\i p"
+      "p": "ph y p"
     },
     {
       "w": "pwit",
-      "p": "ph u :\\i t"
+      "p": "ph y t"
     },
     {
       "w": "pwo",
@@ -18810,35 +18810,35 @@
     },
     {
       "w": "rwi",
-      "p": "l u :\\i"
+      "p": "l y"
     },
     {
       "w": "rwik",
-      "p": "l u :\\i k"
+      "p": "l y k"
     },
     {
       "w": "rwil",
-      "p": "l u :\\i r\\`"
+      "p": "l y r\\`"
     },
     {
       "w": "rwim",
-      "p": "l u :\\i m"
+      "p": "l y m"
     },
     {
       "w": "rwin",
-      "p": "l u :\\i n"
+      "p": "l y n"
     },
     {
       "w": "rwing",
-      "p": "l u :\\i N"
+      "p": "l y N"
     },
     {
       "w": "rwip",
-      "p": "l u :\\i p"
+      "p": "l y p"
     },
     {
       "w": "rwit",
-      "p": "l u :\\i t"
+      "p": "l y t"
     },
     {
       "w": "rwo",
@@ -19738,35 +19738,35 @@
     },
     {
       "w": "sswi",
-      "p": "cl s u :\\i"
+      "p": "cl s y"
     },
     {
       "w": "sswik",
-      "p": "cl s u :\\i k"
+      "p": "cl s y k"
     },
     {
       "w": "sswil",
-      "p": "cl s u :\\i r\\`"
+      "p": "cl s y r\\`"
     },
     {
       "w": "sswim",
-      "p": "cl s u :\\i m"
+      "p": "cl s y m"
     },
     {
       "w": "sswin",
-      "p": "cl s u :\\i n"
+      "p": "cl s y n"
     },
     {
       "w": "sswing",
-      "p": "cl s u :\\i N"
+      "p": "cl s y N"
     },
     {
       "w": "sswip",
-      "p": "cl s u :\\i p"
+      "p": "cl s y p"
     },
     {
       "w": "sswit",
-      "p": "cl s u :\\i t"
+      "p": "cl s y t"
     },
     {
       "w": "sswo",
@@ -20154,35 +20154,35 @@
     },
     {
       "w": "swi",
-      "p": "s u :\\i"
+      "p": "s y"
     },
     {
       "w": "swik",
-      "p": "s u :\\i k"
+      "p": "s y k"
     },
     {
       "w": "swil",
-      "p": "s u :\\i r\\`"
+      "p": "s y r\\`"
     },
     {
       "w": "swim",
-      "p": "s u :\\i m"
+      "p": "s y m"
     },
     {
       "w": "swin",
-      "p": "s u :\\i n"
+      "p": "s y n"
     },
     {
       "w": "swing",
-      "p": "s u :\\i N"
+      "p": "s y N"
     },
     {
       "w": "swip",
-      "p": "s u :\\i p"
+      "p": "s y p"
     },
     {
       "w": "swit",
-      "p": "s u :\\i t"
+      "p": "s y t"
     },
     {
       "w": "swo",
@@ -21082,35 +21082,35 @@
     },
     {
       "w": "ttwi",
-      "p": "cl t u :\\i"
+      "p": "cl t y"
     },
     {
       "w": "ttwik",
-      "p": "cl t u :\\i k"
+      "p": "cl t y k"
     },
     {
       "w": "ttwil",
-      "p": "cl t u :\\i r\\`"
+      "p": "cl t y r\\`"
     },
     {
       "w": "ttwim",
-      "p": "cl t u :\\i m"
+      "p": "cl t y m"
     },
     {
       "w": "ttwin",
-      "p": "cl t u :\\i n"
+      "p": "cl t y n"
     },
     {
       "w": "ttwing",
-      "p": "cl t u :\\i N"
+      "p": "cl t y N"
     },
     {
       "w": "ttwip",
-      "p": "cl t u :\\i p"
+      "p": "cl t y p"
     },
     {
       "w": "ttwit",
-      "p": "cl t u :\\i t"
+      "p": "cl t y t"
     },
     {
       "w": "ttwo",
@@ -21498,35 +21498,35 @@
     },
     {
       "w": "twi",
-      "p": "th u :\\i"
+      "p": "th y"
     },
     {
       "w": "twik",
-      "p": "th u :\\i k"
+      "p": "th y k"
     },
     {
       "w": "twil",
-      "p": "th u :\\i r\\`"
+      "p": "th y r\\`"
     },
     {
       "w": "twim",
-      "p": "th u :\\i m"
+      "p": "th y m"
     },
     {
       "w": "twin",
-      "p": "th u :\\i n"
+      "p": "th y n"
     },
     {
       "w": "twing",
-      "p": "th u :\\i N"
+      "p": "th y N"
     },
     {
       "w": "twip",
-      "p": "th u :\\i p"
+      "p": "th y p"
     },
     {
       "w": "twit",
-      "p": "th u :\\i t"
+      "p": "th y t"
     },
     {
       "w": "two",
@@ -21758,35 +21758,35 @@
     },
     {
       "w": "ui",
-      "p": "U :\\i"
+      "p": "U i"
     },
     {
       "w": "uik",
-      "p": "U :\\i k"
+      "p": "U i k"
     },
     {
       "w": "uil",
-      "p": "U :\\i r\\`"
+      "p": "U i r\\`"
     },
     {
       "w": "uim",
-      "p": "U :\\i m"
+      "p": "U i m"
     },
     {
       "w": "uin",
-      "p": "U :\\i n"
+      "p": "U i n"
     },
     {
       "w": "uing",
-      "p": "U :\\i N"
+      "p": "U i N"
     },
     {
       "w": "uip",
-      "p": "U :\\i p"
+      "p": "U i p"
     },
     {
       "w": "uit",
-      "p": "U :\\i t"
+      "p": "U i t"
     },
     {
       "w": "uk",
@@ -21914,35 +21914,35 @@
     },
     {
       "w": "wi",
-      "p": "u :\\i"
+      "p": "y"
     },
     {
       "w": "wik",
-      "p": "u :\\i k"
+      "p": "y k"
     },
     {
       "w": "wil",
-      "p": "u :\\i r\\`"
+      "p": "y r\\`"
     },
     {
       "w": "wim",
-      "p": "u :\\i m"
+      "p": "y m"
     },
     {
       "w": "win",
-      "p": "u :\\i n"
+      "p": "y n"
     },
     {
       "w": "wing",
-      "p": "u :\\i N"
+      "p": "y N"
     },
     {
       "w": "wip",
-      "p": "u :\\i p"
+      "p": "y p"
     },
     {
       "w": "wit",
-      "p": "u :\\i t"
+      "p": "y t"
     },
     {
       "w": "wo",

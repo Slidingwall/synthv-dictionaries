@@ -10,7 +10,7 @@
         },
         {
             "w": "aai",
-            "p": "ae iy"
+            "p": "ay"
         },
         {
             "w": "aak",
@@ -38,7 +38,7 @@
         },
         {
             "w": "aau",
-            "p": "ae uh"
+            "p": "aw"
         },
         {
             "w": "ai",
@@ -70,7 +70,7 @@
         },
         {
             "w": "au",
-            "p": "ax uh"
+            "p": "ow"
         },
         {
             "w": "ba",
@@ -82,7 +82,7 @@
         },
         {
             "w": "baai",
-            "p": "b ae iy"
+            "p": "b ay"
         },
         {
             "w": "baak",
@@ -110,7 +110,7 @@
         },
         {
             "w": "baau",
-            "p": "b ae uh"
+            "p": "b aw"
         },
         {
             "w": "bai",
@@ -142,7 +142,7 @@
         },
         {
             "w": "bau",
-            "p": "b ax uh"
+            "p": "b ow"
         },
         {
             "w": "be",
@@ -150,7 +150,7 @@
         },
         {
             "w": "bei",
-            "p": "b eh iy"
+            "p": "b ey"
         },
         {
             "w": "bek",
@@ -202,7 +202,7 @@
         },
         {
             "w": "beou",
-            "p": "b ax uh"
+            "p": "b ow"
         },
         {
             "w": "bep",
@@ -214,7 +214,7 @@
         },
         {
             "w": "beu",
-            "p": "b eh uh"
+            "p": "b eh uw"
         },
         {
             "w": "bi",
@@ -246,7 +246,7 @@
         },
         {
             "w": "biu",
-            "p": "b iy uh"
+            "p": "b iy uw"
         },
         {
             "w": "bo",
@@ -258,7 +258,7 @@
         },
         {
             "w": "boei",
-            "p": "b eh iy"
+            "p": "b ey"
         },
         {
             "w": "boek",
@@ -286,11 +286,11 @@
         },
         {
             "w": "boeu",
-            "p": "b eh uh"
+            "p": "b eh uw"
         },
         {
             "w": "boi",
-            "p": "b ao iy"
+            "p": "b oy"
         },
         {
             "w": "bok",
@@ -318,39 +318,39 @@
         },
         {
             "w": "bou",
-            "p": "b ao uh"
+            "p": "b ao uw"
         },
         {
             "w": "bu",
-            "p": "b uh"
+            "p": "b uw"
         },
         {
             "w": "bui",
-            "p": "b uh iy"
+            "p": "b uw iy"
         },
         {
             "w": "buk",
-            "p": "b uw k"
+            "p": "b uh k"
         },
         {
             "w": "bum",
-            "p": "b uh m"
+            "p": "b uw m"
         },
         {
             "w": "bun",
-            "p": "b uh n"
+            "p": "b uw n"
         },
         {
             "w": "bung",
-            "p": "b uw ng"
+            "p": "b uh ng"
         },
         {
             "w": "bup",
-            "p": "b uh p"
+            "p": "b uw p"
         },
         {
             "w": "but",
-            "p": "b uh t"
+            "p": "b uw t"
         },
         {
             "w": "byu",
@@ -386,7 +386,7 @@
         },
         {
             "w": "byuu",
-            "p": "b iy uh"
+            "p": "b iy uw"
         },
         {
             "w": "ca",
@@ -398,7 +398,7 @@
         },
         {
             "w": "caai",
-            "p": "t s ae iy"
+            "p": "t s ay"
         },
         {
             "w": "caak",
@@ -426,7 +426,7 @@
         },
         {
             "w": "caau",
-            "p": "t s ae uh"
+            "p": "t s aw"
         },
         {
             "w": "cai",
@@ -458,7 +458,7 @@
         },
         {
             "w": "cau",
-            "p": "t s ax uh"
+            "p": "t s ow"
         },
         {
             "w": "ce",
@@ -466,7 +466,7 @@
         },
         {
             "w": "cei",
-            "p": "t s eh iy"
+            "p": "t s ey"
         },
         {
             "w": "cek",
@@ -518,7 +518,7 @@
         },
         {
             "w": "ceou",
-            "p": "t s ax uh"
+            "p": "t s ow"
         },
         {
             "w": "cep",
@@ -530,7 +530,7 @@
         },
         {
             "w": "ceu",
-            "p": "t s eh uh"
+            "p": "t s eh uw"
         },
         {
             "w": "ci",
@@ -562,7 +562,7 @@
         },
         {
             "w": "ciu",
-            "p": "t s iy uh"
+            "p": "t s iy uw"
         },
         {
             "w": "co",
@@ -574,7 +574,7 @@
         },
         {
             "w": "coei",
-            "p": "t s eh iy"
+            "p": "t s ey"
         },
         {
             "w": "coek",
@@ -602,11 +602,11 @@
         },
         {
             "w": "coeu",
-            "p": "t s eh uh"
+            "p": "t s eh uw"
         },
         {
             "w": "coi",
-            "p": "t s ao iy"
+            "p": "t s oy"
         },
         {
             "w": "cok",
@@ -634,39 +634,39 @@
         },
         {
             "w": "cou",
-            "p": "t s ao uh"
+            "p": "t s ao uw"
         },
         {
             "w": "cu",
-            "p": "t s uh"
+            "p": "t s uw"
         },
         {
             "w": "cui",
-            "p": "t s uh iy"
+            "p": "t s uw iy"
         },
         {
             "w": "cuk",
-            "p": "t s uw k"
+            "p": "t s uh k"
         },
         {
             "w": "cum",
-            "p": "t s uh m"
+            "p": "t s uw m"
         },
         {
             "w": "cun",
-            "p": "t s uh n"
+            "p": "t s uw n"
         },
         {
             "w": "cung",
-            "p": "t s uw ng"
+            "p": "t s uh ng"
         },
         {
             "w": "cup",
-            "p": "t s uh p"
+            "p": "t s uw p"
         },
         {
             "w": "cut",
-            "p": "t s uh t"
+            "p": "t s uw t"
         },
         {
             "w": "cyu",
@@ -702,7 +702,7 @@
         },
         {
             "w": "cyuu",
-            "p": "t s iy uh"
+            "p": "t s iy uw"
         },
         {
             "w": "da",
@@ -714,7 +714,7 @@
         },
         {
             "w": "daai",
-            "p": "d ae iy"
+            "p": "d ay"
         },
         {
             "w": "daak",
@@ -742,7 +742,7 @@
         },
         {
             "w": "daau",
-            "p": "d ae uh"
+            "p": "d aw"
         },
         {
             "w": "dai",
@@ -774,7 +774,7 @@
         },
         {
             "w": "dau",
-            "p": "d ax uh"
+            "p": "d ow"
         },
         {
             "w": "de",
@@ -782,7 +782,7 @@
         },
         {
             "w": "dei",
-            "p": "d eh iy"
+            "p": "d ey"
         },
         {
             "w": "dek",
@@ -834,7 +834,7 @@
         },
         {
             "w": "deou",
-            "p": "d ax uh"
+            "p": "d ow"
         },
         {
             "w": "dep",
@@ -846,7 +846,7 @@
         },
         {
             "w": "deu",
-            "p": "d eh uh"
+            "p": "d eh uw"
         },
         {
             "w": "di",
@@ -878,7 +878,7 @@
         },
         {
             "w": "diu",
-            "p": "d iy uh"
+            "p": "d iy uw"
         },
         {
             "w": "do",
@@ -890,7 +890,7 @@
         },
         {
             "w": "doei",
-            "p": "d eh iy"
+            "p": "d ey"
         },
         {
             "w": "doek",
@@ -918,11 +918,11 @@
         },
         {
             "w": "doeu",
-            "p": "d eh uh"
+            "p": "d eh uw"
         },
         {
             "w": "doi",
-            "p": "d ao iy"
+            "p": "d oy"
         },
         {
             "w": "dok",
@@ -950,39 +950,39 @@
         },
         {
             "w": "dou",
-            "p": "d ao uh"
+            "p": "d ao uw"
         },
         {
             "w": "du",
-            "p": "d uh"
+            "p": "d uw"
         },
         {
             "w": "dui",
-            "p": "d uh iy"
+            "p": "d uw iy"
         },
         {
             "w": "duk",
-            "p": "d uw k"
+            "p": "d uh k"
         },
         {
             "w": "dum",
-            "p": "d uh m"
+            "p": "d uw m"
         },
         {
             "w": "dun",
-            "p": "d uh n"
+            "p": "d uw n"
         },
         {
             "w": "dung",
-            "p": "d uw ng"
+            "p": "d uh ng"
         },
         {
             "w": "dup",
-            "p": "d uh p"
+            "p": "d uw p"
         },
         {
             "w": "dut",
-            "p": "d uh t"
+            "p": "d uw t"
         },
         {
             "w": "dyu",
@@ -1018,7 +1018,7 @@
         },
         {
             "w": "dyuu",
-            "p": "d iy uh"
+            "p": "d iy uw"
         },
         {
             "w": "e",
@@ -1026,7 +1026,7 @@
         },
         {
             "w": "ei",
-            "p": "eh iy"
+            "p": "ey"
         },
         {
             "w": "ek",
@@ -1078,7 +1078,7 @@
         },
         {
             "w": "eou",
-            "p": "ax uh"
+            "p": "ow"
         },
         {
             "w": "ep",
@@ -1090,7 +1090,7 @@
         },
         {
             "w": "eu",
-            "p": "eh uh"
+            "p": "eh uw"
         },
         {
             "w": "fa",
@@ -1102,7 +1102,7 @@
         },
         {
             "w": "faai",
-            "p": "f ae iy"
+            "p": "f ay"
         },
         {
             "w": "faak",
@@ -1130,7 +1130,7 @@
         },
         {
             "w": "faau",
-            "p": "f ae uh"
+            "p": "f aw"
         },
         {
             "w": "fai",
@@ -1162,7 +1162,7 @@
         },
         {
             "w": "fau",
-            "p": "f ax uh"
+            "p": "f ow"
         },
         {
             "w": "fe",
@@ -1170,7 +1170,7 @@
         },
         {
             "w": "fei",
-            "p": "f eh iy"
+            "p": "f ey"
         },
         {
             "w": "fek",
@@ -1222,7 +1222,7 @@
         },
         {
             "w": "feou",
-            "p": "f ax uh"
+            "p": "f ow"
         },
         {
             "w": "fep",
@@ -1234,7 +1234,7 @@
         },
         {
             "w": "feu",
-            "p": "f eh uh"
+            "p": "f eh uw"
         },
         {
             "w": "fi",
@@ -1266,7 +1266,7 @@
         },
         {
             "w": "fiu",
-            "p": "f iy uh"
+            "p": "f iy uw"
         },
         {
             "w": "fo",
@@ -1278,7 +1278,7 @@
         },
         {
             "w": "foei",
-            "p": "f eh iy"
+            "p": "f ey"
         },
         {
             "w": "foek",
@@ -1306,11 +1306,11 @@
         },
         {
             "w": "foeu",
-            "p": "f eh uh"
+            "p": "f eh uw"
         },
         {
             "w": "foi",
-            "p": "f ao iy"
+            "p": "f oy"
         },
         {
             "w": "fok",
@@ -1338,39 +1338,39 @@
         },
         {
             "w": "fou",
-            "p": "f ao uh"
+            "p": "f ao uw"
         },
         {
             "w": "fu",
-            "p": "f uh"
+            "p": "f uw"
         },
         {
             "w": "fui",
-            "p": "f uh iy"
+            "p": "f uw iy"
         },
         {
             "w": "fuk",
-            "p": "f uw k"
+            "p": "f uh k"
         },
         {
             "w": "fum",
-            "p": "f uh m"
+            "p": "f uw m"
         },
         {
             "w": "fun",
-            "p": "f uh n"
+            "p": "f uw n"
         },
         {
             "w": "fung",
-            "p": "f uw ng"
+            "p": "f uh ng"
         },
         {
             "w": "fup",
-            "p": "f uh p"
+            "p": "f uw p"
         },
         {
             "w": "fut",
-            "p": "f uh t"
+            "p": "f uw t"
         },
         {
             "w": "fyu",
@@ -1406,7 +1406,7 @@
         },
         {
             "w": "fyuu",
-            "p": "f iy uh"
+            "p": "f iy uw"
         },
         {
             "w": "ga",
@@ -1418,7 +1418,7 @@
         },
         {
             "w": "gaai",
-            "p": "g ae iy"
+            "p": "g ay"
         },
         {
             "w": "gaak",
@@ -1446,7 +1446,7 @@
         },
         {
             "w": "gaau",
-            "p": "g ae uh"
+            "p": "g aw"
         },
         {
             "w": "gai",
@@ -1478,7 +1478,7 @@
         },
         {
             "w": "gau",
-            "p": "g ax uh"
+            "p": "g ow"
         },
         {
             "w": "ge",
@@ -1486,7 +1486,7 @@
         },
         {
             "w": "gei",
-            "p": "g eh iy"
+            "p": "g ey"
         },
         {
             "w": "gek",
@@ -1538,7 +1538,7 @@
         },
         {
             "w": "geou",
-            "p": "g ax uh"
+            "p": "g ow"
         },
         {
             "w": "gep",
@@ -1550,7 +1550,7 @@
         },
         {
             "w": "geu",
-            "p": "g eh uh"
+            "p": "g eh uw"
         },
         {
             "w": "gi",
@@ -1582,7 +1582,7 @@
         },
         {
             "w": "giu",
-            "p": "g iy uh"
+            "p": "g iy uw"
         },
         {
             "w": "go",
@@ -1594,7 +1594,7 @@
         },
         {
             "w": "goei",
-            "p": "g eh iy"
+            "p": "g ey"
         },
         {
             "w": "goek",
@@ -1622,11 +1622,11 @@
         },
         {
             "w": "goeu",
-            "p": "g eh uh"
+            "p": "g eh uw"
         },
         {
             "w": "goi",
-            "p": "g ao iy"
+            "p": "g oy"
         },
         {
             "w": "gok",
@@ -1654,39 +1654,39 @@
         },
         {
             "w": "gou",
-            "p": "g ao uh"
+            "p": "g ao uw"
         },
         {
             "w": "gu",
-            "p": "g uh"
+            "p": "g uw"
         },
         {
             "w": "gui",
-            "p": "g uh iy"
+            "p": "g uw iy"
         },
         {
             "w": "guk",
-            "p": "g uw k"
+            "p": "g uh k"
         },
         {
             "w": "gum",
-            "p": "g uh m"
+            "p": "g uw m"
         },
         {
             "w": "gun",
-            "p": "g uh n"
+            "p": "g uw n"
         },
         {
             "w": "gung",
-            "p": "g uw ng"
+            "p": "g uh ng"
         },
         {
             "w": "gup",
-            "p": "g uh p"
+            "p": "g uw p"
         },
         {
             "w": "gut",
-            "p": "g uh t"
+            "p": "g uw t"
         },
         {
             "w": "gwa",
@@ -1698,7 +1698,7 @@
         },
         {
             "w": "gwaai",
-            "p": "g w ae iy"
+            "p": "g w ay"
         },
         {
             "w": "gwaak",
@@ -1726,7 +1726,7 @@
         },
         {
             "w": "gwaau",
-            "p": "g w ae uh"
+            "p": "g w aw"
         },
         {
             "w": "gwai",
@@ -1758,7 +1758,7 @@
         },
         {
             "w": "gwau",
-            "p": "g w ax uh"
+            "p": "g w ow"
         },
         {
             "w": "gwe",
@@ -1766,7 +1766,7 @@
         },
         {
             "w": "gwei",
-            "p": "g w eh iy"
+            "p": "g w ey"
         },
         {
             "w": "gwek",
@@ -1818,7 +1818,7 @@
         },
         {
             "w": "gweou",
-            "p": "g w ax uh"
+            "p": "g w ow"
         },
         {
             "w": "gwep",
@@ -1830,7 +1830,7 @@
         },
         {
             "w": "gweu",
-            "p": "g w eh uh"
+            "p": "g w eh uw"
         },
         {
             "w": "gwi",
@@ -1862,7 +1862,7 @@
         },
         {
             "w": "gwiu",
-            "p": "g w iy uh"
+            "p": "g w iy uw"
         },
         {
             "w": "gwo",
@@ -1874,7 +1874,7 @@
         },
         {
             "w": "gwoei",
-            "p": "g w eh iy"
+            "p": "g w ey"
         },
         {
             "w": "gwoek",
@@ -1902,11 +1902,11 @@
         },
         {
             "w": "gwoeu",
-            "p": "g w eh uh"
+            "p": "g w eh uw"
         },
         {
             "w": "gwoi",
-            "p": "g w ao iy"
+            "p": "g w oy"
         },
         {
             "w": "gwok",
@@ -1934,39 +1934,39 @@
         },
         {
             "w": "gwou",
-            "p": "g w ao uh"
+            "p": "g w ao uw"
         },
         {
             "w": "gwu",
-            "p": "g w uh"
+            "p": "g w uw"
         },
         {
             "w": "gwui",
-            "p": "g w uh iy"
+            "p": "g w uw iy"
         },
         {
             "w": "gwuk",
-            "p": "g w uw k"
+            "p": "g w uh k"
         },
         {
             "w": "gwum",
-            "p": "g w uh m"
+            "p": "g w uw m"
         },
         {
             "w": "gwun",
-            "p": "g w uh n"
+            "p": "g w uw n"
         },
         {
             "w": "gwung",
-            "p": "g w uw ng"
+            "p": "g w uh ng"
         },
         {
             "w": "gwup",
-            "p": "g w uh p"
+            "p": "g w uw p"
         },
         {
             "w": "gwut",
-            "p": "g w uh t"
+            "p": "g w uw t"
         },
         {
             "w": "gwyu",
@@ -2002,7 +2002,7 @@
         },
         {
             "w": "gwyuu",
-            "p": "g w iy uh"
+            "p": "g w iy uw"
         },
         {
             "w": "gyu",
@@ -2038,7 +2038,7 @@
         },
         {
             "w": "gyuu",
-            "p": "g iy uh"
+            "p": "g iy uw"
         },
         {
             "w": "ha",
@@ -2050,7 +2050,7 @@
         },
         {
             "w": "haai",
-            "p": "hh ae iy"
+            "p": "hh ay"
         },
         {
             "w": "haak",
@@ -2078,7 +2078,7 @@
         },
         {
             "w": "haau",
-            "p": "hh ae uh"
+            "p": "hh aw"
         },
         {
             "w": "hai",
@@ -2110,7 +2110,7 @@
         },
         {
             "w": "hau",
-            "p": "hh ax uh"
+            "p": "hh ow"
         },
         {
             "w": "he",
@@ -2118,7 +2118,7 @@
         },
         {
             "w": "hei",
-            "p": "hh eh iy"
+            "p": "hh ey"
         },
         {
             "w": "hek",
@@ -2170,7 +2170,7 @@
         },
         {
             "w": "heou",
-            "p": "hh ax uh"
+            "p": "hh ow"
         },
         {
             "w": "hep",
@@ -2182,7 +2182,7 @@
         },
         {
             "w": "heu",
-            "p": "hh eh uh"
+            "p": "hh eh uw"
         },
         {
             "w": "hi",
@@ -2214,7 +2214,7 @@
         },
         {
             "w": "hiu",
-            "p": "hh iy uh"
+            "p": "hh iy uw"
         },
         {
             "w": "ho",
@@ -2226,7 +2226,7 @@
         },
         {
             "w": "hoei",
-            "p": "hh eh iy"
+            "p": "hh ey"
         },
         {
             "w": "hoek",
@@ -2254,11 +2254,11 @@
         },
         {
             "w": "hoeu",
-            "p": "hh eh uh"
+            "p": "hh eh uw"
         },
         {
             "w": "hoi",
-            "p": "hh ao iy"
+            "p": "hh oy"
         },
         {
             "w": "hok",
@@ -2286,39 +2286,39 @@
         },
         {
             "w": "hou",
-            "p": "hh ao uh"
+            "p": "hh ao uw"
         },
         {
             "w": "hu",
-            "p": "hh uh"
+            "p": "hh uw"
         },
         {
             "w": "hui",
-            "p": "hh uh iy"
+            "p": "hh uw iy"
         },
         {
             "w": "huk",
-            "p": "hh uw k"
+            "p": "hh uh k"
         },
         {
             "w": "hum",
-            "p": "hh uh m"
+            "p": "hh uw m"
         },
         {
             "w": "hun",
-            "p": "hh uh n"
+            "p": "hh uw n"
         },
         {
             "w": "hung",
-            "p": "hh uw ng"
+            "p": "hh uh ng"
         },
         {
             "w": "hup",
-            "p": "hh uh p"
+            "p": "hh uw p"
         },
         {
             "w": "hut",
-            "p": "hh uh t"
+            "p": "hh uw t"
         },
         {
             "w": "hyu",
@@ -2354,7 +2354,7 @@
         },
         {
             "w": "hyuu",
-            "p": "hh iy uh"
+            "p": "hh iy uw"
         },
         {
             "w": "i",
@@ -2386,7 +2386,7 @@
         },
         {
             "w": "iu",
-            "p": "iy uh"
+            "p": "iy uw"
         },
         {
             "w": "ja",
@@ -2398,7 +2398,7 @@
         },
         {
             "w": "jaai",
-            "p": "y ae iy"
+            "p": "y ay"
         },
         {
             "w": "jaak",
@@ -2426,7 +2426,7 @@
         },
         {
             "w": "jaau",
-            "p": "y ae uh"
+            "p": "y aw"
         },
         {
             "w": "jai",
@@ -2458,7 +2458,7 @@
         },
         {
             "w": "jau",
-            "p": "y ax uh"
+            "p": "y ow"
         },
         {
             "w": "je",
@@ -2466,7 +2466,7 @@
         },
         {
             "w": "jei",
-            "p": "y eh iy"
+            "p": "y ey"
         },
         {
             "w": "jek",
@@ -2518,7 +2518,7 @@
         },
         {
             "w": "jeou",
-            "p": "y ax uh"
+            "p": "y ow"
         },
         {
             "w": "jep",
@@ -2530,7 +2530,7 @@
         },
         {
             "w": "jeu",
-            "p": "y eh uh"
+            "p": "y eh uw"
         },
         {
             "w": "ji",
@@ -2562,7 +2562,7 @@
         },
         {
             "w": "jiu",
-            "p": "y iy uh"
+            "p": "y iy uw"
         },
         {
             "w": "jo",
@@ -2574,7 +2574,7 @@
         },
         {
             "w": "joei",
-            "p": "y eh iy"
+            "p": "y ey"
         },
         {
             "w": "joek",
@@ -2602,11 +2602,11 @@
         },
         {
             "w": "joeu",
-            "p": "y eh uh"
+            "p": "y eh uw"
         },
         {
             "w": "joi",
-            "p": "y ao iy"
+            "p": "y oy"
         },
         {
             "w": "jok",
@@ -2634,39 +2634,39 @@
         },
         {
             "w": "jou",
-            "p": "y ao uh"
+            "p": "y ao uw"
         },
         {
             "w": "ju",
-            "p": "y uh"
+            "p": "y uw"
         },
         {
             "w": "jui",
-            "p": "y uh iy"
+            "p": "y uw iy"
         },
         {
             "w": "juk",
-            "p": "y uw k"
+            "p": "y uh k"
         },
         {
             "w": "jum",
-            "p": "y uh m"
+            "p": "y uw m"
         },
         {
             "w": "jun",
-            "p": "y uh n"
+            "p": "y uw n"
         },
         {
             "w": "jung",
-            "p": "y uw ng"
+            "p": "y uh ng"
         },
         {
             "w": "jup",
-            "p": "y uh p"
+            "p": "y uw p"
         },
         {
             "w": "jut",
-            "p": "y uh t"
+            "p": "y uw t"
         },
         {
             "w": "jyu",
@@ -2702,7 +2702,7 @@
         },
         {
             "w": "jyuu",
-            "p": "y iy uh"
+            "p": "y iy uw"
         },
         {
             "w": "ka",
@@ -2714,7 +2714,7 @@
         },
         {
             "w": "kaai",
-            "p": "k ae iy"
+            "p": "k ay"
         },
         {
             "w": "kaak",
@@ -2742,7 +2742,7 @@
         },
         {
             "w": "kaau",
-            "p": "k ae uh"
+            "p": "k aw"
         },
         {
             "w": "kai",
@@ -2774,7 +2774,7 @@
         },
         {
             "w": "kau",
-            "p": "k ax uh"
+            "p": "k ow"
         },
         {
             "w": "ke",
@@ -2782,7 +2782,7 @@
         },
         {
             "w": "kei",
-            "p": "k eh iy"
+            "p": "k ey"
         },
         {
             "w": "kek",
@@ -2834,7 +2834,7 @@
         },
         {
             "w": "keou",
-            "p": "k ax uh"
+            "p": "k ow"
         },
         {
             "w": "kep",
@@ -2846,7 +2846,7 @@
         },
         {
             "w": "keu",
-            "p": "k eh uh"
+            "p": "k eh uw"
         },
         {
             "w": "ki",
@@ -2878,7 +2878,7 @@
         },
         {
             "w": "kiu",
-            "p": "k iy uh"
+            "p": "k iy uw"
         },
         {
             "w": "ko",
@@ -2890,7 +2890,7 @@
         },
         {
             "w": "koei",
-            "p": "k eh iy"
+            "p": "k ey"
         },
         {
             "w": "koek",
@@ -2918,11 +2918,11 @@
         },
         {
             "w": "koeu",
-            "p": "k eh uh"
+            "p": "k eh uw"
         },
         {
             "w": "koi",
-            "p": "k ao iy"
+            "p": "k oy"
         },
         {
             "w": "kok",
@@ -2950,39 +2950,39 @@
         },
         {
             "w": "kou",
-            "p": "k ao uh"
+            "p": "k ao uw"
         },
         {
             "w": "ku",
-            "p": "k uh"
+            "p": "k uw"
         },
         {
             "w": "kui",
-            "p": "k uh iy"
+            "p": "k uw iy"
         },
         {
             "w": "kuk",
-            "p": "k uw k"
+            "p": "k uh k"
         },
         {
             "w": "kum",
-            "p": "k uh m"
+            "p": "k uw m"
         },
         {
             "w": "kun",
-            "p": "k uh n"
+            "p": "k uw n"
         },
         {
             "w": "kung",
-            "p": "k uw ng"
+            "p": "k uh ng"
         },
         {
             "w": "kup",
-            "p": "k uh p"
+            "p": "k uw p"
         },
         {
             "w": "kut",
-            "p": "k uh t"
+            "p": "k uw t"
         },
         {
             "w": "kwa",
@@ -2994,7 +2994,7 @@
         },
         {
             "w": "kwaai",
-            "p": "k w ae iy"
+            "p": "k w ay"
         },
         {
             "w": "kwaak",
@@ -3022,7 +3022,7 @@
         },
         {
             "w": "kwaau",
-            "p": "k w ae uh"
+            "p": "k w aw"
         },
         {
             "w": "kwai",
@@ -3054,7 +3054,7 @@
         },
         {
             "w": "kwau",
-            "p": "k w ax uh"
+            "p": "k w ow"
         },
         {
             "w": "kwe",
@@ -3062,7 +3062,7 @@
         },
         {
             "w": "kwei",
-            "p": "k w eh iy"
+            "p": "k w ey"
         },
         {
             "w": "kwek",
@@ -3114,7 +3114,7 @@
         },
         {
             "w": "kweou",
-            "p": "k w ax uh"
+            "p": "k w ow"
         },
         {
             "w": "kwep",
@@ -3126,7 +3126,7 @@
         },
         {
             "w": "kweu",
-            "p": "k w eh uh"
+            "p": "k w eh uw"
         },
         {
             "w": "kwi",
@@ -3158,7 +3158,7 @@
         },
         {
             "w": "kwiu",
-            "p": "k w iy uh"
+            "p": "k w iy uw"
         },
         {
             "w": "kwo",
@@ -3170,7 +3170,7 @@
         },
         {
             "w": "kwoei",
-            "p": "k w eh iy"
+            "p": "k w ey"
         },
         {
             "w": "kwoek",
@@ -3198,11 +3198,11 @@
         },
         {
             "w": "kwoeu",
-            "p": "k w eh uh"
+            "p": "k w eh uw"
         },
         {
             "w": "kwoi",
-            "p": "k w ao iy"
+            "p": "k w oy"
         },
         {
             "w": "kwok",
@@ -3230,39 +3230,39 @@
         },
         {
             "w": "kwou",
-            "p": "k w ao uh"
+            "p": "k w ao uw"
         },
         {
             "w": "kwu",
-            "p": "k w uh"
+            "p": "k w uw"
         },
         {
             "w": "kwui",
-            "p": "k w uh iy"
+            "p": "k w uw iy"
         },
         {
             "w": "kwuk",
-            "p": "k w uw k"
+            "p": "k w uh k"
         },
         {
             "w": "kwum",
-            "p": "k w uh m"
+            "p": "k w uw m"
         },
         {
             "w": "kwun",
-            "p": "k w uh n"
+            "p": "k w uw n"
         },
         {
             "w": "kwung",
-            "p": "k w uw ng"
+            "p": "k w uh ng"
         },
         {
             "w": "kwup",
-            "p": "k w uh p"
+            "p": "k w uw p"
         },
         {
             "w": "kwut",
-            "p": "k w uh t"
+            "p": "k w uw t"
         },
         {
             "w": "kwyu",
@@ -3298,7 +3298,7 @@
         },
         {
             "w": "kwyuu",
-            "p": "k w iy uh"
+            "p": "k w iy uw"
         },
         {
             "w": "kyu",
@@ -3334,7 +3334,7 @@
         },
         {
             "w": "kyuu",
-            "p": "k iy uh"
+            "p": "k iy uw"
         },
         {
             "w": "la",
@@ -3346,7 +3346,7 @@
         },
         {
             "w": "laai",
-            "p": "l ae iy"
+            "p": "l ay"
         },
         {
             "w": "laak",
@@ -3374,7 +3374,7 @@
         },
         {
             "w": "laau",
-            "p": "l ae uh"
+            "p": "l aw"
         },
         {
             "w": "lai",
@@ -3406,7 +3406,7 @@
         },
         {
             "w": "lau",
-            "p": "l ax uh"
+            "p": "l ow"
         },
         {
             "w": "le",
@@ -3414,7 +3414,7 @@
         },
         {
             "w": "lei",
-            "p": "l eh iy"
+            "p": "l ey"
         },
         {
             "w": "lek",
@@ -3466,7 +3466,7 @@
         },
         {
             "w": "leou",
-            "p": "l ax uh"
+            "p": "l ow"
         },
         {
             "w": "lep",
@@ -3478,7 +3478,7 @@
         },
         {
             "w": "leu",
-            "p": "l eh uh"
+            "p": "l eh uw"
         },
         {
             "w": "li",
@@ -3510,7 +3510,7 @@
         },
         {
             "w": "liu",
-            "p": "l iy uh"
+            "p": "l iy uw"
         },
         {
             "w": "lo",
@@ -3522,7 +3522,7 @@
         },
         {
             "w": "loei",
-            "p": "l eh iy"
+            "p": "l ey"
         },
         {
             "w": "loek",
@@ -3550,11 +3550,11 @@
         },
         {
             "w": "loeu",
-            "p": "l eh uh"
+            "p": "l eh uw"
         },
         {
             "w": "loi",
-            "p": "l ao iy"
+            "p": "l oy"
         },
         {
             "w": "lok",
@@ -3582,39 +3582,39 @@
         },
         {
             "w": "lou",
-            "p": "l ao uh"
+            "p": "l ao uw"
         },
         {
             "w": "lu",
-            "p": "l uh"
+            "p": "l uw"
         },
         {
             "w": "lui",
-            "p": "l uh iy"
+            "p": "l uw iy"
         },
         {
             "w": "luk",
-            "p": "l uw k"
+            "p": "l uh k"
         },
         {
             "w": "lum",
-            "p": "l uh m"
+            "p": "l uw m"
         },
         {
             "w": "lun",
-            "p": "l uh n"
+            "p": "l uw n"
         },
         {
             "w": "lung",
-            "p": "l uw ng"
+            "p": "l uh ng"
         },
         {
             "w": "lup",
-            "p": "l uh p"
+            "p": "l uw p"
         },
         {
             "w": "lut",
-            "p": "l uh t"
+            "p": "l uw t"
         },
         {
             "w": "lyu",
@@ -3650,7 +3650,7 @@
         },
         {
             "w": "lyuu",
-            "p": "l iy uh"
+            "p": "l iy uw"
         },
         {
             "w": "m",
@@ -3666,7 +3666,7 @@
         },
         {
             "w": "maai",
-            "p": "m ae iy"
+            "p": "m ay"
         },
         {
             "w": "maak",
@@ -3694,7 +3694,7 @@
         },
         {
             "w": "maau",
-            "p": "m ae uh"
+            "p": "m aw"
         },
         {
             "w": "mai",
@@ -3726,7 +3726,7 @@
         },
         {
             "w": "mau",
-            "p": "m ax uh"
+            "p": "m ow"
         },
         {
             "w": "me",
@@ -3734,7 +3734,7 @@
         },
         {
             "w": "mei",
-            "p": "m eh iy"
+            "p": "m ey"
         },
         {
             "w": "mek",
@@ -3786,7 +3786,7 @@
         },
         {
             "w": "meou",
-            "p": "m ax uh"
+            "p": "m ow"
         },
         {
             "w": "mep",
@@ -3798,7 +3798,7 @@
         },
         {
             "w": "meu",
-            "p": "m eh uh"
+            "p": "m eh uw"
         },
         {
             "w": "mi",
@@ -3830,7 +3830,7 @@
         },
         {
             "w": "miu",
-            "p": "m iy uh"
+            "p": "m iy uw"
         },
         {
             "w": "mo",
@@ -3842,7 +3842,7 @@
         },
         {
             "w": "moei",
-            "p": "m eh iy"
+            "p": "m ey"
         },
         {
             "w": "moek",
@@ -3870,11 +3870,11 @@
         },
         {
             "w": "moeu",
-            "p": "m eh uh"
+            "p": "m eh uw"
         },
         {
             "w": "moi",
-            "p": "m ao iy"
+            "p": "m oy"
         },
         {
             "w": "mok",
@@ -3902,39 +3902,39 @@
         },
         {
             "w": "mou",
-            "p": "m ao uh"
+            "p": "m ao uw"
         },
         {
             "w": "mu",
-            "p": "m uh"
+            "p": "m uw"
         },
         {
             "w": "mui",
-            "p": "m uh iy"
+            "p": "m uw iy"
         },
         {
             "w": "muk",
-            "p": "m uw k"
+            "p": "m uh k"
         },
         {
             "w": "mum",
-            "p": "m uh m"
+            "p": "m uw m"
         },
         {
             "w": "mun",
-            "p": "m uh n"
+            "p": "m uw n"
         },
         {
             "w": "mung",
-            "p": "m uw ng"
+            "p": "m uh ng"
         },
         {
             "w": "mup",
-            "p": "m uh p"
+            "p": "m uw p"
         },
         {
             "w": "mut",
-            "p": "m uh t"
+            "p": "m uw t"
         },
         {
             "w": "myu",
@@ -3970,7 +3970,7 @@
         },
         {
             "w": "myuu",
-            "p": "m iy uh"
+            "p": "m iy uw"
         },
         {
             "w": "na",
@@ -3982,7 +3982,7 @@
         },
         {
             "w": "naai",
-            "p": "n ae iy"
+            "p": "n ay"
         },
         {
             "w": "naak",
@@ -4010,7 +4010,7 @@
         },
         {
             "w": "naau",
-            "p": "n ae uh"
+            "p": "n aw"
         },
         {
             "w": "nai",
@@ -4042,7 +4042,7 @@
         },
         {
             "w": "nau",
-            "p": "n ax uh"
+            "p": "n ow"
         },
         {
             "w": "ne",
@@ -4050,7 +4050,7 @@
         },
         {
             "w": "nei",
-            "p": "n eh iy"
+            "p": "n ey"
         },
         {
             "w": "nek",
@@ -4102,7 +4102,7 @@
         },
         {
             "w": "neou",
-            "p": "n ax uh"
+            "p": "n ow"
         },
         {
             "w": "nep",
@@ -4114,7 +4114,7 @@
         },
         {
             "w": "neu",
-            "p": "n eh uh"
+            "p": "n eh uw"
         },
         {
             "w": "ng",
@@ -4130,7 +4130,7 @@
         },
         {
             "w": "ngaai",
-            "p": "ng ae iy"
+            "p": "ng ay"
         },
         {
             "w": "ngaak",
@@ -4158,7 +4158,7 @@
         },
         {
             "w": "ngaau",
-            "p": "ng ae uh"
+            "p": "ng aw"
         },
         {
             "w": "ngai",
@@ -4190,7 +4190,7 @@
         },
         {
             "w": "ngau",
-            "p": "ng ax uh"
+            "p": "ng ow"
         },
         {
             "w": "nge",
@@ -4198,7 +4198,7 @@
         },
         {
             "w": "ngei",
-            "p": "ng eh iy"
+            "p": "ng ey"
         },
         {
             "w": "ngek",
@@ -4250,7 +4250,7 @@
         },
         {
             "w": "ngeou",
-            "p": "ng ax uh"
+            "p": "ng ow"
         },
         {
             "w": "ngep",
@@ -4262,7 +4262,7 @@
         },
         {
             "w": "ngeu",
-            "p": "ng eh uh"
+            "p": "ng eh uw"
         },
         {
             "w": "ngi",
@@ -4294,7 +4294,7 @@
         },
         {
             "w": "ngiu",
-            "p": "ng iy uh"
+            "p": "ng iy uw"
         },
         {
             "w": "ngo",
@@ -4306,7 +4306,7 @@
         },
         {
             "w": "ngoei",
-            "p": "ng eh iy"
+            "p": "ng ey"
         },
         {
             "w": "ngoek",
@@ -4334,11 +4334,11 @@
         },
         {
             "w": "ngoeu",
-            "p": "ng eh uh"
+            "p": "ng eh uw"
         },
         {
             "w": "ngoi",
-            "p": "ng ao iy"
+            "p": "ng oy"
         },
         {
             "w": "ngok",
@@ -4366,39 +4366,39 @@
         },
         {
             "w": "ngou",
-            "p": "ng ao uh"
+            "p": "ng ao uw"
         },
         {
             "w": "ngu",
-            "p": "ng uh"
+            "p": "ng uw"
         },
         {
             "w": "ngui",
-            "p": "ng uh iy"
+            "p": "ng uw iy"
         },
         {
             "w": "nguk",
-            "p": "ng uw k"
+            "p": "ng uh k"
         },
         {
             "w": "ngum",
-            "p": "ng uh m"
+            "p": "ng uw m"
         },
         {
             "w": "ngun",
-            "p": "ng uh n"
+            "p": "ng uw n"
         },
         {
             "w": "ngung",
-            "p": "ng uw ng"
+            "p": "ng uh ng"
         },
         {
             "w": "ngup",
-            "p": "ng uh p"
+            "p": "ng uw p"
         },
         {
             "w": "ngut",
-            "p": "ng uh t"
+            "p": "ng uw t"
         },
         {
             "w": "ngyu",
@@ -4434,7 +4434,7 @@
         },
         {
             "w": "ngyuu",
-            "p": "ng iy uh"
+            "p": "ng iy uw"
         },
         {
             "w": "ni",
@@ -4466,7 +4466,7 @@
         },
         {
             "w": "niu",
-            "p": "n iy uh"
+            "p": "n iy uw"
         },
         {
             "w": "no",
@@ -4478,7 +4478,7 @@
         },
         {
             "w": "noei",
-            "p": "n eh iy"
+            "p": "n ey"
         },
         {
             "w": "noek",
@@ -4506,11 +4506,11 @@
         },
         {
             "w": "noeu",
-            "p": "n eh uh"
+            "p": "n eh uw"
         },
         {
             "w": "noi",
-            "p": "n ao iy"
+            "p": "n oy"
         },
         {
             "w": "nok",
@@ -4538,39 +4538,39 @@
         },
         {
             "w": "nou",
-            "p": "n ao uh"
+            "p": "n ao uw"
         },
         {
             "w": "nu",
-            "p": "n uh"
+            "p": "n uw"
         },
         {
             "w": "nui",
-            "p": "n uh iy"
+            "p": "n uw iy"
         },
         {
             "w": "nuk",
-            "p": "n uw k"
+            "p": "n uh k"
         },
         {
             "w": "num",
-            "p": "n uh m"
+            "p": "n uw m"
         },
         {
             "w": "nun",
-            "p": "n uh n"
+            "p": "n uw n"
         },
         {
             "w": "nung",
-            "p": "n uw ng"
+            "p": "n uh ng"
         },
         {
             "w": "nup",
-            "p": "n uh p"
+            "p": "n uw p"
         },
         {
             "w": "nut",
-            "p": "n uh t"
+            "p": "n uw t"
         },
         {
             "w": "nyu",
@@ -4606,7 +4606,7 @@
         },
         {
             "w": "nyuu",
-            "p": "n iy uh"
+            "p": "n iy uw"
         },
         {
             "w": "o",
@@ -4618,7 +4618,7 @@
         },
         {
             "w": "oei",
-            "p": "eh iy"
+            "p": "ey"
         },
         {
             "w": "oek",
@@ -4646,11 +4646,11 @@
         },
         {
             "w": "oeu",
-            "p": "eh uh"
+            "p": "eh uw"
         },
         {
             "w": "oi",
-            "p": "ao iy"
+            "p": "oy"
         },
         {
             "w": "ok",
@@ -4678,7 +4678,7 @@
         },
         {
             "w": "ou",
-            "p": "ao uh"
+            "p": "ao uw"
         },
         {
             "w": "pa",
@@ -4690,7 +4690,7 @@
         },
         {
             "w": "paai",
-            "p": "p ae iy"
+            "p": "p ay"
         },
         {
             "w": "paak",
@@ -4718,7 +4718,7 @@
         },
         {
             "w": "paau",
-            "p": "p ae uh"
+            "p": "p aw"
         },
         {
             "w": "pai",
@@ -4750,7 +4750,7 @@
         },
         {
             "w": "pau",
-            "p": "p ax uh"
+            "p": "p ow"
         },
         {
             "w": "pe",
@@ -4758,7 +4758,7 @@
         },
         {
             "w": "pei",
-            "p": "p eh iy"
+            "p": "p ey"
         },
         {
             "w": "pek",
@@ -4810,7 +4810,7 @@
         },
         {
             "w": "peou",
-            "p": "p ax uh"
+            "p": "p ow"
         },
         {
             "w": "pep",
@@ -4822,7 +4822,7 @@
         },
         {
             "w": "peu",
-            "p": "p eh uh"
+            "p": "p eh uw"
         },
         {
             "w": "pi",
@@ -4854,7 +4854,7 @@
         },
         {
             "w": "piu",
-            "p": "p iy uh"
+            "p": "p iy uw"
         },
         {
             "w": "po",
@@ -4866,7 +4866,7 @@
         },
         {
             "w": "poei",
-            "p": "p eh iy"
+            "p": "p ey"
         },
         {
             "w": "poek",
@@ -4894,11 +4894,11 @@
         },
         {
             "w": "poeu",
-            "p": "p eh uh"
+            "p": "p eh uw"
         },
         {
             "w": "poi",
-            "p": "p ao iy"
+            "p": "p oy"
         },
         {
             "w": "pok",
@@ -4926,39 +4926,39 @@
         },
         {
             "w": "pou",
-            "p": "p ao uh"
+            "p": "p ao uw"
         },
         {
             "w": "pu",
-            "p": "p uh"
+            "p": "p uw"
         },
         {
             "w": "pui",
-            "p": "p uh iy"
+            "p": "p uw iy"
         },
         {
             "w": "puk",
-            "p": "p uw k"
+            "p": "p uh k"
         },
         {
             "w": "pum",
-            "p": "p uh m"
+            "p": "p uw m"
         },
         {
             "w": "pun",
-            "p": "p uh n"
+            "p": "p uw n"
         },
         {
             "w": "pung",
-            "p": "p uw ng"
+            "p": "p uh ng"
         },
         {
             "w": "pup",
-            "p": "p uh p"
+            "p": "p uw p"
         },
         {
             "w": "put",
-            "p": "p uh t"
+            "p": "p uw t"
         },
         {
             "w": "pyu",
@@ -4994,7 +4994,7 @@
         },
         {
             "w": "pyuu",
-            "p": "p iy uh"
+            "p": "p iy uw"
         },
         {
             "w": "sa",
@@ -5006,7 +5006,7 @@
         },
         {
             "w": "saai",
-            "p": "s ae iy"
+            "p": "s ay"
         },
         {
             "w": "saak",
@@ -5034,7 +5034,7 @@
         },
         {
             "w": "saau",
-            "p": "s ae uh"
+            "p": "s aw"
         },
         {
             "w": "sai",
@@ -5066,7 +5066,7 @@
         },
         {
             "w": "sau",
-            "p": "s ax uh"
+            "p": "s ow"
         },
         {
             "w": "se",
@@ -5074,7 +5074,7 @@
         },
         {
             "w": "sei",
-            "p": "s eh iy"
+            "p": "s ey"
         },
         {
             "w": "sek",
@@ -5126,7 +5126,7 @@
         },
         {
             "w": "seou",
-            "p": "s ax uh"
+            "p": "s ow"
         },
         {
             "w": "sep",
@@ -5138,7 +5138,7 @@
         },
         {
             "w": "seu",
-            "p": "s eh uh"
+            "p": "s eh uw"
         },
         {
             "w": "si",
@@ -5170,7 +5170,7 @@
         },
         {
             "w": "siu",
-            "p": "s iy uh"
+            "p": "s iy uw"
         },
         {
             "w": "so",
@@ -5182,7 +5182,7 @@
         },
         {
             "w": "soei",
-            "p": "s eh iy"
+            "p": "s ey"
         },
         {
             "w": "soek",
@@ -5210,11 +5210,11 @@
         },
         {
             "w": "soeu",
-            "p": "s eh uh"
+            "p": "s eh uw"
         },
         {
             "w": "soi",
-            "p": "s ao iy"
+            "p": "s oy"
         },
         {
             "w": "sok",
@@ -5242,39 +5242,39 @@
         },
         {
             "w": "sou",
-            "p": "s ao uh"
+            "p": "s ao uw"
         },
         {
             "w": "su",
-            "p": "s uh"
+            "p": "s uw"
         },
         {
             "w": "sui",
-            "p": "s uh iy"
+            "p": "s uw iy"
         },
         {
             "w": "suk",
-            "p": "s uw k"
+            "p": "s uh k"
         },
         {
             "w": "sum",
-            "p": "s uh m"
+            "p": "s uw m"
         },
         {
             "w": "sun",
-            "p": "s uh n"
+            "p": "s uw n"
         },
         {
             "w": "sung",
-            "p": "s uw ng"
+            "p": "s uh ng"
         },
         {
             "w": "sup",
-            "p": "s uh p"
+            "p": "s uw p"
         },
         {
             "w": "sut",
-            "p": "s uh t"
+            "p": "s uw t"
         },
         {
             "w": "syu",
@@ -5310,7 +5310,7 @@
         },
         {
             "w": "syuu",
-            "p": "s iy uh"
+            "p": "s iy uw"
         },
         {
             "w": "ta",
@@ -5322,7 +5322,7 @@
         },
         {
             "w": "taai",
-            "p": "t ae iy"
+            "p": "t ay"
         },
         {
             "w": "taak",
@@ -5350,7 +5350,7 @@
         },
         {
             "w": "taau",
-            "p": "t ae uh"
+            "p": "t aw"
         },
         {
             "w": "tai",
@@ -5382,7 +5382,7 @@
         },
         {
             "w": "tau",
-            "p": "t ax uh"
+            "p": "t ow"
         },
         {
             "w": "te",
@@ -5390,7 +5390,7 @@
         },
         {
             "w": "tei",
-            "p": "t eh iy"
+            "p": "t ey"
         },
         {
             "w": "tek",
@@ -5442,7 +5442,7 @@
         },
         {
             "w": "teou",
-            "p": "t ax uh"
+            "p": "t ow"
         },
         {
             "w": "tep",
@@ -5454,7 +5454,7 @@
         },
         {
             "w": "teu",
-            "p": "t eh uh"
+            "p": "t eh uw"
         },
         {
             "w": "ti",
@@ -5486,7 +5486,7 @@
         },
         {
             "w": "tiu",
-            "p": "t iy uh"
+            "p": "t iy uw"
         },
         {
             "w": "to",
@@ -5498,7 +5498,7 @@
         },
         {
             "w": "toei",
-            "p": "t eh iy"
+            "p": "t ey"
         },
         {
             "w": "toek",
@@ -5526,11 +5526,11 @@
         },
         {
             "w": "toeu",
-            "p": "t eh uh"
+            "p": "t eh uw"
         },
         {
             "w": "toi",
-            "p": "t ao iy"
+            "p": "t oy"
         },
         {
             "w": "tok",
@@ -5558,39 +5558,39 @@
         },
         {
             "w": "tou",
-            "p": "t ao uh"
+            "p": "t ao uw"
         },
         {
             "w": "tu",
-            "p": "t uh"
+            "p": "t uw"
         },
         {
             "w": "tui",
-            "p": "t uh iy"
+            "p": "t uw iy"
         },
         {
             "w": "tuk",
-            "p": "t uw k"
+            "p": "t uh k"
         },
         {
             "w": "tum",
-            "p": "t uh m"
+            "p": "t uw m"
         },
         {
             "w": "tun",
-            "p": "t uh n"
+            "p": "t uw n"
         },
         {
             "w": "tung",
-            "p": "t uw ng"
+            "p": "t uh ng"
         },
         {
             "w": "tup",
-            "p": "t uh p"
+            "p": "t uw p"
         },
         {
             "w": "tut",
-            "p": "t uh t"
+            "p": "t uw t"
         },
         {
             "w": "tyu",
@@ -5626,39 +5626,39 @@
         },
         {
             "w": "tyuu",
-            "p": "t iy uh"
+            "p": "t iy uw"
         },
         {
             "w": "u",
-            "p": "uh"
+            "p": "uw"
         },
         {
             "w": "ui",
-            "p": "uh iy"
+            "p": "uw iy"
         },
         {
             "w": "uk",
-            "p": "uw k"
+            "p": "uh k"
         },
         {
             "w": "um",
-            "p": "uh m"
+            "p": "uw m"
         },
         {
             "w": "un",
-            "p": "uh n"
+            "p": "uw n"
         },
         {
             "w": "ung",
-            "p": "uw ng"
+            "p": "uh ng"
         },
         {
             "w": "up",
-            "p": "uh p"
+            "p": "uw p"
         },
         {
             "w": "ut",
-            "p": "uh t"
+            "p": "uw t"
         },
         {
             "w": "wa",
@@ -5670,7 +5670,7 @@
         },
         {
             "w": "waai",
-            "p": "w ae iy"
+            "p": "w ay"
         },
         {
             "w": "waak",
@@ -5698,7 +5698,7 @@
         },
         {
             "w": "waau",
-            "p": "w ae uh"
+            "p": "w aw"
         },
         {
             "w": "wai",
@@ -5730,7 +5730,7 @@
         },
         {
             "w": "wau",
-            "p": "w ax uh"
+            "p": "w ow"
         },
         {
             "w": "we",
@@ -5738,7 +5738,7 @@
         },
         {
             "w": "wei",
-            "p": "w eh iy"
+            "p": "w ey"
         },
         {
             "w": "wek",
@@ -5790,7 +5790,7 @@
         },
         {
             "w": "weou",
-            "p": "w ax uh"
+            "p": "w ow"
         },
         {
             "w": "wep",
@@ -5802,7 +5802,7 @@
         },
         {
             "w": "weu",
-            "p": "w eh uh"
+            "p": "w eh uw"
         },
         {
             "w": "wi",
@@ -5834,7 +5834,7 @@
         },
         {
             "w": "wiu",
-            "p": "w iy uh"
+            "p": "w iy uw"
         },
         {
             "w": "wo",
@@ -5846,7 +5846,7 @@
         },
         {
             "w": "woei",
-            "p": "w eh iy"
+            "p": "w ey"
         },
         {
             "w": "woek",
@@ -5874,11 +5874,11 @@
         },
         {
             "w": "woeu",
-            "p": "w eh uh"
+            "p": "w eh uw"
         },
         {
             "w": "woi",
-            "p": "w ao iy"
+            "p": "w oy"
         },
         {
             "w": "wok",
@@ -5906,39 +5906,39 @@
         },
         {
             "w": "wou",
-            "p": "w ao uh"
+            "p": "w ao uw"
         },
         {
             "w": "wu",
-            "p": "w uh"
+            "p": "w uw"
         },
         {
             "w": "wui",
-            "p": "w uh iy"
+            "p": "w uw iy"
         },
         {
             "w": "wuk",
-            "p": "w uw k"
+            "p": "w uh k"
         },
         {
             "w": "wum",
-            "p": "w uh m"
+            "p": "w uw m"
         },
         {
             "w": "wun",
-            "p": "w uh n"
+            "p": "w uw n"
         },
         {
             "w": "wung",
-            "p": "w uw ng"
+            "p": "w uh ng"
         },
         {
             "w": "wup",
-            "p": "w uh p"
+            "p": "w uw p"
         },
         {
             "w": "wut",
-            "p": "w uh t"
+            "p": "w uw t"
         },
         {
             "w": "wyu",
@@ -5974,43 +5974,43 @@
         },
         {
             "w": "wyuu",
-            "p": "w iy uh"
+            "p": "w iy uw"
         },
         {
             "w": "yu",
-            "p": "y uh"
+            "p": "y uw"
         },
         {
             "w": "yui",
-            "p": "y uh iy"
+            "p": "y uw iy"
         },
         {
             "w": "yuk",
-            "p": "y uh k"
+            "p": "y uw k"
         },
         {
             "w": "yum",
-            "p": "y uh m"
+            "p": "y uw m"
         },
         {
             "w": "yun",
-            "p": "y uh n"
+            "p": "y uw n"
         },
         {
             "w": "yung",
-            "p": "y uh ng"
+            "p": "y uw ng"
         },
         {
             "w": "yup",
-            "p": "y uh p"
+            "p": "y uw p"
         },
         {
             "w": "yut",
-            "p": "y uh t"
+            "p": "y uw t"
         },
         {
             "w": "yuu",
-            "p": "y uh uh"
+            "p": "y uw uw"
         },
         {
             "w": "za",
@@ -6022,7 +6022,7 @@
         },
         {
             "w": "zaai",
-            "p": "z ae iy"
+            "p": "z ay"
         },
         {
             "w": "zaak",
@@ -6050,7 +6050,7 @@
         },
         {
             "w": "zaau",
-            "p": "z ae uh"
+            "p": "z aw"
         },
         {
             "w": "zai",
@@ -6082,7 +6082,7 @@
         },
         {
             "w": "zau",
-            "p": "z ax uh"
+            "p": "z ow"
         },
         {
             "w": "ze",
@@ -6090,7 +6090,7 @@
         },
         {
             "w": "zei",
-            "p": "z eh iy"
+            "p": "z ey"
         },
         {
             "w": "zek",
@@ -6142,7 +6142,7 @@
         },
         {
             "w": "zeou",
-            "p": "z ax uh"
+            "p": "z ow"
         },
         {
             "w": "zep",
@@ -6154,7 +6154,7 @@
         },
         {
             "w": "zeu",
-            "p": "z eh uh"
+            "p": "z eh uw"
         },
         {
             "w": "zi",
@@ -6186,7 +6186,7 @@
         },
         {
             "w": "ziu",
-            "p": "z iy uh"
+            "p": "z iy uw"
         },
         {
             "w": "zo",
@@ -6198,7 +6198,7 @@
         },
         {
             "w": "zoei",
-            "p": "z eh iy"
+            "p": "z ey"
         },
         {
             "w": "zoek",
@@ -6226,11 +6226,11 @@
         },
         {
             "w": "zoeu",
-            "p": "z eh uh"
+            "p": "z eh uw"
         },
         {
             "w": "zoi",
-            "p": "z ao iy"
+            "p": "z oy"
         },
         {
             "w": "zok",
@@ -6258,39 +6258,39 @@
         },
         {
             "w": "zou",
-            "p": "z ao uh"
+            "p": "z ao uw"
         },
         {
             "w": "zu",
-            "p": "z uh"
+            "p": "z uw"
         },
         {
             "w": "zui",
-            "p": "z uh iy"
+            "p": "z uw iy"
         },
         {
             "w": "zuk",
-            "p": "z uw k"
+            "p": "z uh k"
         },
         {
             "w": "zum",
-            "p": "z uh m"
+            "p": "z uw m"
         },
         {
             "w": "zun",
-            "p": "z uh n"
+            "p": "z uw n"
         },
         {
             "w": "zung",
-            "p": "z uw ng"
+            "p": "z uh ng"
         },
         {
             "w": "zup",
-            "p": "z uh p"
+            "p": "z uw p"
         },
         {
             "w": "zut",
-            "p": "z uh t"
+            "p": "z uw t"
         },
         {
             "w": "zyu",
@@ -6326,7 +6326,7 @@
         },
         {
             "w": "zyuu",
-            "p": "z iy uh"
+            "p": "z iy uw"
         }
     ]
 }
