@@ -1,4 +1,8 @@
-## Download for Previous Versions / 为先前的版本下载字典
+---
+parent: Downloads / 下载
+---
+
+# Download for Previous Versions / 为先前的版本下载字典
 
 {: .note }
 > Discontinued on 4 July 2022.  
