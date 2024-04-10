@@ -26,9 +26,9 @@ parent: Phoneme / 音素表
 | i | i | i | 一 y<u>i</u> |
 | u | u | u | 无 w<u>u</u> |
 | ü | y | y | 与 y<u>ü</u> |
-| er | @\` | a r\\\` | 而 <u>er</u> |
-| i(z c s) | i\\ | i\\ | 四 s<u>i</u> |
-| i(zh ch sh r) | i\` | i\` | 十 sh<u>i</u> |
+| er | @&#96;  | a r\\&#96; | 而 <u>er</u> |
+| i(z c s) | i\\  | i\\ | 四 s<u>i</u> |
+| i(zh ch sh r) | i&#96;  | i&#96; | 十 sh<u>i</u> |
 | ai | aI | a :\\i | 还 h<u>ai</u> |
 | ei | ei | e :\\i | 黑 h<u>ei</u> |
 | ao | AU | AU | 好 h<u>ao</u> |
@@ -72,10 +72,10 @@ parent: Phoneme / 音素表
 | j | ts\\ | ts\\ | 几 <u>j</u>i |
 | q | ts\\_h | ts\\h | 七 <u>q</u>i |
 | x | s\\ | s\\ | 西 <u>x</u>i |
-| zh | ts\` | ts\` | 只 <u>zh</u>i |
-| ch | ts\`_h | ts\`h | 吃 <u>ch</u>i |
-| sh | s\` | s\` | 十 <u>sh</u>i |
-| r | z\` | z\` | 日 <u>r</u>i |
+| zh | ts&#96;  | ts&#96; | 只 <u>zh</u>i |
+| ch | ts&#96;_h  | ts&#96;h | 吃 <u>ch</u>i |
+| sh | s&#96;  | s&#96; | 十 <u>sh</u>i |
+| r | z&#96;  | z&#96; | 日 <u>r</u>i |
 | z | ts | ts | 字 <u>z</u>i |
 | c | ts_h | tsh | 次 <u>c</u>i |
 | s | s | s | 四 <u>s</u>i |
