@@ -26,11 +26,11 @@ parent: Phoneme / 音素表
 | i | i | i | 一 y<u>i</u> |
 | u | u | u | 无 w<u>u</u> |
 | ü | y | y | 与 y<u>ü</u> |
-| er | @` | a r\` | 而 <u>er</u> |
-| i(z c s) | i\ | i\ | 四 s<u>i</u> |
-| i(zh ch sh r) | i` | i` | 十 sh<u>i</u> |
-| ai | aI | a :\i | 还 h<u>ai</u> |
-| ei | ei | e :\i | 黑 h<u>ei</u> |
+| er | @\` | a r\\\` | 而 <u>er</u> |
+| i(z c s) | i\\ | i\\ | 四 s<u>i</u> |
+| i(zh ch sh r) | i\` | i\` | 十 sh<u>i</u> |
+| ai | aI | a :\\i | 还 h<u>ai</u> |
+| ei | ei | e :\\i | 黑 h<u>ei</u> |
 | ao | AU | AU | 好 h<u>ao</u> |
 | ou | @U | @U | 欧 <u>ou</u> |
 | ia | ia | ia | 家 j<u>ia</u> |
@@ -40,8 +40,8 @@ parent: Phoneme / 音素表
 | üe | yE_r | yE | 绝 j<u>ue</u> |
 | iao | iAU | iAU | 小 x<u>iao</u> |
 | iu | i@U | i@U | 就 j<u>iou</u> |
-| uai | uaI | ua :\i | 快 k<u>uai</u> |
-| ui | uei | ue :\i | 对 d<u>ui</u> |
+| uai | uaI | ua :\\i | 快 k<u>uai</u> |
+| ui | uei | ue :\\i | 对 d<u>ui</u> |
 | an | a_n | a :n | 安 <u>an</u> |
 | en | @_n | @ :n | 恩 <u>en</u> |
 | in | i_n | i :n | 临 l<u>in</u> |
@@ -69,13 +69,13 @@ parent: Phoneme / 音素表
 | g | k | k | 哥 <u>g</u>e |
 | k | k_h | kh | 可 <u>k</u>e |
 | h | x | x | 和 <u>h</u>e |
-| j | ts\ | ts\ | 几 <u>j</u>i |
-| q | ts\_h | ts\h | 七 <u>q</u>i |
-| x | s\ | s\ | 西 <u>x</u>i |
-| zh | ts` | ts` | 只 <u>zh</u>i |
-| ch | ts`_h | ts`h | 吃 <u>ch</u>i |
-| sh | s` | s` | 十 <u>sh</u>i |
-| r | z` | z` | 日 <u>r</u>i |
+| j | ts\\ | ts\\ | 几 <u>j</u>i |
+| q | ts\\_h | ts\\h | 七 <u>q</u>i |
+| x | s\\ | s\\ | 西 <u>x</u>i |
+| zh | ts\` | ts\` | 只 <u>zh</u>i |
+| ch | ts\`_h | ts\`h | 吃 <u>ch</u>i |
+| sh | s\` | s\` | 十 <u>sh</u>i |
+| r | z\` | z\` | 日 <u>r</u>i |
 | z | ts | ts | 字 <u>z</u>i |
 | c | ts_h | tsh | 次 <u>c</u>i |
 | s | s | s | 四 <u>s</u>i |
@@ -91,7 +91,7 @@ parent: Phoneme / 音素表
 | M | u | う <u>u</u> |
 | e | e | え <u>e</u> |
 | o | o | お <u>o</u> |
-| N  N'  N\ | N | ん <u>n</u> |
+| N  N'  N\\ | N | ん <u>n</u> |
 | k | k | か <u>k</u>a |
 | k' | ky | きゃ <u>ky</u>a |
 | g | g | が <u>g</u>a |
@@ -108,9 +108,9 @@ parent: Phoneme / 音素表
 | d' | dy | でゃ <u>dy</u>a |
 | n | n | な <u>n</u>a |
 | J | ny | にゃ <u>ny</u>a |
-| h h\ | h | は <u>h</u>a |
+| h h\\ | h | は <u>h</u>a |
 | C | hy | ひゃ <u>hy</u>a |
-| p\ p\' | f | ふぁ <u>f</u>a |
+| p\\ p\\' | f | ふぁ <u>f</u>a |
 | p | p | ぱ <u>p</u>a |
 | p' | py | ぴゃ <u>py</u>a |
 | b | b | ば <u>b</u>a |
@@ -135,7 +135,7 @@ parent: Phoneme / 音素表
 | u | u |  |
 | I j | I ^ | ^:No distinction in SV |
 | U w | U ^ | ^:No distinction in SV |
-| j\ | y |  |
+| j\\ | y |  |
 | L | ll |  |
 | b | b |  |
 | B | B |  |
