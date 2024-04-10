@@ -7,7 +7,7 @@ nav_order: 4
 
 ## Sample Music
 
-|  |  |  |  |
+| Song 歌曲 | Voicebank 声库 | Dictionary 字典 | Link 链接 |
 |:---:|:---:|:---:|:---:|
 | Lightyears Away - G.E.M<br/>光年之外 - 邓紫棋  | Koharu Rikka AI (Lite)<br/>小春六花AI (Lite) | SVR2 Jpn2Man | [Play on Bilibili](https://player.bilibili.com/player.html?bvid=BV1sf4y1x7Ea) |
 | Twilight - JJ Lin<br/>不为谁而作的歌 - 林俊杰 | GENBU (Lite)<br/>玄武 (Lite) | SVR2 Jpn2Man | [Play on Bilibili](https://player.bilibili.com/player.html?bvid=BV1y54y1U7Re) |
@@ -28,5 +28,5 @@ nav_order: 4
 |:---:|:---:|
 |<audio controls><source src="/synthv-dictionaries/assets/M2K.ogg" type="audio/ogg"></audio><br/>Mandarin Voicebank 中文声库|<audio controls><source src="/synthv-dictionaries/assets/M2Y.ogg" type="audio/ogg"></audio><br/>Mandarin Voicebank 中文声库|
 |<audio controls><source src="/synthv-dictionaries/assets/E2K.ogg" type="audio/ogg"></audio><br/>English Voicebank 英语声库|<audio controls><source src="/synthv-dictionaries/assets/E2Y.ogg" type="audio/ogg"></audio><br/>English Voicebank 英语声库|
-|<audio controls><source src="/synthv-dictionaries/assets/J2K.ogg" type="audio/ogg"></audio><br/>Japanese Voicebank 日语声库|<audio controls><source src="/synthv-dictionaries/assets/J2K.ogg" type="audio/ogg"></audio><br/>Japanese Voicebank 日语声库|
+|<audio controls><source src="/synthv-dictionaries/assets/J2K.ogg" type="audio/ogg"></audio><br/>Japanese Voicebank 日语声库|<audio controls><source src="/synthv-dictionaries/assets/J2Y.ogg" type="audio/ogg"></audio><br/>Japanese Voicebank 日语声库|
 
