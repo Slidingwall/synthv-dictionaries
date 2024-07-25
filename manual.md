@@ -3,7 +3,7 @@ nav_order: 2
 ---
 
 
-# How to use / 如何使用
+# How to use 如何使用
 
 {: .warning }
 Dictionaries are not universal between Synthesizer V Editor and Synthesizer V Studio.  

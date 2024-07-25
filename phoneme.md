@@ -3,7 +3,7 @@ nav_order: 5
 has_children: true
 ---
 
-# Phoneme / 音素表
+# Phoneme 音素表
 
 {: .important-title }
 > See also / 参见
@@ -22,7 +22,7 @@ has_children: true
 > `YUE` = Yue Dialect X-SAMPA  
 > `ESP` = Spanish X-SAMPA  
 
-- [Phoneme / 音素表](#phoneme--音素表)
+- [Phoneme 音素表](#phoneme-音素表)
   - [Chinese 中文](#chinese-中文)
     - [Vowels, Semivowels and Diphthongs](#vowels-semivowels-and-diphthongs)
     - [Consonants and Codas](#consonants-and-codas)

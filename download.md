@@ -1,8 +1,8 @@
 ---
-parent: Downloads / 下载
+parent: Downloads 下载
 ---
 
-# Download (SV R1) / 下载 (SV R1)
+# Download (SV R1) 下载 (SV R1)
 
 {: .note }
 > Discontinued on 4 July 2022.  

@@ -5,7 +5,7 @@ has_children: true
 
 
 
-# Downloads / 下载  
+# Downloads 下载  
 
 | Surpported Lyric Language<br />支持的歌词语言 | English Voicebank<br />英语语音库 | Chinese Voicebank<br />中文语音库 |Japanese Voicebank<br />日语语音库 |  
 |:----:|:----:|:----:|:----:|

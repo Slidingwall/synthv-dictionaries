@@ -3,7 +3,7 @@ nav_order: 4
 ---
 
 
-# Demos / 演示 
+# Demos 演示 
 
 ## Sample Music
 
