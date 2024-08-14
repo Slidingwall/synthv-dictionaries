@@ -17,6 +17,9 @@ The file name means the language you want to sing from the voicebank. For exampl
 For detail instruction, please see the manual on our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/manual).  
 详细教程，请查看[GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/manual)。
 
+Dictionaries for first-generation Synthesizer V are avalable [here](https://github.com/Slidingwall/synthv-dictionaries/blob/main/Dictionaries%20for%20Synthesizer%20V%20Editor/). We also provide a [converter](https://slidingwall.github.io/synthv-dictionaries/converter) for you to convert dictionaries between current version and former version.  
+初代Synthesizer V所支持的字典在[这里](https://github.com/Slidingwall/synthv-dictionaries/blob/main/Dictionaries%20for%20Synthesizer%20V%20Editor/)。此外，我们还提供了一个[转换器](https://slidingwall.github.io/synthv-dictionaries/converter)以便您将字典在现行版本与先前版本所支持的格式之间进行转换。  
+
 ## Released dictionaries 已公开字典
 
 All these dictionaries' demos and examples are on [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/demo), including before and after comparisons and some sample songs.  
