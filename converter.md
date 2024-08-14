@@ -12,7 +12,7 @@ Although we no longer update dictionaries compatible with the first-generation S
 您也可以粘贴CSV或Excel表格，转换器会自动将其转换为现行版本支持的字典。  
 You can also paste CSV or Excel tables, and the converter will automatically convert them into dictionaries supported by the current version.  
 <textarea id="inputText" rows="10" cols="80" placeholder="Paste your dictionary here...  请粘贴您的字典…"></textarea>  
-<input type="file" id="fileInput" class="btn" accept=".json,.xml" />{: .btn .btn }
+<input type="file" id="fileInput" class="btn" accept=".json,.xml,.csv" />{: .btn .btn }
 <button type="button" name="button" class="btn" onclick="uploadAndConvert()">Upload 上传</button>{: .btn .btn-blue }
 <button type="button" name="button" class="btn" onclick="convert()">Convert 转换</button>{: .btn .btn-green }  
   
