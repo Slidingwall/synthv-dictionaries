@@ -35,6 +35,25 @@ function jsonToXml(json) {
     return xml.join('\n');  
 }  
 
+function csvToJson(csvText, delimiter = ',') {  
+    const lines = csvText.split(/\r\n|\n/);  
+    const result = [];  
+   
+    for (let i = 0; i < lines.length; i++) {  
+        const values = lines[i].split(delimiter);  
+    
+        if (values.length >= 2) {   
+            const obj = {  
+                w: values[0].trim(), 
+                p: values[1].trim()   
+            };  
+            result.push(obj);  
+        }  
+    }  
+  
+    return JSON.stringify({ data: result }, null, 4);  
+}  
+
 function convert() {  
     var inputText = document.getElementById('inputText').value;  
     var outputText = document.getElementById('outputText');  
@@ -42,24 +61,30 @@ function convert() {
         outputText.value = 'Input cannot be empty.';  
         return;  
     }
-    try {    
-        var jsonObj = JSON.parse(inputText);   
+    try {  
+        // 尝试将输入解析为JSON  
+        var jsonObj = JSON.parse(inputText);  
         var xml = jsonToXml(jsonObj);  
         outputText.value = xml;  
-    } catch (jsonError) {    
+    } catch (jsonError) {  
+        // JSON解析失败，尝试将输入解析为XML  
         var xmlDoc = new DOMParser().parseFromString(inputText, "text/xml");  
-        if (xmlDoc.getElementsByTagName("parsererror").length > 0) {  
-            outputText.value = 'Invalid XML format: ' + xmlDoc.getElementsByTagName("parsererror")[0].textContent;  
-        } else {  
+        if (xmlDoc.getElementsByTagName("parsererror").length === 0) {  
             var json = xmlToJson(xmlDoc);  
-            if (json) {  
-                outputText.value = json;  
+            outputText.value = json;  
+        } else {  
+            // XML解析失败，尝试将输入作为CSV处理  
+            var csvDelimiter = /,(?![^"]*"(?:(?:\\")*[^"]*)*$)/g.test(inputText) ? ',' : '\t';  
+            var csvJson = csvToJson(inputText, csvDelimiter);  
+            if (csvJson) {  
+                outputText.value = csvJson;  
             } else {  
-                outputText.value = 'Invalid XML format or unable to convert to JSON.';  
+                // 所有解析尝试都失败了  
+                outputText.value = 'Input cannot be parsed as JSON, XML, or CSV.';  
             }  
         }  
     }  
-}   
+}  
 
 function uploadAndConvert() {  
     const file = document.getElementById('fileInput').files[0];  
@@ -68,7 +93,7 @@ function uploadAndConvert() {
         return;  
     }  
     const fileName = file.name.toLowerCase();  
-    if (!fileName.endsWith('.json') && !fileName.endsWith('.xml')) {  
+    if (!fileName.endsWith('.json') && !fileName.endsWith('.xml') && !fileName.endsWith('.csv')) {  
         alert('Unsupported file type. Please upload a JSON or XML file.');  
         return;  
     }
