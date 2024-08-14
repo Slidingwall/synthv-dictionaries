@@ -89,12 +89,12 @@ function convert() {
 function uploadAndConvert() {  
     const file = document.getElementById('fileInput').files[0];  
     if (!file) {  
-        alert('Please select a file to upload.');  
+        outputText.value ='Please select a file to upload.';  
         return;  
     }  
     const fileName = file.name.toLowerCase();  
     if (!fileName.endsWith('.json') && !fileName.endsWith('.xml') && !fileName.endsWith('.csv')) {  
-        alert('Unsupported file type. Please upload a JSON or XML file.');  
+        outputText.value ='Unsupported file type. Please upload a JSON, XML or CSV file.';  
         return;  
     }
     const reader = new FileReader();  
