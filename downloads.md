@@ -29,7 +29,7 @@ nav_order: 3
 
 {: .warning }
 > Discontinued on 4 July 2022.  
-> 自2022年7月34日弃用。
+> 自2022年7月34日弃用。  
 > We provide a [converter](https://slidingwall.github.io/synthv-dictionaries/converter) for you to convert dictionaries between current version and former version.  
 > 我们提供了一个[转换器](https://slidingwall.github.io/synthv-dictionaries/converter)以便您将字典在现行版本与先前版本所支持的格式之间进行转换。  
 

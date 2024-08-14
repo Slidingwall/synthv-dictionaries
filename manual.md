@@ -6,10 +6,9 @@ nav_order: 2
 # How to use 如何使用
 
 {: .warning }
-> Dictionaries are not universal between Synthesizer V Editor and Synthesizer V Studio.  
-> 用户词典在Synthesizer V Editor 和 Synthesizer V Studio 之间并不通用。  
-> We provide a [converter](https://slidingwall.github.io/synthv-dictionaries/converter) for you to convert dictionaries between current version and former version.  
-> 我们提供了一个[转换器](https://slidingwall.github.io/synthv-dictionaries/converter)以便您将字典在现行版本与先前版本所支持的格式之间进行转换。
+> Dictionaries are not universal between Synthesizer V Editor and Synthesizer V Studio. However, we provide a [converter](https://slidingwall.github.io/synthv-dictionaries/converter) for you to convert dictionaries between current version and former version.   
+> 用户词典在Synthesizer V Editor 和 Synthesizer V Studio 之间并不通用。不过，我们提供了一个[转换器](https://slidingwall.github.io/synthv-dictionaries/converter)以便您将字典在现行版本与先前版本所支持的格式之间进行转换。  
+
 
 ## Synthesizer V Studio
 Put the folder in `Documents\Dreamtonics\Synthesizer V Studio\dicts\[language]-[phoneme format]`, then you'll see the dictionary in Dictionary Panel.  
