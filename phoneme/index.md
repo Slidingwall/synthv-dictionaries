@@ -21,8 +21,3 @@ has_children: true
 > `KOR` = Korean  
 > `YUE` = Yue Dialect X-SAMPA  
 > `ESP` = Spanish X-SAMPA  
-
-
-#
-
-#
