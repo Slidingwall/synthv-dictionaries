@@ -3,7 +3,7 @@ nav_order: 3
 ---
 
 # Downloads 下载  
-
+  
 | Surpported Lyric Language<br />支持的歌词语言 | English Voicebank<br />英语语音库 | Chinese Voicebank<br />中文语音库 |Japanese Voicebank<br />日语语音库 |  
 |:----:|:----:|:----:|:----:|
 | English 英语 | N/A | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/mandarin-xsampa/English.json) | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/japanese-romaji/English.json) |
@@ -32,6 +32,8 @@ nav_order: 3
 {: .warning }
 > Discontinued on 4 July 2022.  
 > 自2022年7月34日弃用。
+> We provide a [converter](https://slidingwall.github.io/synthv-dictionaries/converter) for you to convert dictionaries between current version and former version.  
+> 我们提供了一个[转换器](https://slidingwall.github.io/synthv-dictionaries/converter)以便您将字典在现行版本与先前版本所支持的格式之间进行转换。  
 
 | Surpported Lyric Language<br />支持的歌词语言 | English Voicebank<br />英语语音库 | Chinese Voicebank<br />中文语音库 |Japanese Voicebank<br />日语语音库 |  
 |:----:|:----:|:----:|:----:|
