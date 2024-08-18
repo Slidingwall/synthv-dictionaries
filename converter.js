@@ -24,13 +24,12 @@ function jsonToXml(json) {
     ].join('\n');  
 }  
   
-function csvToJson(csvText, delimiter = ',') {  
-    const lines = csvText.split(/\r\n|\n/);  
+function csvToJson(csvText, delimiter = ',') {    
     return JSON.stringify({  
-        data: lines.map(line => {  
+        data: csvText.split(/\r\n|\n/).map(line => {  
             const [w, p] = line.split(delimiter).map(s => s.trim());  
-            if (w && p) return { w, p };  
-        }).filter(obj => obj)  
+            return w && p ? { w, p } : null;  
+        }).filter(Boolean)  
     }, null, 4);  
 }  
   
@@ -39,12 +38,7 @@ function tryParseXml(inputText) {
     return xmlDoc.getElementsByTagName("parsererror").length === 0 ? xmlDoc : null;  
 }  
   
-function convert() {  
-    const inputText = document.getElementById('inputText').value;  
-    if (!inputText) {  
-        setOutputText('Input cannot be empty.');  
-        return;  
-    }  
+function convert(inputText) {   
     try {  
         const jsonObj = JSON.parse(inputText);  
         setOutputText(jsonToXml(jsonObj));  
@@ -65,42 +59,37 @@ function convert() {
   
 function uploadAndConvert() {  
     const file = document.getElementById('fileInput').files[0];  
-    if (!file) {  
-        setOutputText('Please select a file to upload.');  
+    const inputText = document.getElementById('inputText').value.trim()
+    if (!file && !inputText) {  
+        setOutputText('Please select a file to upload or enter text.');  
         return;  
     }  
-    const fileExtension = file.name.split('.').pop().toLowerCase();  
-    if (!['json', 'xml', 'csv'].includes(fileExtension)) {  
-        setOutputText('Unsupported file type. Please upload a JSON, XML or CSV file.');  
-        return;  
+    if (file) {  
+        const fileExtension = file.name.split('.').pop().toLowerCase();  
+        if (!['json', 'xml', 'csv'].includes(fileExtension)) {  
+            setOutputText('Unsupported file type. Please upload a JSON, XML or CSV file.');  
+            return;  
+        }  
+        const reader = new FileReader();  
+        reader.onload = e => {convert(e.target.result); document.getElementById('inputText').value=e.target.result;}; 
+        reader.readAsText(file);  
+    } else {  
+        convert(inputText);  
     }  
-    const reader = new FileReader();  
-    reader.onload = e => {  
-        document.getElementById('inputText').value = e.target.result;  
-        convert();  
-    };  
-    reader.readAsText(file);  
-}  
+}
   
 function downloadResult() {  
     const outputText = document.getElementById('outputText').value;  
-    let fileType = 'text/plain';  
-    let fileExtension = 'txt';  
-    if (outputText.startsWith('{') && outputText.endsWith('}')) {  
-        fileType = 'application/json';  
-        fileExtension = 'json';  
-    } else if (outputText.startsWith('<') && outputText.endsWith('>')) {  
-        fileType = 'application/xml';  
-        fileExtension = 'xml';  
-    }  
+    const fileType = outputText.startsWith('{') && outputText.endsWith('}') ? 'application/json' :  
+                     outputText.startsWith('<') && outputText.endsWith('>') ? 'application/xml' :  
+                     'text/plain';  
+    const fileExtension = fileType === 'application/json' ? 'json' :  
+                          fileType === 'application/xml' ? 'xml' :  
+                          'txt';
     const blob = new Blob([outputText], { type: fileType });     
-    const a = document.createElement('a');  
-    a.href = URL.createObjectURL(blob);  
-    a.download = `converted_${fileExtension}`;   
-    a.dispatchEvent(new MouseEvent('click', {  
-        'view': window,  
-        'bubbles': true,  
-        'cancelable': true  
-    }));  
-    URL.revokeObjectURL(a.href);
+    const downloadLink = document.createElement('a');  
+    downloadLink.href = URL.createObjectURL(blob);  
+    downloadLink.download = `converted_${fileExtension}`;   
+    downloadLink.click();  
+    URL.revokeObjectURL(downloadLink.href);
 }
