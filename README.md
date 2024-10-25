@@ -35,6 +35,7 @@ All these dictionaries' demos and examples are on [GitHub Pages](https://sliding
 | Spanish 西班牙语[^2] | √ | √ | √ |
 | Arpasing UST[^3] | √ | √ | √ |
 | VCCV UST[^3] | √ | √ | √ |
+| Minnan 闽南方言[^4] | √ | √ | √ |
 
 [^1]: **[Experimental Function]**For Korean, Hangul included in _[KS X 1001](https://en.wikipedia.org/wiki/KS_X_1001)_ and _[Revised Romanization of Korean](https://en.wikipedia.org/wiki/Revised_Romanization_of_Korean)_ is used for input, and consonant assimilation is not supported during Hangul input, you can use the revised romanation which transcribed the phonetic changes instead. Please replace consonant `r` by `l` while inputing.  
       **[实验功能]**对于韩语，采用[KS X 1001](https://zh.wikipedia.org/wiki/KS_X_1001)包含的谚文及 [文化观光部2000年式（国语罗马字表记法）](https://zh.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E8%A7%82%E5%85%89%E9%83%A82000%E5%B9%B4%E5%BC%8F) 进行输入，使用谚文输入时，不支持转换辅音音变，您可以用记录下音变的罗马字来代替。输入时，请将辅音 `r`用 `l`代替。
@@ -44,6 +45,9 @@ All these dictionaries' demos and examples are on [GitHub Pages](https://sliding
 
 [^3]: **[Experimental Function]**UST Importing is still in development.
       **[实验功能]**UST导入仍在开发中。
+      
+[^4]: **[Experimental Function]**For Minnan Dialect, primarily input using Tailo Pinyin(TL), with some consideration also given to Pehoeji(POJ) and the Taiwan Language Phonetic Alphabet(TLPA).
+      **[实验功能]**对于闽南方言，以台罗拼音为主，兼顾部分白话字及台湾语言音标方案的表记。
 
 **Any contributions are welcome. 欢迎任何形式的贡献**
 
