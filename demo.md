@@ -18,15 +18,15 @@ nav_order: 4
 
 ## Dictionary Demo (Synthesizer V Studio)
 
-|Chinese Lyrics 中文歌词|English Lyrics 英文歌词|
+|Mandarin Lyrics 普通话歌词|English Lyrics 英语歌词|
 |:---:|:---:|
-|<audio controls><source src="/synthv-dictionaries/assets/E2M.ogg" type="audio/ogg"></audio><br/>English Voicebank 英语声库|<audio controls><source src="/synthv-dictionaries/assets/M2E.ogg" type="audio/ogg"></audio><br/>Mandarin Voicebank 中文声库|
+|<audio controls><source src="/synthv-dictionaries/assets/E2M.ogg" type="audio/ogg"></audio><br/>English Voicebank 英语声库|<audio controls><source src="/synthv-dictionaries/assets/M2E.ogg" type="audio/ogg"></audio><br/>Mandarin Voicebank 普通话声库|
 |<audio controls><source src="/synthv-dictionaries/assets/J2M.ogg" type="audio/ogg"></audio><br/>Japanese Voicebank 日语声库|<audio controls><source src="/synthv-dictionaries/assets/J2E.ogg" type="audio/ogg"></audio><br/>Japanese Voicebank 日语声库|
 |**Japanese Lyrics 日语歌词**|<audio controls><source src="/synthv-dictionaries/assets/E2J.ogg" type="audio/ogg"></audio><br/>English Voicebank 英语声库|
 
 |Korean Lyrics 韩语歌词|Yue Dialect Lyrics 粤方言歌词|
 |:---:|:---:|
-|<audio controls><source src="/synthv-dictionaries/assets/M2K.ogg" type="audio/ogg"></audio><br/>Mandarin Voicebank 中文声库|<audio controls><source src="/synthv-dictionaries/assets/M2Y.ogg" type="audio/ogg"></audio><br/>Mandarin Voicebank 中文声库|
+|<audio controls><source src="/synthv-dictionaries/assets/M2K.ogg" type="audio/ogg"></audio><br/>Mandarin Voicebank 普通话声库|<audio controls><source src="/synthv-dictionaries/assets/M2Y.ogg" type="audio/ogg"></audio><br/>Mandarin Voicebank 普通话声库|
 |<audio controls><source src="/synthv-dictionaries/assets/E2K.ogg" type="audio/ogg"></audio><br/>English Voicebank 英语声库|<audio controls><source src="/synthv-dictionaries/assets/E2Y.ogg" type="audio/ogg"></audio><br/>English Voicebank 英语声库|
 |<audio controls><source src="/synthv-dictionaries/assets/J2K.ogg" type="audio/ogg"></audio><br/>Japanese Voicebank 日语声库|<audio controls><source src="/synthv-dictionaries/assets/J2Y.ogg" type="audio/ogg"></audio><br/>Japanese Voicebank 日语声库|
 

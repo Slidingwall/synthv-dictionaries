@@ -4,10 +4,10 @@ nav_order: 3
 
 # Downloads 下载  
   
-| Surpported Lyric Language<br />支持的歌词语言 | English Voicebank<br />英语语音库 | Chinese Voicebank<br />中文语音库 |Japanese Voicebank<br />日语语音库 |  
+| Surpported Lyric Language<br />支持的歌词语言 | English Voicebank<br />英语语音库 | Mandarin Voicebank<br />普通话语音库 |Japanese Voicebank<br />日语语音库 |  
 |:----:|:----:|:----:|:----:|
 | English 英语 | N/A | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/mandarin-xsampa/English.json) | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/japanese-romaji/English.json) |
-| Chinese 中文 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/english-arpabet/Mandarin.json) | N/A | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/japanese-romaji/Mandarin.json) |
+| Mandarin 普通话 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/english-arpabet/Mandarin.json) | N/A | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/japanese-romaji/Mandarin.json) |
 | Japanese 日语 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/english-arpabet/Japanese.json) |  | N/A |
 | Korean 韩语[^1] | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/english-arpabet/Korean.json) | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/mandarin-xsampa/Korean.json) | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/japanese-romaji/Korean.json) |
 | Yue 粤方言 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/english-arpabet/Yue.json) | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/mandarin-xsampa/Yue.json) | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/japanese-romaji/Yue.json) |
@@ -37,9 +37,9 @@ nav_order: 3
 > We provide a [converter](https://slidingwall.github.io/synthv-dictionaries/converter) for you to convert dictionaries between current version and former version.  
 > 我们提供了一个[转换器](https://slidingwall.github.io/synthv-dictionaries/converter)以便您将字典在现行版本与先前版本所支持的格式之间进行转换。  
 
-| Surpported Lyric Language<br />支持的歌词语言 | English Voicebank<br />英语语音库 | Chinese Voicebank<br />中文语音库 |Japanese Voicebank<br />日语语音库 |  
+| Surpported Lyric Language<br />支持的歌词语言 | English Voicebank<br />英语语音库 | Mandarin Voicebank<br />普通话语音库 |Japanese Voicebank<br />日语语音库 |  
 |:----:|:----:|:----:|:----:|
 | English 英语 | N/A | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/Dictionaries%20for%20Synthesizer%20V%20Editor/dictionary-mandarin-xsampa/English.xml) | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/Dictionaries%20for%20Synthesizer%20V%20Editor/dictionary-japanese-romaji/English.xml) |
-| Chinese 中文 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/Dictionaries%20for%20Synthesizer%20V%20Editor/dictionary-english-arpabet/Mandarin.xml) | N/A | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/Dictionaries%20for%20Synthesizer%20V%20Editor/dictionary-japanese-romaji/Mandarin.xml) |
+| Mandarin 普通话 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/Dictionaries%20for%20Synthesizer%20V%20Editor/dictionary-english-arpabet/Mandarin.xml) | N/A | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/Dictionaries%20for%20Synthesizer%20V%20Editor/dictionary-japanese-romaji/Mandarin.xml) |
 | Japanese 日语 | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/Dictionaries%20for%20Synthesizer%20V%20Editor/dictionary-english-arpabet/Japanese.xml) |  | N/A |
 | Korean 韩语[^1] | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/Dictionaries%20for%20Synthesizer%20V%20Editor/dictionary-english-arpabet/Korean.xml) | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/Dictionaries%20for%20Synthesizer%20V%20Editor/dictionary-mandarin-xsampa/Korean.xml) | [Download](https://github.com/Slidingwall/synthv-dictionaries/blob/main/Dictionaries%20for%20Synthesizer%20V%20Editor/dictionary-japanese-romaji/Korean.xml) |

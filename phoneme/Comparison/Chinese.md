@@ -2,7 +2,7 @@
 nav_order: 1
 parent: Phoneme Comparison 音素对比
 ---
-# Chinese 中文
+# Mandarin 普通话
 
 {: .new-title }
 > List of Abbreviations / 简称列表
