@@ -4,6 +4,7 @@ parent: Phoneme Comparison 音素对比
 ---
 # Chinese 中文
 
+{: .new-title }
 > List of Abbreviations / 简称列表
 >
 > `VOC` = Vocaloid X-SAMPA  
