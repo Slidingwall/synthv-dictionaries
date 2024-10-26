@@ -23,8 +23,9 @@ parent: Phoneme 音素表
 |**oo**||o|ao|o|
 |**u**||u|uw|u|
 
-To accommodate Pehoeji(POJ), diphthongs `ua` `ue` `ing` `ik` can also be written as `oa` `oe` `eng` `ek`.  
-为了兼容白话字，双元音`ua` `ue` `ing` `ik`也可以写作`oa` `oe` `eng` `ek`。
+{: .note }
+> To accommodate Pehoeji(POJ), diphthongs `ua` `ue` `ing` `ik` can also be written as `oa` `oe` `eng` `ek`.  
+> 为了兼容白话字，双元音`ua` `ue` `ing` `ik`也可以写作`oa` `oe` `eng` `ek`。
 
 ## Consotants
 
@@ -49,5 +50,6 @@ To accommodate Pehoeji(POJ), diphthongs `ua` `ue` `ing` `ik` can also be written
 |**h**||x|hh|h|
 |**h (Final)**||cl|cl|cl|
 
-To accommodate Pehoeji(POJ) and the Taiwan Language Phonetic Alphabet(TLPA), `ts` can also be written as `ch` `z`, `tsh` can also be written as `chh` `c`.  
-为了兼容白话字及台湾语言音标方案，`ts`也可以写作`ch` `z`，`tsh`也可以写作`chh` `c`。
+{: .note }
+> To accommodate Pehoeji(POJ) and the Taiwan Language Phonetic Alphabet(TLPA), `ts` can also be written as `ch` `z`, `tsh` can also be written as `chh` `c`.  
+> 为了兼容白话字及台湾语言音标方案，`ts`也可以写作`ch` `z`，`tsh`也可以写作`chh` `c`。
