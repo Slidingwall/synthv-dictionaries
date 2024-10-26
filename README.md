@@ -44,10 +44,10 @@ All these dictionaries' demos and examples are on [GitHub Pages](https://sliding
       西班牙语支持仍在开发中。  
 
 [^3]: **[Experimental Function]**UST Importing is still in development.
-      **[实验功能]**UST导入仍在开发中。
+      **[实验功能]**UST导入仍在开发中。  
       
-[^4]: **[Experimental Function]**For Minnan Dialect, primarily input using Tailo Pinyin(TL), with some consideration also given to Pehoeji(POJ) and the Taiwan Language Phonetic Alphabet(TLPA).
-      **[实验功能]**对于闽南方言，以台罗拼音为主，兼顾部分白话字及台湾语言音标方案的表记。
+[^4]: **[Experimental Function]**For Minnan Dialect, primarily input using Tailo Pinyin(TL), with some consideration also given to Pehoeji(POJ) and the Taiwan Language Phonetic Alphabet(TLPA).  
+      **[实验功能]**对于闽南方言，以台罗拼音为主，兼顾部分白话字及台湾语言音标方案的表记。  
 
 **Any contributions are welcome. 欢迎任何形式的贡献**
 
