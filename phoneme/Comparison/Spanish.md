@@ -7,8 +7,10 @@ parent: Phoneme Comparison 音素对比
 {: .new-title }
 > List of Abbreviations / 简称列表
 >
+> `IPA` = International Phonetic Alphabet  
 > `VOC` = Vocaloid X-SAMPA  
 > `SYN` = Phonemes in Synthesizer V  
+> `EXM` = Examples 
 
 | VOC | SYN |
 |:---:|:---:|

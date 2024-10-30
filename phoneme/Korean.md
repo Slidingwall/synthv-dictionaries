@@ -8,6 +8,7 @@ parent: Phoneme 音素表
 > List of Abbreviations / 简称列表
 >
 > `KOR` = Korean  
+> `IPA` = International Phonetic Alphabet  
 > `MAN` = Mandarin X-SAMPA  
 > `ARP` = English Arpabet & Arpasing  
 > `RMJ` = Japanese Romaji  

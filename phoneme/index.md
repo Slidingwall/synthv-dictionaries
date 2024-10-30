@@ -14,6 +14,7 @@ has_children: true
 {: .new-title }
 > List of Abbreviations / 简称列表
 >
+> `IPA` = International Phonetic Alphabet  
 > `MAN` = Mandarin X-SAMPA  
 > `ARP` = English Arpabet & Arpasing  
 > `PCZ` = Phonemes from PaintedCz's VCCV English  
