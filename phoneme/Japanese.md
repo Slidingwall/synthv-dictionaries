@@ -20,7 +20,7 @@ parent: Phoneme 音素表
 |**u**|ɯᵝ or ɯ͡β|Vowel|う <u>u</u>|uh|
 |**e**|e̞|Vowel|え <u>e</u>|eh|
 |**o**|o̞|Vowel|お <u>o</u>|ao|
-|**N**|*Multiply*|Vowel|ん <u>n</u>|ng|
+|**N**|ɴ m n ŋ|Vowel|ん <u>n</u>|ng|
 |**w**|w͍ or wᵝ|Semivowel|わ <u>w</u>a|w|
 |**v**|v~b|Semivowel|ヴァ <u>v</u>a|v|
 |**y**|j|Semivowel|や <u>y</u>a|y|

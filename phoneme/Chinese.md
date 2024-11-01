@@ -16,11 +16,11 @@ parent: Phoneme 音素表
 
 |MAN|IPA|Category|Example|ARP|RMJ|
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|**a**|a|Vowel|他 t<u>a</u> 而 <u>e</u>r|ae|a|
+|**a**|ä|Vowel|他 t<u>a</u> 而 <u>e</u>r|ae|a|
 |**A**|ɑ|Vowel|狼 l<u>a</u>ng|aa|a|
-|**o**|o|Vowel|我 w<u>o</u>|ao|o|
+|**o**|o̞|Vowel|我 w<u>o</u>|ao|o|
 |**@**|ə|Vowel|碰 p<u>e</u>ng|ax|e|
-|**e**|e|Vowel|黑 h<u>e</u>i|eh|e|
+|**e**|e̞|Vowel|黑 h<u>e</u>i|eh|e|
 |**7**|ɤ|Vowel|的 d<u>e</u>|ah|o|
 |**U**|ʊ|Vowel|从 c<u>o</u>ng|uh|u|
 |**u**|u|Vowel|无 <u>wu</u>|uw|u|
@@ -28,18 +28,18 @@ parent: Phoneme 音素表
 |**i\\**|ɨ|Vowel|丝 s<u>i</u>|ih|i|
 |**i`**|ɨ˞|Vowel|是 sh<u>i</u>|uh|u|
 |**y**|y|Vowel|雨 <u>yu</u>|iy|i|
-|**AU**|aʊ|Diphthong|好 h<u>ao</u>|aw|a w|
-|**@U**|oʊ|Diphthong|都 d<u>ou</u>|ow|o w|
-|**ia**|ja|Diphthong|家 j<u>ia</u>|y ae|y a|
+|**AU**|aʊ̯|Diphthong|好 h<u>ao</u>|aw|a w|
+|**@U**|oʊ̯|Diphthong|都 d<u>ou</u>|ow|o w|
+|**ia**|jä|Diphthong|家 j<u>ia</u>|y ae|y a|
 |**iA**|jɑ|Diphthong|将 j<u>ia</u>ng|y aa|y a|
-|**iAU**|jaʊ|Diphthong|小 x<u>iao</u>|y aw|y a w|
-|**ie**|je|Diphthong|谢 x<u>ie</u>|y eh|y e|
+|**iAU**|jaʊ̯|Diphthong|小 x<u>iao</u>|y aw|y a w|
+|**ie**|je̞|Diphthong|谢 x<u>ie</u>|y eh|y e|
 |**iE**|jɛ|Diphthong|先 x<u>ia</u>n|y eh|y a|
 |**iU**|jʊ|Diphthong|穹 q<u>io</u>ng|y uh|y u|
-|**i@U**|joʊ|Diphthong|袖 x<u>iu</u>|y ow|y o w|
-|**y{**|ɥa|Diphthong|元 y<u>ua</u>n|iy ae|i a|
+|**i@U**|joʊ̯|Diphthong|袖 x<u>iu</u>|y ow|y o w|
+|**y{**|ɥæ|Diphthong|元 y<u>ua</u>n|iy ae|i a|
 |**yE**|ɥɛ|Diphthong|学 x<u>ue</u>|iy eh|i e|
-|**ua**|wa|Diphthong|花 h<u>ua</u>|w ae|w a|
+|**ua**|wä|Diphthong|花 h<u>ua</u>|w ae|w a|
 |**uA**|wɑ|Diphthong|黄 h<u>ua</u>ng|w aa|w a|
 |**u@**|wə|Diphthong|顺 sh<u>u</u>n|w ax|w e|
 |**ue**|we|Diphthong|对 d<u>u</u>i|w eh|w e|
@@ -53,7 +53,7 @@ parent: Phoneme 音素表
 
 |MAN|IPA|Category|Example|ARP|RMJ|
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|**:\i**|ɪ|Coda|还 ha<u>i</u>|ih|e i|
+|**:\i**|ɪ̯|Coda|还 ha<u>i</u>|ih|e i|
 |**r\\`**|ɹ̩|Coda|而 e<u>r</u>|er|r|
 |**:n**|n|Coda|岸 a<u>n</u>|n|n|
 |**N**|ŋ|Coda|从 co<u>ng</u>|ng|N|
@@ -65,8 +65,8 @@ parent: Phoneme 音素表
 |**kh**|kʰ|Stop|开 <u>k</u>ai|k|k|
 |**ts\\**|tɕ|Affricate|几 <u>j</u>i|jh|j|
 |**ts\h**|tɕʰ|Fricative|七 <u>q</u>i|ch|ch|
-|**ts**|t͡s|Affricate|子 <u>z</u>i|z|z|
-|**tsh**|t͡sʰ|Affricate|从 <u>c</u>ong|t s|ts|
+|**ts**|ts|Affricate|子 <u>z</u>i|z|z|
+|**tsh**|tsʰ|Affricate|从 <u>c</u>ong|t s|ts|
 |**ts&#96;**|ʈʂ|Affricate|只 <u>zh</u>i|jh|j|
 |**ts&#96;h**|ʈʂʰ|Affricate|尘 <u>ch</u>en|ch|ch|
 |**x**|x~h|Aspirate|好 <u>h</u>ao|hh|h|

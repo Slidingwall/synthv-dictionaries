@@ -17,12 +17,12 @@ parent: Phoneme 音素表
 
 |MNA|Example|MAN|ARP|RMJ|
 |:----:|:----:|:----:|:----:|:----:|
-|**a**||a|aa|a|
-|**e**||e|eh|e|
-|**i**||i|iy|i|
-|**o**||@|ax|o|
-|**oo**||o|ao|o|
-|**u**||u|uw|u|
+|**a**|a|a|aa|a|
+|**e**|e|e|eh|e|
+|**i**|i|i|iy|i|
+|**o**|o|@|ax|o|
+|**oo**|ɔ|o|ao|o|
+|**u**|u|u|uw|u|
 
 {: .note }
 > To accommodate Pehoeji(POJ), diphthongs `ua` `ue` `ing` `ik` can also be written as `oa` `oe` `eng` `ek`.  
@@ -32,24 +32,24 @@ parent: Phoneme 音素表
 
 |MNA|Example|MAN|ARP|RMJ|
 |:----:|:----:|:----:|:----:|:----:|
-|**p**||p|p|p|
-|**ph**||ph|p|p|
-|**m**||m|m|m|
-|**b**||p|b|b|
-|**t**||t|d|d|
-|**th**||th|t|t|
-|**n**||n|n|n|
-|**l**||l|l|r|
-|**k**||k|k|k|
-|**kh**||kh|k|k|
-|**g**||k|g|g|
-|**ng**||N|ng|N|
-|**ts**||ts|t z|z|
-|**tsh**||tsh|t s|ts|
-|**s**||s|s|s|
-|**j**||z&#96;|z|z|
-|**h**||x|hh|h|
-|**h (Final)**||cl|cl|cl|
+|**p**|p, p̚(Final)|p|p|p|
+|**ph**|pʰ|ph|p|p|
+|**m**|m|m|m|m|
+|**b**|b|p|b|b|
+|**t**|t, t̚(Final)|t|d|d|
+|**th**|tʰ|th|t|t|
+|**n**|n|n|n|n|
+|**l**|l|l|l|r|
+|**k**|k, k̚(Final)|k|k|k|
+|**kh**|kʰ|kh|k|k|
+|**g**|g|k|g|g|
+|**ng**|ŋ|N|ng|N|
+|**ts**|ts, tɕ|ts|t z|z|
+|**tsh**|tsʰ, tɕʰ|tsh|t s|ts|
+|**s**|s, ɕ|s|s|s|
+|**j**|dz, dʑ|z&#96;|z|z|
+|**h**|h|x|hh|h|
+|**h (Final)**|ʔ|cl|cl|cl|
 
 {: .note }
 > To accommodate Pehoeji(POJ) and the Taiwan Language Phonetic Alphabet(TLPA), `ts` can also be written as `ch` `z`, `tsh` can also be written as `chh` `c`.  

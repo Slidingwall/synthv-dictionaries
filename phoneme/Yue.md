@@ -56,7 +56,7 @@ parent: Phoneme 音素表
 |**m**|m|Nasal|茗 <u>m</u>ing|m|m|m|
 |**:m**|m|Coda|闪 si<u>m</u>|m|m|m|
 |**n**|n|Nasal|年 <u>n</u>in|n|n|n|
-|**:n**|m|Coda|新 sa<u>n</u>|:n|n|n|
+|**:n**|n|Coda|新 sa<u>n</u>|:n|n|n|
 |**N**|ŋ|Nasal|外 <u>ng</u>oi|N|ng|N|
 |**:N**|ŋ|Coda|风 fu<u>ng</u>|N|ng|N|
 |**:i**|i~y|Coda|女 neo<u>i</u>|:\i|ih|i|
