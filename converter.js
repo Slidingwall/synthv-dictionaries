@@ -79,13 +79,13 @@ function uploadAndConvert() {
   
 function downloadResult() {
     const outputText = document.getElementById('outputText').value;
-    const [fileType,fileExtension] = outputText.startsWith('{') && outputText.endsWith('}') ? ['application/json','json'] :
-                     outputText.startsWith('<') && outputText.endsWith('>') ? ['application/xml','xml'] :
-                     ['text/plain','txt'];
+    const fileType = outputText.startsWith('{') && outputText.endsWith('}') ? 'application/json' :
+                     outputText.startsWith('<') && outputText.endsWith('>') ? 'application/xml' :
+                     'text/plain';
     const blob = new Blob([outputText], { type: fileType });
     const downloadLink = document.createElement('a');
     downloadLink.href = URL.createObjectURL(blob);
-    downloadLink.download = `${(document.getElementById('fileInput').files[0]?.name.split('.')[0] || 'converted')}_${fileExtension}`;
+    downloadLink.download = `${(document.getElementById('fileInput').files[0]?.name.split('.')[0] || 'converted')}`;
     downloadLink.click();
     URL.revokeObjectURL(downloadLink.href);
 }
