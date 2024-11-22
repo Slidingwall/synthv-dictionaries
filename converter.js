@@ -61,7 +61,7 @@ let uploadName;
 function uploadAndConvert() {
     const file = document.getElementById('fileInput').files[0];
     const inputText = document.getElementById('inputText').value.trim();
-    if (!file && !inputText) throwError('Please select a file to upload or enter text.');
+    if (!file && !inputText) setOutputText('Please select a file to upload or enter text.');
 
     if (file) {
         const { name: fullName, type } = file;
@@ -70,7 +70,7 @@ function uploadAndConvert() {
         const validExtensions = ['json', 'xml', 'csv'].map(ext => ext.toLowerCase());
         const ext = type.split('/').pop().toLowerCase() || fileExtension;
 
-        if (!validExtensions.includes(ext)) throwError('Unsupported file type. Please upload a JSON, XML or CSV file.');
+        if (!validExtensions.includes(ext)) setOutputText('Unsupported file type. Please upload a JSON, XML or CSV file.');
 
         const reader = new FileReader();
         reader.onload = e => {
@@ -85,13 +85,9 @@ function uploadAndConvert() {
   
 function downloadResult() {
     const outputText = document.getElementById('outputText').value;
-    const fileType = outputText.startsWith('{') && outputText.endsWith('}') ? 'application/json' :
-                     outputText.startsWith('<') && outputText.endsWith('>') ? 'application/xml' :
-                     'text/plain';
-    const fileExtension = {
-        'application/json': 'json',
-        'application/xml': 'xml',
-    }[fileType] || 'txt';
+    const [fileType,fileExtension] = outputText.startsWith('{') && outputText.endsWith('}') ? ['application/json','json'] :
+                     outputText.startsWith('<') && outputText.endsWith('>') ? ['application/xml','xml'] :
+                     ['text/plain','txt'];
     const blob = new Blob([outputText], { type: fileType });
     const downloadLink = document.createElement('a');
     downloadLink.href = URL.createObjectURL(blob);
