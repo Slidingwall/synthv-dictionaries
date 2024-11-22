@@ -57,7 +57,7 @@ function convert(inputText) {
     }
 }  
 
-let uploadName = '';
+let uploadName;
 function uploadAndConvert() {
     const file = document.getElementById('fileInput').files[0];
     const inputText = document.getElementById('inputText').value.trim();
@@ -65,7 +65,7 @@ function uploadAndConvert() {
 
     if (file) {
         const { name: fullName, type } = file;
-        const fileExtension ='';
+        let fileExtension;
         [uploadName, fileExtension] = fullName.split('.');
         const validExtensions = ['json', 'xml', 'csv'].map(ext => ext.toLowerCase());
         const ext = type.split('/').pop().toLowerCase() || fileExtension;
