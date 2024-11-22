@@ -40,9 +40,8 @@ function throwError(message) {
   
 function convert(inputText) {
     try {
-        const jsonObj = JSON.parse(inputText);
-        setOutputText(jsonToXml(jsonObj));
-    } catch (e) {
+        setOutputText(jsonToXml(JSON.parse(inputText)));
+    } catch (e1) {
         let xmlDoc = tryParseXml(inputText);
         if (xmlDoc) {
             setOutputText(xmlToJson(xmlDoc));
@@ -50,27 +49,22 @@ function convert(inputText) {
             const csvDelimiter = /,(?![^"]*"(?:(?:\\")*[^"]*)*$)/g.test(inputText) ? ',' : '\t';
             try {
                 setOutputText(csvToJson(inputText, csvDelimiter));
-            } catch (e) {
+            } catch (e2) {
                 setOutputText('Input cannot be parsed as JSON, XML, or CSV.');
             }
         }
     }
 }  
 
-let uploadName;
 function uploadAndConvert() {
     const file = document.getElementById('fileInput').files[0];
     const inputText = document.getElementById('inputText').value.trim();
     if (!file && !inputText) setOutputText('Please select a file to upload or enter text.');
 
     if (file) {
-        const { name: fullName, type } = file;
-        let fileExtension;
-        [uploadName, fileExtension] = fullName.split('.');
-        const validExtensions = ['json', 'xml', 'csv'].map(ext => ext.toLowerCase());
-        const ext = type.split('/').pop().toLowerCase() || fileExtension;
-
-        if (!validExtensions.includes(ext)) setOutputText('Unsupported file type. Please upload a JSON, XML or CSV file.');
+        const { name, type } = file;
+        const ext = type.split('/').pop().toLowerCase() || name.split('.').pop().toLowerCase();
+        if (!['json', 'xml', 'csv'].includes(ext)) return setOutputText('Unsupported file type. Please upload a JSON, XML or CSV file.');
 
         const reader = new FileReader();
         reader.onload = e => {
@@ -91,7 +85,7 @@ function downloadResult() {
     const blob = new Blob([outputText], { type: fileType });
     const downloadLink = document.createElement('a');
     downloadLink.href = URL.createObjectURL(blob);
-    downloadLink.download = `${uploadName || 'converted'}_${fileExtension}`;
+    downloadLink.download = `${(document.getElementById('fileInput').files[0]?.name.split('.')[0] || 'converted')}_${fileExtension}`;
     downloadLink.click();
     URL.revokeObjectURL(downloadLink.href);
 }
