@@ -68,8 +68,8 @@ function uploadAndConvert() {
 }
 function downloadResult() {
     const outputText = document.getElementById('outputText').value;
-    const fileType = /\{.*?\}/.test(outputText) ? 'application/json' :
-    /\<.*?\>/.test(outputText.replace(/\s/g, '')) ? 'application/xml' :
+    const fileType = outputText.startsWith('{') ? 'application/json' :
+    outputText.startsWith('<') ? 'application/xml' :
     'text/plain';
     const blob = new Blob([outputText], { type: fileType });
     const downloadLink = document.createElement('a');
