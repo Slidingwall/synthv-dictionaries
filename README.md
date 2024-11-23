@@ -9,16 +9,19 @@ Visit our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries), or 
 ## How to use 如何使用
 
 Floder's name means the generation of Synthesizer V and the language of your voicebank. For example, `english-arpabet` means English voicebank.  
-文件夹的名称代表 Synthesizer V 编辑器的版本和语音库的语言。例如， `english-arpabet` 是指英语语音库。
-
+文件夹的名称代表 Synthesizer V 编辑器的版本和语音库的语言。例如， `english-arpabet` 是指英语语音库。  
 The file name means the language you want to sing from the voicebank. For example, `Mandarin.json` means this dictionary will let the voicebank singing Mandarin.  
 文件的名称代表你想让语音库唱出的语言，例如，`Mandarin.json` 意味着这个字典将会让您的语音库唱出普通话。
 
 For detail instruction, please see the manual on our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/manual).  
-详细教程，请查看[GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/manual)。
+详细教程，请查看[GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/manual)。  
+Dictionaries for first-generation Synthesizer V are avalable [here](https://github.com/Slidingwall/synthv-dictionaries/blob/main/Dictionaries%20for%20Synthesizer%20V%20Editor/).   
+初代Synthesizer V所支持的字典在[这里](https://github.com/Slidingwall/synthv-dictionaries/blob/main/Dictionaries%20for%20Synthesizer%20V%20Editor/)。  
 
-Dictionaries for first-generation Synthesizer V are avalable [here](https://github.com/Slidingwall/synthv-dictionaries/blob/main/Dictionaries%20for%20Synthesizer%20V%20Editor/). We also provide a [converter](https://slidingwall.github.io/synthv-dictionaries/converter) for you to convert dictionaries between current version and former version.  
-初代Synthesizer V所支持的字典在[这里](https://github.com/Slidingwall/synthv-dictionaries/blob/main/Dictionaries%20for%20Synthesizer%20V%20Editor/)。此外，我们还提供了一个[转换器](https://slidingwall.github.io/synthv-dictionaries/converter)以便您将字典在现行版本与先前版本所支持的格式之间进行转换。  
+We also provide a [converter](https://slidingwall.github.io/synthv-dictionaries/converter) for you to convert dictionaries between current version and former version.  
+此外，我们还提供了一个[转换器](https://slidingwall.github.io/synthv-dictionaries/converter)以便您将字典在现行版本与先前版本所支持的格式之间进行转换。  
+For dictionary developers, you can also paste an Excel or CSV table in the converter with the format of `words,phonemes` to quickly convert it into a dictionary in JSON format.  
+对于字典开发者，您也可以在转换器中粘贴格式为`单词,音素`的Excel表格或csv表格，快速将其转换为json格式的字典。  
 
 ## Released dictionaries 已公开字典
 
