@@ -1,7 +1,6 @@
 function setOutputText(text) {  
     document.getElementById('outputText').value = text;  
 }  
-  
 function xmlToJson(xmlDoc) {
     const properties = xmlDoc.getElementsByTagName('PROPERTIES')[0] ?? throwError("No <PROPERTIES> tag found in XML.");
     return JSON.stringify({
@@ -10,7 +9,6 @@ function xmlToJson(xmlDoc) {
             .filter(({ w, p }) => w && p)
     }, null, 4);
 } 
-  
 function jsonToXml(json) {
     return [
         '<?xml version="1.0" encoding="UTF-8"?>',
@@ -19,7 +17,6 @@ function jsonToXml(json) {
         '</PROPERTIES>'
     ].join('\n');
 }
-  
 function csvToJson(csvText, delimiter = ',') {
     return JSON.stringify({
         data: csvText.split(/\r\n|\n/).map(line => {
@@ -28,21 +25,18 @@ function csvToJson(csvText, delimiter = ',') {
         }).filter(Boolean)
     }, null, 4);
 }
-  
 function tryParseXml(inputText) {
     const xmlDoc = new DOMParser().parseFromString(inputText, "text/xml");
     return xmlDoc.getElementsByTagName("parsererror").length === 0 ? xmlDoc : null;
 }
-
 function throwError(message) {
     throw new Error(message);
 } 
-  
 function convert(inputText) {
     try {
         setOutputText(jsonToXml(JSON.parse(inputText)));
     } catch (e1) {
-        let xmlDoc = tryParseXml(inputText);
+        const xmlDoc = tryParseXml(inputText);
         if (xmlDoc) {
             setOutputText(xmlToJson(xmlDoc));
         } else {
@@ -55,17 +49,13 @@ function convert(inputText) {
         }
     }
 }  
-
 function uploadAndConvert() {
     const file = document.getElementById('fileInput').files[0];
     const inputText = document.getElementById('inputText').value.trim();
     if (!file && !inputText) setOutputText('Please select a file to upload or enter text.');
-
     if (file) {
-        const { name, type } = file;
-        const ext = type.split('/').pop().toLowerCase() || name.split('.').pop().toLowerCase();
+        const ext = file?.type?.split('/').pop()?.toLowerCase() || file?.name.split('.').pop()?.toLowerCase() || '';
         if (!['json', 'xml', 'csv'].includes(ext)) return setOutputText('Unsupported file type. Please upload a JSON, XML or CSV file.');
-
         const reader = new FileReader();
         reader.onload = e => {
             convert(e.target.result);
@@ -76,11 +66,10 @@ function uploadAndConvert() {
         convert(inputText);
     }
 }
-  
 function downloadResult() {
     const outputText = document.getElementById('outputText').value;
-    const fileType = outputText.startsWith('{') && outputText.endsWith('}') ? 'application/json' :
-                     outputText.startsWith('<') && outputText.endsWith('>') ? 'application/xml' :
+    const fileType = /^\{.*\}$/.test(outputText) ? 'application/json' :
+                     /^\<.*\>$/.test(outputText) ? 'application/xml' :
                      'text/plain';
     const blob = new Blob([outputText], { type: fileType });
     const downloadLink = document.createElement('a');
