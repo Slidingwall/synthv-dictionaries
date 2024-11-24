@@ -14,7 +14,7 @@ function jsonToXml(json) {
         '<PROPERTIES>',
         ...json.data.map(({ w, p }) => `<VALUE name="${w}" val="${p}"/>`),
         '</PROPERTIES>'
-    ].join('\n');
+    ].join('\n')
 }
 function csvToJson(csv, delim) {
     return JSON.stringify({
@@ -22,7 +22,7 @@ function csvToJson(csv, delim) {
             const [w, p] = line.split(delim).map(s => s.trim());
             return { w, p };
         }).filter(({ w, p }) => w && p)
-    }, null, 4);
+    }, null, 4)
 }
 function convert(input) {
     try {output(jsonToXml(JSON.parse(input)))} catch (e1) {
@@ -32,14 +32,11 @@ function convert(input) {
 function uploadAndConvert() {
     const file = document.getElementById('fileInput').files[0];
     const inputText = document.getElementById('inputText').value.trim();
-    if (!file && !inputText) return output('Please select a file to upload or enter text.');
-    if (file && /\.(?:json|xml|csv)$/.test(file.name.toLowerCase())) {
+    if (!file && !inputText) {return output('Please select a file to upload or enter text.')}
+    else if (file && /\.(?:json|xml|csv)$/.test(file.name.toLowerCase())) {
         const reader = new FileReader();
-        reader.onload = e => {
-            document.getElementById('inputText').value = e.target.result;
-            convert(e.target.result);
-        };
-        reader.readAsText(file);
+        reader.onload = e => {convert(e.target.result); document.getElementById('inputText').value=e.target.result}; 
+        reader.readAsText(file)
     } else if (inputText) {convert(inputText)} else {return output('Unsupported file type. Please upload a JSON, XML or CSV file.')}
 }
 function downloadResult() {
@@ -50,5 +47,5 @@ function downloadResult() {
     downloadLink.href = URL.createObjectURL(blob);
     downloadLink.download = `${(document.getElementById('fileInput').files[0]?.name.split('.')[0] || 'converted')}`;
     downloadLink.click();
-    URL.revokeObjectURL(downloadLink.href);
+    URL.revokeObjectURL(downloadLink.href)
 }
