@@ -27,7 +27,7 @@ function csvToJson(csv) {
 }
 function convert(input) {
     try {output(jsonToXml(JSON.parse(input)))} catch (e1) {
-        try {output(xmlToJson(input))} catch (e2) {try {output(csvToJson(input))} catch (e3) {'Input cannot be parsed as JSON, XML, or CSV.'}}
+        try {output(xmlToJson(input))} catch (e2) {output(csvToJson(input))}
     }
 }  
 function uploadAndConvert() {
