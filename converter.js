@@ -1,11 +1,12 @@
-function output(text) {document.getElementById('outputText').value = text;}  
-function xmlToJson(xml) {
-    const properties = xml.getElementsByTagName('PROPERTIES')[0] ?? throwError("No <PROPERTIES> tag found in XML.");
-    return JSON.stringify({
-        data: Array.from(properties.getElementsByTagName('VALUE'))
+function output(text) {document.getElementById('outputText').value = text}  
+function xmlToJson(input) {
+    const xml = new DOMParser().parseFromString(input, "text/xml");
+    const prop = xml.getElementsByTagName('PROPERTIES')[0] || null;
+    return prop ? JSON.stringify({
+        data: Array.from(prop.getElementsByTagName('VALUE'))
             .map(value => ({ w: value.getAttribute('name'), p: value.getAttribute('val') }))
             .filter(({ w, p }) => w && p)
-    }, null, 4);
+    }, null, 4) : null
 } 
 function jsonToXml(json) {
     return [
@@ -15,44 +16,31 @@ function jsonToXml(json) {
         '</PROPERTIES>'
     ].join('\n');
 }
-function csvToJson(csv, delimiter = ',') {
+function csvToJson(csv, delim) {
     return JSON.stringify({
-        data: csv.split(/\r\n|\n/).map(line => {
-            const [w, p] = line.split(delimiter).map(s => s.trim());
-            return { w, p } && { w, p } || null;
-        }).filter(Boolean)
+        data: csv.split(/[\r\n]+/).map(line => {
+            const [w, p] = line.split(delim).map(s => s.trim());
+            return { w, p };
+        }).filter(({ w, p }) => w && p)
     }, null, 4);
 }
-function tryParseXml(inputText) {
-    const xml = new DOMParser().parseFromString(inputText, "text/xml");
-    return xml.getElementsByTagName("parsererror").length === 0 ? xml : null;
-}
-function throwError(message) {throw new Error(message);} 
-function convert(inputText) {
-    try {
-        output(jsonToXml(JSON.parse(inputText)));
-    } catch (e1) {
-        const xml = tryParseXml(inputText);
-        if (xml) {output(xmlToJson(xml))} else {
-            const csvDelimiter = /,(?![^"]*"(?:(?:\\")*[^"]*)*$)/g.test(inputText) ? ',' : '\t';
-            try {output(csvToJson(inputText, csvDelimiter))} catch (e2) {output('Input cannot be parsed as JSON, XML, or CSV.')}
-        }
+function convert(input) {
+    try {output(jsonToXml(JSON.parse(input)))} catch (e1) {
+        try {output(xmlToJson(input))} catch (e2) {output(csvToJson(input, /,(?![^"]*"(?:(?:\\")*[^"]*)*$)/.test(input) ? ',' : '\t'))}
     }
 }  
 function uploadAndConvert() {
     const file = document.getElementById('fileInput').files[0];
     const inputText = document.getElementById('inputText').value.trim();
-    if (!file && !inputText) output('Please select a file to upload or enter text.');
-    if (file) {
-        const ext = file?.type?.split('/').pop()?.toLowerCase() || file?.name.split('.').pop()?.toLowerCase() || '';
-        if (!['json', 'xml', 'csv'].includes(ext)) return output('Unsupported file type. Please upload a JSON, XML or CSV file.');
+    if (!file && !inputText) return output('Please select a file to upload or enter text.');
+    if (file && /\.(?:json|xml|csv)$/.test(file.name.toLowerCase())) {
         const reader = new FileReader();
         reader.onload = e => {
-            convert(e.target.result);
             document.getElementById('inputText').value = e.target.result;
+            convert(e.target.result);
         };
         reader.readAsText(file);
-    } else {convert(inputText)}
+    } else if (inputText) {convert(inputText)} else {return output('Unsupported file type. Please upload a JSON, XML or CSV file.')}
 }
 function downloadResult() {
     const outputText = document.getElementById('outputText').value;
