@@ -2,11 +2,11 @@ function output(text) {document.getElementById('outputText').value = text}
 function xmlToJson(xml) {
     const doc = new DOMParser().parseFromString(xml, "text/xml");
     const prop = doc.getElementsByTagName('PROPERTIES')[0] || null;
-    return prop ? JSON.stringify({
+    return JSON.stringify({
         data: Array.from(prop.getElementsByTagName('VALUE'))
             .map(value => ({ w: value.getAttribute('name'), p: value.getAttribute('val') }))
-            .filter(({ w, p }) => w && p)
-    }, null, 4) : null
+            .filter(({w, p}) => w && p)
+    }, null, 4)
 } 
 function jsonToXml(json) {
     return [
@@ -16,17 +16,18 @@ function jsonToXml(json) {
         '</PROPERTIES>'
     ].join('\n')
 }
-function csvToJson(csv, delim) {
+function csvToJson(csv) {
+    const delim = /,(?![^"]*"(?:(?:\\")*[^"]*)*$)/.test(csv) ? ',' : '\t'
     return JSON.stringify({
         data: csv.split(/[\r\n]+/).map(line => {
             const [w, p] = line.split(delim).map(s => s.trim());
-            return { w, p };
-        }).filter(({ w, p }) => w && p)
+            return {w, p};
+        }).filter(({w, p}) => w && p)
     }, null, 4)
 }
 function convert(input) {
     try {output(jsonToXml(JSON.parse(input)))} catch (e1) {
-        try {output(xmlToJson(input))} catch (e2) {output(csvToJson(input, /,(?![^"]*"(?:(?:\\")*[^"]*)*$)/.test(input) ? ',' : '\t'))}
+        try {output(xmlToJson(input))} catch (e2) {try {output(csvToJson(input))} catch (e3) {'Input cannot be parsed as JSON, XML, or CSV.'}}
     }
 }  
 function uploadAndConvert() {
