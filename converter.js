@@ -1,7 +1,7 @@
 function output(text) {document.getElementById('outputText').value = text}  
-function xmlToJson(input) {
-    const xml = new DOMParser().parseFromString(input, "text/xml");
-    const prop = xml.getElementsByTagName('PROPERTIES')[0] || null;
+function xmlToJson(xml) {
+    const doc = new DOMParser().parseFromString(xml, "text/xml");
+    const prop = doc.getElementsByTagName('PROPERTIES')[0] || null;
     return prop ? JSON.stringify({
         data: Array.from(prop.getElementsByTagName('VALUE'))
             .map(value => ({ w: value.getAttribute('name'), p: value.getAttribute('val') }))
@@ -31,21 +31,21 @@ function convert(input) {
 }  
 function uploadAndConvert() {
     const file = document.getElementById('fileInput').files[0];
-    const inputText = document.getElementById('inputText').value.trim();
-    if (!file && !inputText) {return output('Please select a file to upload or enter text.')}
+    const input = document.getElementById('inputText').value.trim();
+    if (!file && !input) {return output('Please select a file to upload or enter text.')}
     else if (file && /\.(?:json|xml|csv)$/.test(file.name.toLowerCase())) {
         const reader = new FileReader();
         reader.onload = e => {convert(e.target.result); document.getElementById('inputText').value=e.target.result}; 
         reader.readAsText(file)
-    } else if (inputText) {convert(inputText)} else {return output('Unsupported file type. Please upload a JSON, XML or CSV file.')}
+    } else if (input) {convert(input)} else {return output('Unsupported file type. Please upload a JSON, XML or CSV file.')}
 }
 function downloadResult() {
-    const outputText = document.getElementById('outputText').value;
-    const fileType = outputText.startsWith('{') ? 'application/json' : outputText.startsWith('<') ? 'application/xml' : 'text/plain';
-    const blob = new Blob([outputText], { type: fileType });
-    const downloadLink = document.createElement('a');
-    downloadLink.href = URL.createObjectURL(blob);
-    downloadLink.download = `${(document.getElementById('fileInput').files[0]?.name.split('.')[0] || 'converted')}`;
-    downloadLink.click();
-    URL.revokeObjectURL(downloadLink.href)
+    const output = document.getElementById('outputText').value;
+    const type = output.startsWith('{') ? 'application/json' : output.startsWith('<') ? 'application/xml' : 'text/plain';
+    const blob = new Blob([output], { type: type });
+    const link = document.createElement('a');
+    link.href = URL.createObjectURL(blob);
+    link.download = `${(document.getElementById('fileInput').files[0]?.name.split('.')[0] || 'converted')}`;
+    link.click();
+    URL.revokeObjectURL(link.href)
 }
