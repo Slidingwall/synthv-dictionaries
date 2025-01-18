@@ -3,8 +3,8 @@
 Interlingual user dictionary of Synthesizer V.
 Synthesizer V的跨语言用户词典。
 
-Visit our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries), or see the companion repository [for Vocaloid](https://github.com/Slidingwall/vocaloid-dictionaries)!  
-访问我们的[GitHub 页面](https://slidingwall.github.io/synthv-dictionaries)，或是看看适用于Vocaloid的[姐妹项目](https://github.com/Slidingwall/vocaloid-dictionaries)！
+Visit our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries) for detail instruction, or see the companion repository [for Vocaloid](https://github.com/Slidingwall/vocaloid-dictionaries)!  
+访问我们的[GitHub 页面](https://slidingwall.github.io/synthv-dictionaries)查看详细教程，或是看看适用于Vocaloid的[姐妹项目](https://github.com/Slidingwall/vocaloid-dictionaries)！
 
 ## How to use 如何使用
 
@@ -13,13 +13,8 @@ Floder's name means the generation of Synthesizer V and the language of your voi
 The file name means the language you want to sing from the voicebank. For example, `Mandarin.json` means this dictionary will let the voicebank singing Mandarin.  
 文件的名称代表你想让语音库唱出的语言，例如，`Mandarin.json` 意味着这个字典将会让您的语音库唱出普通话。
 
-For detail instruction, please see the manual on our [GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/manual).  
-详细教程，请查看[GitHub Pages](https://slidingwall.github.io/synthv-dictionaries/manual)。  
-Dictionaries for first-generation Synthesizer V are avalable [here](https://github.com/Slidingwall/synthv-dictionaries/blob/main/Dictionaries%20for%20Synthesizer%20V%20Editor/).   
-初代Synthesizer V所支持的字典在[这里](https://github.com/Slidingwall/synthv-dictionaries/blob/main/Dictionaries%20for%20Synthesizer%20V%20Editor/)。  
-
-We also provide a [converter](https://slidingwall.github.io/synthv-dictionaries/converter) for you to convert dictionaries between current version and former version.  
-此外，我们还提供了一个[转换器](https://slidingwall.github.io/synthv-dictionaries/converter)以便您将字典在现行版本与先前版本所支持的格式之间进行转换。  
+Dictionaries for first-generation Synthesizer V are avalable [here](https://github.com/Slidingwall/synthv-dictionaries/blob/main/Dictionaries%20for%20Synthesizer%20V%20Editor/). You can use [converter](https://slidingwall.github.io/synthv-dictionaries/converter) to convert dictionaries between current version and former version.  
+初代Synthesizer V所支持的字典在[这里](https://github.com/Slidingwall/synthv-dictionaries/blob/main/Dictionaries%20for%20Synthesizer%20V%20Editor/)。您也可以通过[转换器](https://slidingwall.github.io/synthv-dictionaries/converter)将字典在现行版本与先前版本所支持的格式之间进行转换。   
 For dictionary developers, you can also paste an Excel or CSV table in the converter with the format of `words,phonemes` to quickly convert it into a dictionary in JSON format.  
 对于字典开发者，您也可以在转换器中粘贴格式为`单词,音素`的Excel表格或csv表格，快速将其转换为json格式的字典。  
 
