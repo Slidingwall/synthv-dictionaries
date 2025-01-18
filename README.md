@@ -46,7 +46,7 @@ All these dictionaries' demos and examples are on [GitHub Pages](https://sliding
 [^2]: Spanish supporting is still in development.  
       西班牙语支持仍在开发中。  
 
-[^3]: **[Experimental Function]** UST Importing is still in development.
+[^3]: **[Experimental Function]** UST Importing is still in development.  
       **[实验功能]** UST导入仍在开发中。  
       
 [^4]: **[Experimental Function]** For Minnan Dialect, primarily input using Tailo Pinyin(TL), with some consideration also given to Pehoeji(POJ) and the Taiwan Language Phonetic Alphabet(TLPA).  
