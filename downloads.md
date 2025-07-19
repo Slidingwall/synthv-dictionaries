@@ -31,7 +31,7 @@ nav_order: 3
 
 [^4]: **Experimental Function**{: .label }
       For Minnan Dialect, primarily input using Tailo Pinyin(TL), with some consideration also given to Pehoeji(POJ) and the Taiwan Language Phonetic Alphabet(TLPA).  
-      **实验功能**
+      **实验功能**{: .label }
       对于闽南方言，以台罗拼音为主，兼顾部分白话字及台湾语言音标方案的表记。  
 
 
