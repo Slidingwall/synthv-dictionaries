@@ -3,7 +3,8 @@ nav_order: 3
 ---
 
 # Dictionaries for SVR1 为SVR1制作的字典 
-{: .no_toc }{: .d-inline-block }
+{: .no_toc }
+{: .d-inline-block }
 Archived 已存档
 {: .label .label-red }  
 
