@@ -14,7 +14,7 @@ Archived 已存档
 1. TOC
 {:toc}
 
-{: .warning }
+{: .important }
 > Discontinued on 4 July 2022.  
 > 自2022年7月34日弃用。  
 > 
