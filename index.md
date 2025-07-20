@@ -26,13 +26,14 @@ nav_order: 1
 Interlingual user dictionary of Synthesizer V, Oringinally started in August 2020.  
 Synthesizer V的跨语言用户词典，最初开始于2020年8月。  
 
-We have noticed that Synthesizer V Studio 2 will no longer offer a free version, which means all users within its coverage will no longer need to rely on user dictionaries to implement cross-lingual features. For users who want their voicebanks to sing in other unsupported languages, using other plugins that splice phonemes from different languages will be more useful.  
+We have noticed that Synthesizer V Studio 2 will no longer offer a free version, which means all users within its coverage will no longer need to rely on user dictionaries to implement cross-lingual features.   
+我们注意到Synthesizer V Studio 2起将不再提供免费版本，这意味着其覆盖的所有用户将无需通过用户字典实现跨语种功能。  
+We will continue to maintain the existing dictionaries to support users who are still using the Standard voicebanks and the Basic version of the R2 editor.
+我们仍旧会维护现有的字典，以支持那些还在使用Standard语音库和Basic版本的R2编辑器的用户。  
+For users who want their voicebanks to sing in other unsupported languages, using other plugins that splice phonemes from different languages will be more useful.  
+对于想要使语音库唱出其它不受支持的语言歌声的用户而言，使用其他拼接不同语言音素的插件会更有用。  
 
-我们注意到Synthesizer V Studio 2起将不再提供免费版本，这意味着其覆盖的所有用户将无需通过用户字典实现跨语种功能。对于想要使语音库唱出其它不受支持的语言歌声的用户而言，使用其他拼接不同语言音素的插件会更有用。  
 
-We note the new native cross-lingual synthesis support in Synthesizer V Studio 1.5.0. As a result, our development goals will probably shift gradually to languages and dialects other than Mandarin, Japanese and English. However, as this new technology is only available for the AI voice bank and the Pro version of the editor, we will still be optimising the existing dictionaries to better support the Standard voice bank and the Basic version of the editor. This is our main task at the moment.
-
-我们注意到Synthesizer V Studio 1.5.0新推出的原生跨语种合成支持。因此，我们的开发目标可能将转逐渐转向普通话、日语、英语之外的语言和方言。不过，因为这项新技术只能用于AI语音库，以及Pro版本的编辑器，我们仍旧会在现有字典的基础上进行优化，以便更好地支持Standard语音库和Basic版本的编辑器。这是我们目前的主要任务。
 
 ---
 

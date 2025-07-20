@@ -14,36 +14,36 @@ parent: Phoneme Comparison 音素对比
 
 | IPA | VOC | SYN | EXM |
 |:---:|:---:|:---:|:---:|
-|  | a | a |  |
-|  | e | e |  |
-|  | i | i |  |
-|  | o | o |  |
-|  | u | u |  |
-|  | I j | I [^1] |  |
-|  | U w | U [^1] |  |
-|  | j\\ | y |  |
-|  | L | ll |  |
-|  | b | b |  |
-|  | B | B |  |
-|  | d | d |  |
-|  | D | D |  |
-|  | g G | g [^1] |  |
-|  | k | k |  |
-|  | p | p |  |
-|  | t | t |  |
-|  | l | l |  |
-|  | rr | rr |  |
-|  | r | r |  |
-|  | m | m |  |
-|  | n | n |  |
-|  | N [^2] | N |  |
-|  | J | J |  |
-|  | f | f |  |
-|  | s | s |  |
-|  | T | C |  |
-|  | S [^2] | sh |  |
-|  | tS | ch |  |
-|  | x | x |  |
+| ä | a | a |  |
+| e̞ | e | e |  |
+| i | i | i |  |
+| o̞ | o | o |  |
+| u | u | u |  |
+| i̯,j | I j | I [^1] |  |
+| u̯,w | U w | U [^1] |  |
+| ʝ | j\\ | y |  |
+| ʎ | L | ll |  |
+| b | b | b |  |
+| β~β̞  | B | B |  |
+| d̪ | d | d |  |
+| ð~ð̞ | D | D |  |
+| ɡ,ɣ ~ ɣ˕ or ɰ | g G | g [^1] |  |
+| k | k | k |  |
+| p | p | p |  |
+| t̪ | t | t |  |
+| l | l | l |  |
+| r | rr | rr |  |
+| ɾ | r | r |  |
+| m | m | m |  |
+| n | n | n |  |
+| ŋ | N [^2] | N |  |
+| ɲ | J | J |  |
+| f | f | f |  |
+| s | s | s |  |
+| θ | T | C |  |
+| ʃ | S [^2] | sh |  |
+| tʃ | tS | ch |  |
+| x | x | x |  |
 
 
 [^1]: No distinction in SV
