@@ -36,8 +36,11 @@ nav_order: 3
 
 
 ## Download for Former Version (SV R1) 为先前的版本(SV R1) 下载
+{: .d-inline-block }
+Archived 已存档
+{: .label .label-red }
 
-{: .warning }
+{: .note }
 > Discontinued on 4 July 2022.  
 > 自2022年7月34日弃用。  
 > We provide a [converter](https://slidingwall.github.io/synthv-dictionaries/converter) for you to convert dictionaries between current version and former version.  
