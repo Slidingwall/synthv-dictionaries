@@ -28,7 +28,7 @@ Synthesizer V的跨语言用户词典，最初开始于2020年8月。
 
 We have noticed that Synthesizer V Studio 2 will no longer offer a free version, which means all users within its coverage will no longer need to rely on user dictionaries to implement cross-lingual features.   
 我们注意到Synthesizer V Studio 2起将不再提供免费版本，这意味着其覆盖的所有用户将无需通过用户字典实现跨语种功能。  
-We will continue to maintain the existing dictionaries to support users who are still using the Standard voicebanks and the Basic version of the R2 editor.
+We will continue to maintain the existing dictionaries to support users who are still using the Standard voicebanks and the Basic version of the R2 editor.  
 我们仍旧会维护现有的字典，以支持那些还在使用Standard语音库和Basic版本的R2编辑器的用户。  
 For users who want their voicebanks to sing in other unsupported languages, using other plugins that splice phonemes from different languages will be more useful.  
 对于想要使语音库唱出其它不受支持的语言歌声的用户而言，使用其他拼接不同语言音素的插件会更有用。  
