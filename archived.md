@@ -7,6 +7,9 @@ nav_order: 3
 Archived 已存档
 {: .label .label-red }  
 
+1. TOC
+{:toc}
+
 {: .warning }
 > Discontinued on 4 July 2022.  
 > 自2022年7月34日弃用。  

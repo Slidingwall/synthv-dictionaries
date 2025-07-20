@@ -5,6 +5,9 @@ nav_order: 2
 
 # Download and Use 下载与使用
 
+1. TOC
+{:toc}
+
 ## How to Use 如何使用
 
 Put the folder in `Documents\Dreamtonics\Synthesizer V Studio\dicts\[language]-[phoneme format]`, then you'll see the dictionary in Dictionary Panel.  
