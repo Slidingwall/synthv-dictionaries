@@ -3,8 +3,11 @@ nav_order: 2
 ---
 
 
-# Download and Use 下载与使用
+# Dictionaries for SVR2 为SVR2制作的字典 
 {: .no_toc }
+{: .d-inline-block }
+Archived 已存档
+{: .label .label-red }  
 
 ## Table of Contents
 {: .no_toc .text-delta }

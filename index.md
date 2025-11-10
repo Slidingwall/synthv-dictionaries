@@ -19,6 +19,12 @@ nav_order: 1
 > 
 > [Dreamtonics](https://dreamtonics.com/){: .btn .btn-blue .mr-2 } [Synthesizer V Forum](https://forum.synthesizerv.com/){: .btn .btn-blue .mr-2 } [SynthV Resources & Guides](https://synthv.info/){: .btn .btn-blue }
 
+{: .warning-title}
+> Announcement 公告
+>
+> We have noticed that Synthesizer V Studio 2 will no longer offer a free version, which means all users within its coverage will no longer need to rely on user dictionaries to implement cross-lingual features. For users who want their voicebanks to sing in other unsupported languages, using other plugins that splice phonemes from different languages will be more useful.  
+>
+> 我们注意到Synthesizer V Studio 2起将不再提供免费版本，这意味着其覆盖的所有用户将无需通过用户字典实现跨语种功能。对于想要使语音库唱出其它不受支持的语言歌声的用户而言，使用其他拼接不同语言音素的插件会更有用。
 
 
 ## About 关于
