@@ -20,12 +20,12 @@ parent: Phoneme 音素表
 | **6** | ɐ | vowel | 사랑 S<u>a</u>rang | a | ae | a |
 | **e_o** | e̞ | vowel | 세상 S<u>e</u>sang | e | eh | e |
 | **i** | i | vowel | 기쁨 g<u>i</u>ppeum | i | iy | i |
-| **M** | ɯ | vowel | 그림 g<u>eu</u>rim | U | uh | u |
+| **M** | ɯ | vowel | 그림 g<u>eu</u>rim | i\\ | uh | u |
 | **o** | o | vowel | 소리 s<u>o</u>ri | o | ao | o |
 |**u**|u|vowel|**ㅜ** / **u**|u|uw|u|
 | **V** | ʌ | vowel | 머리 m<u>eo</u>ri | A | ah | a o |
 | **w** | w | semivowel | 좌석 j<u>w</u>aseok | [^1] | w | w |
-| **M_** | ɰ | semivowel | 의리 <u>u</u>iri | U | uh | u |
+| **M_** | ɰ | semivowel | 의리 <u>u</u>iri | i\\ | uh | u |
 | **j** | j | semivowel | 유리 <u>y</u>uri | [^1] | y | y |
 
 
