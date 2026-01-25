@@ -9,7 +9,7 @@ has_children: true
 > See also / 参见
 > 
 > [Official Phoneme Reference 官方音素一览表](https://www.dreamtonics.com.cn/svstudio-resources/){: .btn .btn-blue .mr-2 }  
-> [Symbol Charts 发音记号表](/vocaloid-dictionaries/symbol-charts){: .btn .btn-blue .mr-2 }[Phoneme Comparison 音素对比](/synthv-dictionaries/phonemes){: .btn .btn-blue .mr-2 }  
+> [Symbol Charts 发音记号表](/vocaloid-dictionaries/symbol-charts){: .btn .btn-blue .mr-2 }[Phoneme Comparison 音素对比](/synthv-dictionaries/Comparison){: .btn .btn-blue .mr-2 }  
 
 {: .new-title }
 > List of Abbreviations / 简称列表
