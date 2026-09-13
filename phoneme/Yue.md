@@ -12,11 +12,11 @@ parent: Phoneme 音素表
 > `IPA` = International Phonetic Alphabet  
 > `MAN` = Mandarin X-SAMPA  
 > `ARP` = English Arpabet & Arpasing  
-> `RMJ` = Japanese Romaji  
+> `ROM` = Japanese Romaji  
 
 ## Vowels and Semivowels
 
-| YUE | IPA | Category | Example | TOK | MAN | ARP | RMJ |
+| YUE | IPA | Category | Example | TOK | MAN | ARP | ROM |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |**a**|a|Vowel|责 z<u>aa</u>k|`a`|a|ae|a|
 |**6**|ɐ|Vowel|周 z<u>a</u>u|`6`|@|ax|a|
@@ -38,7 +38,7 @@ parent: Phoneme 音素表
 
 ## Consonants and Codas
 
-| YUE | IPA | Category | Example | TOK | MAN | ARP | RMJ |
+| YUE | IPA | Category | Example | TOK | MAN | ARP | ROM |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |**p**|p|Stop|不 <u>b</u>at|`p`|p|b|b|
 |**ph**|pʰ|Stop|伾 <u>p</u>ei|`ph`|ph|p|p|

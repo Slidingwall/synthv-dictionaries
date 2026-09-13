@@ -12,11 +12,11 @@ parent: Phoneme 音素表
 > `IPA` = International Phonetic Alphabet  
 > `MAN` = Mandarin X-SAMPA  
 > `ARP` = English Arpabet & Arpasing  
-> `RMJ` = Japanese Romaji  
+> `ROM` = Japanese Romaji  
 
 ## Vowels
 
-| KOR | IPA | category | example | TOK | MAN | ARP | RMJ |
+| KOR | IPA | category | example | TOK | MAN | ARP | ROM |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **6** | ɐ | vowel | 사랑 S<u>a</u>rang | `6` | a | ae | a |
 | **e_o** | e̞ | vowel | 세상 S<u>e</u>sang | `e` | e | eh | e |
@@ -31,7 +31,7 @@ parent: Phoneme 音素表
 
 ## Consonants
 
-| **phoneme** | IPA | category | example | TOK | MAN | ARP | RMJ |
+| **phoneme** | IPA | category | example | TOK | MAN | ARP | ROM |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **4** | ɾ | liquid | 라면 <u>r</u>amyeon | `l` | l | dx | r |
 | **l** | l | liquid | 물 mu<u>l</u> | `l` | r\` | l | r |

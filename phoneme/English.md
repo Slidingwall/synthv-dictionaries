@@ -13,12 +13,12 @@ parent: Phoneme 音素表
 > `IPA` = International Phonetic Alphabet  
 > `MAN` = Mandarin X-SAMPA  
 > `PCZ` = Phonemes from PaintedCz's VCCV English  
-> `RMJ` = Japanese Romaji  
+> `ROM` = Japanese Romaji  
 
 
 ## Vowels
 
-| ARP | IPA | Category | Example | TOK | MAN | PCZ | RMJ |
+| ARP | IPA | Category | Example | TOK | MAN | PCZ | ROM |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |**aa**|ɑ|Vowel|f<u>a</u>r|`a`|A|a|a|
 |**ae**|æ|Vowel|b<u>a</u>t|`ARP_ae`|a|@|a|
@@ -39,7 +39,7 @@ parent: Phoneme 音素表
 
 ## Consonants
 
-| ARP | IPA | Category | Example | TOK | MAN | PCZ | RMJ |
+| ARP | IPA | Category | Example | TOK | MAN | PCZ | ROM |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |**b**|b|Stop|<u>b</u>ack|`p`|p|b|b|
 |**ch**|tʃ|Affricate|<u>ch</u>alk|`ts`h`|ts`h|ch|ch|

@@ -14,11 +14,12 @@ has_children: true
 {: .new-title }
 > List of Abbreviations / 简称列表
 >
+> `TOK` = System Token  
 > `IPA` = International Phonetic Alphabet  
 > `MAN` = Mandarin X-SAMPA  
 > `ARP` = English Arpabet & Arpasing  
 > `PCZ` = Phonemes from PaintedCz's VCCV English  
-> `RMJ` = Japanese Romaji  
+> `ROM` = Japanese Romaji  
 > `KOR` = Korean  
 > `YUE` = Yue Dialect X-SAMPA  
 > `ESP` = Spanish X-SAMPA  

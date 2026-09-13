@@ -11,11 +11,11 @@ parent: Phoneme 音素表
 > `MAN` = Mandarin X-SAMPA  
 > `IPA` = International Phonetic Alphabet  
 > `ARP` = English Arpabet & Arpasing  
-> `RMJ` = Japanese Romaji  
+> `ROM` = Japanese Romaji  
 
 ## Vowels, Semivowels and Diphthongs
 
-| MAN | IPA | Category | Example | TOK | ARP | RMJ |
+| MAN | IPA | Category | Example | TOK | ARP | ROM |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |**a**|ä|Vowel|他 t<u>a</u> 而 <u>e</u>r|`a`|ae|a|
 |**A**|ɑ|Vowel|狼 l<u>a</u>ng|`A`|aa|a|
@@ -51,7 +51,7 @@ parent: Phoneme 音素表
 
 ## Consonants and Codas
 
-| MAN | IPA | Category | Example | TOK | ARP | RMJ |
+| MAN | IPA | Category | Example | TOK | ARP | ROM |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |**:\i**|ɪ̯|Coda|还 ha<u>i</u>|`:\i`|ih|e i|
 |**r\\`**|ɹ̩|Coda|而 e<u>r</u>|`` r\` ``|er|r|

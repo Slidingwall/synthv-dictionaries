@@ -11,11 +11,11 @@ parent: Phoneme 音素表
 > `IPA` = International Phonetic Alphabet  
 > `MAN` = Mandarin X-SAMPA  
 > `ARP` = English Arpabet & Arpasing  
-> `RMJ` = Japanese Romaji  
+> `ROM` = Japanese Romaji  
  
 ## Vowels and Semivowels
 
-|MNA|Example|MAN|ARP|RMJ|
+|MNA|Example|MAN|ARP|ROM|
 |:----:|:----:|:----:|:----:|:----:|
 |**a**|a|a|aa|a|
 |**e**|e|e|eh|e|
@@ -30,7 +30,7 @@ parent: Phoneme 音素表
 
 ## Consotants
 
-|MNA|Example|MAN|ARP|RMJ|
+|MNA|Example|MAN|ARP|ROM|
 |:----:|:----:|:----:|:----:|:----:|
 |**p**|p, p̚(Final)|p|p|p|
 |**ph**|pʰ|ph|p|p|

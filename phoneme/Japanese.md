@@ -8,13 +8,13 @@ parent: Phoneme 音素表
 > List of Abbreviations / 简称列表
 >
 > `TOK` = System Token  
-> `RMJ` = Japanese Romaji  
+> `ROM` = Japanese Romaji  
 > `IPA` = International Phonetic Alphabet  
 > `ARP` = English Arpabet & Arpasing  
 
 ## Vowels and Semivowels
 
-| RMJ | IPA | Category | Example | TOK | ARP |
+| ROM | IPA | Category | Example | TOK | ARP |
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |**a**|ä|Vowel|あ <u>a</u>|`a`|ae|
 |**i**|i|Vowel|い <u>i</u>|`i`|iy|
@@ -28,7 +28,7 @@ parent: Phoneme 音素表
 
 ## Consonants
 
-| RMJ | IPA | Category | Example | TOK | ARP |
+| ROM | IPA | Category | Example | TOK | ARP |
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |**t**|t|Stop|た <u>t</u>a|`th`|t|
 |**ty**|tʲ|Stop|てゃ <u>ty</u>a|`ROM_ty`|t y|
